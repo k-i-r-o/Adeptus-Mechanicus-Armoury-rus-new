@@ -4,7 +4,7 @@
                          <!-- Fire Flamer -->
 <OGI_Ability_FireFlamer.label>Огнемет</OGI_Ability_FireFlamer.label>
                                <!-- Fire built in Flamer. -->
-<OGI_Ability_FireFlamer.description>Fire built in Flamer.</OGI_Ability_FireFlamer.description>
+<OGI_Ability_FireFlamer.description>Огонь из огнемета.</OGI_Ability_FireFlamer.description>
                         <!-- Fire Melta -->
 <OGI_Ability_FireMelta.label>Огненная Мелта</OGI_Ability_FireMelta.label>
                               <!-- Fire built in Melta. -->

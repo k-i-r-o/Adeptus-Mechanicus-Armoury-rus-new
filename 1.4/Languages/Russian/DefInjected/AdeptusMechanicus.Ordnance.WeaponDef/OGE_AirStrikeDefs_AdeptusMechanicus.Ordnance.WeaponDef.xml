@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/OrdnanceStrikes/AirStrikeDefs/OGE_AirStrikeDefs.xml-->
+                                     <!-- shuriken cannon -->
+<OGE_AirstrikeWeapon_ShurikenCannon.label>shuriken cannon</OGE_AirstrikeWeapon_ShurikenCannon.label>
+                                 <!-- starcannon -->
+<OGE_AirstrikeWeapon_StarCannon.label>starcannon</OGE_AirstrikeWeapon_StarCannon.label>
+                                  <!-- darklance -->
+<OGE_AirstrikeWeapon_Brightlance.label>darklance</OGE_AirstrikeWeapon_Brightlance.label>
+
+</LanguageData>

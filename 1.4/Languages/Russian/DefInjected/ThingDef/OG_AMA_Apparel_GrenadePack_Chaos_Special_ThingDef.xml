@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/ThingDefs_Misc/Apparel/OG_AMA_Apparel_GrenadePack_Chaos_Special.xml.bak-->
+                         <!-- blight grenade pack (C) -->
+<OGI_GrenadePack_Blight.label>blight grenade pack (C)</OGI_GrenadePack_Blight.label>
+                               <!-- A Blight Grenade is a potent and dangerous radioactive anti-personnel weapon used by the military forces of the Imperium of Man.
+
+Rad Grenades detonate in a shower of tiny, radioactively-contaminated fragments. Each fragment's ionising radioactive emissions have only a millisecond half-life, ensuring that the wielder can charge in without exposing themself to radioactive contamination. -->
+<OGI_GrenadePack_Blight.description>A Blight Grenade is a potent and dangerous radioactive anti-personnel weapon used by the military forces of the Imperium of Man.\n\nRad Grenades detonate in a shower of tiny, radioactively-contaminated fragments. Each fragment's ionising radioactive emissions have only a millisecond half-life, ensuring that the wielder can charge in without exposing themself to radioactive contamination.</OGI_GrenadePack_Blight.description>
+
+</LanguageData>

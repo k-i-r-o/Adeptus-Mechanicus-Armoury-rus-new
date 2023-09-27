@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/WorkGiverDefs/OG_AMA_WorkGivers.xml.bak-->
+                           <!-- Fabricate Imperial Resources -->
+<DoBillsImperialMachining.label>Fabricate Imperial Resources</DoBillsImperialMachining.label>
+                          <!-- Fabricate Resources -->
+<DoBillsImperialMachining.verb>Fabricate Resources</DoBillsImperialMachining.verb>
+                            <!-- Fabricating Resources at -->
+<DoBillsImperialMachining.gerund>Fabricating Resources at</DoBillsImperialMachining.gerund>
+                        <!-- Fabricate Eldar Resources -->
+<DoBillsEldarMachining.label>Fabricate Eldar Resources</DoBillsEldarMachining.label>
+                       <!-- Fabricate Resources -->
+<DoBillsEldarMachining.verb>Fabricate Resources</DoBillsEldarMachining.verb>
+                         <!-- Fabricating Resources at -->
+<DoBillsEldarMachining.gerund>Fabricating Resources at</DoBillsEldarMachining.gerund>
+                      <!-- Fabricate Ork Resources -->
+<DoBillsOrkMachining.label>Fabricate Ork Resources</DoBillsOrkMachining.label>
+                     <!-- Fabricate Resources -->
+<DoBillsOrkMachining.verb>Fabricate Resources</DoBillsOrkMachining.verb>
+                       <!-- Fabricating Resources at -->
+<DoBillsOrkMachining.gerund>Fabricating Resources at</DoBillsOrkMachining.gerund>
+                      <!-- Fabricate Tau Resources -->
+<DoBillsTauMachining.label>Fabricate Tau Resources</DoBillsTauMachining.label>
+                     <!-- Fabricate Resources -->
+<DoBillsTauMachining.verb>Fabricate Resources</DoBillsTauMachining.verb>
+                       <!-- Fabricating Resources at -->
+<DoBillsTauMachining.gerund>Fabricating Resources at</DoBillsTauMachining.gerund>
+
+</LanguageData>

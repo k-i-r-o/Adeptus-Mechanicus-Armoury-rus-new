@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/BackstoryDefs/Imperium Backstories/Sororitas/Sororitas_Sister_Superior.xml-->
+                                        <!-- Sister Superior -->
+<OG_Imperial_Sororitas_Sister_Superior.title>Sister Superior</OG_Imperial_Sororitas_Sister_Superior.title>
+                                           <!-- [PAWN_nameDef] has earned the right to lead a squad of her Sisters into battle. She remains eager to prove her devotion to the god-Emperor. -->
+<OG_Imperial_Sororitas_Sister_Superior.baseDesc>[PAWN_nameDef] has earned the right to lead a squad of her Sisters into battle. She remains eager to prove her devotion to the god-Emperor.</OG_Imperial_Sororitas_Sister_Superior.baseDesc>
+
+</LanguageData>

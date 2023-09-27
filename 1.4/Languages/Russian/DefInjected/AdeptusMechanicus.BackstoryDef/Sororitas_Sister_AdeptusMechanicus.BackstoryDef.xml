@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/BackstoryDefs/Imperium Backstories/Sororitas/Sororitas_Sister.xml-->
+                               <!-- Battle Sister -->
+<OG_Imperial_Sororitas_Sister.title>Battle Sister</OG_Imperial_Sororitas_Sister.title>
+                                  <!-- [PAWN_nameDef] is a young, undistinguished Sister but only a fool would look down on [PAWN_possessive] for that. [PAWN_possessive] faith in and zeal for the Emperor will lead [PAWN_possessive] to great deeds or a glorious death. -->
+<OG_Imperial_Sororitas_Sister.baseDesc>[PAWN_nameDef] is a young, undistinguished Sister but only a fool would look down on [PAWN_possessive] for that. [PAWN_possessive] faith in and zeal for the Emperor will lead [PAWN_possessive] to great deeds or a glorious death.</OG_Imperial_Sororitas_Sister.baseDesc>
+
+</LanguageData>

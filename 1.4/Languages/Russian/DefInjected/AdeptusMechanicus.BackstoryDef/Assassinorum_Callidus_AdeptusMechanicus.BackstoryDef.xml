@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/BackstoryDefs/Imperium Backstories/Inquisition/Assassinorum_Callidus.xml-->
+                                            <!-- callidus assassin -->
+<OG_Imperial_Officio_Assassinorum_Callidus.title>callidus assassin</OG_Imperial_Officio_Assassinorum_Callidus.title>
+                                               <!-- [PAWN_nameDef] was recruited by the Callidus temple for showing remarkable deception and guile, and was put through rigorous tests after becoming a candidate. [PAWN_pronoun] specialized in infiltration and elimination.  -->
+<OG_Imperial_Officio_Assassinorum_Callidus.baseDesc>[PAWN_nameDef] was recruited by the Callidus temple for showing remarkable deception and guile, and was put through rigorous tests after becoming a candidate. [PAWN_pronoun] specialized in infiltration and elimination. </OG_Imperial_Officio_Assassinorum_Callidus.baseDesc>
+
+</LanguageData>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/BackstoryDefs/Imperium Backstories/Inquisition/Inquisitor.xml-->
+                                             <!-- imperial inquisitor neophyte -->
+<OG_Imperial_Inquisiton_Inquisitor_Neophyte.title>imperial inquisitor neophyte</OG_Imperial_Inquisiton_Inquisitor_Neophyte.title>
+                                                <!-- [PAWN_nameDef] is a neophyte Inquisitor attached to a Rimworld expedition. Whether he/she will choose the Radical Path, using Xeno tech, or the Puritan Path, purging all non-human filth from the universe, is yet to be seen. -->
+<OG_Imperial_Inquisiton_Inquisitor_Neophyte.baseDesc>[PAWN_nameDef] is a neophyte Inquisitor attached to a Rimworld expedition. Whether he/she will choose the Radical Path, using Xeno tech, or the Puritan Path, purging all non-human filth from the universe, is yet to be seen.</OG_Imperial_Inquisiton_Inquisitor_Neophyte.baseDesc>
+                                    <!-- imperial inquisitor -->
+<OG_Imperial_Inquisiton_Inquisitor.title>imperial inquisitor</OG_Imperial_Inquisiton_Inquisitor.title>
+                                       <!-- [PAWN_nameDef] served the Emperor of Mankind by searching for that which would endanger the Imperium, and when [PAWN_nameDef] found those dangers, it was their duty to stop them.	  -->
+<OG_Imperial_Inquisiton_Inquisitor.baseDesc>[PAWN_nameDef] served the Emperor of Mankind by searching for that which would endanger the Imperium, and when [PAWN_nameDef] found those dangers, it was their duty to stop them.	 </OG_Imperial_Inquisiton_Inquisitor.baseDesc>
+                                            <!-- thorian inquisitor -->
+<OG_Imperial_Inquisiton_Inquisitor_Thorian.title>thorian inquisitor</OG_Imperial_Inquisiton_Inquisitor_Thorian.title>
+                                               <!-- [PAWN_nameDef] follows a resurrectionist ideology within the Inquisition They are studying the connection of warp, mind and energy. -->
+<OG_Imperial_Inquisiton_Inquisitor_Thorian.baseDesc>[PAWN_nameDef] follows a resurrectionist ideology within the Inquisition They are studying the connection of warp, mind and energy.</OG_Imperial_Inquisiton_Inquisitor_Thorian.baseDesc>
+                                               <!-- amalathian inquisitor -->
+<OG_Imperial_Inquisiton_Inquisitor_Amalathian.title>amalathian inquisitor</OG_Imperial_Inquisiton_Inquisitor_Amalathian.title>
+                                                  <!-- [PAWN_nameDef] follows an ideology concerned with preservation. Intrigue in politics only serves to destabilize the Imperiumm therefore it must be contained. They may appear more sensible than other branches because they will ask before taking something by force. -->
+<OG_Imperial_Inquisiton_Inquisitor_Amalathian.baseDesc>[PAWN_nameDef] follows an ideology concerned with preservation. Intrigue in politics only serves to destabilize the Imperiumm therefore it must be contained. They may appear more sensible than other branches because they will ask before taking something by force.</OG_Imperial_Inquisiton_Inquisitor_Amalathian.baseDesc>
+                                                 <!-- casophilians inquisitor -->
+<OG_Imperial_Inquisiton_Inquisitor_Casophilians.title>casophilians inquisitor</OG_Imperial_Inquisiton_Inquisitor_Casophilians.title>
+                                                    <!-- [PAWN_nameDef] follows a radical philosophy based on Thorian thinking. They are concerned with resurrections by studying the warp and Daemonology. -->
+<OG_Imperial_Inquisiton_Inquisitor_Casophilians.baseDesc>[PAWN_nameDef] follows a radical philosophy based on Thorian thinking. They are concerned with resurrections by studying the warp and Daemonology.</OG_Imperial_Inquisiton_Inquisitor_Casophilians.baseDesc>
+                                                      <!-- recongregationist inquisitor -->
+<OG_Imperial_Inquisiton_Inquisitor_Recongregationist.title>recongregationist inquisitor</OG_Imperial_Inquisiton_Inquisitor_Recongregationist.title>
+                                                         <!-- [PAWN_nameDef] follows a radical philosophy based on the premise that the Imperium has become corrupt beyond salvation, and has to be rebuilt entirely. They support anti-Imperial cults if they find use in them. -->
+<OG_Imperial_Inquisiton_Inquisitor_Recongregationist.baseDesc>[PAWN_nameDef] follows a radical philosophy based on the premise that the Imperium has become corrupt beyond salvation, and has to be rebuilt entirely. They support anti-Imperial cults if they find use in them.</OG_Imperial_Inquisiton_Inquisitor_Recongregationist.baseDesc>
+                                             <!-- xanthist inquisitor -->
+<OG_Imperial_Inquisiton_Inquisitor_Xanthism.title>xanthist inquisitor</OG_Imperial_Inquisiton_Inquisitor_Xanthism.title>
+                                                <!-- [PAWN_nameDef] follows the most overtly radical ideology within the Inquisition. The fight against the enemies of man should be fought by any means necessary. -->
+<OG_Imperial_Inquisiton_Inquisitor_Xanthism.baseDesc>[PAWN_nameDef] follows the most overtly radical ideology within the Inquisition. The fight against the enemies of man should be fought by any means necessary.</OG_Imperial_Inquisiton_Inquisitor_Xanthism.baseDesc>
+
+</LanguageData>

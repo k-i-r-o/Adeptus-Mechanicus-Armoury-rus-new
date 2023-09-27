@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/Bodies/OG_AMA_BodyParts_Humanoid.xml.bak-->
+                  <!-- torso wargear slot 1 -->
+<OGTorsoWargear1.label>torso wargear slot 1</OGTorsoWargear1.label>
+                  <!-- torso wargear slot 2 -->
+<OGTorsoWargear2.label>torso wargear slot 2</OGTorsoWargear2.label>
+                  <!-- torso wargear slot 3 -->
+<OGTorsoWargear3.label>torso wargear slot 3</OGTorsoWargear3.label>
+               <!-- neural link -->
+<OGNeuralLink.label>neural link</OGNeuralLink.label>
+
+</LanguageData>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/BackstoryDefs/Imperium Backstories/Mechanicus/Servitors.xml-->
+                                      <!-- [PAWN_pronoun] is a vatgrown being, basically a heap of cells cultivated to perform a certain task. -->
+<OG_Imperial_Mechanicus_Vat_Grown.baseDesc>[PAWN_pronoun] is a vatgrown being, basically a heap of cells cultivated to perform a certain task.</OG_Imperial_Mechanicus_Vat_Grown.baseDesc>
+                                        <!-- Crafting servitor -->
+<OG_Imperial_Mechanicus_Servitor_Craft.title>Crafting servitor</OG_Imperial_Mechanicus_Servitor_Craft.title>
+                                           <!-- This unit was programmed for menial task of crafting. -->
+<OG_Imperial_Mechanicus_Servitor_Craft.baseDesc>This unit was programmed for menial task of crafting.</OG_Imperial_Mechanicus_Servitor_Craft.baseDesc>
+                                       <!-- Growing servitor -->
+<OG_Imperial_Mechanicus_Servitor_Grow.title>Growing servitor</OG_Imperial_Mechanicus_Servitor_Grow.title>
+                                          <!-- This unit was programmed for menial task of growing. -->
+<OG_Imperial_Mechanicus_Servitor_Grow.baseDesc>This unit was programmed for menial task of growing.</OG_Imperial_Mechanicus_Servitor_Grow.baseDesc>
+                                               <!-- Construction servitor -->
+<OG_Imperial_Mechanicus_Servitor_Construction.title>Construction servitor</OG_Imperial_Mechanicus_Servitor_Construction.title>
+                                                  <!-- This unit was programmed for menial task of construction. -->
+<OG_Imperial_Mechanicus_Servitor_Construction.baseDesc>This unit was programmed for menial task of construction.</OG_Imperial_Mechanicus_Servitor_Construction.baseDesc>
+
+</LanguageData>

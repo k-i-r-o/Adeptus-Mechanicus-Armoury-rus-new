@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Mod Options -->
+  <AdeptusMechanicus.Xenobiologis.ModName>Xenobiologis</AdeptusMechanicus.Xenobiologis.ModName>
+  <AdeptusMechanicus.Xenobiologis.NotYetAvailable>: Not Yet Available</AdeptusMechanicus.Xenobiologis.NotYetAvailable>
+  <AdeptusMechanicus.Xenobiologis.Faction>: Faction</AdeptusMechanicus.Xenobiologis.Faction>
+  <AdeptusMechanicus.Xenobiologis.HiddenFaction>: Hidden Faction</AdeptusMechanicus.Xenobiologis.HiddenFaction>
+  <AdeptusMechanicus.Xenobiologis.Auxiliaries>: Auxiliaries</AdeptusMechanicus.Xenobiologis.Auxiliaries>
+  <AdeptusMechanicus.Xenobiologis.ShowOptionsDesc>Shows Options related to Magos Xenobiologis, spawning of factions and racial special rules</AdeptusMechanicus.Xenobiologis.ShowOptionsDesc>
+  <!-- Race Settings -->
+  <AdeptusMechanicus.Xenobiologis.AllowedRaces>Enabled Races.</AdeptusMechanicus.Xenobiologis.AllowedRaces>
+  <AdeptusMechanicus.Xenobiologis.RaceOptions>Race Options.</AdeptusMechanicus.Xenobiologis.RaceOptions>
+  <AdeptusMechanicus.Xenobiologis.ForceRelations>Logical Racial Relations</AdeptusMechanicus.Xenobiologis.ForceRelations>
+  <AdeptusMechanicus.Xenobiologis.ForceRelationsDesc>Forces racial relations to match Lore more closely</AdeptusMechanicus.Xenobiologis.ForceRelationsDesc>
+  <!-- Imperium -->
+  <AdeptusMechanicus.Xenobiologis.ShowImperium>Show Imperial Forces</AdeptusMechanicus.Xenobiologis.ShowImperium>
+  <AdeptusMechanicus.Xenobiologis.ShowImperiumDesc>Forces of the Imperium</AdeptusMechanicus.Xenobiologis.ShowImperiumDesc>
+  <AdeptusMechanicus.Xenobiologis.AllowAdeptusAstartes>Adeptus Astartes</AdeptusMechanicus.Xenobiologis.AllowAdeptusAstartes>
+  <AdeptusMechanicus.Xenobiologis.AllowAdeptusAstartesDesc>Allows forces of the Adeptus Astartes to spawn in new games</AdeptusMechanicus.Xenobiologis.AllowAdeptusAstartesDesc>
+  <AdeptusMechanicus.Xenobiologis.AllowAdeptusMechanicus>Adeptus Mechanicus</AdeptusMechanicus.Xenobiologis.AllowAdeptusMechanicus>
+  <AdeptusMechanicus.Xenobiologis.AllowAdeptusMechanicusDesc>Allows forces of the Adeptus Mechanicus to spawn in new games</AdeptusMechanicus.Xenobiologis.AllowAdeptusMechanicusDesc>
+  <AdeptusMechanicus.Xenobiologis.AllowAdeptusMilitarum>Adeptus Militarum</AdeptusMechanicus.Xenobiologis.AllowAdeptusMilitarum>
+  <AdeptusMechanicus.Xenobiologis.AllowAdeptusMilitarumDesc>Allows forces of the Adeptus Militarum to spawn in new games</AdeptusMechanicus.Xenobiologis.AllowAdeptusMilitarumDesc>
+  <AdeptusMechanicus.Xenobiologis.AllowAdeptusSororitas>Adeptus Sororitas</AdeptusMechanicus.Xenobiologis.AllowAdeptusSororitas>
+  <AdeptusMechanicus.Xenobiologis.AllowAdeptusSororitasDesc>Allows forces of the Adeptus Sororitas to spawn in new games</AdeptusMechanicus.Xenobiologis.AllowAdeptusSororitasDesc>
+  <!-- Chaos -->
+  <AdeptusMechanicus.Xenobiologis.ShowChaos>Show Chaos Forces</AdeptusMechanicus.Xenobiologis.ShowChaos>
+  <AdeptusMechanicus.Xenobiologis.AllowChaos>Forces of Chaos</AdeptusMechanicus.Xenobiologis.AllowChaos>
+  <AdeptusMechanicus.Xenobiologis.AllowChaosDesc>Forces of Chaos</AdeptusMechanicus.Xenobiologis.AllowChaosDesc>
+  <AdeptusMechanicus.Xenobiologis.AllowChaosMarine>Chaos Space Marines</AdeptusMechanicus.Xenobiologis.AllowChaosMarine>
+  <AdeptusMechanicus.Xenobiologis.AllowChaosMarineDesc>Allows forces of the Chaos Space Marines to spawn in new games</AdeptusMechanicus.Xenobiologis.AllowChaosMarineDesc>
+  <AdeptusMechanicus.Xenobiologis.AllowChaosMechanicus>Dark Mechanicus</AdeptusMechanicus.Xenobiologis.AllowChaosMechanicus>
+  <AdeptusMechanicus.Xenobiologis.AllowChaosMechanicusDesc>Allows forces of the Dark Mechanicus to spawn in new games</AdeptusMechanicus.Xenobiologis.AllowChaosMechanicusDesc>
+  <AdeptusMechanicus.Xenobiologis.AllowChaosGuard>Traitor Guardsmen</AdeptusMechanicus.Xenobiologis.AllowChaosGuard>
+  <AdeptusMechanicus.Xenobiologis.AllowChaosGuardDesc>Allows forces of the Traitor Guardsmen to spawn in new games</AdeptusMechanicus.Xenobiologis.AllowChaosGuardDesc>
+  <AdeptusMechanicus.Xenobiologis.AllowChaosDeamons>Chaos Deamons</AdeptusMechanicus.Xenobiologis.AllowChaosDeamons>
+  <AdeptusMechanicus.Xenobiologis.AllowChaosDeamonsDesc>Allows forces of the Chaos Deamons to spawn in new games</AdeptusMechanicus.Xenobiologis.AllowChaosDeamonsDesc>
+  <AdeptusMechanicus.Xenobiologis.AllowChaosDeamonicIncursion>Deamonic Incusion incident</AdeptusMechanicus.Xenobiologis.AllowChaosDeamonicIncursion>
+  <AdeptusMechanicus.Xenobiologis.AllowChaosDeamonicIncursionDesc>Deamonic Incusion incident</AdeptusMechanicus.Xenobiologis.AllowChaosDeamonicIncursionDesc>
+  <AdeptusMechanicus.Xenobiologis.AllowChaosDeamonicInfestation>Deamonic Infestation incident</AdeptusMechanicus.Xenobiologis.AllowChaosDeamonicInfestation>
+  <AdeptusMechanicus.Xenobiologis.AllowChaosDeamonicInfestationDesc>Deamonic Infestation incident</AdeptusMechanicus.Xenobiologis.AllowChaosDeamonicInfestationDesc>
+  <AdeptusMechanicus.Xenobiologis.EndTimesChaosDeamonIntergration>End Times Daemonic Intergration</AdeptusMechanicus.Xenobiologis.EndTimesChaosDeamonIntergration>
+  <AdeptusMechanicus.Xenobiologis.EndTimesChaosDeamonIntergrationDesc>Enables intergration between Xenobiologis and Rimhammer: The End Times for Chaos Deamons</AdeptusMechanicus.Xenobiologis.EndTimesChaosDeamonIntergrationDesc>
+  <AdeptusMechanicus.Xenobiologis.EndTimesChaosDeamonIntergration_GreatPortal>Great Portal Intergration</AdeptusMechanicus.Xenobiologis.EndTimesChaosDeamonIntergration_GreatPortal>
+  <AdeptusMechanicus.Xenobiologis.EndTimesChaosDeamonIntergration_GreatPortalDesc>Adds Xenobiologis Chaos Deamons to End Times Great Portals</AdeptusMechanicus.Xenobiologis.EndTimesChaosDeamonIntergration_GreatPortalDesc>
+  <AdeptusMechanicus.Xenobiologis.EndTimesChaosDeamonIntergration_SmallPortal>Small Portal Intergration</AdeptusMechanicus.Xenobiologis.EndTimesChaosDeamonIntergration_SmallPortal>
+  <AdeptusMechanicus.Xenobiologis.EndTimesChaosDeamonIntergration_SmallPortalDesc>Adds Xenobiologis Chaos Deamons to End Times Small Portals</AdeptusMechanicus.Xenobiologis.EndTimesChaosDeamonIntergration_SmallPortalDesc>
+  <AdeptusMechanicus.Xenobiologis.AllowWarpstorm>Warpstorm incident</AdeptusMechanicus.Xenobiologis.AllowWarpstorm>
+  <AdeptusMechanicus.Xenobiologis.AllowWarpstormDesc>Warpstorm incident</AdeptusMechanicus.Xenobiologis.AllowWarpstormDesc>
+  <!-- Dark Eldar -->
+  <AdeptusMechanicus.Xenobiologis.ShowDarkEldar>Show Dark Eldar Forces</AdeptusMechanicus.Xenobiologis.ShowDarkEldar>
+  <AdeptusMechanicus.Xenobiologis.AllowDarkEldar>Dark Eldar</AdeptusMechanicus.Xenobiologis.AllowDarkEldar>
+  <AdeptusMechanicus.Xenobiologis.AllowDarkEldarDesc>Allows forces of the Dark Eldar to spawn in new games</AdeptusMechanicus.Xenobiologis.AllowDarkEldarDesc>
+  <!-- Eldar -->
+  <AdeptusMechanicus.Xenobiologis.ShowAeldari>Show Aeldari Forces</AdeptusMechanicus.Xenobiologis.ShowAeldari>
+  <AdeptusMechanicus.Xenobiologis.ShowEldar>Show Eldar Forces</AdeptusMechanicus.Xenobiologis.ShowEldar>
+  <AdeptusMechanicus.Xenobiologis.AllowEldarCraftworld>Craftworld Eldar</AdeptusMechanicus.Xenobiologis.AllowEldarCraftworld>
+  <AdeptusMechanicus.Xenobiologis.AllowEldarCraftworldDesc>Allows forces of the Craftworld Eldar</AdeptusMechanicus.Xenobiologis.AllowEldarCraftworldDesc>
+  <AdeptusMechanicus.Xenobiologis.AllowEldarWraithguard>Wraithgaurd</AdeptusMechanicus.Xenobiologis.AllowEldarWraithguard>
+  <AdeptusMechanicus.Xenobiologis.AllowEldarWraithguardDesc>Give Craftworld Eldar Access to Wraithgaurd units</AdeptusMechanicus.Xenobiologis.AllowEldarWraithguardDesc>
+  <AdeptusMechanicus.Xenobiologis.AllowEldarExodite>Exodite Eldar</AdeptusMechanicus.Xenobiologis.AllowEldarExodite>
+  <AdeptusMechanicus.Xenobiologis.AllowEldarExoditeDesc>Adds an Exodite Eldar population to the planet</AdeptusMechanicus.Xenobiologis.AllowEldarExoditeDesc>
+  <AdeptusMechanicus.Xenobiologis.AllowEldarHarlequinn>Harlequinn Eldar</AdeptusMechanicus.Xenobiologis.AllowEldarHarlequinn>
+  <AdeptusMechanicus.Xenobiologis.AllowEldarHarlequinnDesc>Harlequinn Eldar are known to frequent this planet</AdeptusMechanicus.Xenobiologis.AllowEldarHarlequinnDesc>
+  <!-- Necron -->
+  <AdeptusMechanicus.Xenobiologis.ShowNecron>Show Necron Forces</AdeptusMechanicus.Xenobiologis.ShowNecron>
+  <AdeptusMechanicus.Xenobiologis.AllowNecron>Necron</AdeptusMechanicus.Xenobiologis.AllowNecron>
+  <AdeptusMechanicus.Xenobiologis.AllowNecronDesc>Necron</AdeptusMechanicus.Xenobiologis.AllowNecronDesc>
+  <AdeptusMechanicus.Xenobiologis.AllowNecronWellBeBack>We'll be Back special rule</AdeptusMechanicus.Xenobiologis.AllowNecronWellBeBack>
+  <AdeptusMechanicus.Xenobiologis.AllowNecronWellBeBackDesc>Enables Necron We'll be Back special rule</AdeptusMechanicus.Xenobiologis.AllowNecronWellBeBackDesc>
+  <AdeptusMechanicus.Xenobiologis.AllowNecronMonolith>Monolith incident</AdeptusMechanicus.Xenobiologis.AllowNecronMonolith>
+  <AdeptusMechanicus.Xenobiologis.AllowNecronMonolithDesc>Monolith incident</AdeptusMechanicus.Xenobiologis.AllowNecronMonolithDesc>
+  <!-- Orkz -->
+  <AdeptusMechanicus.Xenobiologis.ShowOrk>Show Ork Forces</AdeptusMechanicus.Xenobiologis.ShowOrk>
+  <AdeptusMechanicus.Xenobiologis.AllowOrk>Orkz</AdeptusMechanicus.Xenobiologis.AllowOrk>
+  <AdeptusMechanicus.Xenobiologis.AllowOrkDesc>Orkz: Ork/Feral Orkz Factions and Ork Rok incident</AdeptusMechanicus.Xenobiologis.AllowOrkDesc>
+  <AdeptusMechanicus.Xenobiologis.AllowOrkTek>Tek Orkz</AdeptusMechanicus.Xenobiologis.AllowOrkTek>
+  <AdeptusMechanicus.Xenobiologis.AllowOrkTekDesc>Tek Orkz to spawn in new games</AdeptusMechanicus.Xenobiologis.AllowOrkTekDesc>
+  <AdeptusMechanicus.Xenobiologis.AllowOrkFeral>Feral Orkz</AdeptusMechanicus.Xenobiologis.AllowOrkFeral>
+  <AdeptusMechanicus.Xenobiologis.AllowOrkFeralDesc>Feral Orkz to spawn in new games</AdeptusMechanicus.Xenobiologis.AllowOrkFeralDesc>
+  <AdeptusMechanicus.Xenobiologis.AllowOrkRok>Ork Rok incident</AdeptusMechanicus.Xenobiologis.AllowOrkRok>
+  <AdeptusMechanicus.Xenobiologis.AllowOrkRokDesc>Ork Rok incident</AdeptusMechanicus.Xenobiologis.AllowOrkRokDesc>
+  <!-- Tau -->
+  <AdeptusMechanicus.Xenobiologis.ShowTau>Show Tau Empire Forces</AdeptusMechanicus.Xenobiologis.ShowTau>
+  <AdeptusMechanicus.Xenobiologis.AllowTau>Tau: Faction</AdeptusMechanicus.Xenobiologis.AllowTau>
+  <AdeptusMechanicus.Xenobiologis.AllowTauDesc>Tau to spawn in new games: Enables Tau Faction</AdeptusMechanicus.Xenobiologis.AllowTauDesc>
+  <AdeptusMechanicus.Xenobiologis.AllowGueVesa>Gue'Vesa</AdeptusMechanicus.Xenobiologis.AllowGueVesa>
+  <AdeptusMechanicus.Xenobiologis.AllowGueVesaDesc>Allows Gue'Vesa to spawn as part of the Tau Empire</AdeptusMechanicus.Xenobiologis.AllowGueVesaDesc>
+  <AdeptusMechanicus.Xenobiologis.AllowKrootAuxiliaries>Kroot</AdeptusMechanicus.Xenobiologis.AllowKrootAuxiliaries>
+  <AdeptusMechanicus.Xenobiologis.AllowKrootAuxiliariesDesc>Allows Kroot to spawn as part of the Tau Empire</AdeptusMechanicus.Xenobiologis.AllowKrootAuxiliariesDesc>
+  <AdeptusMechanicus.Xenobiologis.AllowKroot>Kroot</AdeptusMechanicus.Xenobiologis.AllowKroot>
+  <AdeptusMechanicus.Xenobiologis.AllowKrootDesc>Allows Independant Kroot Factions to spawn during world generation</AdeptusMechanicus.Xenobiologis.AllowKrootDesc>
+  <AdeptusMechanicus.Xenobiologis.AllowVespid>Vespid</AdeptusMechanicus.Xenobiologis.AllowVespid>
+  <AdeptusMechanicus.Xenobiologis.AllowVespidDesc>Allows Vespid to spawn as part of the Tau Empire</AdeptusMechanicus.Xenobiologis.AllowVespidDesc>
+  <AdeptusMechanicus.Xenobiologis.AllowVespidAuxiliaries>Vespid</AdeptusMechanicus.Xenobiologis.AllowVespidAuxiliaries>
+  <AdeptusMechanicus.Xenobiologis.AllowVespidAuxiliariesDesc>Allows Independant Vespid Factions to spawn during world generation</AdeptusMechanicus.Xenobiologis.AllowVespidAuxiliariesDesc>
+  <!-- Tyranids -->
+  <AdeptusMechanicus.Xenobiologis.ShowTyranid>Show Tyranids Forces</AdeptusMechanicus.Xenobiologis.ShowTyranid>
+  <AdeptusMechanicus.Xenobiologis.AllowTyranid>Tyranids</AdeptusMechanicus.Xenobiologis.AllowTyranid>
+  <AdeptusMechanicus.Xenobiologis.AllowTyranidDesc>Tyranids to spawn in new games</AdeptusMechanicus.Xenobiologis.AllowTyranidDesc>
+  <AdeptusMechanicus.Xenobiologis.AllowTyranidInfestation>Tyranid Infestation</AdeptusMechanicus.Xenobiologis.AllowTyranidInfestation>
+  <AdeptusMechanicus.Xenobiologis.AllowTyranidInfestationDesc>Allows Tyranid Infestations</AdeptusMechanicus.Xenobiologis.AllowTyranidInfestationDesc>
+
+</LanguageData>

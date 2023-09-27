@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/ThingDefs_Misc/Weapons/OG_AMA_Weapons_Ork_Melee.xml-->
+                        <!-- krude choppa (O) -->
+<OGO_Melee_CrudeChoppa.label>krude choppa (O)</OGO_Melee_CrudeChoppa.label>
+                              <!-- Choppas are a general term given to any Ork close combat weapon, typically heavy swords and axes. Slugga Boyz are always armed with a Slugga and Choppa, at least until they save up enough teef to buy something better, like a Shoota. There is little finesse to a Choppa, as most are little more than sharpened pieces of scrap metal which have been roughly shaped into something resembling a sword or axe. There are, however, more advanced choppas, often taking the form of a crude Chainsword. -->
+<OGO_Melee_CrudeChoppa.description>Choppas are a general term given to any Ork close combat weapon, typically heavy swords and axes. Slugga Boyz are always armed with a Slugga and Choppa, at least until they save up enough teef to buy something better, like a Shoota. There is little finesse to a Choppa, as most are little more than sharpened pieces of scrap metal which have been roughly shaped into something resembling a sword or axe. There are, however, more advanced choppas, often taking the form of a crude Chainsword.</OGO_Melee_CrudeChoppa.description>
+                                <!-- handle -->
+<OGO_Melee_CrudeChoppa.tools.0.label>handle</OGO_Melee_CrudeChoppa.tools.0.label>
+                                <!-- blade -->
+<OGO_Melee_CrudeChoppa.tools.1.label>blade</OGO_Melee_CrudeChoppa.tools.1.label>
+                                <!-- point -->
+<OGO_Melee_CrudeChoppa.tools.2.label>point</OGO_Melee_CrudeChoppa.tools.2.label>
+                   <!-- choppa (O) -->
+<OGO_Melee_Choppa.label>choppa (O)</OGO_Melee_Choppa.label>
+                         <!-- Choppas are a general term given to any Ork close combat weapon, typically heavy swords and axes. Slugga Boyz are always armed with a Slugga and Choppa, at least until they save up enough teef to buy something better, like a Shoota. There is little finesse to a Choppa, as most are little more than sharpened pieces of scrap metal which have been roughly shaped into something resembling a sword or axe. There are, however, more advanced choppas, often taking the form of a crude Chainsword. -->
+<OGO_Melee_Choppa.description>Choppas are a general term given to any Ork close combat weapon, typically heavy swords and axes. Slugga Boyz are always armed with a Slugga and Choppa, at least until they save up enough teef to buy something better, like a Shoota. There is little finesse to a Choppa, as most are little more than sharpened pieces of scrap metal which have been roughly shaped into something resembling a sword or axe. There are, however, more advanced choppas, often taking the form of a crude Chainsword.</OGO_Melee_Choppa.description>
+                           <!-- handle -->
+<OGO_Melee_Choppa.tools.0.label>handle</OGO_Melee_Choppa.tools.0.label>
+                           <!-- blade -->
+<OGO_Melee_Choppa.tools.1.label>blade</OGO_Melee_Choppa.tools.1.label>
+                           <!-- point -->
+<OGO_Melee_Choppa.tools.2.label>point</OGO_Melee_Choppa.tools.2.label>
+                        <!-- chain choppa (O) -->
+<OGO_Melee_ChainChoppa.label>chain choppa (O)</OGO_Melee_ChainChoppa.label>
+                              <!-- Choppas are a general term given to any Ork close combat weapon, typically heavy swords and axes. Slugga Boyz are always armed with a Slugga and Choppa, at least until they save up enough teef to buy something better, like a Shoota. There is little finesse to a Choppa, as most are little more than sharpened pieces of scrap metal which have been roughly shaped into something resembling a sword or axe. There are, however, more advanced choppas, often taking the form of a crude Chainsword. -->
+<OGO_Melee_ChainChoppa.description>Choppas are a general term given to any Ork close combat weapon, typically heavy swords and axes. Slugga Boyz are always armed with a Slugga and Choppa, at least until they save up enough teef to buy something better, like a Shoota. There is little finesse to a Choppa, as most are little more than sharpened pieces of scrap metal which have been roughly shaped into something resembling a sword or axe. There are, however, more advanced choppas, often taking the form of a crude Chainsword.</OGO_Melee_ChainChoppa.description>
+                                <!-- handle -->
+<OGO_Melee_ChainChoppa.tools.0.label>handle</OGO_Melee_ChainChoppa.tools.0.label>
+                                <!-- blade -->
+<OGO_Melee_ChainChoppa.tools.1.label>blade</OGO_Melee_ChainChoppa.tools.1.label>
+                      <!-- big choppa (O) -->
+<OGO_Melee_BigChoppa.label>big choppa (O)</OGO_Melee_BigChoppa.label>
+                            <!-- Enormous axes with jagged metal teeth, Big Choppas are chosen more for their sheer weight than subtlety. A Big Choppa is a two-handed weapon, often wielded by Ork Nobz and Warbosses. Some Big Choppas are even outfitted with whirring chainsaw blades or circular saws instead of a standard axe blade. -->
+<OGO_Melee_BigChoppa.description>Enormous axes with jagged metal teeth, Big Choppas are chosen more for their sheer weight than subtlety. A Big Choppa is a two-handed weapon, often wielded by Ork Nobz and Warbosses. Some Big Choppas are even outfitted with whirring chainsaw blades or circular saws instead of a standard axe blade.</OGO_Melee_BigChoppa.description>
+                              <!-- handle -->
+<OGO_Melee_BigChoppa.tools.0.label>handle</OGO_Melee_BigChoppa.tools.0.label>
+                              <!-- blade -->
+<OGO_Melee_BigChoppa.tools.1.label>blade</OGO_Melee_BigChoppa.tools.1.label>
+                      <!-- powa klaw (O) -->
+<OGO_Melee_PowerKlaw.label>powa klaw (O)</OGO_Melee_PowerKlaw.label>
+                            <!-- The Power Klaw is a crude, over-sized, armoured gauntlet that generates an energy field around it, one that is capable of violently disrupting any solid matter it touches. Similar to an Imperial Power Fist, this deadly close-combat weapon takes the form of a servo-motored claw, large even for an Ork, that ends in two or more snapping blades that spark with discharges from an unstable disruptive energy field. Though more primitive than their Imperial counterpart, the huge hydraulic shears of an Ork Power Klaw are capable of rending and crushing even the toughest foes and even armoured vehicles. -->
+<OGO_Melee_PowerKlaw.description>The Power Klaw is a crude, over-sized, armoured gauntlet that generates an energy field around it, one that is capable of violently disrupting any solid matter it touches. Similar to an Imperial Power Fist, this deadly close-combat weapon takes the form of a servo-motored claw, large even for an Ork, that ends in two or more snapping blades that spark with discharges from an unstable disruptive energy field. Though more primitive than their Imperial counterpart, the huge hydraulic shears of an Ork Power Klaw are capable of rending and crushing even the toughest foes and even armoured vehicles.</OGO_Melee_PowerKlaw.description>
+                              <!-- klaws -->
+<OGO_Melee_PowerKlaw.tools.0.label>klaws</OGO_Melee_PowerKlaw.tools.0.label>
+                          <!-- weirdboy staff (O) -->
+<OGO_Melee_WeirdboyStaff.label>weirdboy staff (O)</OGO_Melee_WeirdboyStaff.label>
+                                <!-- Force Weapons are advanced, psychically-attuned close combat weapons that are only effective in the hands of a psyker. Force Weapons effectively act as deadly, psychic extensions or amplifiers of the wielder's own Empyrean-spawned powers. They are designed to allow a psyker to channel deadly Warp energies into their victim, acting as a conduit between the wielder's mind and the flesh of his target. Large alien monstrosities and daemons that are resilient to conventional weapons can be slain outright by a single wound from a Force Weapon, as their bodies and minds are destroyed by the unearthly powers of the Immaterium. -->
+<OGO_Melee_WeirdboyStaff.description>Force Weapons are advanced, psychically-attuned close combat weapons that are only effective in the hands of a psyker. Force Weapons effectively act as deadly, psychic extensions or amplifiers of the wielder's own Empyrean-spawned powers. They are designed to allow a psyker to channel deadly Warp energies into their victim, acting as a conduit between the wielder's mind and the flesh of his target. Large alien monstrosities and daemons that are resilient to conventional weapons can be slain outright by a single wound from a Force Weapon, as their bodies and minds are destroyed by the unearthly powers of the Immaterium.</OGO_Melee_WeirdboyStaff.description>
+                                  <!-- haft -->
+<OGO_Melee_WeirdboyStaff.tools.0.label>haft</OGO_Melee_WeirdboyStaff.tools.0.label>
+                                  <!-- head -->
+<OGO_Melee_WeirdboyStaff.tools.1.label>head</OGO_Melee_WeirdboyStaff.tools.1.label>
+
+</LanguageData>

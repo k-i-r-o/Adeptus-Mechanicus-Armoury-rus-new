@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/PawnKindDefs_Human/OG_AMA_PawnKinds_Mercenary.xml-->
+                           <!-- grenadier -->
+<OG_Grenadier_Destructive.label>grenadier</OG_Grenadier_Destructive.label>
+                                 <!-- Plural grenadier -->
+<OG_Grenadier_Destructive.labelPlural>Plural grenadier</OG_Grenadier_Destructive.labelPlural>
+                               <!-- Male grenadier -->
+<OG_Grenadier_Destructive.labelMale>Male grenadier</OG_Grenadier_Destructive.labelMale>
+                                     <!-- Male Plural grenadier -->
+<OG_Grenadier_Destructive.labelMalePlural>Male Plural grenadier</OG_Grenadier_Destructive.labelMalePlural>
+                                 <!-- Female grenadier -->
+<OG_Grenadier_Destructive.labelFemale>Female grenadier</OG_Grenadier_Destructive.labelFemale>
+                                       <!-- Female Plural grenadier -->
+<OG_Grenadier_Destructive.labelFemalePlural>Female Plural grenadier</OG_Grenadier_Destructive.labelFemalePlural>
+                      <!-- mercenary gunner -->
+<OG_Mercenary_Gunner.label>mercenary gunner</OG_Mercenary_Gunner.label>
+                            <!-- Plural mercenary gunner -->
+<OG_Mercenary_Gunner.labelPlural>Plural mercenary gunner</OG_Mercenary_Gunner.labelPlural>
+                          <!-- Male mercenary gunner -->
+<OG_Mercenary_Gunner.labelMale>Male mercenary gunner</OG_Mercenary_Gunner.labelMale>
+                                <!-- Male Plural mercenary gunner -->
+<OG_Mercenary_Gunner.labelMalePlural>Male Plural mercenary gunner</OG_Mercenary_Gunner.labelMalePlural>
+                            <!-- Female mercenary gunner -->
+<OG_Mercenary_Gunner.labelFemale>Female mercenary gunner</OG_Mercenary_Gunner.labelFemale>
+                                  <!-- Female Plural mercenary gunner -->
+<OG_Mercenary_Gunner.labelFemalePlural>Female Plural mercenary gunner</OG_Mercenary_Gunner.labelFemalePlural>
+                      <!-- mercenary sniper -->
+<OG_Mercenary_Sniper.label>mercenary sniper</OG_Mercenary_Sniper.label>
+                            <!-- Plural mercenary sniper -->
+<OG_Mercenary_Sniper.labelPlural>Plural mercenary sniper</OG_Mercenary_Sniper.labelPlural>
+                          <!-- Male mercenary sniper -->
+<OG_Mercenary_Sniper.labelMale>Male mercenary sniper</OG_Mercenary_Sniper.labelMale>
+                                <!-- Male Plural mercenary sniper -->
+<OG_Mercenary_Sniper.labelMalePlural>Male Plural mercenary sniper</OG_Mercenary_Sniper.labelMalePlural>
+                            <!-- Female mercenary sniper -->
+<OG_Mercenary_Sniper.labelFemale>Female mercenary sniper</OG_Mercenary_Sniper.labelFemale>
+                                  <!-- Female Plural mercenary sniper -->
+<OG_Mercenary_Sniper.labelFemalePlural>Female Plural mercenary sniper</OG_Mercenary_Sniper.labelFemalePlural>
+                       <!-- mercenary slasher -->
+<OG_Mercenary_Slasher.label>mercenary slasher</OG_Mercenary_Slasher.label>
+                             <!-- Plural mercenary slasher -->
+<OG_Mercenary_Slasher.labelPlural>Plural mercenary slasher</OG_Mercenary_Slasher.labelPlural>
+                           <!-- Male mercenary slasher -->
+<OG_Mercenary_Slasher.labelMale>Male mercenary slasher</OG_Mercenary_Slasher.labelMale>
+                                 <!-- Male Plural mercenary slasher -->
+<OG_Mercenary_Slasher.labelMalePlural>Male Plural mercenary slasher</OG_Mercenary_Slasher.labelMalePlural>
+                             <!-- Female mercenary slasher -->
+<OG_Mercenary_Slasher.labelFemale>Female mercenary slasher</OG_Mercenary_Slasher.labelFemale>
+                                   <!-- Female Plural mercenary slasher -->
+<OG_Mercenary_Slasher.labelFemalePlural>Female Plural mercenary slasher</OG_Mercenary_Slasher.labelFemalePlural>
+                     <!-- heavy mercenary -->
+<OG_Mercenary_Heavy.label>heavy mercenary</OG_Mercenary_Heavy.label>
+                           <!-- heavy mercenaries -->
+<OG_Mercenary_Heavy.labelPlural>heavy mercenaries</OG_Mercenary_Heavy.labelPlural>
+                         <!-- Male heavy mercenary -->
+<OG_Mercenary_Heavy.labelMale>Male heavy mercenary</OG_Mercenary_Heavy.labelMale>
+                               <!-- Male Plural heavy mercenary -->
+<OG_Mercenary_Heavy.labelMalePlural>Male Plural heavy mercenary</OG_Mercenary_Heavy.labelMalePlural>
+                           <!-- Female heavy mercenary -->
+<OG_Mercenary_Heavy.labelFemale>Female heavy mercenary</OG_Mercenary_Heavy.labelFemale>
+                                 <!-- Female Plural heavy mercenary -->
+<OG_Mercenary_Heavy.labelFemalePlural>Female Plural heavy mercenary</OG_Mercenary_Heavy.labelFemalePlural>
+                <!-- boss -->
+<OG_PirateBoss.label>boss</OG_PirateBoss.label>
+                      <!-- bosses -->
+<OG_PirateBoss.labelPlural>bosses</OG_PirateBoss.labelPlural>
+                    <!-- Male boss -->
+<OG_PirateBoss.labelMale>Male boss</OG_PirateBoss.labelMale>
+                          <!-- Male Plural boss -->
+<OG_PirateBoss.labelMalePlural>Male Plural boss</OG_PirateBoss.labelMalePlural>
+                      <!-- Female boss -->
+<OG_PirateBoss.labelFemale>Female boss</OG_PirateBoss.labelFemale>
+                            <!-- Female Plural boss -->
+<OG_PirateBoss.labelFemalePlural>Female Plural boss</OG_PirateBoss.labelFemalePlural>
+                     <!-- elite mercenary -->
+<OG_Mercenary_Elite.label>elite mercenary</OG_Mercenary_Elite.label>
+                           <!-- elite mercenaries -->
+<OG_Mercenary_Elite.labelPlural>elite mercenaries</OG_Mercenary_Elite.labelPlural>
+                         <!-- Male elite mercenary -->
+<OG_Mercenary_Elite.labelMale>Male elite mercenary</OG_Mercenary_Elite.labelMale>
+                               <!-- Male Plural elite mercenary -->
+<OG_Mercenary_Elite.labelMalePlural>Male Plural elite mercenary</OG_Mercenary_Elite.labelMalePlural>
+                           <!-- Female elite mercenary -->
+<OG_Mercenary_Elite.labelFemale>Female elite mercenary</OG_Mercenary_Elite.labelFemale>
+                                 <!-- Female Plural elite mercenary -->
+<OG_Mercenary_Elite.labelFemalePlural>Female Plural elite mercenary</OG_Mercenary_Elite.labelFemalePlural>
+
+</LanguageData>

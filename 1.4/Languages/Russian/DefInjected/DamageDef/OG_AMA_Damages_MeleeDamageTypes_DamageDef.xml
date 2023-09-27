@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/DamageDefs/OG_AMA_Damages_MeleeDamageTypes.xml-->
+          <!-- stab -->
+<OG_Stab.label>stab</OG_Stab.label>
+                 <!-- {0} has been stabbed to death. -->
+<OG_Stab.deathMessage>{0} has been stabbed to death.</OG_Stab.deathMessage>
+               <!-- powered cut -->
+<OG_Power_Cut.label>powered cut</OG_Power_Cut.label>
+                      <!-- {0} was ended by a Power Weapon. -->
+<OG_Power_Cut.deathMessage>{0} was ended by a Power Weapon.</OG_Power_Cut.deathMessage>
+                <!-- powered stab -->
+<OG_Power_Stab.label>powered stab</OG_Power_Stab.label>
+                       <!-- {0} was ended by a Power Weapon. -->
+<OG_Power_Stab.deathMessage>{0} was ended by a Power Weapon.</OG_Power_Stab.deathMessage>
+                 <!-- powered blunt -->
+<OG_Power_Blunt.label>powered blunt</OG_Power_Blunt.label>
+                        <!-- {0} was ended by a Power Weapon. -->
+<OG_Power_Blunt.deathMessage>{0} was ended by a Power Weapon.</OG_Power_Blunt.deathMessage>
+               <!-- toxic cut -->
+<OG_Toxic_Cut.label>toxic cut</OG_Toxic_Cut.label>
+                <!-- toxic cut -->
+<OG_Toxic_Stab.label>toxic cut</OG_Toxic_Stab.label>
+                       <!-- {0} has been stabbed to death. -->
+<OG_Toxic_Stab.deathMessage>{0} has been stabbed to death.</OG_Toxic_Stab.deathMessage>
+                <!-- plague cut -->
+<OG_Plague_Cut.label>plague cut</OG_Plague_Cut.label>
+                 <!-- plague stab -->
+<OG_Plague_Stab.label>plague stab</OG_Plague_Stab.label>
+                        <!-- {0} has been stabbed to death. -->
+<OG_Plague_Stab.deathMessage>{0} has been stabbed to death.</OG_Plague_Stab.deathMessage>
+               <!-- force cut -->
+<OG_Force_Cut.label>force cut</OG_Force_Cut.label>
+                      <!-- {0} was ended by a Force Weapon. -->
+<OG_Force_Cut.deathMessage>{0} was ended by a Force Weapon.</OG_Force_Cut.deathMessage>
+                <!-- force stab -->
+<OG_Force_Stab.label>force stab</OG_Force_Stab.label>
+                       <!-- {0} was ended by a Force Weapon. -->
+<OG_Force_Stab.deathMessage>{0} was ended by a Force Weapon.</OG_Force_Stab.deathMessage>
+                 <!-- force blunt -->
+<OG_Force_Blunt.label>force blunt</OG_Force_Blunt.label>
+                        <!-- {0} was ended by a Force Weapon. -->
+<OG_Force_Blunt.deathMessage>{0} was ended by a Force Weapon.</OG_Force_Blunt.deathMessage>
+                    <!-- witchblade cut -->
+<OG_Witchblade_Cut.label>witchblade cut</OG_Witchblade_Cut.label>
+                           <!-- {0} was ended by a Witchblade. -->
+<OG_Witchblade_Cut.deathMessage>{0} was ended by a Witchblade.</OG_Witchblade_Cut.deathMessage>
+                     <!-- witchblade stab -->
+<OG_Witchblade_Stab.label>witchblade stab</OG_Witchblade_Stab.label>
+                            <!-- {0} was ended by a Witchblade. -->
+<OG_Witchblade_Stab.deathMessage>{0} was ended by a Witchblade.</OG_Witchblade_Stab.deathMessage>
+                            <!-- ThunderHammer -->
+<OG_Imperial_Thunderhammer.label>ThunderHammer</OG_Imperial_Thunderhammer.label>
+                                   <!-- {0} has been struck down! -->
+<OG_Imperial_Thunderhammer.deathMessage>{0} has been struck down!</OG_Imperial_Thunderhammer.deathMessage>
+
+</LanguageData>

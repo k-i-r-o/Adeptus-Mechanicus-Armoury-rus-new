@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/ThingDefs_Misc/OG_AMA_Resources_Grower.xml-->
+                      <!-- nutrient solution -->
+<OG_NutrientSolution.label>nutrient solution</OG_NutrientSolution.label>
+                            <!-- A mixture of water, amino acids, fats &amp; vitamins for growing biological matter. -->
+<OG_NutrientSolution.description>A mixture of water, amino acids, fats &amp; vitamins for growing biological matter.</OG_NutrientSolution.description>
+                 <!-- protein mash -->
+<OG_ProteinMash.label>protein mash</OG_ProteinMash.label>
+                       <!-- Protein from different sources mashed together into a disgusting mash. Perfect for growing organs and living beings from. -->
+<OG_ProteinMash.description>Protein from different sources mashed together into a disgusting mash. Perfect for growing organs and living beings from.</OG_ProteinMash.description>
+
+</LanguageData>

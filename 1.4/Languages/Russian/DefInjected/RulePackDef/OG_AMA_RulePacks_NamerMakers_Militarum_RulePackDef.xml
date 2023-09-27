@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/RulePackDefs/OG_AMA_RulePacks_NamerMakers_Militarum.xml-->
+                                            <!-- 
+		<li>r_name-&gt;[MilitarumRegiment]</li>
+ -->
+<OG_Militarum_NamerFaction.rulePack.rulesStrings>
+		<li>r_name-&gt;[MilitarumRegiment]</li>
+</OG_Militarum_NamerFaction.rulePack.rulesStrings>
+                                                   <!-- 
+		<li>r_name-&gt;Cadian [Ordinal] Regiment</li>
+		<li>r_name-&gt;[Ordinal] Cadian Regiment</li>
+		<li>r_name-&gt;[Ordinal] Cadian Shock Troops</li>
+		<li>r_name-&gt;Cadian [Ordinal] Shock Troops</li>
+ -->
+<OG_Militarum_NamerFaction_Cadian.rulePack.rulesStrings>
+		<li>r_name-&gt;Cadian [Ordinal] Regiment</li>
+		<li>r_name-&gt;[Ordinal] Cadian Regiment</li>
+		<li>r_name-&gt;[Ordinal] Cadian Shock Troops</li>
+		<li>r_name-&gt;Cadian [Ordinal] Shock Troops</li>
+</OG_Militarum_NamerFaction_Cadian.rulePack.rulesStrings>
+                                                       <!-- 
+		<li>r_name-&gt;[Ordinal] Armageddon Steel Legion</li>
+		<li>r_name-&gt;Armageddon [Ordinal] Ash Wastes Militia</li>
+		<li>r_name-&gt;Armageddon [Ordinal] "Ork Hunters"</li>
+ -->
+<OG_Militarum_NamerFaction_Armageddon.rulePack.rulesStrings>
+		<li>r_name-&gt;[Ordinal] Armageddon Steel Legion</li>
+		<li>r_name-&gt;Armageddon [Ordinal] Ash Wastes Militia</li>
+		<li>r_name-&gt;Armageddon [Ordinal] "Ork Hunters"</li>
+</OG_Militarum_NamerFaction_Armageddon.rulePack.rulesStrings>
+                                          <!-- 
+		<li>r_name-&gt;[Militarum_Outpost]</li>
+		<li>r_name(p=12)-&gt;[townname_wordgen]</li>
+		<li>r_name(p=4)-&gt;[townname_combo]</li>
+		<li>r_name-&gt;[townname_near]</li>
+		<li>topicalnoun-&gt;[Vegetable]</li>
+		<li>topicalnoun-&gt;[Game]</li>
+		<li>topicalnoun-&gt;[BodyPart]</li>
+		<li>townname_combo-&gt;[topicalnoun] [TerrainFeature]</li>
+		<li>townname_combo-&gt;[topicalnoun] [Militarum_Outpost]</li>
+		<li>townname_combo-&gt;[Militarum_Outpost]'s [TerrainFeature]</li>
+		<li>townname_combo-&gt;[TerrainFeature] [Militarum_Outpost]</li>
+		<li>townname_combo(p=3)-&gt;[Character]'s [TerrainFeature]</li>
+		<li>townname_combo(p=3)-&gt;[Character]'s [Militarum_Outpost]</li>
+		<li>townname_near-&gt;[nearnameinitial]-at-the-[TerrainFeature]</li>
+		<li>townname_near-&gt;[nearnameinitial]-by-the-[TerrainFeature]</li>
+		<li>townname_near-&gt;[nearnameinitial]-on-the-[TerrainFeature]</li>
+		<li>nearnameinitial-&gt;[townname_wordgen]</li>
+		<li>townname_wordgen(p=2)-&gt;[SylE][SylE]</li>
+		<li>townname_wordgen(p=2)-&gt;[SylE][SylE][SylE]</li>
+		<li>townname_wordgen(p=2)-&gt;[SylE][Militarum_Outpost]</li>
+		<li>townname_wordgen(p=2)-&gt;[Militarum_Outpost] [SylE][SylE]</li>
+		<li>townname_wordgen-&gt;[Militarum_Outpost] [TerrainFeature]</li>
+		<li>townname_wordgen-&gt;[Militarum_Outpost] [topicalnoun]</li>
+		<li>townend-&gt;Stronghold</li>
+		<li>townend-&gt;Guard Outpost</li>
+		<li>townend-&gt;Garrison</li>
+		<li>townend-&gt;Fortress</li>
+		<li>townend-&gt;Fort</li>
+		<li>townend-&gt;Citadel</li>
+		<li>townend-&gt;Bastion</li>
+		<li>townend-&gt;Redoubt</li>
+		<li>townend-&gt;Emplacement</li>
+		<li>townend-&gt;Front</li>
+		<li>townend-&gt;Station</li>
+		<li>townend-&gt;Field</li>
+		<li>townend-&gt;Bunker</li>
+		<li>townend-&gt;Staging Ground</li>
+		<li>townend-&gt;Communications Relay</li>
+		<li>townend-&gt;Barracks</li>
+ -->
+<OG_Militarum_NamerBases.rulePack.rulesStrings>
+		<li>r_name-&gt;[Militarum_Outpost]</li>
+		<li>r_name(p=12)-&gt;[townname_wordgen]</li>
+		<li>r_name(p=4)-&gt;[townname_combo]</li>
+		<li>r_name-&gt;[townname_near]</li>
+		<li>topicalnoun-&gt;[Vegetable]</li>
+		<li>topicalnoun-&gt;[Game]</li>
+		<li>topicalnoun-&gt;[BodyPart]</li>
+		<li>townname_combo-&gt;[topicalnoun] [TerrainFeature]</li>
+		<li>townname_combo-&gt;[topicalnoun] [Militarum_Outpost]</li>
+		<li>townname_combo-&gt;[Militarum_Outpost]'s [TerrainFeature]</li>
+		<li>townname_combo-&gt;[TerrainFeature] [Militarum_Outpost]</li>
+		<li>townname_combo(p=3)-&gt;[Character]'s [TerrainFeature]</li>
+		<li>townname_combo(p=3)-&gt;[Character]'s [Militarum_Outpost]</li>
+		<li>townname_near-&gt;[nearnameinitial]-at-the-[TerrainFeature]</li>
+		<li>townname_near-&gt;[nearnameinitial]-by-the-[TerrainFeature]</li>
+		<li>townname_near-&gt;[nearnameinitial]-on-the-[TerrainFeature]</li>
+		<li>nearnameinitial-&gt;[townname_wordgen]</li>
+		<li>townname_wordgen(p=2)-&gt;[SylE][SylE]</li>
+		<li>townname_wordgen(p=2)-&gt;[SylE][SylE][SylE]</li>
+		<li>townname_wordgen(p=2)-&gt;[SylE][Militarum_Outpost]</li>
+		<li>townname_wordgen(p=2)-&gt;[Militarum_Outpost] [SylE][SylE]</li>
+		<li>townname_wordgen-&gt;[Militarum_Outpost] [TerrainFeature]</li>
+		<li>townname_wordgen-&gt;[Militarum_Outpost] [topicalnoun]</li>
+		<li>townend-&gt;Stronghold</li>
+		<li>townend-&gt;Guard Outpost</li>
+		<li>townend-&gt;Garrison</li>
+		<li>townend-&gt;Fortress</li>
+		<li>townend-&gt;Fort</li>
+		<li>townend-&gt;Citadel</li>
+		<li>townend-&gt;Bastion</li>
+		<li>townend-&gt;Redoubt</li>
+		<li>townend-&gt;Emplacement</li>
+		<li>townend-&gt;Front</li>
+		<li>townend-&gt;Station</li>
+		<li>townend-&gt;Field</li>
+		<li>townend-&gt;Bunker</li>
+		<li>townend-&gt;Staging Ground</li>
+		<li>townend-&gt;Communications Relay</li>
+		<li>townend-&gt;Barracks</li>
+</OG_Militarum_NamerBases.rulePack.rulesStrings>
+                                           <!-- 
+		<li>r_name(p=4)-&gt;[MaleFirst] [MaleSecond]</li>
+		<li>r_name(p=2)-&gt;[MaleFirst] `[MaleNick]` [MaleSecond]</li>
+		<li>r_name(p=0.5)-&gt;[MaleFirst] [MaleNick]</li>
+		<li>r_name-&gt;[SybGenA][SybGenB] [SybGenH][SybGenI][SybGenJ][SybGenK]</li>
+		<li>r_name-&gt;[SybGenC][SybGenD] [SybGenH][SybGenI][SybGenJ][SybGenK]</li>
+		<li>r_name-&gt;[Imperial_Male_First] [SybGenH][SybGenI][SybGenJ][SybGenK]</li>
+		<li>r_name-&gt;[SybGenH][SybGenI][SybGenJ][SybGenK] [SybGenA][SybGenB]</li>
+		<li>r_name-&gt;[SybGenH][SybGenI][SybGenJ][SybGenK] [SybGenC][SybGenD]</li>
+		<li>r_name-&gt;[SybGenA][SybGenB] [SybGenC][SybGenD]</li>
+		<li>r_name-&gt;[SybGenA][SybGenB] [SybGenE][SybGenF][SybGenG]</li>
+		<li>r_name-&gt;[SybGenC][SybGenD] [SybGenA][SybGenB]</li>
+		<li>r_name-&gt;[SybGenC][SybGenD] [SybGenE][SybGenF][SybGenG]</li>
+		<li>r_name-&gt;[SybGenE][SybGenF][SybGenG] [SybGenA][SybGenB]</li>
+		<li>r_name-&gt;[SybGenE][SybGenF][SybGenG] [SybGenC][SybGenD]</li>
+		<li>r_name-&gt;[SybGenE][SybGenF][SybGenG] [SybGenA][SybGenB]-[SybGenC][SybGenD]</li>
+		<li>r_name-&gt;[SybGenE][SybGenF][SybGenG] [SybGenC][SybGenD]-[SybGenA][SybGenB]</li>
+		<li>r_name(p=0.1)-&gt;[MaleFirst]</li>
+		<li>MaleFirst-&gt;[Militarum_Male_First]</li>
+		<li>MaleFirst-&gt;[SybGenA][SybGenB]</li>
+		<li>MaleFirst-&gt;[SybGenC][SybGenD]</li>
+		<li>MaleFirst-&gt;[SybGenE][SybGenF][SybGenG]</li>
+		<li>MaleFirst-&gt;[Imperial_Male_First]</li>
+		<li>MaleSecond-&gt;[Militarum_Unisex_Last]</li>
+		<li>MaleSecond-&gt;[SybGerA][SybGerB]</li>
+		<li>MaleSecond-&gt;[SybGerC] [SybGerD]</li>
+		<li>MaleSecond-&gt;[MaleMEName]</li>
+		<li>MaleSecond-&gt;[SybAngA][SybAngB]</li>
+		<li>MaleSecond-&gt;[SybGenA][SybGenB]</li>
+		<li>MaleSecond-&gt;[SybGenC][SybGenD]</li>
+		<li>MaleSecond-&gt;[SybGenE][SybGenF][SybGenG]</li>
+		<li>MaleMEName-&gt;Al[Extra][SybMEA][SybMEB]</li>
+		<li>MaleMEName-&gt;[SybMEA][SybMEB]</li>
+		<li>MaleMEName-&gt;Al[Extra][SybMEC][SybMED][SybMEE]</li>
+		<li>MaleMEName-&gt;[SybMEC][SybMED][SybMEE]</li>
+		<li>MaleNick-&gt;[Militarum_Male_Nick]</li>
+		<li>MaleNick-&gt;[Militarum_Unisex_Nick]</li>
+ -->
+<OG_Militarum_NamerPerson.rulePack.rulesStrings>
+		<li>r_name(p=4)-&gt;[MaleFirst] [MaleSecond]</li>
+		<li>r_name(p=2)-&gt;[MaleFirst] `[MaleNick]` [MaleSecond]</li>
+		<li>r_name(p=0.5)-&gt;[MaleFirst] [MaleNick]</li>
+		<li>r_name-&gt;[SybGenA][SybGenB] [SybGenH][SybGenI][SybGenJ][SybGenK]</li>
+		<li>r_name-&gt;[SybGenC][SybGenD] [SybGenH][SybGenI][SybGenJ][SybGenK]</li>
+		<li>r_name-&gt;[Imperial_Male_First] [SybGenH][SybGenI][SybGenJ][SybGenK]</li>
+		<li>r_name-&gt;[SybGenH][SybGenI][SybGenJ][SybGenK] [SybGenA][SybGenB]</li>
+		<li>r_name-&gt;[SybGenH][SybGenI][SybGenJ][SybGenK] [SybGenC][SybGenD]</li>
+		<li>r_name-&gt;[SybGenA][SybGenB] [SybGenC][SybGenD]</li>
+		<li>r_name-&gt;[SybGenA][SybGenB] [SybGenE][SybGenF][SybGenG]</li>
+		<li>r_name-&gt;[SybGenC][SybGenD] [SybGenA][SybGenB]</li>
+		<li>r_name-&gt;[SybGenC][SybGenD] [SybGenE][SybGenF][SybGenG]</li>
+		<li>r_name-&gt;[SybGenE][SybGenF][SybGenG] [SybGenA][SybGenB]</li>
+		<li>r_name-&gt;[SybGenE][SybGenF][SybGenG] [SybGenC][SybGenD]</li>
+		<li>r_name-&gt;[SybGenE][SybGenF][SybGenG] [SybGenA][SybGenB]-[SybGenC][SybGenD]</li>
+		<li>r_name-&gt;[SybGenE][SybGenF][SybGenG] [SybGenC][SybGenD]-[SybGenA][SybGenB]</li>
+		<li>r_name(p=0.1)-&gt;[MaleFirst]</li>
+		<li>MaleFirst-&gt;[Militarum_Male_First]</li>
+		<li>MaleFirst-&gt;[SybGenA][SybGenB]</li>
+		<li>MaleFirst-&gt;[SybGenC][SybGenD]</li>
+		<li>MaleFirst-&gt;[SybGenE][SybGenF][SybGenG]</li>
+		<li>MaleFirst-&gt;[Imperial_Male_First]</li>
+		<li>MaleSecond-&gt;[Militarum_Unisex_Last]</li>
+		<li>MaleSecond-&gt;[SybGerA][SybGerB]</li>
+		<li>MaleSecond-&gt;[SybGerC] [SybGerD]</li>
+		<li>MaleSecond-&gt;[MaleMEName]</li>
+		<li>MaleSecond-&gt;[SybAngA][SybAngB]</li>
+		<li>MaleSecond-&gt;[SybGenA][SybGenB]</li>
+		<li>MaleSecond-&gt;[SybGenC][SybGenD]</li>
+		<li>MaleSecond-&gt;[SybGenE][SybGenF][SybGenG]</li>
+		<li>MaleMEName-&gt;Al[Extra][SybMEA][SybMEB]</li>
+		<li>MaleMEName-&gt;[SybMEA][SybMEB]</li>
+		<li>MaleMEName-&gt;Al[Extra][SybMEC][SybMED][SybMEE]</li>
+		<li>MaleMEName-&gt;[SybMEC][SybMED][SybMEE]</li>
+		<li>MaleNick-&gt;[Militarum_Male_Nick]</li>
+		<li>MaleNick-&gt;[Militarum_Unisex_Nick]</li>
+</OG_Militarum_NamerPerson.rulePack.rulesStrings>
+                                                 <!-- 
+		<li>r_name(p=4)-&gt;[FemaleFirst] [FemaleSecond]</li>
+		<li>r_name(p=2)-&gt;[FemaleFirst] `[FemaleNick]` [FemaleSecond]</li>
+		<li>r_name(p=0.1)-&gt;[FemaleFirst] `[FemaleNick]`</li>
+		<li>r_name(p=0.5)-&gt;[FemaleFirst]</li>
+		<li>r_name-&gt;[SybGenC] [Imperial_Female_First] [SybGenH][SybGenI][SybGenJ][SybGenK]</li>
+		<li>r_name-&gt;[Imperial_Female_First] [SybGenH][SybGenI][SybGenJ][SybGenK]</li>
+		<li>r_name-&gt;[SybGenH][SybGenI][SybGenJ][SybGenK] [SybGenA][SybGenB]</li>
+		<li>r_name-&gt;[SybGenH][SybGenI][SybGenJ] [Imperial_Female_First] [SybGenC][SybGenD]</li>
+		<li>r_name-&gt;[SybGenC] [Imperial_Female_First] [SybGenA][SybGenB]</li>
+		<li>r_name-&gt;[SybGenC] [Imperial_Female_First] [SybGenE][SybGenF][SybGenG]</li>
+		<li>r_name-&gt;[SybGenE][SybGenF] [Imperial_Female_First] [SybGenA][SybGenB]</li>
+		<li>r_name-&gt;[SybGenE][SybGenF] [Imperial_Female_First] [SybGenC][SybGenD]</li>
+		<li>r_name-&gt;[SybGenE][SybGenF] [Imperial_Female_First] [SybGenA][SybGenB]-[SybGenC][SybGenD]</li>
+		<li>r_name-&gt;[SybGenE][SybGenF] [Imperial_Female_First] [SybGenC][SybGenD]-[SybGenA][SybGenB]</li>
+		<li>r_name-&gt;[Imperial_Female_First] [SybGenA][SybGenB]</li>
+		<li>r_name-&gt;[Imperial_Female_First] [SybGenC][SybGenD]</li>
+		<li>r_name-&gt;[Imperial_Female_First] [SybGenE][SybGenF][SybGenG]</li>
+		<li>FemaleFirst-&gt;[Militarum_Female_First]</li>
+		<li>FemaleFirst-&gt;[SybGenC] [Imperial_Female_First]</li>
+		<li>FemaleFirst-&gt;[SybGenE][SybGenF] [Imperial_Female_First]</li>
+		<li>FemaleFirst-&gt;[Imperial_Female_First]</li>
+		<li>FemaleSecond-&gt;[Militarum_Unisex_Last]</li>
+		<li>FemaleSecond-&gt;[SybGerA][SybGerB]</li>
+		<li>FemaleSecond-&gt;[SybGerC] [SybGerD]</li>
+		<li>FemaleSecond-&gt;[FemaleMEName]</li>
+		<li>FemaleSecond-&gt;[SybFrA] [SybFrB][SybFrC]</li>
+		<li>FemaleSecond-&gt;[SybAngA][SybAngB]</li>
+		<li>FemaleMEName-&gt;[Al][Extra][SybMEA][SybMEB]</li>
+		<li>FemaleMEName-&gt;[SybMEA][SybMEB]</li>
+		<li>FemaleMEName-&gt;[Al][Extra][SybMEC][SybMED][SybMEE]</li>
+		<li>FemaleMEName-&gt;[SybMEC][SybMED][SybMEE]</li>
+		<li>FemaleNick-&gt;[Militarum_Female_Nick]</li>
+		<li>FemaleNick-&gt;[Militarum_Unisex_Nick]</li>
+ -->
+<OG_Militarum_NamerPersonFemale.rulePack.rulesStrings>
+		<li>r_name(p=4)-&gt;[FemaleFirst] [FemaleSecond]</li>
+		<li>r_name(p=2)-&gt;[FemaleFirst] `[FemaleNick]` [FemaleSecond]</li>
+		<li>r_name(p=0.1)-&gt;[FemaleFirst] `[FemaleNick]`</li>
+		<li>r_name(p=0.5)-&gt;[FemaleFirst]</li>
+		<li>r_name-&gt;[SybGenC] [Imperial_Female_First] [SybGenH][SybGenI][SybGenJ][SybGenK]</li>
+		<li>r_name-&gt;[Imperial_Female_First] [SybGenH][SybGenI][SybGenJ][SybGenK]</li>
+		<li>r_name-&gt;[SybGenH][SybGenI][SybGenJ][SybGenK] [SybGenA][SybGenB]</li>
+		<li>r_name-&gt;[SybGenH][SybGenI][SybGenJ] [Imperial_Female_First] [SybGenC][SybGenD]</li>
+		<li>r_name-&gt;[SybGenC] [Imperial_Female_First] [SybGenA][SybGenB]</li>
+		<li>r_name-&gt;[SybGenC] [Imperial_Female_First] [SybGenE][SybGenF][SybGenG]</li>
+		<li>r_name-&gt;[SybGenE][SybGenF] [Imperial_Female_First] [SybGenA][SybGenB]</li>
+		<li>r_name-&gt;[SybGenE][SybGenF] [Imperial_Female_First] [SybGenC][SybGenD]</li>
+		<li>r_name-&gt;[SybGenE][SybGenF] [Imperial_Female_First] [SybGenA][SybGenB]-[SybGenC][SybGenD]</li>
+		<li>r_name-&gt;[SybGenE][SybGenF] [Imperial_Female_First] [SybGenC][SybGenD]-[SybGenA][SybGenB]</li>
+		<li>r_name-&gt;[Imperial_Female_First] [SybGenA][SybGenB]</li>
+		<li>r_name-&gt;[Imperial_Female_First] [SybGenC][SybGenD]</li>
+		<li>r_name-&gt;[Imperial_Female_First] [SybGenE][SybGenF][SybGenG]</li>
+		<li>FemaleFirst-&gt;[Militarum_Female_First]</li>
+		<li>FemaleFirst-&gt;[SybGenC] [Imperial_Female_First]</li>
+		<li>FemaleFirst-&gt;[SybGenE][SybGenF] [Imperial_Female_First]</li>
+		<li>FemaleFirst-&gt;[Imperial_Female_First]</li>
+		<li>FemaleSecond-&gt;[Militarum_Unisex_Last]</li>
+		<li>FemaleSecond-&gt;[SybGerA][SybGerB]</li>
+		<li>FemaleSecond-&gt;[SybGerC] [SybGerD]</li>
+		<li>FemaleSecond-&gt;[FemaleMEName]</li>
+		<li>FemaleSecond-&gt;[SybFrA] [SybFrB][SybFrC]</li>
+		<li>FemaleSecond-&gt;[SybAngA][SybAngB]</li>
+		<li>FemaleMEName-&gt;[Al][Extra][SybMEA][SybMEB]</li>
+		<li>FemaleMEName-&gt;[SybMEA][SybMEB]</li>
+		<li>FemaleMEName-&gt;[Al][Extra][SybMEC][SybMED][SybMEE]</li>
+		<li>FemaleMEName-&gt;[SybMEC][SybMED][SybMEE]</li>
+		<li>FemaleNick-&gt;[Militarum_Female_Nick]</li>
+		<li>FemaleNick-&gt;[Militarum_Unisex_Nick]</li>
+</OG_Militarum_NamerPersonFemale.rulePack.rulesStrings>
+                                           <!-- 
+		<li>MilitarumRegiment(p=0.1)-&gt;[Ordinal] [Militarum_HomeWorld] [RegimentType]</li>
+		<li>MilitarumRegiment(p=0.1)-&gt;[Militarum_HomeWorld] [Ordinal] [RegimentType]</li>
+		<li>MilitarumRegiment-&gt;[Ordinal] [Militarum_PredefinedRegiment]</li>
+		<li>MilitarumRegiment(p=0.01)-&gt;Tanith First and Only</li>
+		<li>RegimentType-&gt;[RegimentTypes]</li>
+		<li>RegimentType(p=0.1)-&gt;[RegimentTypes] `[Militarum_RegimentMoniker]`</li>
+		<li>RegimentTypes-&gt;[Militarum_RegimentTypesCommon]</li>
+		<li>RegimentTypes(p=0.1)-&gt;[Militarum_RegimentTypesUncommon]</li>
+		<li>Extra-&gt; </li>
+		<li>Extra-&gt;-</li>
+		<li>Extra-&gt;'</li>
+ -->
+<OG_Militarum_NameUtility.rulePack.rulesStrings>
+		<li>MilitarumRegiment(p=0.1)-&gt;[Ordinal] [Militarum_HomeWorld] [RegimentType]</li>
+		<li>MilitarumRegiment(p=0.1)-&gt;[Militarum_HomeWorld] [Ordinal] [RegimentType]</li>
+		<li>MilitarumRegiment-&gt;[Ordinal] [Militarum_PredefinedRegiment]</li>
+		<li>MilitarumRegiment(p=0.01)-&gt;Tanith First and Only</li>
+		<li>RegimentType-&gt;[RegimentTypes]</li>
+		<li>RegimentType(p=0.1)-&gt;[RegimentTypes] `[Militarum_RegimentMoniker]`</li>
+		<li>RegimentTypes-&gt;[Militarum_RegimentTypesCommon]</li>
+		<li>RegimentTypes(p=0.1)-&gt;[Militarum_RegimentTypesUncommon]</li>
+		<li>Extra-&gt; </li>
+		<li>Extra-&gt;-</li>
+		<li>Extra-&gt;'</li>
+</OG_Militarum_NameUtility.rulePack.rulesStrings>
+                                         <!-- 
+		<li>Militarum_HomeWorld-&gt;NameBanks/OG_Imperial_Names_Worlds</li>
+		<li>Militarum_Outpost-&gt;NameBanks/OG_Imperial_Militarum_Names_Outpost</li>
+		<li>Militarum_Male_First-&gt;NameBanks/OG_Imperial_Militarum_Names_First_Male</li>
+		<li>Imperial_Male_First-&gt;NameBanks/OG_Imperial_Names_First_Male</li>
+		<li>Militarum_Male_Nick-&gt;NameBanks/OG_Imperial_Militarum_Names_Nick_Male</li>
+		<li>Militarum_Female_First-&gt;NameBanks/OG_Imperial_Militarum_Names_First_Female</li>
+		<li>Imperial_Female_First-&gt;NameBanks/OG_Imperial_Names_First_Female</li>
+		<li>Militarum_Female_Nick-&gt;NameBanks/OG_Imperial_Militarum_Names_Nick_Female</li>
+		<li>Militarum_Unisex_Nick-&gt;NameBanks/OG_Imperial_Militarum_Names_Nick_Unisex</li>
+		<li>Militarum_Unisex_Last-&gt;NameBanks/OG_Imperial_Militarum_Names_Last_Unisex</li>
+		<li>SybGenA-&gt;NameBanks/OG_Imperial_Names_SybGen_A</li>
+		<li>SybGenB-&gt;NameBanks/OG_Imperial_Names_SybGen_B</li>
+		<li>SybGenC-&gt;NameBanks/OG_Imperial_Names_SybGen_C</li>
+		<li>SybGenD-&gt;NameBanks/OG_Imperial_Names_SybGen_D</li>
+		<li>SybGenE-&gt;NameBanks/OG_Imperial_Names_SybGen_E</li>
+		<li>SybGenF-&gt;NameBanks/OG_Imperial_Names_SybGen_F</li>
+		<li>SybGenG-&gt;NameBanks/OG_Imperial_Names_SybGen_G</li>
+		<li>SybGenH-&gt;NameBanks/OG_Imperial_Names_SybGen_H</li>
+		<li>SybGenI-&gt;NameBanks/OG_Imperial_Names_SybGen_I</li>
+		<li>SybGenJ-&gt;NameBanks/OG_Imperial_Names_SybGen_J</li>
+		<li>SybGenK-&gt;NameBanks/OG_Imperial_Names_SybGen_K</li>
+		<li>SybGenL-&gt;NameBanks/OG_Imperial_Names_SybGen_L</li>
+		<li>SybGerA-&gt;NameBanks/OG_Imperial_Names_SybGer_A</li>
+		<li>SybGerB-&gt;NameBanks/OG_Imperial_Names_SybGer_B</li>
+		<li>SybGerC-&gt;NameBanks/OG_Imperial_Names_SybGer_C</li>
+		<li>SybGerD-&gt;NameBanks/OG_Imperial_Names_SybGer_D</li>
+		<li>SybMEA-&gt;NameBanks/OG_Imperial_Names_SybME_A</li>
+		<li>SybMEB-&gt;NameBanks/OG_Imperial_Names_SybME_B</li>
+		<li>SybMC-&gt;NameBanks/OG_Imperial_Names_SybME_C</li>
+		<li>SybMED-&gt;NameBanks/OG_Imperial_Names_SybME_D</li>
+		<li>SybMEE-&gt;NameBanks/OG_Imperial_Names_SybME_E</li>
+		<li>SybFrA-&gt;NameBanks/OG_Imperial_Names_SybFr_A</li>
+		<li>SybFrB-&gt;NameBanks/OG_Imperial_Names_SybFr_B</li>
+		<li>SybFrC-&gt;NameBanks/OG_Imperial_Names_SybFr_C</li>
+		<li>SybAngA-&gt;NameBanks/OG_Imperial_Names_SybAng_A</li>
+		<li>SybAngB-&gt;NameBanks/OG_Imperial_Names_SybAng_B</li>
+		<li>Militarum_RegimentMoniker-&gt;NameBanks/OG_Imperial_Militarum_Regiment_Monikers</li>
+		<li>Militarum_RegimentTypesUncommon-&gt;NameBanks/OG_Imperial_Militarum_Regiment_Types_Uncommon</li>
+		<li>Militarum_RegimentTypesCommon-&gt;NameBanks/OG_Imperial_Militarum_Regiment_Types_Common</li>
+		<li>Militarum_PredefinedRegiment-&gt;NameBanks/OG_Imperial_Militarum_Regiment_Names</li>
+		<li>CapitalLetter-&gt;WordParts/CapitalLetters</li>
+		<li>SingleDigit-&gt;WordParts/SingleDigit</li>
+		<li>GreekLetter-&gt;WordParts/GreekLetters</li>
+ -->
+<OG_Militarum_NameUtility.rulePack.rulesFiles>
+		<li>Militarum_HomeWorld-&gt;NameBanks/OG_Imperial_Names_Worlds</li>
+		<li>Militarum_Outpost-&gt;NameBanks/OG_Imperial_Militarum_Names_Outpost</li>
+		<li>Militarum_Male_First-&gt;NameBanks/OG_Imperial_Militarum_Names_First_Male</li>
+		<li>Imperial_Male_First-&gt;NameBanks/OG_Imperial_Names_First_Male</li>
+		<li>Militarum_Male_Nick-&gt;NameBanks/OG_Imperial_Militarum_Names_Nick_Male</li>
+		<li>Militarum_Female_First-&gt;NameBanks/OG_Imperial_Militarum_Names_First_Female</li>
+		<li>Imperial_Female_First-&gt;NameBanks/OG_Imperial_Names_First_Female</li>
+		<li>Militarum_Female_Nick-&gt;NameBanks/OG_Imperial_Militarum_Names_Nick_Female</li>
+		<li>Militarum_Unisex_Nick-&gt;NameBanks/OG_Imperial_Militarum_Names_Nick_Unisex</li>
+		<li>Militarum_Unisex_Last-&gt;NameBanks/OG_Imperial_Militarum_Names_Last_Unisex</li>
+		<li>SybGenA-&gt;NameBanks/OG_Imperial_Names_SybGen_A</li>
+		<li>SybGenB-&gt;NameBanks/OG_Imperial_Names_SybGen_B</li>
+		<li>SybGenC-&gt;NameBanks/OG_Imperial_Names_SybGen_C</li>
+		<li>SybGenD-&gt;NameBanks/OG_Imperial_Names_SybGen_D</li>
+		<li>SybGenE-&gt;NameBanks/OG_Imperial_Names_SybGen_E</li>
+		<li>SybGenF-&gt;NameBanks/OG_Imperial_Names_SybGen_F</li>
+		<li>SybGenG-&gt;NameBanks/OG_Imperial_Names_SybGen_G</li>
+		<li>SybGenH-&gt;NameBanks/OG_Imperial_Names_SybGen_H</li>
+		<li>SybGenI-&gt;NameBanks/OG_Imperial_Names_SybGen_I</li>
+		<li>SybGenJ-&gt;NameBanks/OG_Imperial_Names_SybGen_J</li>
+		<li>SybGenK-&gt;NameBanks/OG_Imperial_Names_SybGen_K</li>
+		<li>SybGenL-&gt;NameBanks/OG_Imperial_Names_SybGen_L</li>
+		<li>SybGerA-&gt;NameBanks/OG_Imperial_Names_SybGer_A</li>
+		<li>SybGerB-&gt;NameBanks/OG_Imperial_Names_SybGer_B</li>
+		<li>SybGerC-&gt;NameBanks/OG_Imperial_Names_SybGer_C</li>
+		<li>SybGerD-&gt;NameBanks/OG_Imperial_Names_SybGer_D</li>
+		<li>SybMEA-&gt;NameBanks/OG_Imperial_Names_SybME_A</li>
+		<li>SybMEB-&gt;NameBanks/OG_Imperial_Names_SybME_B</li>
+		<li>SybMC-&gt;NameBanks/OG_Imperial_Names_SybME_C</li>
+		<li>SybMED-&gt;NameBanks/OG_Imperial_Names_SybME_D</li>
+		<li>SybMEE-&gt;NameBanks/OG_Imperial_Names_SybME_E</li>
+		<li>SybFrA-&gt;NameBanks/OG_Imperial_Names_SybFr_A</li>
+		<li>SybFrB-&gt;NameBanks/OG_Imperial_Names_SybFr_B</li>
+		<li>SybFrC-&gt;NameBanks/OG_Imperial_Names_SybFr_C</li>
+		<li>SybAngA-&gt;NameBanks/OG_Imperial_Names_SybAng_A</li>
+		<li>SybAngB-&gt;NameBanks/OG_Imperial_Names_SybAng_B</li>
+		<li>Militarum_RegimentMoniker-&gt;NameBanks/OG_Imperial_Militarum_Regiment_Monikers</li>
+		<li>Militarum_RegimentTypesUncommon-&gt;NameBanks/OG_Imperial_Militarum_Regiment_Types_Uncommon</li>
+		<li>Militarum_RegimentTypesCommon-&gt;NameBanks/OG_Imperial_Militarum_Regiment_Types_Common</li>
+		<li>Militarum_PredefinedRegiment-&gt;NameBanks/OG_Imperial_Militarum_Regiment_Names</li>
+		<li>CapitalLetter-&gt;WordParts/CapitalLetters</li>
+		<li>SingleDigit-&gt;WordParts/SingleDigit</li>
+		<li>GreekLetter-&gt;WordParts/GreekLetters</li>
+</OG_Militarum_NameUtility.rulePack.rulesFiles>
+                                       <!-- 
+		<li>r_ideoName-&gt;[keyDeity]ism</li>
+		<li>r_ideoName-&gt;[hyphenPrefix]-[keyDeity]ism</li>
+		<li>r_ideoName-&gt;[keyDeity]'s [creed]</li>
+		<li>r_ideoName-&gt;[creed] of [keyDeity]</li>
+		<li>r_ideoAdjective-&gt;[keyDeity]ic</li>
+		<li>r_memberName-&gt;[keyDeity]ist</li>
+		<li>r_memberName-&gt;[keyDeity]ite</li>
+		<li>r_ideoName(p=2)-&gt;[globalAdjective] [packIdeoName]</li>
+		<li>r_ideoName(p=1.5,forcePrefix==False)-&gt;[hyphenPrefix]-[packIdeoName]</li>
+		<li>r_ideoName-&gt;[memeAdjective] [packIdeoName]</li>
+		<li>r_ideoName(p=0.5)-&gt;[memeAdjective] [creed]</li>
+		<li>r_ideoName(p=0.2)-&gt;[creed] of [packTheme]</li>
+		<li>r_ideoAdjective(priority=1)-&gt;[packAdjective]</li>
+		<li>r_memberName-&gt;[packMember]</li>
+		<li>creed(priority=1)-&gt;[memeCreed]</li>
+		<li>creed-&gt;[genericCreed]</li>
+		<li>genericCreed-&gt;creed</li>
+		<li>genericCreed-&gt;doctrine</li>
+		<li>genericCreed-&gt;way</li>
+		<li>genericCreed-&gt;path</li>
+		<li>globalAdjective-&gt;[Color]</li>
+		<li>globalAdjective-&gt;New</li>
+		<li>globalAdjective-&gt;Full</li>
+		<li>globalAdjective-&gt;Old</li>
+		<li>globalAdjective-&gt;Ancient</li>
+		<li>globalAdjective-&gt;Historical</li>
+		<li>globalAdjective-&gt;Revised</li>
+		<li>globalAdjective-&gt;Reformed</li>
+		<li>globalAdjective-&gt;Hard</li>
+		<li>globalAdjective-&gt;Fundamental</li>
+		<li>globalAdjective-&gt;True</li>
+		<li>globalAdjective-&gt;Folk</li>
+		<li>globalAdjective-&gt;Reformed</li>
+		<li>globalAdjective-&gt;[place_adjective]</li>
+		<li>hyphenPrefix-&gt;[globalHyphenPrefix]</li>
+		<li>hyphenPrefix-&gt;[memeHyphenPrefix]</li>
+		<li>globalHyphenPrefix(p=4)-&gt;neo</li>
+		<li>globalHyphenPrefix(p=2)-&gt;post</li>
+		<li>globalHyphenPrefix-&gt;nova</li>
+		<li>globalHyphenPrefix-&gt;archaeo</li>
+		<li>globalHyphenPrefix-&gt;hyper</li>
+ -->
+<OG_NamerIdeoImperial.rulePack.rulesStrings>
+		<li>r_ideoName-&gt;[keyDeity]ism</li>
+		<li>r_ideoName-&gt;[hyphenPrefix]-[keyDeity]ism</li>
+		<li>r_ideoName-&gt;[keyDeity]'s [creed]</li>
+		<li>r_ideoName-&gt;[creed] of [keyDeity]</li>
+		<li>r_ideoAdjective-&gt;[keyDeity]ic</li>
+		<li>r_memberName-&gt;[keyDeity]ist</li>
+		<li>r_memberName-&gt;[keyDeity]ite</li>
+		<li>r_ideoName(p=2)-&gt;[globalAdjective] [packIdeoName]</li>
+		<li>r_ideoName(p=1.5,forcePrefix==False)-&gt;[hyphenPrefix]-[packIdeoName]</li>
+		<li>r_ideoName-&gt;[memeAdjective] [packIdeoName]</li>
+		<li>r_ideoName(p=0.5)-&gt;[memeAdjective] [creed]</li>
+		<li>r_ideoName(p=0.2)-&gt;[creed] of [packTheme]</li>
+		<li>r_ideoAdjective(priority=1)-&gt;[packAdjective]</li>
+		<li>r_memberName-&gt;[packMember]</li>
+		<li>creed(priority=1)-&gt;[memeCreed]</li>
+		<li>creed-&gt;[genericCreed]</li>
+		<li>genericCreed-&gt;creed</li>
+		<li>genericCreed-&gt;doctrine</li>
+		<li>genericCreed-&gt;way</li>
+		<li>genericCreed-&gt;path</li>
+		<li>globalAdjective-&gt;[Color]</li>
+		<li>globalAdjective-&gt;New</li>
+		<li>globalAdjective-&gt;Full</li>
+		<li>globalAdjective-&gt;Old</li>
+		<li>globalAdjective-&gt;Ancient</li>
+		<li>globalAdjective-&gt;Historical</li>
+		<li>globalAdjective-&gt;Revised</li>
+		<li>globalAdjective-&gt;Reformed</li>
+		<li>globalAdjective-&gt;Hard</li>
+		<li>globalAdjective-&gt;Fundamental</li>
+		<li>globalAdjective-&gt;True</li>
+		<li>globalAdjective-&gt;Folk</li>
+		<li>globalAdjective-&gt;Reformed</li>
+		<li>globalAdjective-&gt;[place_adjective]</li>
+		<li>hyphenPrefix-&gt;[globalHyphenPrefix]</li>
+		<li>hyphenPrefix-&gt;[memeHyphenPrefix]</li>
+		<li>globalHyphenPrefix(p=4)-&gt;neo</li>
+		<li>globalHyphenPrefix(p=2)-&gt;post</li>
+		<li>globalHyphenPrefix-&gt;nova</li>
+		<li>globalHyphenPrefix-&gt;archaeo</li>
+		<li>globalHyphenPrefix-&gt;hyper</li>
+</OG_NamerIdeoImperial.rulePack.rulesStrings>
+                                            <!-- 
+		<li>globalAdjective-&gt;Spacer</li>
+		<li>globalAdjective-&gt;Star</li>
+		<li>globalAdjective-&gt;Stellar</li>
+		<li>globalAdjective-&gt;Interstellar</li>
+		<li>globalHyphenPrefix-&gt;astro</li>
+		<li>globalHyphenPrefix-&gt;stello</li>
+ -->
+<OG_CultureSpacer_imperial.rulePack.rulesStrings>
+		<li>globalAdjective-&gt;Spacer</li>
+		<li>globalAdjective-&gt;Star</li>
+		<li>globalAdjective-&gt;Stellar</li>
+		<li>globalAdjective-&gt;Interstellar</li>
+		<li>globalHyphenPrefix-&gt;astro</li>
+		<li>globalHyphenPrefix-&gt;stello</li>
+</OG_CultureSpacer_imperial.rulePack.rulesStrings>
+                                             <!-- 
+		<li>globalAdjective(p=15)-&gt;Tribal</li>
+ -->
+<NamerIdeo_Militarum_Tribal.rulePack.rulesStrings>
+		<li>globalAdjective(p=15)-&gt;Tribal</li>
+</NamerIdeo_Militarum_Tribal.rulePack.rulesStrings>
+                                                    <!-- 
+		<li>memeLeaderNoun(priority=1)-&gt;[cultureLeaderNoun]</li>
+		<li>cultureLeaderTitle-&gt;[cultureLeaderAdjective] [cultureLeaderNoun]</li>
+		<li>cultureLeaderAdjective-&gt;high</li>
+		<li>cultureLeaderAdjective-&gt;grand</li>
+		<li>cultureLeaderAdjective-&gt;full</li>
+		<li>cultureLeaderNoun-&gt;lord</li>
+		<li>cultureLeaderNoun-&gt;commander</li>
+		<li>cultureLeaderNoun-&gt;marshal</li>
+		<li>cultureLeaderNoun-&gt;governor</li>
+ -->
+<LeaderTitleMaker_Militarum_Spacer.rulePack.rulesStrings>
+		<li>memeLeaderNoun(priority=1)-&gt;[cultureLeaderNoun]</li>
+		<li>cultureLeaderTitle-&gt;[cultureLeaderAdjective] [cultureLeaderNoun]</li>
+		<li>cultureLeaderAdjective-&gt;high</li>
+		<li>cultureLeaderAdjective-&gt;grand</li>
+		<li>cultureLeaderAdjective-&gt;full</li>
+		<li>cultureLeaderNoun-&gt;lord</li>
+		<li>cultureLeaderNoun-&gt;commander</li>
+		<li>cultureLeaderNoun-&gt;marshal</li>
+		<li>cultureLeaderNoun-&gt;governor</li>
+</LeaderTitleMaker_Militarum_Spacer.rulePack.rulesStrings>
+                                                    <!-- 
+		<li>cultureLeaderAdjective-&gt;high</li>
+		<li>cultureLeaderAdjective-&gt;great</li>
+		<li>cultureLeaderAdjective-&gt;grand</li>
+		<li>cultureLeaderAdjective-&gt;prime</li>
+		<li>cultureLeaderNoun-&gt;lord</li>
+		<li>cultureLeaderNoun-&gt;commander</li>
+		<li>cultureLeaderNoun-&gt;governor</li>
+		<li>cultureLeaderNoun-&gt;marshal</li>
+ -->
+<LeaderTitleMaker_Militarum_Player.rulePack.rulesStrings>
+		<li>cultureLeaderAdjective-&gt;high</li>
+		<li>cultureLeaderAdjective-&gt;great</li>
+		<li>cultureLeaderAdjective-&gt;grand</li>
+		<li>cultureLeaderAdjective-&gt;prime</li>
+		<li>cultureLeaderNoun-&gt;lord</li>
+		<li>cultureLeaderNoun-&gt;commander</li>
+		<li>cultureLeaderNoun-&gt;governor</li>
+		<li>cultureLeaderNoun-&gt;marshal</li>
+</LeaderTitleMaker_Militarum_Player.rulePack.rulesStrings>
+                                          <!-- 
+		<li>r_deityName-&gt;Emperor</li>
+		<li>r_deityName-&gt;Emperor of Mankind</li>
+		<li>r_deityName-&gt;God-Emperor</li>
+		<li>r_deityName-&gt;God-Emperor of Mankind</li>
+		<li>r_deityName-&gt;Allfather</li>
+		<li>r_deityName-&gt;Revelation</li>
+		<li>r_deityName-&gt;Star-Child</li>
+		<li>r_deityName-&gt;New Man</li>
+ -->
+<NamerDeity_EmperorOfMan.rulePack.rulesStrings>
+		<li>r_deityName-&gt;Emperor</li>
+		<li>r_deityName-&gt;Emperor of Mankind</li>
+		<li>r_deityName-&gt;God-Emperor</li>
+		<li>r_deityName-&gt;God-Emperor of Mankind</li>
+		<li>r_deityName-&gt;Allfather</li>
+		<li>r_deityName-&gt;Revelation</li>
+		<li>r_deityName-&gt;Star-Child</li>
+		<li>r_deityName-&gt;New Man</li>
+</NamerDeity_EmperorOfMan.rulePack.rulesStrings>
+                                              <!-- 
+		<li>r_deityType-&gt;Master of Mankind</li>
+ -->
+<DeityTypeMaker_EmperorOfMan.rulePack.rulesStrings>
+		<li>r_deityType-&gt;Master of Mankind</li>
+</DeityTypeMaker_EmperorOfMan.rulePack.rulesStrings>
+
+</LanguageData>

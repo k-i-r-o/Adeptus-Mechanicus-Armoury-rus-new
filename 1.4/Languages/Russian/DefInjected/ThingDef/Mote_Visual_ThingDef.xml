@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/Effects/Mote_Visual.xml-->
+             <!-- Mote -->
+<EMP_Sparks.label>Mote</EMP_Sparks.label>
+                <!-- Mote -->
+<Mote_EMPSmoke.label>Mote</Mote_EMPSmoke.label>
+          <!-- Mote -->
+<EMPGlow.label>Mote</EMPGlow.label>
+
+</LanguageData>

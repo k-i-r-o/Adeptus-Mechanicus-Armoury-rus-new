@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/OrdnanceStrikes/ArtilleryStrikeDefs/OGI_ArtilleryStrikeDefs.xml-->
+                         <!-- high explosive shell salvos -->
+<OGI_Artillerystrike_HE.label>high explosive shell salvos</OGI_Artillerystrike_HE.label>
+                               <!-- Salvos of high explosive shells are fired. -->
+<OGI_Artillerystrike_HE.description>Salvos of high explosive shells are fired.</OGI_Artillerystrike_HE.description>
+
+</LanguageData>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/RulePackDefs/OG_AMA_RulePacks_NameMakers_Eldar.xml-->
+                                                   <!-- 
+		<li>r_name(p=3)-&gt;[Craftworld]</li>
+ -->
+<OG_Eldar_Craftworld_NamerFaction.rulePack.rulesStrings>
+		<li>r_name(p=3)-&gt;[Craftworld]</li>
+</OG_Eldar_Craftworld_NamerFaction.rulePack.rulesStrings>
+                                                           <!-- 
+		<li>r_name-&gt;[adj] [group]</li>
+		<li>group-&gt;survivors</li>
+		<li>group-&gt;outcasts</li>
+		<li>group-&gt;roamers</li>
+		<li>group-&gt;wandarer</li>
+		<li>group-&gt;travelers</li>
+		<li>group-&gt;nomads</li>
+		<li>adj-&gt;haggered</li>
+		<li>adj-&gt;knackered</li>
+		<li>adj-&gt;abandoned</li>
+		<li>adj-&gt;exhausted</li>
+		<li>adj-&gt;lost</li>
+		<li>adj-&gt;battered</li>
+		<li>adj-&gt;tough</li>
+		<li>adj-&gt;dogged</li>
+		<li>adj-&gt;tenacious</li>
+ -->
+<OG_Eldar_Craftworld_NamerFaction_Refugee.rulePack.rulesStrings>
+		<li>r_name-&gt;[adj] [group]</li>
+		<li>group-&gt;survivors</li>
+		<li>group-&gt;outcasts</li>
+		<li>group-&gt;roamers</li>
+		<li>group-&gt;wandarer</li>
+		<li>group-&gt;travelers</li>
+		<li>group-&gt;nomads</li>
+		<li>adj-&gt;haggered</li>
+		<li>adj-&gt;knackered</li>
+		<li>adj-&gt;abandoned</li>
+		<li>adj-&gt;exhausted</li>
+		<li>adj-&gt;lost</li>
+		<li>adj-&gt;battered</li>
+		<li>adj-&gt;tough</li>
+		<li>adj-&gt;dogged</li>
+		<li>adj-&gt;tenacious</li>
+</OG_Eldar_Craftworld_NamerFaction_Refugee.rulePack.rulesStrings>
+                                      <!-- 
+		<li>name-&gt;[Craftworld_Outpost]</li>
+ -->
+<OG_Eldar_NamerBases.rulePack.rulesStrings>
+		<li>name-&gt;[Craftworld_Outpost]</li>
+</OG_Eldar_NamerBases.rulePack.rulesStrings>
+                                       <!-- 
+		<li>r_name(p=3)-&gt;[NameMaleEldar]</li>
+ -->
+<OG_Eldar_NamerPerson.rulePack.rulesStrings>
+		<li>r_name(p=3)-&gt;[NameMaleEldar]</li>
+</OG_Eldar_NamerPerson.rulePack.rulesStrings>
+                                             <!-- 
+		<li>r_name(p=3)-&gt;[NameFemaleEldar]</li>
+ -->
+<OG_Eldar_NamerPersonFemale.rulePack.rulesStrings>
+		<li>r_name(p=3)-&gt;[NameFemaleEldar]</li>
+</OG_Eldar_NamerPersonFemale.rulePack.rulesStrings>
+                                       <!-- 
+		<li>NameMaleEldar(p=4)-&gt;[Eldar_A_Male][Eldar_B_Male]</li>
+		<li>NameFemaleEldar(p=4)-&gt;[Eldar_A_Female][Eldar_B_Female]</li>
+		<li>Craftworld(p=3)-&gt;[Craftworld_Major]</li>
+		<li>Craftworld(p=1)-&gt;[Craftworld_Minor]</li>
+ -->
+<OG_Eldar_NameUtility.rulePack.rulesStrings>
+		<li>NameMaleEldar(p=4)-&gt;[Eldar_A_Male][Eldar_B_Male]</li>
+		<li>NameFemaleEldar(p=4)-&gt;[Eldar_A_Female][Eldar_B_Female]</li>
+		<li>Craftworld(p=3)-&gt;[Craftworld_Major]</li>
+		<li>Craftworld(p=1)-&gt;[Craftworld_Minor]</li>
+</OG_Eldar_NameUtility.rulePack.rulesStrings>
+                                     <!-- 
+		<li>Craftworld_Major-&gt;NameBanks/OG_Aeldari_Eldar_Names_Craftworlds_Major</li>
+		<li>Craftworld_Minor-&gt;NameBanks/OG_Aeldari_Eldar_Names_Craftworlds_Minor</li>
+		<li>Craftworld_Lost-&gt;NameBanks/OG_Aeldari_Eldar_Names_Craftworlds_Lost</li>
+		<li>Craftworld_Corsair-&gt;NameBanks/OG_Aeldari_Eldar_Names_Craftworlds_Corsair</li>
+		<li>Craftworld_Outpost-&gt;NameBanks/OG_Aeldari_Eldar_Names_Outpost</li>
+		<li>Eldar_A_Male-&gt;NameBanks/OG_Aeldari_Eldar_Names_Male_A</li>
+		<li>Eldar_B_Male-&gt;NameBanks/OG_Aeldari_Eldar_Names_Male_B</li>
+		<li>Eldar_A_Female-&gt;NameBanks/OG_Aeldari_Eldar_Names_Female_A</li>
+		<li>Eldar_B_Female-&gt;NameBanks/OG_Aeldari_Eldar_Names_Female_B</li>
+ -->
+<OG_Eldar_NameUtility.rulePack.rulesFiles>
+		<li>Craftworld_Major-&gt;NameBanks/OG_Aeldari_Eldar_Names_Craftworlds_Major</li>
+		<li>Craftworld_Minor-&gt;NameBanks/OG_Aeldari_Eldar_Names_Craftworlds_Minor</li>
+		<li>Craftworld_Lost-&gt;NameBanks/OG_Aeldari_Eldar_Names_Craftworlds_Lost</li>
+		<li>Craftworld_Corsair-&gt;NameBanks/OG_Aeldari_Eldar_Names_Craftworlds_Corsair</li>
+		<li>Craftworld_Outpost-&gt;NameBanks/OG_Aeldari_Eldar_Names_Outpost</li>
+		<li>Eldar_A_Male-&gt;NameBanks/OG_Aeldari_Eldar_Names_Male_A</li>
+		<li>Eldar_B_Male-&gt;NameBanks/OG_Aeldari_Eldar_Names_Male_B</li>
+		<li>Eldar_A_Female-&gt;NameBanks/OG_Aeldari_Eldar_Names_Female_A</li>
+		<li>Eldar_B_Female-&gt;NameBanks/OG_Aeldari_Eldar_Names_Female_B</li>
+</OG_Eldar_NameUtility.rulePack.rulesFiles>
+
+</LanguageData>

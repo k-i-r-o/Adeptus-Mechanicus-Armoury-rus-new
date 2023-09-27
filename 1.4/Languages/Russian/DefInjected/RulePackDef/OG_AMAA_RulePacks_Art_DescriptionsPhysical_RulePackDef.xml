@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/RulePackDefs/OG_AMAA_RulePacks_Art_DescriptionsPhysical.xml-->
+                                              <!-- 
+		<li>physical_description_root-&gt;This [sculpture] [depicts] [image]. [desc_sentence_group]</li>
+		<li>physical_description_root-&gt;This [sculpture] bears a [depiction] of [image]. [desc_sentence_group]</li>
+		<li>physical_description_root-&gt;On this [sculpture] is a [depiction] of [image]. [desc_sentence_group]</li>
+		<li>sculpture-&gt;sculpture</li>
+		<li>sculpture-&gt;work</li>
+		<li>sculpture-&gt;piece</li>
+		<li>sculpture-&gt;carving</li>
+ -->
+<OG_ArtDescription_Sculpture.rulePack.rulesStrings>
+		<li>physical_description_root-&gt;This [sculpture] [depicts] [image]. [desc_sentence_group]</li>
+		<li>physical_description_root-&gt;This [sculpture] bears a [depiction] of [image]. [desc_sentence_group]</li>
+		<li>physical_description_root-&gt;On this [sculpture] is a [depiction] of [image]. [desc_sentence_group]</li>
+		<li>sculpture-&gt;sculpture</li>
+		<li>sculpture-&gt;work</li>
+		<li>sculpture-&gt;piece</li>
+		<li>sculpture-&gt;carving</li>
+</OG_ArtDescription_Sculpture.rulePack.rulesStrings>
+                                                  <!-- 
+		<li>physical_description_root-&gt;This armour is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
+		<li>physical_description_root-&gt;This armour bears a [depiction] of [image]. [desc_sentence_group]</li>
+		<li>physical_description_root-&gt;An engraving on this armour [depicts] [image]. [desc_sentence_group]</li>
+ -->
+<OG_ArtDescription_ApparelArmour.rulePack.rulesStrings>
+		<li>physical_description_root-&gt;This armour is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
+		<li>physical_description_root-&gt;This armour bears a [depiction] of [image]. [desc_sentence_group]</li>
+		<li>physical_description_root-&gt;An engraving on this armour [depicts] [image]. [desc_sentence_group]</li>
+</OG_ArtDescription_ApparelArmour.rulePack.rulesStrings>
+                                                <!-- 
+		<li>physical_description_root-&gt;This weapon is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
+		<li>physical_description_root-&gt;This weapon bears a [depiction] of [image]. [desc_sentence_group]</li>
+		<li>physical_description_root-&gt;An engraving on this weapon [depicts] [image]. [desc_sentence_group]</li>
+ -->
+<OG_ArtDescription_WeaponMelee.rulePack.rulesStrings>
+		<li>physical_description_root-&gt;This weapon is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
+		<li>physical_description_root-&gt;This weapon bears a [depiction] of [image]. [desc_sentence_group]</li>
+		<li>physical_description_root-&gt;An engraving on this weapon [depicts] [image]. [desc_sentence_group]</li>
+</OG_ArtDescription_WeaponMelee.rulePack.rulesStrings>
+                                              <!-- 
+		<li>physical_description_root-&gt;This weapon is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
+		<li>physical_description_root-&gt;This weapon bears a [depiction] of [image]. [desc_sentence_group]</li>
+		<li>physical_description_root-&gt;An engraving on this weapon [depicts] [image]. [desc_sentence_group]</li>
+ -->
+<OG_ArtDescription_WeaponGun.rulePack.rulesStrings>
+		<li>physical_description_root-&gt;This weapon is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
+		<li>physical_description_root-&gt;This weapon bears a [depiction] of [image]. [desc_sentence_group]</li>
+		<li>physical_description_root-&gt;An engraving on this weapon [depicts] [image]. [desc_sentence_group]</li>
+</OG_ArtDescription_WeaponGun.rulePack.rulesStrings>
+                                              <!-- 
+		<li>physical_description_root-&gt;This furniture is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
+		<li>physical_description_root-&gt;This furniture bears a [depiction] of [image]. [desc_sentence_group]</li>
+		<li>physical_description_root-&gt;An engraving on this furniture [depicts] [image]. [desc_sentence_group]</li>
+ -->
+<OG_ArtDescription_Furniture.rulePack.rulesStrings>
+		<li>physical_description_root-&gt;This furniture is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
+		<li>physical_description_root-&gt;This furniture bears a [depiction] of [image]. [desc_sentence_group]</li>
+		<li>physical_description_root-&gt;An engraving on this furniture [depicts] [image]. [desc_sentence_group]</li>
+</OG_ArtDescription_Furniture.rulePack.rulesStrings>
+                                                     <!-- 
+		<li>physical_description_root-&gt;The sarcophagus is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
+		<li>physical_description_root-&gt;The sarcophagus bears a [depiction] of [image]. [desc_sentence_group]</li>
+		<li>physical_description_root-&gt;The sarcophagus is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
+		<li>physical_description_root-&gt;An engraving on this sarcophagus [depicts] [image]. [desc_sentence_group]</li>
+ -->
+<OG_ArtDescription_SarcophagusPlate.rulePack.rulesStrings>
+		<li>physical_description_root-&gt;The sarcophagus is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
+		<li>physical_description_root-&gt;The sarcophagus bears a [depiction] of [image]. [desc_sentence_group]</li>
+		<li>physical_description_root-&gt;The sarcophagus is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
+		<li>physical_description_root-&gt;An engraving on this sarcophagus [depicts] [image]. [desc_sentence_group]</li>
+</OG_ArtDescription_SarcophagusPlate.rulePack.rulesStrings>
+
+</LanguageData>

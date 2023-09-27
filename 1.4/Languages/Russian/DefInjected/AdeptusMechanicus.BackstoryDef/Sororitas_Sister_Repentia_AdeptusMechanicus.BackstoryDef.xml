@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/BackstoryDefs/Imperium Backstories/Sororitas/Sororitas_Sister_Repentia.xml-->
+                                         <!-- Sister Repentia -->
+<OG_Imperial_Sororitas_Sister_RepentiaA.title>Sister Repentia</OG_Imperial_Sororitas_Sister_RepentiaA.title>
+                                            <!-- A great failure haunts [PAWN_nameDef], both waking and sleeping, but she thank the Emperor for it as it goads her ever forward. She will make atonement for herself through the blood of the unclean and the mortification of her flesh. +4 melee, +4 shooting. -->
+<OG_Imperial_Sororitas_Sister_RepentiaA.baseDesc>A great failure haunts [PAWN_nameDef], both waking and sleeping, but she thank the Emperor for it as it goads her ever forward. She will make atonement for herself through the blood of the unclean and the mortification of her flesh. +4 melee, +4 shooting.</OG_Imperial_Sororitas_Sister_RepentiaA.baseDesc>
+                                         <!-- Sister Repentia -->
+<OG_Imperial_Sororitas_Sister_RepentiaB.title>Sister Repentia</OG_Imperial_Sororitas_Sister_RepentiaB.title>
+                                            <!-- [PAWN_nameDef] has always been very pious, fearing her faith to be too weak or her heart too wicked. Driven by this, she has joined the Repentia to prove her devotion. -->
+<OG_Imperial_Sororitas_Sister_RepentiaB.baseDesc>[PAWN_nameDef] has always been very pious, fearing her faith to be too weak or her heart too wicked. Driven by this, she has joined the Repentia to prove her devotion.</OG_Imperial_Sororitas_Sister_RepentiaB.baseDesc>
+
+</LanguageData>

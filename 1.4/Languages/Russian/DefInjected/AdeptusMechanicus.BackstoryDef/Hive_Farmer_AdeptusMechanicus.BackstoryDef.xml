@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/BackstoryDefs/Imperium Backstories/Common/Hive_Farmer.xml-->
+                               <!-- outerhive farmer -->
+<OG_Imperial_Hiveworld_Farmer.title>outerhive farmer</OG_Imperial_Hiveworld_Farmer.title>
+                                  <!-- [PAWN_nameDef] was born into a family of farmers on a hive world. [PAWN_pronoun] excelled at planting and maintaining crops. -->
+<OG_Imperial_Hiveworld_Farmer.baseDesc>[PAWN_nameDef] was born into a family of farmers on a hive world. [PAWN_pronoun] excelled at planting and maintaining crops.</OG_Imperial_Hiveworld_Farmer.baseDesc>
+
+</LanguageData>

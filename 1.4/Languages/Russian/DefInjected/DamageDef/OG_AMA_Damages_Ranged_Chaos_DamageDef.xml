@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/DamageDefs/OG_AMA_Damages_Ranged_Chaos.xml-->
+           <!-- Sonic -->
+<OGCSonic.label>Sonic</OGCSonic.label>
+                  <!-- {0} has been claimed by Slaanesh. -->
+<OGCSonic.deathMessage>{0} has been claimed by Slaanesh.</OGCSonic.deathMessage>
+         <!-- reaper autocannon -->
+<OGCRAC.label>reaper autocannon</OGCRAC.label>
+                <!-- {0} has been taken by the Dark Gods. -->
+<OGCRAC.deathMessage>{0} has been taken by the Dark Gods.</OGCRAC.deathMessage>
+
+
+<!--/Defs/DamageDefs/OG_AMA_Damages_Ranged_Chaos.xml.bak-->
+<!-- Sonic -->
+<OGCSonic.label>Sonic</OGCSonic.label>
+<!-- {0} has been claimed by Slaanesh. -->
+<OGCSonic.deathMessage>{0} has been claimed by Slaanesh.</OGCSonic.deathMessage>
+<!-- reaper autocannon -->
+<OGCRAC.label>reaper autocannon</OGCRAC.label>
+<!-- {0} has been taken by the Dark Gods. -->
+<OGCRAC.deathMessage>{0} has been taken by the Dark Gods.</OGCRAC.deathMessage>
+
+</LanguageData>

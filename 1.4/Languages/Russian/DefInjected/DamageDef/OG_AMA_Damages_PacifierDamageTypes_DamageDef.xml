@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/DamageDefs/OG_AMA_Damages_PacifierDamageTypes.xml-->
+                  <!-- Pacification -->
+<OG_Pacify_Blunt.label>Pacification</OG_Pacify_Blunt.label>
+                         <!-- {0} shouldnt have resisted... -->
+<OG_Pacify_Blunt.deathMessage>{0} shouldnt have resisted...</OG_Pacify_Blunt.deathMessage>
+                 <!-- Pacification -->
+<OG_Pacify_Poke.label>Pacification</OG_Pacify_Poke.label>
+                        <!-- {0} shouldnt have resisted... -->
+<OG_Pacify_Poke.deathMessage>{0} shouldnt have resisted...</OG_Pacify_Poke.deathMessage>
+               <!-- Electrical -->
+<OGElectrical.label>Electrical</OGElectrical.label>
+                      <!-- {0} has been Electrocuted. -->
+<OGElectrical.deathMessage>{0} has been Electrocuted.</OGElectrical.deathMessage>
+            <!-- Webber -->
+<OGIWebber.label>Webber</OGIWebber.label>
+                   <!-- {0} has been Electrocuted. -->
+<OGIWebber.deathMessage>{0} has been Electrocuted.</OGIWebber.deathMessage>
+                    <!-- Neuro Disruptor -->
+<OGENeuroDisruptor.label>Neuro Disruptor</OGENeuroDisruptor.label>
+                           <!-- {0}'s mind was melted by a Neuro Disruptor. -->
+<OGENeuroDisruptor.deathMessage>{0}'s mind was melted by a Neuro Disruptor.</OGENeuroDisruptor.deathMessage>
+                 <!-- force strike -->
+<OG_ForceStrike.label>force strike</OG_ForceStrike.label>
+                        <!-- {0} was slain by a force strike. -->
+<OG_ForceStrike.deathMessage>{0} was slain by a force strike.</OG_ForceStrike.deathMessage>
+
+</LanguageData>

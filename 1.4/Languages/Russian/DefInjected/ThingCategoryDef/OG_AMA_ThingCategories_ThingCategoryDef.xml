@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/ThingCategoryDefs/OG_AMA_ThingCategories.xml-->
+             <!-- Imperial Weapons -->
+<OGIWeapons.label>Imperial Weapons</OGIWeapons.label>
+            <!-- Imperial Ranged Weapons -->
+<OGIRanged.label>Imperial Ranged Weapons</OGIRanged.label>
+             <!-- Astra Miliatrum -->
+<OGIGRanged.label>Astra Miliatrum</OGIGRanged.label>
+           <!-- Imperial Melee Weapons -->
+<OGIMelee.label>Imperial Melee Weapons</OGIMelee.label>
+            <!-- Astra Miliatrum -->
+<OGIGMelee.label>Astra Miliatrum</OGIGMelee.label>
+           <!-- Imperial Grenades -->
+<OGIGrens.label>Imperial Grenades</OGIGrens.label>
+            <!-- Astra Miliatrum -->
+<OGIGGrens.label>Astra Miliatrum</OGIGGrens.label>
+          <!-- apparel -->
+<Apparel.label>apparel</Apparel.label>
+           <!-- headgear -->
+<Headgear.label>headgear</Headgear.label>
+               <!-- armor -->
+<ApparelArmor.label>armor</ApparelArmor.label>
+                <!-- headgear -->
+<ArmorHeadgear.label>headgear</ArmorHeadgear.label>
+                 <!-- utility -->
+<ApparelUtility.label>utility</ApparelUtility.label>
+                      <!-- Imperial -->
+<OG_Apparel_Imperial.label>Imperial</OG_Apparel_Imperial.label>
+            <!-- Imperial Armour -->
+<OGIArmour.label>Imperial Armour</OGIArmour.label>
+             <!-- Astra Miliatrum -->
+<OGIGArmour.label>Astra Miliatrum</OGIGArmour.label>
+             <!-- Imperial Clothing -->
+<OGIApparel.label>Imperial Clothing</OGIApparel.label>
+              <!-- Astra Miliatrum -->
+<OGIGApparel.label>Astra Miliatrum</OGIGApparel.label>
+              <!-- Imperial Headgear -->
+<OGIHeadgear.label>Imperial Headgear</OGIHeadgear.label>
+               <!-- Astra Miliatrum -->
+<OGIGHeadgear.label>Astra Miliatrum</OGIGHeadgear.label>
+            <!-- Imperial Armour Addons -->
+<OGIAddons.label>Imperial Armour Addons</OGIAddons.label>
+             <!-- Astra Miliatrum -->
+<OGIGAddons.label>Astra Miliatrum</OGIGAddons.label>
+             <!-- Imperial Wargear -->
+<OGIWargear.label>Imperial Wargear</OGIWargear.label>
+              <!-- Astra Miliatrum -->
+<OGIGWargear.label>Astra Miliatrum</OGIGWargear.label>
+             <!-- Munitions -->
+<Ammunition.label>Munitions</Ammunition.label>
+           <!-- Imperial -->
+<OGIItems.label>Imperial</OGIItems.label>
+                <!-- Imperial Munitions -->
+<OGIAmmunition.label>Imperial Munitions</OGIAmmunition.label>
+              <!-- Imperial Missiles -->
+<OGIMissiles.label>Imperial Missiles</OGIMissiles.label>
+              <!-- Mechanicus Weapons -->
+<OGAMWeapons.label>Mechanicus Weapons</OGAMWeapons.label>
+             <!-- Mechanicus Ranged Weapons -->
+<OGAMRanged.label>Mechanicus Ranged Weapons</OGAMRanged.label>
+            <!-- Mechanicus Melee Weapons -->
+<OGAMMelee.label>Mechanicus Melee Weapons</OGAMMelee.label>
+            <!-- Mechanicus Grenades -->
+<OGAMGrens.label>Mechanicus Grenades</OGAMGrens.label>
+          <!-- Adeptus Mechanicus -->
+<OGAMSub.label>Adeptus Mechanicus</OGAMSub.label>
+              <!-- Mechanicus Clothing -->
+<OGAMApparel.label>Mechanicus Clothing</OGAMApparel.label>
+             <!-- Mechanicus Armour -->
+<OGAMArmour.label>Mechanicus Armour</OGAMArmour.label>
+               <!-- Mechanicus Headgear -->
+<OGAMHeadgear.label>Mechanicus Headgear</OGAMHeadgear.label>
+             <!-- Mechanicus Armour Addons -->
+<OGAMAddons.label>Mechanicus Armour Addons</OGAMAddons.label>
+              <!-- Mechanicus Wargear -->
+<OGAMWargear.label>Mechanicus Wargear</OGAMWargear.label>
+              <!-- Sororitas Weapons -->
+<OGASWeapons.label>Sororitas Weapons</OGASWeapons.label>
+             <!-- Sororitas Ranged Weapons -->
+<OGASRanged.label>Sororitas Ranged Weapons</OGASRanged.label>
+          <!-- Adeptus Sororitas -->
+<OGASSub.label>Adeptus Sororitas</OGASSub.label>
+              <!-- Clothing -->
+<OGASApparel.label>Clothing</OGASApparel.label>
+             <!-- Armour -->
+<OGASArmour.label>Armour</OGASArmour.label>
+               <!-- Headgear -->
+<OGASHeadgear.label>Headgear</OGASHeadgear.label>
+             <!-- Eldar Weapons -->
+<OGEWeapons.label>Eldar Weapons</OGEWeapons.label>
+            <!-- Eldar Ranged Weapons -->
+<OGERanged.label>Eldar Ranged Weapons</OGERanged.label>
+           <!-- Eldar Melee Weapons -->
+<OGEMelee.label>Eldar Melee Weapons</OGEMelee.label>
+                  <!-- mortar shells -->
+<OGEMortarShells.label>mortar shells</OGEMortarShells.label>
+              <!-- Dark Eldar Weapons -->
+<OGDEWeapons.label>Dark Eldar Weapons</OGDEWeapons.label>
+             <!-- Dark Eldar Ranged Weapons -->
+<OGDERanged.label>Dark Eldar Ranged Weapons</OGDERanged.label>
+            <!-- Dark Eldar Melee Weapons -->
+<OGDEMelee.label>Dark Eldar Melee Weapons</OGDEMelee.label>
+             <!-- Tau Weapons -->
+<OGTWeapons.label>Tau Weapons</OGTWeapons.label>
+            <!-- Tau Ranged Weapons -->
+<OGTRanged.label>Tau Ranged Weapons</OGTRanged.label>
+           <!-- Tau Melee Weapons -->
+<OGTMelee.label>Tau Melee Weapons</OGTMelee.label>
+            <!-- Kroot Ranged Weapons -->
+<OGKRanged.label>Kroot Ranged Weapons</OGKRanged.label>
+           <!-- Kroot Melee Weapons -->
+<OGKMelee.label>Kroot Melee Weapons</OGKMelee.label>
+             <!-- Chaos Weapons -->
+<OGCWeapons.label>Chaos Weapons</OGCWeapons.label>
+            <!-- Chaos Ranged Weapons -->
+<OGCRanged.label>Chaos Ranged Weapons</OGCRanged.label>
+           <!-- Chaos Melee Weapons -->
+<OGCMelee.label>Chaos Melee Weapons</OGCMelee.label>
+             <!-- Ork Weapons -->
+<OGOWeapons.label>Ork Weapons</OGOWeapons.label>
+            <!-- Ork Ranged Weapons -->
+<OGORanged.label>Ork Ranged Weapons</OGORanged.label>
+           <!-- Ork Melee Weapons -->
+<OGOMelee.label>Ork Melee Weapons</OGOMelee.label>
+             <!-- Necron Weapons -->
+<OGNWeapons.label>Necron Weapons</OGNWeapons.label>
+            <!-- Necron Ranged Weapons -->
+<OGNRanged.label>Necron Ranged Weapons</OGNRanged.label>
+           <!-- Necron Melee Weapons -->
+<OGNMelee.label>Necron Melee Weapons</OGNMelee.label>
+
+
+<!--/Defs/ThingCategoryDefs/OG_AMA_ThingCategories.xml.bak-->
+<!-- Armour Addons -->
+<OGIAddons.label>Armour Addons</OGIAddons.label>
+<!-- Wargear -->
+<OGIWargear.label>Wargear</OGIWargear.label>
+<!-- Imperial Weapons -->
+<OGIWeapons.label>Imperial Weapons</OGIWeapons.label>
+<!-- Imperial Ranged Weapons -->
+<OGIRanged.label>Imperial Ranged Weapons</OGIRanged.label>
+<!-- Imperial Melee Weapons -->
+<OGIMelee.label>Imperial Melee Weapons</OGIMelee.label>
+<!-- Imperial Grenades -->
+<OGIGrens.label>Imperial Grenades</OGIGrens.label>
+<!-- Chaos Weapons -->
+<OGCWeapons.label>Chaos Weapons</OGCWeapons.label>
+<!-- Chaos Ranged Weapons -->
+<OGCRanged.label>Chaos Ranged Weapons</OGCRanged.label>
+<!-- Chaos Melee Weapons -->
+<OGCMelee.label>Chaos Melee Weapons</OGCMelee.label>
+<!-- Chaos Grenades -->
+<OGCGrens.label>Chaos Grenades</OGCGrens.label>
+<!-- Eldar Weapons -->
+<OGEWeapons.label>Eldar Weapons</OGEWeapons.label>
+<!-- Eldar Ranged Weapons -->
+<OGERanged.label>Eldar Ranged Weapons</OGERanged.label>
+<!-- Eldar Melee Weapons -->
+<OGEMelee.label>Eldar Melee Weapons</OGEMelee.label>
+<!-- Eldar Grenades -->
+<OGEGrens.label>Eldar Grenades</OGEGrens.label>
+<!-- Ork Weapons -->
+<OGOWeapons.label>Ork Weapons</OGOWeapons.label>
+<!-- Ork Ranged Weapons -->
+<OGORanged.label>Ork Ranged Weapons</OGORanged.label>
+<!-- Ork Melee Weapons -->
+<OGOMelee.label>Ork Melee Weapons</OGOMelee.label>
+<!-- Ork Grenades -->
+<OGOGrens.label>Ork Grenades</OGOGrens.label>
+<!-- Necron Weapons -->
+<OGNWeapons.label>Necron Weapons</OGNWeapons.label>
+<!-- Necron Ranged Weapons -->
+<OGNRanged.label>Necron Ranged Weapons</OGNRanged.label>
+<!-- Mechanicus Weapons -->
+<OGAMWeapons.label>Mechanicus Weapons</OGAMWeapons.label>
+<!-- Mechanicus Ranged Weapons -->
+<OGAMRanged.label>Mechanicus Ranged Weapons</OGAMRanged.label>
+<!-- Mechanicus Melee Weapons -->
+<OGAMMelee.label>Mechanicus Melee Weapons</OGAMMelee.label>
+<!-- Tau Weapons -->
+<OGTWeapons.label>Tau Weapons</OGTWeapons.label>
+<!-- Tau Ranged Weapons -->
+<OGTRanged.label>Tau Ranged Weapons</OGTRanged.label>
+<!-- Tau Melee Weapons -->
+<OGTMelee.label>Tau Melee Weapons</OGTMelee.label>
+<!-- Tau Grenades -->
+<OGTGrens.label>Tau Grenades</OGTGrens.label>
+<!-- Kroot Ranged Weapons -->
+<OGKRanged.label>Kroot Ranged Weapons</OGKRanged.label>
+<!-- Tau Armour -->
+<OGTArmour.label>Tau Armour</OGTArmour.label>
+<!-- Tau Headgear -->
+<OGTHeadgear.label>Tau Headgear</OGTHeadgear.label>
+<!-- Ork Armour -->
+<OGOArmour.label>Ork Armour</OGOArmour.label>
+<!-- Ork Headgear -->
+<OGOHeadgear.label>Ork Headgear</OGOHeadgear.label>
+
+</LanguageData>

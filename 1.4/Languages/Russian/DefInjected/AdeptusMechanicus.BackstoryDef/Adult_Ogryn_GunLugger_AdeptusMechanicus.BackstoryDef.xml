@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/BackstoryDefs/Imperium Backstories/Militarum/Ogryn/Adult_Ogryn_GunLugger.xml-->
+                              <!-- ogryn gun lugger -->
+<OG_Imperial_Ogryn_GunLugger.title>ogryn gun lugger</OG_Imperial_Ogryn_GunLugger.title>
+                                 <!-- [PAWN_nameDef] enjoys the act of firing [PAWN_possessive] weapon regardless of whether or not [PAWN_pronoun] is accurate. Instead [PAWN_nameDef] finds the enjoyment of the raw destructive power of [PAWN_possessive] weapon. Due to this fact [PAWN_nameDef] was given the biggest weapon to support [PAWN_possessive] squad.
+
++2 Shooting
+-2 Melee -->
+<OG_Imperial_Ogryn_GunLugger.baseDesc>[PAWN_nameDef] enjoys the act of firing [PAWN_possessive] weapon regardless of whether or not [PAWN_pronoun] is accurate. Instead [PAWN_nameDef] finds the enjoyment of the raw destructive power of [PAWN_possessive] weapon. Due to this fact [PAWN_nameDef] was given the biggest weapon to support [PAWN_possessive] squad.\n\n+2 Shooting\n-2 Melee</OG_Imperial_Ogryn_GunLugger.baseDesc>
+
+</LanguageData>

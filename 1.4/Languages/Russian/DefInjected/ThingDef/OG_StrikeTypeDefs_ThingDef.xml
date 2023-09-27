@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/OrdnanceStrikes/OG_StrikeTypeDefs.xml-->
+                             <!-- ordnance -->
+<OG_IncomingArtilleryStrike.label>ordnance</OG_IncomingArtilleryStrike.label>
+                       <!-- strikeship -->
+<OG_IncomingAirStrike.label>strikeship</OG_IncomingAirStrike.label>
+                                <!-- lance strike -->
+<OG_IncomingOrbitalLanceStrike.label>lance strike</OG_IncomingOrbitalLanceStrike.label>
+                           <!-- bombardment -->
+<OG_IncomingOrbitalStrike.label>bombardment</OG_IncomingOrbitalStrike.label>
+
+</LanguageData>

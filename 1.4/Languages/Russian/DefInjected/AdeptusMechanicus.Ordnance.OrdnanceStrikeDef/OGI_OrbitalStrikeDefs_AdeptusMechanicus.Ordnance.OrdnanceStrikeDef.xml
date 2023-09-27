@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/OrdnanceStrikes/OrbitalStrikeDefs/OGI_OrbitalStrikeDefs.xml-->
+                                  <!-- high explosive shell salvos -->
+<OGI_Orbitalstrike_MacroCannonHE.label>high explosive shell salvos</OGI_Orbitalstrike_MacroCannonHE.label>
+                                        <!-- Salvos of high explosive shells are fired. -->
+<OGI_Orbitalstrike_MacroCannonHE.description>Salvos of high explosive shells are fired.</OGI_Orbitalstrike_MacroCannonHE.description>
+                                      <!-- Plasma salvos -->
+<OGI_Orbitalstrike_MacroCannonPlasma.label>Plasma salvos</OGI_Orbitalstrike_MacroCannonPlasma.label>
+                                            <!-- variant of plasma macroweaponry that fires superheated plasma rather than a ballistic shell. This variant refocuses the power of the plasma "blast," concentrating it into a compressed photonic packet that can be fired accurately over extremely long distances, though its blast radius is reduced.
+
+		2 Salvos of high enegry Plasma are fired. -->
+<OGI_Orbitalstrike_MacroCannonPlasma.description>variant of plasma macroweaponry that fires superheated plasma rather than a ballistic shell. This variant refocuses the power of the plasma "blast," concentrating it into a compressed photonic packet that can be fired accurately over extremely long distances, though its blast radius is reduced.\n
+		2 Salvos of high enegry Plasma are fired.</OGI_Orbitalstrike_MacroCannonPlasma.description>
+                          <!-- lance battery salvos -->
+<OGI_Orbitalstrike_Lance.label>lance battery salvos</OGI_Orbitalstrike_Lance.label>
+                                <!-- Salvos of lances are fired. -->
+<OGI_Orbitalstrike_Lance.description>Salvos of lances are fired.</OGI_Orbitalstrike_Lance.description>
+
+</LanguageData>

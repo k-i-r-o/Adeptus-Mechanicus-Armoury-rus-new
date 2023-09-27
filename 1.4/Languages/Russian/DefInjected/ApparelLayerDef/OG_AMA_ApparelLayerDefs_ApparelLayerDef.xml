@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/Misc/ApparelLayerDefs/OG_AMA_ApparelLayerDefs.xml-->
+                  <!-- OG_OnSkin_Under -->
+<OG_OnSkin_Under.label>OG_OnSkin_Under</OG_OnSkin_Under.label>
+                 <!-- OG_OnSkin_Over -->
+<OG_OnSkin_Over.label>OG_OnSkin_Over</OG_OnSkin_Over.label>
+                      <!-- middle slot -->
+<OG_Middle_Equipment.label>middle slot</OG_Middle_Equipment.label>
+                     <!-- outer slot -->
+<OG_Shell_Equipment.label>outer slot</OG_Shell_Equipment.label>
+                    <!-- Wargear slot 1 -->
+<OG_Belt_Wargear_1.label>Wargear slot 1</OG_Belt_Wargear_1.label>
+                    <!-- Wargear slot 2 -->
+<OG_Belt_Wargear_2.label>Wargear slot 2</OG_Belt_Wargear_2.label>
+                    <!-- Wargear slot 3 -->
+<OG_Belt_Wargear_3.label>Wargear slot 3</OG_Belt_Wargear_3.label>
+                 <!-- Shell extras -->
+<OG_Shell_Extra.label>Shell extras</OG_Shell_Extra.label>
+                 <!-- Shell extras -->
+<OG_Shell_Cloak.label>Shell extras</OG_Shell_Cloak.label>
+                          <!-- headgear slot -->
+<OG_Overhead_UnderHelmet.label>headgear slot</OG_Overhead_UnderHelmet.label>
+                        <!-- headgear slot -->
+<OG_Overhead_Equipment.label>headgear slot</OG_Overhead_Equipment.label>
+
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/OrdnanceStrikes/AirStrikeDefs/OGE_AirStrikeDefs.xml-->
+                                     <!-- large shuriken -->
+<OGE_AirstrikeBullet_ShurikenCannon.label>large shuriken</OGE_AirstrikeBullet_ShurikenCannon.label>
+                                 <!-- Star Bolt -->
+<OGE_AirstrikeBullet_StarCannon.label>Star Bolt</OGE_AirstrikeBullet_StarCannon.label>
+                                  <!-- darklight beam -->
+<OGE_AirstrikeBullet_Brightlance.label>darklight beam</OGE_AirstrikeBullet_Brightlance.label>
+
+</LanguageData>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/HediffDefs/OG_AMA_Hediffs_Local_Injuries.xml-->
+                              <!-- description -->
+<OG_Hediff_Burn_Plasma.description>description</OG_Hediff_Burn_Plasma.description>
+                        <!-- plasma burn -->
+<OG_Hediff_Burn_Plasma.label>plasma burn</OG_Hediff_Burn_Plasma.label>
+                            <!-- a plasma burn -->
+<OG_Hediff_Burn_Plasma.labelNoun>a plasma burn</OG_Hediff_Burn_Plasma.labelNoun>
+                                                                <!-- bandaged -->
+<OG_Hediff_Burn_Plasma.comps.HediffComp_TendDuration.labelTendedWell>bandaged</OG_Hediff_Burn_Plasma.comps.HediffComp_TendDuration.labelTendedWell>
+                                                                     <!-- sutured -->
+<OG_Hediff_Burn_Plasma.comps.HediffComp_TendDuration.labelTendedWellInner>sutured</OG_Hediff_Burn_Plasma.comps.HediffComp_TendDuration.labelTendedWellInner>
+                                                                     <!-- set -->
+<OG_Hediff_Burn_Plasma.comps.HediffComp_TendDuration.labelSolidTendedWell>set</OG_Hediff_Burn_Plasma.comps.HediffComp_TendDuration.labelSolidTendedWell>
+                                                                <!-- plasma burn scar -->
+<OG_Hediff_Burn_Plasma.comps.HediffComp_GetsPermanent.permanentLabel>plasma burn scar</OG_Hediff_Burn_Plasma.comps.HediffComp_GetsPermanent.permanentLabel>
+                                             <!-- Burned away -->
+<OG_Hediff_Burn_Plasma.injuryProps.destroyedLabel>Burned away</OG_Hediff_Burn_Plasma.injuryProps.destroyedLabel>
+                                                <!-- Burned away -->
+<OG_Hediff_Burn_Plasma.injuryProps.destroyedOutLabel>Burned away</OG_Hediff_Burn_Plasma.injuryProps.destroyedOutLabel>
+                             <!-- description -->
+<OG_Hediff_Burn_Laser.description>description</OG_Hediff_Burn_Laser.description>
+                       <!-- las-burn -->
+<OG_Hediff_Burn_Laser.label>las-burn</OG_Hediff_Burn_Laser.label>
+                           <!-- a laser burn -->
+<OG_Hediff_Burn_Laser.labelNoun>a laser burn</OG_Hediff_Burn_Laser.labelNoun>
+                                                               <!-- bandaged -->
+<OG_Hediff_Burn_Laser.comps.HediffComp_TendDuration.labelTendedWell>bandaged</OG_Hediff_Burn_Laser.comps.HediffComp_TendDuration.labelTendedWell>
+                                                                    <!-- sutured -->
+<OG_Hediff_Burn_Laser.comps.HediffComp_TendDuration.labelTendedWellInner>sutured</OG_Hediff_Burn_Laser.comps.HediffComp_TendDuration.labelTendedWellInner>
+                                                                    <!-- set -->
+<OG_Hediff_Burn_Laser.comps.HediffComp_TendDuration.labelSolidTendedWell>set</OG_Hediff_Burn_Laser.comps.HediffComp_TendDuration.labelSolidTendedWell>
+                                                               <!-- old las gunshot -->
+<OG_Hediff_Burn_Laser.comps.HediffComp_GetsPermanent.permanentLabel>old las gunshot</OG_Hediff_Burn_Laser.comps.HediffComp_GetsPermanent.permanentLabel>
+                                                                        <!-- permanent las gunshot injury -->
+<OG_Hediff_Burn_Laser.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>permanent las gunshot injury</OG_Hediff_Burn_Laser.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>
+                                            <!-- Burned off -->
+<OG_Hediff_Burn_Laser.injuryProps.destroyedLabel>Burned off</OG_Hediff_Burn_Laser.injuryProps.destroyedLabel>
+                                               <!-- Burned out -->
+<OG_Hediff_Burn_Laser.injuryProps.destroyedOutLabel>Burned out</OG_Hediff_Burn_Laser.injuryProps.destroyedOutLabel>
+                             <!-- description -->
+<OG_Hediff_Burn_Melta.description>description</OG_Hediff_Burn_Melta.description>
+                       <!-- meltaburn -->
+<OG_Hediff_Burn_Melta.label>meltaburn</OG_Hediff_Burn_Melta.label>
+                           <!-- a melta burn -->
+<OG_Hediff_Burn_Melta.labelNoun>a melta burn</OG_Hediff_Burn_Melta.labelNoun>
+                                                               <!-- bandaged -->
+<OG_Hediff_Burn_Melta.comps.HediffComp_TendDuration.labelTendedWell>bandaged</OG_Hediff_Burn_Melta.comps.HediffComp_TendDuration.labelTendedWell>
+                                                                    <!-- sutured -->
+<OG_Hediff_Burn_Melta.comps.HediffComp_TendDuration.labelTendedWellInner>sutured</OG_Hediff_Burn_Melta.comps.HediffComp_TendDuration.labelTendedWellInner>
+                                                                    <!-- set -->
+<OG_Hediff_Burn_Melta.comps.HediffComp_TendDuration.labelSolidTendedWell>set</OG_Hediff_Burn_Melta.comps.HediffComp_TendDuration.labelSolidTendedWell>
+                                                               <!-- melta burn scar -->
+<OG_Hediff_Burn_Melta.comps.HediffComp_GetsPermanent.permanentLabel>melta burn scar</OG_Hediff_Burn_Melta.comps.HediffComp_GetsPermanent.permanentLabel>
+                                            <!-- Incinerated -->
+<OG_Hediff_Burn_Melta.injuryProps.destroyedLabel>Incinerated</OG_Hediff_Burn_Melta.injuryProps.destroyedLabel>
+                                               <!-- Incinerated -->
+<OG_Hediff_Burn_Melta.injuryProps.destroyedOutLabel>Incinerated</OG_Hediff_Burn_Melta.injuryProps.destroyedOutLabel>
+                           <!-- description -->
+<OG_Burn_Electrical.description>description</OG_Burn_Electrical.description>
+                     <!-- electrical burn -->
+<OG_Burn_Electrical.label>electrical burn</OG_Burn_Electrical.label>
+                         <!-- an electrical burn -->
+<OG_Burn_Electrical.labelNoun>an electrical burn</OG_Burn_Electrical.labelNoun>
+                                                             <!-- bandaged -->
+<OG_Burn_Electrical.comps.HediffComp_TendDuration.labelTendedWell>bandaged</OG_Burn_Electrical.comps.HediffComp_TendDuration.labelTendedWell>
+                                                                  <!-- sutured -->
+<OG_Burn_Electrical.comps.HediffComp_TendDuration.labelTendedWellInner>sutured</OG_Burn_Electrical.comps.HediffComp_TendDuration.labelTendedWellInner>
+                                                                  <!-- set -->
+<OG_Burn_Electrical.comps.HediffComp_TendDuration.labelSolidTendedWell>set</OG_Burn_Electrical.comps.HediffComp_TendDuration.labelSolidTendedWell>
+                                                             <!-- electrical burn scar -->
+<OG_Burn_Electrical.comps.HediffComp_GetsPermanent.permanentLabel>electrical burn scar</OG_Burn_Electrical.comps.HediffComp_GetsPermanent.permanentLabel>
+                                          <!-- Burned away -->
+<OG_Burn_Electrical.injuryProps.destroyedLabel>Burned away</OG_Burn_Electrical.injuryProps.destroyedLabel>
+                                             <!-- Burned away -->
+<OG_Burn_Electrical.injuryProps.destroyedOutLabel>Burned away</OG_Burn_Electrical.injuryProps.destroyedOutLabel>
+                          <!-- description -->
+<OG_Gunshot_Radium.description>description</OG_Gunshot_Radium.description>
+                    <!-- gunshot -->
+<OG_Gunshot_Radium.label>gunshot</OG_Gunshot_Radium.label>
+                        <!-- an irradiated gunshot -->
+<OG_Gunshot_Radium.labelNoun>an irradiated gunshot</OG_Gunshot_Radium.labelNoun>
+                                                            <!-- bandaged -->
+<OG_Gunshot_Radium.comps.HediffComp_TendDuration.labelTendedWell>bandaged</OG_Gunshot_Radium.comps.HediffComp_TendDuration.labelTendedWell>
+                                                                 <!-- sutured -->
+<OG_Gunshot_Radium.comps.HediffComp_TendDuration.labelTendedWellInner>sutured</OG_Gunshot_Radium.comps.HediffComp_TendDuration.labelTendedWellInner>
+                                                                 <!-- set -->
+<OG_Gunshot_Radium.comps.HediffComp_TendDuration.labelSolidTendedWell>set</OG_Gunshot_Radium.comps.HediffComp_TendDuration.labelSolidTendedWell>
+                                                            <!-- irradiated scar -->
+<OG_Gunshot_Radium.comps.HediffComp_GetsPermanent.permanentLabel>irradiated scar</OG_Gunshot_Radium.comps.HediffComp_GetsPermanent.permanentLabel>
+                                         <!-- Shot Off -->
+<OG_Gunshot_Radium.injuryProps.destroyedLabel>Shot Off</OG_Gunshot_Radium.injuryProps.destroyedLabel>
+                                            <!-- Shot Out -->
+<OG_Gunshot_Radium.injuryProps.destroyedOutLabel>Shot Out</OG_Gunshot_Radium.injuryProps.destroyedOutLabel>
+                            <!-- description -->
+<OG_Gunshot_Galvanic.description>description</OG_Gunshot_Galvanic.description>
+                      <!-- galvanic gunshot -->
+<OG_Gunshot_Galvanic.label>galvanic gunshot</OG_Gunshot_Galvanic.label>
+                          <!-- a galvanic gunshot -->
+<OG_Gunshot_Galvanic.labelNoun>a galvanic gunshot</OG_Gunshot_Galvanic.labelNoun>
+                                                              <!-- bandaged -->
+<OG_Gunshot_Galvanic.comps.HediffComp_TendDuration.labelTendedWell>bandaged</OG_Gunshot_Galvanic.comps.HediffComp_TendDuration.labelTendedWell>
+                                                                   <!-- sutured -->
+<OG_Gunshot_Galvanic.comps.HediffComp_TendDuration.labelTendedWellInner>sutured</OG_Gunshot_Galvanic.comps.HediffComp_TendDuration.labelTendedWellInner>
+                                                                   <!-- set -->
+<OG_Gunshot_Galvanic.comps.HediffComp_TendDuration.labelSolidTendedWell>set</OG_Gunshot_Galvanic.comps.HediffComp_TendDuration.labelSolidTendedWell>
+                                                              <!-- galvanic scar -->
+<OG_Gunshot_Galvanic.comps.HediffComp_GetsPermanent.permanentLabel>galvanic scar</OG_Gunshot_Galvanic.comps.HediffComp_GetsPermanent.permanentLabel>
+                                           <!-- Shot Off -->
+<OG_Gunshot_Galvanic.injuryProps.destroyedLabel>Shot Off</OG_Gunshot_Galvanic.injuryProps.destroyedLabel>
+                                              <!-- Shot Out -->
+<OG_Gunshot_Galvanic.injuryProps.destroyedOutLabel>Shot Out</OG_Gunshot_Galvanic.injuryProps.destroyedOutLabel>
+                               <!-- description -->
+<OG_Gunshot_Transuranic.description>description</OG_Gunshot_Transuranic.description>
+                         <!-- transuranic gunshot -->
+<OG_Gunshot_Transuranic.label>transuranic gunshot</OG_Gunshot_Transuranic.label>
+                             <!-- a transuranic gunshot -->
+<OG_Gunshot_Transuranic.labelNoun>a transuranic gunshot</OG_Gunshot_Transuranic.labelNoun>
+                                                                 <!-- bandaged -->
+<OG_Gunshot_Transuranic.comps.HediffComp_TendDuration.labelTendedWell>bandaged</OG_Gunshot_Transuranic.comps.HediffComp_TendDuration.labelTendedWell>
+                                                                      <!-- sutured -->
+<OG_Gunshot_Transuranic.comps.HediffComp_TendDuration.labelTendedWellInner>sutured</OG_Gunshot_Transuranic.comps.HediffComp_TendDuration.labelTendedWellInner>
+                                                                      <!-- set -->
+<OG_Gunshot_Transuranic.comps.HediffComp_TendDuration.labelSolidTendedWell>set</OG_Gunshot_Transuranic.comps.HediffComp_TendDuration.labelSolidTendedWell>
+                                                                 <!-- transuranic scar -->
+<OG_Gunshot_Transuranic.comps.HediffComp_GetsPermanent.permanentLabel>transuranic scar</OG_Gunshot_Transuranic.comps.HediffComp_GetsPermanent.permanentLabel>
+                                              <!-- Shot Off -->
+<OG_Gunshot_Transuranic.injuryProps.destroyedLabel>Shot Off</OG_Gunshot_Transuranic.injuryProps.destroyedLabel>
+                                                 <!-- Shot Out -->
+<OG_Gunshot_Transuranic.injuryProps.destroyedOutLabel>Shot Out</OG_Gunshot_Transuranic.injuryProps.destroyedOutLabel>
+                         <!-- description -->
+<OG_Gunshot_Gauss.description>description</OG_Gunshot_Gauss.description>
+                   <!-- gauss wound -->
+<OG_Gunshot_Gauss.label>gauss wound</OG_Gunshot_Gauss.label>
+                       <!-- a guass wound -->
+<OG_Gunshot_Gauss.labelNoun>a guass wound</OG_Gunshot_Gauss.labelNoun>
+                                                           <!-- bandaged -->
+<OG_Gunshot_Gauss.comps.HediffComp_TendDuration.labelTendedWell>bandaged</OG_Gunshot_Gauss.comps.HediffComp_TendDuration.labelTendedWell>
+                                                                <!-- sutured -->
+<OG_Gunshot_Gauss.comps.HediffComp_TendDuration.labelTendedWellInner>sutured</OG_Gunshot_Gauss.comps.HediffComp_TendDuration.labelTendedWellInner>
+                                                                <!-- set -->
+<OG_Gunshot_Gauss.comps.HediffComp_TendDuration.labelSolidTendedWell>set</OG_Gunshot_Gauss.comps.HediffComp_TendDuration.labelSolidTendedWell>
+                                                           <!-- flaying scar -->
+<OG_Gunshot_Gauss.comps.HediffComp_GetsPermanent.permanentLabel>flaying scar</OG_Gunshot_Gauss.comps.HediffComp_GetsPermanent.permanentLabel>
+                                        <!-- Disintegrated -->
+<OG_Gunshot_Gauss.injuryProps.destroyedLabel>Disintegrated</OG_Gunshot_Gauss.injuryProps.destroyedLabel>
+                                           <!-- Disintegrated -->
+<OG_Gunshot_Gauss.injuryProps.destroyedOutLabel>Disintegrated</OG_Gunshot_Gauss.injuryProps.destroyedOutLabel>
+                            <!-- description -->
+<OG_Gunshot_Splinter.description>description</OG_Gunshot_Splinter.description>
+                      <!-- a splintershot wound -->
+<OG_Gunshot_Splinter.label>a splintershot wound</OG_Gunshot_Splinter.label>
+                          <!-- a splintershot wound -->
+<OG_Gunshot_Splinter.labelNoun>a splintershot wound</OG_Gunshot_Splinter.labelNoun>
+                                                              <!-- bandaged -->
+<OG_Gunshot_Splinter.comps.HediffComp_TendDuration.labelTendedWell>bandaged</OG_Gunshot_Splinter.comps.HediffComp_TendDuration.labelTendedWell>
+                                                                   <!-- sutured -->
+<OG_Gunshot_Splinter.comps.HediffComp_TendDuration.labelTendedWellInner>sutured</OG_Gunshot_Splinter.comps.HediffComp_TendDuration.labelTendedWellInner>
+                                                                   <!-- set -->
+<OG_Gunshot_Splinter.comps.HediffComp_TendDuration.labelSolidTendedWell>set</OG_Gunshot_Splinter.comps.HediffComp_TendDuration.labelSolidTendedWell>
+                                                              <!-- old splintershot -->
+<OG_Gunshot_Splinter.comps.HediffComp_GetsPermanent.permanentLabel>old splintershot</OG_Gunshot_Splinter.comps.HediffComp_GetsPermanent.permanentLabel>
+                                                                       <!-- permanent splintershot injury -->
+<OG_Gunshot_Splinter.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>permanent splintershot injury</OG_Gunshot_Splinter.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>
+                                           <!-- Shot off -->
+<OG_Gunshot_Splinter.injuryProps.destroyedLabel>Shot off</OG_Gunshot_Splinter.injuryProps.destroyedLabel>
+                                              <!-- Shot out -->
+<OG_Gunshot_Splinter.injuryProps.destroyedOutLabel>Shot out</OG_Gunshot_Splinter.injuryProps.destroyedOutLabel>
+
+</LanguageData>

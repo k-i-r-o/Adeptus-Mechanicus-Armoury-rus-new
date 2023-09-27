@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/BackstoryDefs/Imperium Backstories/Mechanicus/Hive_Forge_Worker.xml-->
+                                <!-- hive smith -->
+<OG_Imperial_Hive_Forge_Worker.title>hive smith</OG_Imperial_Hive_Forge_Worker.title>
+                                     <!-- hive smith -->
+<OG_Imperial_Hive_Forge_Worker.titleShort>hive smith</OG_Imperial_Hive_Forge_Worker.titleShort>
+                                   <!-- [PAWN_nameDef] weaved back and forth through their hive city to reach the forge every day. In the forge [PAWN_nameDef] worked on reducing materials down to their base components for reforging.  -->
+<OG_Imperial_Hive_Forge_Worker.baseDesc>[PAWN_nameDef] weaved back and forth through their hive city to reach the forge every day. In the forge [PAWN_nameDef] worked on reducing materials down to their base components for reforging. </OG_Imperial_Hive_Forge_Worker.baseDesc>
+
+</LanguageData>

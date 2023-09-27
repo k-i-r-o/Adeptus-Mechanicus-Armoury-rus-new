@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/OrdnanceStrikes/AirStrikeDefs/OGT_AirStrikeDefs.xml-->
+                                  <!-- burst cannon -->
+<OGT_AirstrikeWeapon_BurstCannon.label>burst cannon</OGT_AirstrikeWeapon_BurstCannon.label>
+                                  <!-- plasma rifle -->
+<OGT_AirstrikeWeapon_PlasmaRifle.label>plasma rifle</OGT_AirstrikeWeapon_PlasmaRifle.label>
+                              <!-- railgun -->
+<OGT_AirstrikeWeapon_Railgun.label>railgun</OGT_AirstrikeWeapon_Railgun.label>
+                                   <!-- multi missile -->
+<OGT_AirstrikeWeapon_MultiMissile.label>multi missile</OGT_AirstrikeWeapon_MultiMissile.label>
+
+</LanguageData>

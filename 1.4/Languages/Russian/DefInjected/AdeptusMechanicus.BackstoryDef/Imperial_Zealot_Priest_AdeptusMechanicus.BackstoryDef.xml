@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/BackstoryDefs/Imperium Backstories/Sororitas/Imperial_Zealot_Priest.xml-->
+                            <!-- Zealot Priest -->
+<OG_Imperial_Zealot_Priest.title>Zealot Priest</OG_Imperial_Zealot_Priest.title>
+                               <!-- [PAWN_nameDef] used to bring the Emperor's Light to the teaming masses of the Underhives and his Wrath to the mutants also dwelling therein. Now he has heard the call to travel with the Sisters to the Rimworlds to spread the Emperor's Will. -->
+<OG_Imperial_Zealot_Priest.baseDesc>[PAWN_nameDef] used to bring the Emperor's Light to the teaming masses of the Underhives and his Wrath to the mutants also dwelling therein. Now he has heard the call to travel with the Sisters to the Rimworlds to spread the Emperor's Will.</OG_Imperial_Zealot_Priest.baseDesc>
+
+</LanguageData>

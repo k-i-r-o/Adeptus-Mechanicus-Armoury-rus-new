@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/Bodies/OG_AMA_Bodies_Mechanoid.xml.bak-->
+                    <!-- scarab swarm -->
+<NecronScarabSwarm.label>scarab swarm</NecronScarabSwarm.label>
+                                                   <!-- left sight sensor -->
+<NecronScarabSwarm.corePart.parts.0.parts.1.customLabel>left sight sensor</NecronScarabSwarm.corePart.parts.0.parts.1.customLabel>
+                                                   <!-- right sight sensor -->
+<NecronScarabSwarm.corePart.parts.0.parts.2.customLabel>right sight sensor</NecronScarabSwarm.corePart.parts.0.parts.2.customLabel>
+                                                   <!-- left hearing sensor -->
+<NecronScarabSwarm.corePart.parts.0.parts.3.customLabel>left hearing sensor</NecronScarabSwarm.corePart.parts.0.parts.3.customLabel>
+                                                   <!-- right hearing sensor -->
+<NecronScarabSwarm.corePart.parts.0.parts.4.customLabel>right hearing sensor</NecronScarabSwarm.corePart.parts.0.parts.4.customLabel>
+                                                   <!-- right blade -->
+<NecronScarabSwarm.corePart.parts.0.parts.6.customLabel>right blade</NecronScarabSwarm.corePart.parts.0.parts.6.customLabel>
+                                                   <!-- left blade -->
+<NecronScarabSwarm.corePart.parts.0.parts.7.customLabel>left blade</NecronScarabSwarm.corePart.parts.0.parts.7.customLabel>
+                  <!-- necron destroyer -->
+<NecronDestroyer.label>necron destroyer</NecronDestroyer.label>
+                                                         <!-- left sight sensor -->
+<NecronDestroyer.corePart.parts.0.parts.0.parts.1.customLabel>left sight sensor</NecronDestroyer.corePart.parts.0.parts.0.parts.1.customLabel>
+                                                         <!-- right sight sensor -->
+<NecronDestroyer.corePart.parts.0.parts.0.parts.2.customLabel>right sight sensor</NecronDestroyer.corePart.parts.0.parts.0.parts.2.customLabel>
+                                                         <!-- left hearing sensor -->
+<NecronDestroyer.corePart.parts.0.parts.0.parts.3.customLabel>left hearing sensor</NecronDestroyer.corePart.parts.0.parts.0.parts.3.customLabel>
+                                                         <!-- right hearing sensor -->
+<NecronDestroyer.corePart.parts.0.parts.0.parts.4.customLabel>right hearing sensor</NecronDestroyer.corePart.parts.0.parts.0.parts.4.customLabel>
+                                         <!-- left shoulder -->
+<NecronDestroyer.corePart.parts.1.customLabel>left shoulder</NecronDestroyer.corePart.parts.1.customLabel>
+                                                 <!-- left arm -->
+<NecronDestroyer.corePart.parts.1.parts.0.customLabel>left arm</NecronDestroyer.corePart.parts.1.parts.0.customLabel>
+                                                         <!-- left hand -->
+<NecronDestroyer.corePart.parts.1.parts.0.parts.0.customLabel>left hand</NecronDestroyer.corePart.parts.1.parts.0.parts.0.customLabel>
+                                                                 <!-- left pinky -->
+<NecronDestroyer.corePart.parts.1.parts.0.parts.0.parts.0.customLabel>left pinky</NecronDestroyer.corePart.parts.1.parts.0.parts.0.parts.0.customLabel>
+                                                                 <!-- left middle finger -->
+<NecronDestroyer.corePart.parts.1.parts.0.parts.0.parts.1.customLabel>left middle finger</NecronDestroyer.corePart.parts.1.parts.0.parts.0.parts.1.customLabel>
+                                                                 <!-- left index finger -->
+<NecronDestroyer.corePart.parts.1.parts.0.parts.0.parts.2.customLabel>left index finger</NecronDestroyer.corePart.parts.1.parts.0.parts.0.parts.2.customLabel>
+                                                                 <!-- left thumb -->
+<NecronDestroyer.corePart.parts.1.parts.0.parts.0.parts.3.customLabel>left thumb</NecronDestroyer.corePart.parts.1.parts.0.parts.0.parts.3.customLabel>
+                                         <!-- right mechanical shoulder -->
+<NecronDestroyer.corePart.parts.2.customLabel>right mechanical shoulder</NecronDestroyer.corePart.parts.2.customLabel>
+                                                 <!-- right arm -->
+<NecronDestroyer.corePart.parts.2.parts.0.customLabel>right arm</NecronDestroyer.corePart.parts.2.parts.0.customLabel>
+                                                         <!-- right hand -->
+<NecronDestroyer.corePart.parts.2.parts.0.parts.0.customLabel>right hand</NecronDestroyer.corePart.parts.2.parts.0.parts.0.customLabel>
+                                                                 <!-- right pinky -->
+<NecronDestroyer.corePart.parts.2.parts.0.parts.0.parts.0.customLabel>right pinky</NecronDestroyer.corePart.parts.2.parts.0.parts.0.parts.0.customLabel>
+                                                                 <!-- right middle finger -->
+<NecronDestroyer.corePart.parts.2.parts.0.parts.0.parts.1.customLabel>right middle finger</NecronDestroyer.corePart.parts.2.parts.0.parts.0.parts.1.customLabel>
+                                                                 <!-- right index finger -->
+<NecronDestroyer.corePart.parts.2.parts.0.parts.0.parts.2.customLabel>right index finger</NecronDestroyer.corePart.parts.2.parts.0.parts.0.parts.2.customLabel>
+                                                                 <!-- right thumb -->
+<NecronDestroyer.corePart.parts.2.parts.0.parts.0.parts.3.customLabel>right thumb</NecronDestroyer.corePart.parts.2.parts.0.parts.0.parts.3.customLabel>
+                                         <!-- left leg -->
+<NecronDestroyer.corePart.parts.3.customLabel>left leg</NecronDestroyer.corePart.parts.3.customLabel>
+                                                 <!-- left foot -->
+<NecronDestroyer.corePart.parts.3.parts.0.customLabel>left foot</NecronDestroyer.corePart.parts.3.parts.0.customLabel>
+                                         <!-- right leg -->
+<NecronDestroyer.corePart.parts.4.customLabel>right leg</NecronDestroyer.corePart.parts.4.customLabel>
+                                                 <!-- right foot -->
+<NecronDestroyer.corePart.parts.4.parts.0.customLabel>right foot</NecronDestroyer.corePart.parts.4.parts.0.customLabel>
+                <!-- necron warrior -->
+<NecronWarrior.label>necron warrior</NecronWarrior.label>
+                                                       <!-- left sight sensor -->
+<NecronWarrior.corePart.parts.0.parts.0.parts.1.customLabel>left sight sensor</NecronWarrior.corePart.parts.0.parts.0.parts.1.customLabel>
+                                                       <!-- right sight sensor -->
+<NecronWarrior.corePart.parts.0.parts.0.parts.2.customLabel>right sight sensor</NecronWarrior.corePart.parts.0.parts.0.parts.2.customLabel>
+                                                       <!-- left hearing sensor -->
+<NecronWarrior.corePart.parts.0.parts.0.parts.3.customLabel>left hearing sensor</NecronWarrior.corePart.parts.0.parts.0.parts.3.customLabel>
+                                                       <!-- right hearing sensor -->
+<NecronWarrior.corePart.parts.0.parts.0.parts.4.customLabel>right hearing sensor</NecronWarrior.corePart.parts.0.parts.0.parts.4.customLabel>
+                                       <!-- left shoulder -->
+<NecronWarrior.corePart.parts.1.customLabel>left shoulder</NecronWarrior.corePart.parts.1.customLabel>
+                                               <!-- left arm -->
+<NecronWarrior.corePart.parts.1.parts.0.customLabel>left arm</NecronWarrior.corePart.parts.1.parts.0.customLabel>
+                                                       <!-- left hand -->
+<NecronWarrior.corePart.parts.1.parts.0.parts.0.customLabel>left hand</NecronWarrior.corePart.parts.1.parts.0.parts.0.customLabel>
+                                                               <!-- left pinky -->
+<NecronWarrior.corePart.parts.1.parts.0.parts.0.parts.0.customLabel>left pinky</NecronWarrior.corePart.parts.1.parts.0.parts.0.parts.0.customLabel>
+                                                               <!-- left middle finger -->
+<NecronWarrior.corePart.parts.1.parts.0.parts.0.parts.1.customLabel>left middle finger</NecronWarrior.corePart.parts.1.parts.0.parts.0.parts.1.customLabel>
+                                                               <!-- left index finger -->
+<NecronWarrior.corePart.parts.1.parts.0.parts.0.parts.2.customLabel>left index finger</NecronWarrior.corePart.parts.1.parts.0.parts.0.parts.2.customLabel>
+                                                               <!-- left thumb -->
+<NecronWarrior.corePart.parts.1.parts.0.parts.0.parts.3.customLabel>left thumb</NecronWarrior.corePart.parts.1.parts.0.parts.0.parts.3.customLabel>
+                                       <!-- right mechanical shoulder -->
+<NecronWarrior.corePart.parts.2.customLabel>right mechanical shoulder</NecronWarrior.corePart.parts.2.customLabel>
+                                               <!-- right arm -->
+<NecronWarrior.corePart.parts.2.parts.0.customLabel>right arm</NecronWarrior.corePart.parts.2.parts.0.customLabel>
+                                                       <!-- right hand -->
+<NecronWarrior.corePart.parts.2.parts.0.parts.0.customLabel>right hand</NecronWarrior.corePart.parts.2.parts.0.parts.0.customLabel>
+                                                               <!-- right pinky -->
+<NecronWarrior.corePart.parts.2.parts.0.parts.0.parts.0.customLabel>right pinky</NecronWarrior.corePart.parts.2.parts.0.parts.0.parts.0.customLabel>
+                                                               <!-- right middle finger -->
+<NecronWarrior.corePart.parts.2.parts.0.parts.0.parts.1.customLabel>right middle finger</NecronWarrior.corePart.parts.2.parts.0.parts.0.parts.1.customLabel>
+                                                               <!-- right index finger -->
+<NecronWarrior.corePart.parts.2.parts.0.parts.0.parts.2.customLabel>right index finger</NecronWarrior.corePart.parts.2.parts.0.parts.0.parts.2.customLabel>
+                                                               <!-- right thumb -->
+<NecronWarrior.corePart.parts.2.parts.0.parts.0.parts.3.customLabel>right thumb</NecronWarrior.corePart.parts.2.parts.0.parts.0.parts.3.customLabel>
+                                       <!-- left leg -->
+<NecronWarrior.corePart.parts.3.customLabel>left leg</NecronWarrior.corePart.parts.3.customLabel>
+                                               <!-- left foot -->
+<NecronWarrior.corePart.parts.3.parts.0.customLabel>left foot</NecronWarrior.corePart.parts.3.parts.0.customLabel>
+                                       <!-- right leg -->
+<NecronWarrior.corePart.parts.4.customLabel>right leg</NecronWarrior.corePart.parts.4.customLabel>
+                                               <!-- right foot -->
+<NecronWarrior.corePart.parts.4.parts.0.customLabel>right foot</NecronWarrior.corePart.parts.4.parts.0.customLabel>
+                 <!-- eldar construct -->
+<EldarConstruct.label>eldar construct</EldarConstruct.label>
+                                                        <!-- left sight sensor -->
+<EldarConstruct.corePart.parts.0.parts.0.parts.1.customLabel>left sight sensor</EldarConstruct.corePart.parts.0.parts.0.parts.1.customLabel>
+                                                        <!-- right sight sensor -->
+<EldarConstruct.corePart.parts.0.parts.0.parts.2.customLabel>right sight sensor</EldarConstruct.corePart.parts.0.parts.0.parts.2.customLabel>
+                                                        <!-- left hearing sensor -->
+<EldarConstruct.corePart.parts.0.parts.0.parts.3.customLabel>left hearing sensor</EldarConstruct.corePart.parts.0.parts.0.parts.3.customLabel>
+                                                        <!-- right hearing sensor -->
+<EldarConstruct.corePart.parts.0.parts.0.parts.4.customLabel>right hearing sensor</EldarConstruct.corePart.parts.0.parts.0.parts.4.customLabel>
+                                        <!-- left shoulder -->
+<EldarConstruct.corePart.parts.1.customLabel>left shoulder</EldarConstruct.corePart.parts.1.customLabel>
+                                                <!-- left arm -->
+<EldarConstruct.corePart.parts.1.parts.0.customLabel>left arm</EldarConstruct.corePart.parts.1.parts.0.customLabel>
+                                                        <!-- left hand -->
+<EldarConstruct.corePart.parts.1.parts.0.parts.0.customLabel>left hand</EldarConstruct.corePart.parts.1.parts.0.parts.0.customLabel>
+                                                                <!-- left pinky -->
+<EldarConstruct.corePart.parts.1.parts.0.parts.0.parts.0.customLabel>left pinky</EldarConstruct.corePart.parts.1.parts.0.parts.0.parts.0.customLabel>
+                                                                <!-- left middle finger -->
+<EldarConstruct.corePart.parts.1.parts.0.parts.0.parts.1.customLabel>left middle finger</EldarConstruct.corePart.parts.1.parts.0.parts.0.parts.1.customLabel>
+                                                                <!-- left index finger -->
+<EldarConstruct.corePart.parts.1.parts.0.parts.0.parts.2.customLabel>left index finger</EldarConstruct.corePart.parts.1.parts.0.parts.0.parts.2.customLabel>
+                                                                <!-- left thumb -->
+<EldarConstruct.corePart.parts.1.parts.0.parts.0.parts.3.customLabel>left thumb</EldarConstruct.corePart.parts.1.parts.0.parts.0.parts.3.customLabel>
+                                        <!-- right mechanical shoulder -->
+<EldarConstruct.corePart.parts.2.customLabel>right mechanical shoulder</EldarConstruct.corePart.parts.2.customLabel>
+                                                <!-- right arm -->
+<EldarConstruct.corePart.parts.2.parts.0.customLabel>right arm</EldarConstruct.corePart.parts.2.parts.0.customLabel>
+                                                        <!-- right hand -->
+<EldarConstruct.corePart.parts.2.parts.0.parts.0.customLabel>right hand</EldarConstruct.corePart.parts.2.parts.0.parts.0.customLabel>
+                                                                <!-- right pinky -->
+<EldarConstruct.corePart.parts.2.parts.0.parts.0.parts.0.customLabel>right pinky</EldarConstruct.corePart.parts.2.parts.0.parts.0.parts.0.customLabel>
+                                                                <!-- right middle finger -->
+<EldarConstruct.corePart.parts.2.parts.0.parts.0.parts.1.customLabel>right middle finger</EldarConstruct.corePart.parts.2.parts.0.parts.0.parts.1.customLabel>
+                                                                <!-- right index finger -->
+<EldarConstruct.corePart.parts.2.parts.0.parts.0.parts.2.customLabel>right index finger</EldarConstruct.corePart.parts.2.parts.0.parts.0.parts.2.customLabel>
+                                                                <!-- right thumb -->
+<EldarConstruct.corePart.parts.2.parts.0.parts.0.parts.3.customLabel>right thumb</EldarConstruct.corePart.parts.2.parts.0.parts.0.parts.3.customLabel>
+                                        <!-- left leg -->
+<EldarConstruct.corePart.parts.3.customLabel>left leg</EldarConstruct.corePart.parts.3.customLabel>
+                                                <!-- left foot -->
+<EldarConstruct.corePart.parts.3.parts.0.customLabel>left foot</EldarConstruct.corePart.parts.3.parts.0.customLabel>
+                                        <!-- right leg -->
+<EldarConstruct.corePart.parts.4.customLabel>right leg</EldarConstruct.corePart.parts.4.customLabel>
+                                                <!-- right foot -->
+<EldarConstruct.corePart.parts.4.parts.0.customLabel>right foot</EldarConstruct.corePart.parts.4.parts.0.customLabel>
+                      <!-- mechanicus construct -->
+<MechanicusConstruct.label>mechanicus construct</MechanicusConstruct.label>
+                                                             <!-- left sight sensor -->
+<MechanicusConstruct.corePart.parts.0.parts.0.parts.1.customLabel>left sight sensor</MechanicusConstruct.corePart.parts.0.parts.0.parts.1.customLabel>
+                                                             <!-- right sight sensor -->
+<MechanicusConstruct.corePart.parts.0.parts.0.parts.2.customLabel>right sight sensor</MechanicusConstruct.corePart.parts.0.parts.0.parts.2.customLabel>
+                                                             <!-- left hearing sensor -->
+<MechanicusConstruct.corePart.parts.0.parts.0.parts.3.customLabel>left hearing sensor</MechanicusConstruct.corePart.parts.0.parts.0.parts.3.customLabel>
+                                                             <!-- right hearing sensor -->
+<MechanicusConstruct.corePart.parts.0.parts.0.parts.4.customLabel>right hearing sensor</MechanicusConstruct.corePart.parts.0.parts.0.parts.4.customLabel>
+                                             <!-- left shoulder -->
+<MechanicusConstruct.corePart.parts.1.customLabel>left shoulder</MechanicusConstruct.corePart.parts.1.customLabel>
+                                                     <!-- left arm -->
+<MechanicusConstruct.corePart.parts.1.parts.0.customLabel>left arm</MechanicusConstruct.corePart.parts.1.parts.0.customLabel>
+                                                             <!-- left hand -->
+<MechanicusConstruct.corePart.parts.1.parts.0.parts.0.customLabel>left hand</MechanicusConstruct.corePart.parts.1.parts.0.parts.0.customLabel>
+                                                                     <!-- left pinky -->
+<MechanicusConstruct.corePart.parts.1.parts.0.parts.0.parts.0.customLabel>left pinky</MechanicusConstruct.corePart.parts.1.parts.0.parts.0.parts.0.customLabel>
+                                                                     <!-- left middle finger -->
+<MechanicusConstruct.corePart.parts.1.parts.0.parts.0.parts.1.customLabel>left middle finger</MechanicusConstruct.corePart.parts.1.parts.0.parts.0.parts.1.customLabel>
+                                                                     <!-- left index finger -->
+<MechanicusConstruct.corePart.parts.1.parts.0.parts.0.parts.2.customLabel>left index finger</MechanicusConstruct.corePart.parts.1.parts.0.parts.0.parts.2.customLabel>
+                                                                     <!-- left thumb -->
+<MechanicusConstruct.corePart.parts.1.parts.0.parts.0.parts.3.customLabel>left thumb</MechanicusConstruct.corePart.parts.1.parts.0.parts.0.parts.3.customLabel>
+                                             <!-- right mechanical shoulder -->
+<MechanicusConstruct.corePart.parts.2.customLabel>right mechanical shoulder</MechanicusConstruct.corePart.parts.2.customLabel>
+                                                     <!-- right arm -->
+<MechanicusConstruct.corePart.parts.2.parts.0.customLabel>right arm</MechanicusConstruct.corePart.parts.2.parts.0.customLabel>
+                                                             <!-- right hand -->
+<MechanicusConstruct.corePart.parts.2.parts.0.parts.0.customLabel>right hand</MechanicusConstruct.corePart.parts.2.parts.0.parts.0.customLabel>
+                                                                     <!-- right pinky -->
+<MechanicusConstruct.corePart.parts.2.parts.0.parts.0.parts.0.customLabel>right pinky</MechanicusConstruct.corePart.parts.2.parts.0.parts.0.parts.0.customLabel>
+                                                                     <!-- right middle finger -->
+<MechanicusConstruct.corePart.parts.2.parts.0.parts.0.parts.1.customLabel>right middle finger</MechanicusConstruct.corePart.parts.2.parts.0.parts.0.parts.1.customLabel>
+                                                                     <!-- right index finger -->
+<MechanicusConstruct.corePart.parts.2.parts.0.parts.0.parts.2.customLabel>right index finger</MechanicusConstruct.corePart.parts.2.parts.0.parts.0.parts.2.customLabel>
+                                                                     <!-- right thumb -->
+<MechanicusConstruct.corePart.parts.2.parts.0.parts.0.parts.3.customLabel>right thumb</MechanicusConstruct.corePart.parts.2.parts.0.parts.0.parts.3.customLabel>
+                                             <!-- left leg -->
+<MechanicusConstruct.corePart.parts.3.customLabel>left leg</MechanicusConstruct.corePart.parts.3.customLabel>
+                                                     <!-- left foot -->
+<MechanicusConstruct.corePart.parts.3.parts.0.customLabel>left foot</MechanicusConstruct.corePart.parts.3.parts.0.customLabel>
+                                             <!-- right leg -->
+<MechanicusConstruct.corePart.parts.4.customLabel>right leg</MechanicusConstruct.corePart.parts.4.customLabel>
+                                                     <!-- right foot -->
+<MechanicusConstruct.corePart.parts.4.parts.0.customLabel>right foot</MechanicusConstruct.corePart.parts.4.parts.0.customLabel>
+
+</LanguageData>

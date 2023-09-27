@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/BackstoryDefs/Imperium Backstories/Militarum/Ogryn/Adult_Ogryn_BoneEad.xml-->
+                            <!-- ogryn bone'ead -->
+<OG_Imperial_Ogryn_BoneEad.title>ogryn bone'ead</OG_Imperial_Ogryn_BoneEad.title>
+                               <!-- [PAWN_nameDef] exhibited a rare glimmer of intelligence, something that is not common for Ogryns. [PAWN_pronoun] stood out very quickly among [PAWN_possessive] brethren, this made [PAWN_objective]. an ideal candidate for neural enhancements making [PAWN_objective] able to think/act independently.
+
++2 intelligence
++1 social -->
+<OG_Imperial_Ogryn_BoneEad.baseDesc>[PAWN_nameDef] exhibited a rare glimmer of intelligence, something that is not common for Ogryns. [PAWN_pronoun] stood out very quickly among [PAWN_possessive] brethren, this made [PAWN_objective]. an ideal candidate for neural enhancements making [PAWN_objective] able to think/act independently.\n\n+2 intelligence\n+1 social</OG_Imperial_Ogryn_BoneEad.baseDesc>
+
+</LanguageData>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/BackstoryDefs/Imperium Backstories/Sororitas/Sororitas_Mistriss.xml-->
+                                    <!-- [PAWN_nameDef] is a Mistress and is therefore in charge of a squad of Repentia. Although she wears the power armor of a Sister in good standing, she has no less zeal than her insane charges. -->
+<OG_Imperial_Sororitas_Mistress.baseDesc>[PAWN_nameDef] is a Mistress and is therefore in charge of a squad of Repentia. Although she wears the power armor of a Sister in good standing, she has no less zeal than her insane charges.</OG_Imperial_Sororitas_Mistress.baseDesc>
+
+</LanguageData>

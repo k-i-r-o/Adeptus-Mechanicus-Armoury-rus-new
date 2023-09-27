@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/ThingDefs_Buildings/OG_AMA_Building_ApparelLight.xml-->
+               <!-- mining light -->
+<ApparelLight.label>mining light</ApparelLight.label>
+                     <!-- Mining light. -->
+<ApparelLight.description>Mining light.</ApparelLight.description>
+                  <!-- mining light -->
+<EquippableLight.label>mining light</EquippableLight.label>
+                        <!-- Mining light. -->
+<EquippableLight.description>Mining light.</EquippableLight.description>
+
+</LanguageData>

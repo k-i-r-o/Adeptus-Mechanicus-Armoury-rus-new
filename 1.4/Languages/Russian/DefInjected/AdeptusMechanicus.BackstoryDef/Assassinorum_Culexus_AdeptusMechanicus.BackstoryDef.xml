@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/BackstoryDefs/Imperium Backstories/Inquisition/Assassinorum_Culexus.xml-->
+                                           <!-- culexus assassin -->
+<OG_Imperial_Officio_Assassinorum_Culexus.title>culexus assassin</OG_Imperial_Officio_Assassinorum_Culexus.title>
+                                              <!-- [PAWN_nameDef] was recruited by the Culexus temple for showing the unique defect known as the Pariah Gene, this is a rare one in a billion condition that renders [PAWN_nameDef] immune to psychic powers. [PAWN_pronoun] was sent after enemies of the Imperium, specifically Psykers.  -->
+<OG_Imperial_Officio_Assassinorum_Culexus.baseDesc>[PAWN_nameDef] was recruited by the Culexus temple for showing the unique defect known as the Pariah Gene, this is a rare one in a billion condition that renders [PAWN_nameDef] immune to psychic powers. [PAWN_pronoun] was sent after enemies of the Imperium, specifically Psykers. </OG_Imperial_Officio_Assassinorum_Culexus.baseDesc>
+
+</LanguageData>

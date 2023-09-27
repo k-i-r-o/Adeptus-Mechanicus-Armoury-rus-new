@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/DamageDefs/OG_AMA_Damages_RangedDamageTypes.xml.bak-->
+           <!-- flame -->
+<OGFlamer.label>flame</OGFlamer.label>
+                  <!-- {0} was purified with by the Emperors Wrath! -->
+<OGFlamer.deathMessage>{0} was purified with by the Emperors Wrath!</OGFlamer.deathMessage>
+            <!-- plasma -->
+<OGIPlasma.label>plasma</OGIPlasma.label>
+                   <!-- {0} has been given the Emperors Justice. -->
+<OGIPlasma.deathMessage>{0} has been given the Emperors Justice.</OGIPlasma.deathMessage>
+                  <!-- plasma cannon -->
+<OGIPlasmaCannon.label>plasma cannon</OGIPlasmaCannon.label>
+                         <!-- {0} has been given the Emperors Justice. -->
+<OGIPlasmaCannon.deathMessage>{0} has been given the Emperors Justice.</OGIPlasmaCannon.deathMessage>
+           <!-- melta -->
+<OGIMelta.label>melta</OGIMelta.label>
+                  <!-- {0} has been given the Emperors Justice. -->
+<OGIMelta.deathMessage>{0} has been given the Emperors Justice.</OGIMelta.deathMessage>
+         <!-- laser -->
+<OGILas.label>laser</OGILas.label>
+                <!-- {0} has been given the Emperors Justice. -->
+<OGILas.deathMessage>{0} has been given the Emperors Justice.</OGILas.deathMessage>
+          <!-- autogun -->
+<OGIAuto.label>autogun</OGIAuto.label>
+                 <!-- {0} has been given the Emperors Justice. -->
+<OGIAuto.deathMessage>{0} has been given the Emperors Justice.</OGIAuto.deathMessage>
+            <!-- Ripper -->
+<OGIRipper.label>Ripper</OGIRipper.label>
+                   <!-- {0} has been given the Emperors Justice. -->
+<OGIRipper.deathMessage>{0} has been given the Emperors Justice.</OGIRipper.deathMessage>
+             <!-- assaultcannon -->
+<OGIAssault.label>assaultcannon</OGIAssault.label>
+                    <!-- {0} has been given the Emperors Justice. -->
+<OGIAssault.deathMessage>{0} has been given the Emperors Justice.</OGIAssault.deathMessage>
+             <!-- bolt -->
+<OGIBoltStd.label>bolt</OGIBoltStd.label>
+                    <!-- {0} has been given the Emperors Justice. -->
+<OGIBoltStd.deathMessage>{0} has been given the Emperors Justice.</OGIBoltStd.deathMessage>
+          <!-- bomb -->
+<OGIBomb.label>bomb</OGIBomb.label>
+                 <!-- {0} has been given the Emperors Justice. -->
+<OGIBomb.deathMessage>{0} has been given the Emperors Justice.</OGIBomb.deathMessage>
+           <!-- Sonic -->
+<OGCSonic.label>Sonic</OGCSonic.label>
+                  <!-- {0} has been claimed by Slaanesh. -->
+<OGCSonic.deathMessage>{0} has been claimed by Slaanesh.</OGCSonic.deathMessage>
+         <!-- reaper autocannon -->
+<OGCRAC.label>reaper autocannon</OGCRAC.label>
+                <!-- {0} has been taken by the Dark Gods. -->
+<OGCRAC.deathMessage>{0} has been taken by the Dark Gods.</OGCRAC.deathMessage>
+                 <!-- plasma pulse -->
+<OGTPlasmaPulse.label>plasma pulse</OGTPlasmaPulse.label>
+                        <!-- {0} has perished for the Greater Good. -->
+<OGTPlasmaPulse.deathMessage>{0} has perished for the Greater Good.</OGTPlasmaPulse.deathMessage>
+         <!-- ion beam -->
+<OGTIon.label>ion beam</OGTIon.label>
+                <!-- {0} has perished for the Greater Good. -->
+<OGTIon.deathMessage>{0} has perished for the Greater Good.</OGTIon.deathMessage>
+             <!-- Railgun Slug -->
+<OGTRailgun.label>Railgun Slug</OGTRailgun.label>
+                    <!-- {0} has perished for the Greater Good. -->
+<OGTRailgun.deathMessage>{0} has perished for the Greater Good.</OGTRailgun.deathMessage>
+           <!-- Kroot Slug -->
+<OGTKroot.label>Kroot Slug</OGTKroot.label>
+                  <!-- {0} has perished for the Greater Good. -->
+<OGTKroot.deathMessage>{0} has perished for the Greater Good.</OGTKroot.deathMessage>
+             <!-- Neutron blast -->
+<OGTNeutron.label>Neutron blast</OGTNeutron.label>
+                    <!-- {0} has perished for the Greater Good. -->
+<OGTNeutron.deathMessage>{0} has perished for the Greater Good.</OGTNeutron.deathMessage>
+              <!-- Shuriken -->
+<OGEShuriken.label>Shuriken</OGEShuriken.label>
+                     <!-- {0} was cut to ribbons. -->
+<OGEShuriken.deathMessage>{0} was cut to ribbons.</OGEShuriken.deathMessage>
+            <!-- Starfire -->
+<OGEPlas-0.label>Starfire</OGEPlas-0.label>
+                   <!-- {0}'s death was forseen. -->
+<OGEPlas-0.deathMessage>{0}'s death was forseen.</OGEPlas-0.deathMessage>
+              <!-- Warp Rift -->
+<OGEWraith-0.label>Warp Rift</OGEWraith-0.label>
+                     <!-- {0} was torn to shreds by a warp rift. -->
+<OGEWraith-0.deathMessage>{0} was torn to shreds by a warp rift.</OGEWraith-0.deathMessage>
+                   <!-- Warp Rift Blast -->
+<OGEWraithBlast-0.label>Warp Rift Blast</OGEWraithBlast-0.label>
+                          <!-- {0} was lost to the warp. -->
+<OGEWraithBlast-0.deathMessage>{0} was lost to the warp.</OGEWraithBlast-0.deathMessage>
+            <!-- Lance -->
+<OGDELance.label>Lance</OGDELance.label>
+                   <!-- {0} was slain by a Brightlance. -->
+<OGDELance.deathMessage>{0} was slain by a Brightlance.</OGDELance.deathMessage>
+                    <!-- Mono-filament Mesh  -->
+<OGEDeathspinner-0.label>Mono-filament Mesh </OGEDeathspinner-0.label>
+                           <!-- {0} was reduced to a pulp. -->
+<OGEDeathspinner-0.deathMessage>{0} was reduced to a pulp.</OGEDeathspinner-0.deathMessage>
+              <!-- Splinter -->
+<OGESplinter.label>Splinter</OGESplinter.label>
+                     <!-- {0} was cut to ribbons. -->
+<OGESplinter.deathMessage>{0} was cut to ribbons.</OGESplinter.deathMessage>
+            <!-- Starfire -->
+<OGEPlas-1.label>Starfire</OGEPlas-1.label>
+                   <!-- {0}'s death was forseen. -->
+<OGEPlas-1.deathMessage>{0}'s death was forseen.</OGEPlas-1.deathMessage>
+              <!-- Warp Rift -->
+<OGEWraith-1.label>Warp Rift</OGEWraith-1.label>
+                     <!-- {0} was torn to shreds by a warp rift. -->
+<OGEWraith-1.deathMessage>{0} was torn to shreds by a warp rift.</OGEWraith-1.deathMessage>
+                   <!-- Warp Rift Blast -->
+<OGEWraithBlast-1.label>Warp Rift Blast</OGEWraithBlast-1.label>
+                          <!-- {0} was lost to the warp. -->
+<OGEWraithBlast-1.deathMessage>{0} was lost to the warp.</OGEWraithBlast-1.deathMessage>
+           <!-- Lance -->
+<OGELance.label>Lance</OGELance.label>
+                  <!-- {0} was slain by a Brightlance. -->
+<OGELance.deathMessage>{0} was slain by a Brightlance.</OGELance.deathMessage>
+                    <!-- Mono-filament Mesh  -->
+<OGEDeathspinner-1.label>Mono-filament Mesh </OGEDeathspinner-1.label>
+                           <!-- {0} was reduced to a pulp. -->
+<OGEDeathspinner-1.deathMessage>{0} was reduced to a pulp.</OGEDeathspinner-1.deathMessage>
+           <!-- Gauss -->
+<OGNGauss.label>Gauss</OGNGauss.label>
+                  <!-- {0} was Flayed to death. -->
+<OGNGauss.deathMessage>{0} was Flayed to death.</OGNGauss.deathMessage>
+            <!-- Gauss -->
+<OGIRadium.label>Gauss</OGIRadium.label>
+                   <!-- {0} would have died anyway. -->
+<OGIRadium.deathMessage>{0} would have died anyway.</OGIRadium.deathMessage>
+              <!-- Gauss -->
+<OGIGalvanic.label>Gauss</OGIGalvanic.label>
+                     <!-- {0} caught a Galvanic round. -->
+<OGIGalvanic.deathMessage>{0} caught a Galvanic round.</OGIGalvanic.deathMessage>
+                 <!-- Gauss -->
+<OGITransuranic.label>Gauss</OGITransuranic.label>
+                        <!-- {0} was taken by a Transuranic bolt. -->
+<OGITransuranic.deathMessage>{0} was taken by a Transuranic bolt.</OGITransuranic.deathMessage>
+
+</LanguageData>

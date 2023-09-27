@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/ResearchProjectDefs/OG_AMAA_Astartes_Research.xml.bak-->
+                           <!-- Astartes Neophytes -->
+<OG_Astartes_Tech_Base_T1.label>Astartes Neophytes</OG_Astartes_Tech_Base_T1.label>
+                                 <!-- Grants you access to STC templates used by the Adeptus Arbites -->
+<OG_Astartes_Tech_Base_T1.description>Grants you access to STC templates used by the Adeptus Arbites</OG_Astartes_Tech_Base_T1.description>
+                           <!-- Astartes Scout -->
+<OG_Astartes_Tech_Base_T2.label>Astartes Scout</OG_Astartes_Tech_Base_T2.label>
+                                 <!-- Grants you access to STC templates used by the Adeptus Militarum -->
+<OG_Astartes_Tech_Base_T2.description>Grants you access to STC templates used by the Adeptus Militarum</OG_Astartes_Tech_Base_T2.description>
+                           <!-- Astartes Brother -->
+<OG_Astartes_Tech_Base_T3.label>Astartes Brother</OG_Astartes_Tech_Base_T3.label>
+                                 <!-- Grants you access to STC templates used to create finest weapons and wargear in the Departmento Munitorum's arsenal, Tempestus Scions are equipped to carry out missions beyond the capabilities of the rank-and-file Guardsman. -->
+<OG_Astartes_Tech_Base_T3.description>Grants you access to STC templates used to create finest weapons and wargear in the Departmento Munitorum's arsenal, Tempestus Scions are equipped to carry out missions beyond the capabilities of the rank-and-file Guardsman.</OG_Astartes_Tech_Base_T3.description>
+
+</LanguageData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/BackstoryDefs/Imperium Backstories/Common/Underhive_Enforcer.xml-->
+                                 <!-- underhive enforcer -->
+<OG_Imperial_Underhive_Enforcer.title>underhive enforcer</OG_Imperial_Underhive_Enforcer.title>
+                                    <!-- [PAWN_nameDef] stomped other people down for their gang's prosperity. [PAWN_nameDef] found that the best solution to any problem was their fists. -->
+<OG_Imperial_Underhive_Enforcer.baseDesc>[PAWN_nameDef] stomped other people down for their gang's prosperity. [PAWN_nameDef] found that the best solution to any problem was their fists.</OG_Imperial_Underhive_Enforcer.baseDesc>
+
+</LanguageData>

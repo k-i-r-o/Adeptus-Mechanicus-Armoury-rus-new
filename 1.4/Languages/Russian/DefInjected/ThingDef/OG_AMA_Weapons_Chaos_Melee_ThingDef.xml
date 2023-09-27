@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/ThingDefs_Misc/Weapons/OG_AMA_Weapons_Chaos_Melee.xml-->
+                       <!-- chainsword (C) -->
+<OGC_Melee_ChainSword.label>chainsword (C)</OGC_Melee_ChainSword.label>
+                             <!-- The Chainsword is the preferred close combat melee weapon of many of the military forces of the Imperium of Man. The Chainsword is essentially a sword with powered teeth that run along a single-edged blade like that of a chainsaw. Most versions of the weapon make use of monomolecularly-edged or otherwise razor-sharp teeth. Chainswords are not subtle weapons, and wielding one is a statement in its own right: they are horrific tools of war, designed to bite, tear and eviscerate where more primitive blades merely cut and slice. The weapon makes an angry buzzing sound as the teeth spin around, intensifying into a high pitched scream as they grind into armour. It is not unlike a modern chainsaw, but lighter and able to be wielded with one hand. It is often used in conjunction with a Laspistol. -->
+<OGC_Melee_ChainSword.description>The Chainsword is the preferred close combat melee weapon of many of the military forces of the Imperium of Man. The Chainsword is essentially a sword with powered teeth that run along a single-edged blade like that of a chainsaw. Most versions of the weapon make use of monomolecularly-edged or otherwise razor-sharp teeth. Chainswords are not subtle weapons, and wielding one is a statement in its own right: they are horrific tools of war, designed to bite, tear and eviscerate where more primitive blades merely cut and slice. The weapon makes an angry buzzing sound as the teeth spin around, intensifying into a high pitched scream as they grind into armour. It is not unlike a modern chainsaw, but lighter and able to be wielded with one hand. It is often used in conjunction with a Laspistol.</OGC_Melee_ChainSword.description>
+                               <!-- pommel -->
+<OGC_Melee_ChainSword.tools.0.label>pommel</OGC_Melee_ChainSword.tools.0.label>
+                               <!-- blade -->
+<OGC_Melee_ChainSword.tools.1.label>blade</OGC_Melee_ChainSword.tools.1.label>
+                               <!-- point -->
+<OGC_Melee_ChainSword.tools.2.label>point</OGC_Melee_ChainSword.tools.2.label>
+                     <!-- chainaxe (C) -->
+<OGC_Melee_ChainAxe.label>chainaxe (C)</OGC_Melee_ChainAxe.label>
+                           <!-- A Chainaxe is a brutal hand-to-hand Chain Weapon crafted in the form of a great one or two-handed axe which incorporates a powered chainsaw edge. The biting action of the whirling row of monomolecular teeth means these weapons can hack through both flesh and armour with ease.
+
+The Chainaxe is the favorite weapon of the Khornate Berserkers found in the ranks of the Chaos Space Marines and of worshippers of the Blood God in general. -->
+<OGC_Melee_ChainAxe.description>A Chainaxe is a brutal hand-to-hand Chain Weapon crafted in the form of a great one or two-handed axe which incorporates a powered chainsaw edge. The biting action of the whirling row of monomolecular teeth means these weapons can hack through both flesh and armour with ease.\n\nThe Chainaxe is the favorite weapon of the Khornate Berserkers found in the ranks of the Chaos Space Marines and of worshippers of the Blood God in general.</OGC_Melee_ChainAxe.description>
+                             <!-- head -->
+<OGC_Melee_ChainAxe.tools.0.label>head</OGC_Melee_ChainAxe.tools.0.label>
+
+</LanguageData>

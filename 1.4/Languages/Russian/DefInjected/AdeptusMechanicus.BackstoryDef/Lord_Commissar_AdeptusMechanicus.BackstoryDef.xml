@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/BackstoryDefs/Imperium Backstories/Militarum/Lord_Commissar.xml-->
+                                <!-- lord commissar -->
+<OG_Imperial_Commissariat_Lord.title>lord commissar</OG_Imperial_Commissariat_Lord.title>
+                                     <!-- lord commissar -->
+<OG_Imperial_Commissariat_Lord.titleShort>lord commissar</OG_Imperial_Commissariat_Lord.titleShort>
+                                   <!-- [PAWN_nameDef] climbed the ranks of the Commissariat by virtue in combat, social engineering, and a little bit of luck. [PAWN_nameDef] was a veteran of multiple campaigns, and was seen as a hero to those under their charge.  -->
+<OG_Imperial_Commissariat_Lord.baseDesc>[PAWN_nameDef] climbed the ranks of the Commissariat by virtue in combat, social engineering, and a little bit of luck. [PAWN_nameDef] was a veteran of multiple campaigns, and was seen as a hero to those under their charge. </OG_Imperial_Commissariat_Lord.baseDesc>
+
+</LanguageData>

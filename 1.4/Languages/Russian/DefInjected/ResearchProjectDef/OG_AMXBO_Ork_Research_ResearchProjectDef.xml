@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/ResearchProjectDefs/OG_AMXBO_Ork_Research.xml-->
+                      <!-- Orkish Kulture -->
+<OG_Ork_Tech_Base_T1.label>Orkish Kulture</OG_Ork_Tech_Base_T1.label>
+                            <!-- The Ork way of life is as straightforward and brutal as the Orks themselves. Much like their approach to everything else, Orks do not waste time pondering why they do things, or how they might do them better. Instead they simply act, the fundamental tenet of their society is a simple one that even the most pea-brained Snotling can understand -- might makes right. -->
+<OG_Ork_Tech_Base_T1.description>The Ork way of life is as straightforward and brutal as the Orks themselves. Much like their approach to everything else, Orks do not waste time pondering why they do things, or how they might do them better. Instead they simply act, the fundamental tenet of their society is a simple one that even the most pea-brained Snotling can understand -- might makes right.</OG_Ork_Tech_Base_T1.description>
+                      <!-- Mek Tek -->
+<OG_Ork_Tech_Base_T2.label>Mek Tek</OG_Ork_Tech_Base_T2.label>
+                            <!-- Allowz da mekz ta make some wargear an shootaz wiv even more Dakka! -->
+<OG_Ork_Tech_Base_T2.description>Allowz da mekz ta make some wargear an shootaz wiv even more Dakka!</OG_Ork_Tech_Base_T2.description>
+                      <!-- Big Mek Brainz -->
+<OG_Ork_Tech_Base_T3.label>Big Mek Brainz</OG_Ork_Tech_Base_T3.label>
+                            <!-- Allowz da mekz ta make some fancy wargear an da best shootaz wiv da most Dakka! -->
+<OG_Ork_Tech_Base_T3.description>Allowz da mekz ta make some fancy wargear an da best shootaz wiv da most Dakka!</OG_Ork_Tech_Base_T3.description>
+                               <!-- Brutality -->
+<OG_Ork_Tech_Weapons_Melee_T1.label>Brutality</OG_Ork_Tech_Weapons_Melee_T1.label>
+                                     <!-- Allowz da boyz ta make propa Choppaz! -->
+<OG_Ork_Tech_Weapons_Melee_T1.description>Allowz da boyz ta make propa Choppaz!</OG_Ork_Tech_Weapons_Melee_T1.description>
+                               <!-- Extreme Brutality -->
+<OG_Ork_Tech_Weapons_Melee_T2.label>Extreme Brutality</OG_Ork_Tech_Weapons_Melee_T2.label>
+                                     <!-- Allowz da boyz ta make bigga, betta Choppaz! -->
+<OG_Ork_Tech_Weapons_Melee_T2.description>Allowz da boyz ta make bigga, betta Choppaz!</OG_Ork_Tech_Weapons_Melee_T2.description>
+                                <!-- More Dakka -->
+<OG_Ork_Tech_Weapons_Ranged_T2.label>More Dakka</OG_Ork_Tech_Weapons_Ranged_T2.label>
+                                      <!-- Allowz da boyz ta make betta Shootaz! -->
+<OG_Ork_Tech_Weapons_Ranged_T2.description>Allowz da boyz ta make betta Shootaz!</OG_Ork_Tech_Weapons_Ranged_T2.description>
+                      <!-- Clovin -->
+<OG_Ork_Tech_Apparel.label>Clovin</OG_Ork_Tech_Apparel.label>
+                            <!-- Allowz da boyz ta make Clovin and Leva Arma! -->
+<OG_Ork_Tech_Apparel.description>Allowz da boyz ta make Clovin and Leva Arma!</OG_Ork_Tech_Apparel.description>
+                                 <!-- Nob bitz -->
+<OG_Ork_Tech_Apparel_Wargear_T1.label>Nob bitz</OG_Ork_Tech_Apparel_Wargear_T1.label>
+                                       <!-- Allowz da boyz ta make stuff fer Nobz! -->
+<OG_Ork_Tech_Apparel_Wargear_T1.description>Allowz da boyz ta make stuff fer Nobz!</OG_Ork_Tech_Apparel_Wargear_T1.description>
+                                <!-- Arma -->
+<OG_Ork_Tech_Apparel_Armour_T1.label>Arma</OG_Ork_Tech_Apparel_Armour_T1.label>
+                                      <!-- Allowz da boyz ta make betta Arma! -->
+<OG_Ork_Tech_Apparel_Armour_T1.description>Allowz da boyz ta make betta Arma!</OG_Ork_Tech_Apparel_Armour_T1.description>
+                                <!-- Eavy Arma -->
+<OG_Ork_Tech_Apparel_Armour_T2.label>Eavy Arma</OG_Ork_Tech_Apparel_Armour_T2.label>
+                                      <!-- Allowz da mekz ta make Eavy Arma! -->
+<OG_Ork_Tech_Apparel_Armour_T2.description>Allowz da mekz ta make Eavy Arma!</OG_Ork_Tech_Apparel_Armour_T2.description>
+                                 <!-- Boss bitz -->
+<OG_Ork_Tech_Apparel_Wargear_T2.label>Boss bitz</OG_Ork_Tech_Apparel_Wargear_T2.label>
+                                       <!-- Allowz da boyz ta make stuff fer da Boss! -->
+<OG_Ork_Tech_Apparel_Wargear_T2.description>Allowz da boyz ta make stuff fer da Boss!</OG_Ork_Tech_Apparel_Wargear_T2.description>
+                                <!-- Mega Arma -->
+<OG_Ork_Tech_Apparel_Armour_T3.label>Mega Arma</OG_Ork_Tech_Apparel_Armour_T3.label>
+                                      <!-- Allowz da mekz ta make Mega Arma! -->
+<OG_Ork_Tech_Apparel_Armour_T3.description>Allowz da mekz ta make Mega Arma!</OG_Ork_Tech_Apparel_Armour_T3.description>
+
+</LanguageData>

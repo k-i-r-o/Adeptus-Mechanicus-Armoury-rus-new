@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/ToolCapacityDefs/OG_AMA_ToolCapacity.xml-->
+                     <!-- cut -->
+<OG_PowerWeapon_Cut.label>cut</OG_PowerWeapon_Cut.label>
+                      <!-- stab -->
+<OG_PowerWeapon_Stab.label>stab</OG_PowerWeapon_Stab.label>
+                       <!-- smash -->
+<OG_PowerWeapon_Blunt.label>smash</OG_PowerWeapon_Blunt.label>
+                       <!-- cut -->
+<OG_PoisionWeapon_Cut.label>cut</OG_PoisionWeapon_Cut.label>
+                        <!-- stab -->
+<OG_PoisionWeapon_Stab.label>stab</OG_PoisionWeapon_Stab.label>
+                      <!-- cut -->
+<OG_PlagueWeapon_Cut.label>cut</OG_PlagueWeapon_Cut.label>
+                       <!-- stab -->
+<OG_PlagueWeapon_Stab.label>stab</OG_PlagueWeapon_Stab.label>
+                     <!-- cut -->
+<OG_ForceWeapon_Cut.label>cut</OG_ForceWeapon_Cut.label>
+                      <!-- stab -->
+<OG_ForceWeapon_Stab.label>stab</OG_ForceWeapon_Stab.label>
+                       <!-- smash -->
+<OG_ForceWeapon_Blunt.label>smash</OG_ForceWeapon_Blunt.label>
+                          <!-- cut -->
+<OG_WitchbladeWeapon_Cut.label>cut</OG_WitchbladeWeapon_Cut.label>
+                           <!-- stab -->
+<OG_WitchbladeWeapon_Stab.label>stab</OG_WitchbladeWeapon_Stab.label>
+                       <!-- cut -->
+<OG_RendingWeapon_Cut.label>cut</OG_RendingWeapon_Cut.label>
+                        <!-- stab -->
+<OG_RendingWeapon_Stab.label>stab</OG_RendingWeapon_Stab.label>
+                         <!-- smash -->
+<OG_RendingWeapon_Blunt.label>smash</OG_RendingWeapon_Blunt.label>
+                          <!-- blunt -->
+<OG_PacifierWeapon_Blunt.label>blunt</OG_PacifierWeapon_Blunt.label>
+                         <!-- poke -->
+<OG_PacifierWeapon_Poke.label>poke</OG_PacifierWeapon_Poke.label>
+                         <!-- smash -->
+<OG_Thunderhammer_Blunt.label>smash</OG_Thunderhammer_Blunt.label>
+                         <!-- blunt -->
+<OG_PolearmWeapon_Blunt.label>blunt</OG_PolearmWeapon_Blunt.label>
+                        <!-- poke -->
+<OG_PolearmWeapon_Poke.label>poke</OG_PolearmWeapon_Poke.label>
+                        <!-- stab -->
+<OG_PolearmWeapon_Stab.label>stab</OG_PolearmWeapon_Stab.label>
+                       <!-- cut -->
+<OG_PolearmWeapon_Cut.label>cut</OG_PolearmWeapon_Cut.label>
+
+</LanguageData>

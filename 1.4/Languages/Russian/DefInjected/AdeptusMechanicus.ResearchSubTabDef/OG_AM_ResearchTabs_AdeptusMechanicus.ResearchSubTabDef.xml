@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/ResearchProjectDefs/OG_AM_ResearchTabs.xml-->
+                         <!-- Imperial Research -->
+<OGAMA_RSubTab_Imperial.label>Imperial Research</OGAMA_RSubTab_Imperial.label>
+                        <!-- Aeldari Research -->
+<OGAMA_RSubTab_Aeldari.label>Aeldari Research</OGAMA_RSubTab_Aeldari.label>
+                    <!-- Tau Research -->
+<OGAMA_RSubTab_Tau.label>Tau Research</OGAMA_RSubTab_Tau.label>
+                          <!-- Greenskin Research -->
+<OGAMA_RSubTab_Greenskin.label>Greenskin Research</OGAMA_RSubTab_Greenskin.label>
+
+</LanguageData>

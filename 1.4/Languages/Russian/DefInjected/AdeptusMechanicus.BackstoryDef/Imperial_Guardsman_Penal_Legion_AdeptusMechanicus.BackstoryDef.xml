@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/BackstoryDefs/Imperium Backstories/Militarum/Imperial_Guardsman_Penal_Legion.xml-->
+                                     <!-- penal legion trooper -->
+<OG_Imperial_Militarum_Penal_Legion.title>penal legion trooper</OG_Imperial_Militarum_Penal_Legion.title>
+                                          <!-- PDF trooper -->
+<OG_Imperial_Militarum_Penal_Legion.titleShort>PDF trooper</OG_Imperial_Militarum_Penal_Legion.titleShort>
+                                        <!-- [PAWN_nameDef] signed up to join the ranks of the penal legion. The Imperial Guard found that [PAWN_nameDef] was unfit for duty in the Imperial Guard, so they remained on their homeworld. -->
+<OG_Imperial_Militarum_Penal_Legion.baseDesc>[PAWN_nameDef] signed up to join the ranks of the penal legion. The Imperial Guard found that [PAWN_nameDef] was unfit for duty in the Imperial Guard, so they remained on their homeworld.</OG_Imperial_Militarum_Penal_Legion.baseDesc>
+
+</LanguageData>

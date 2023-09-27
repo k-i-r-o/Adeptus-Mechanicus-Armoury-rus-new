@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/PawnShields/Shields.xml.bak-->
+                              <!-- melee block chance -->
+<Shield_BaseMeleeBlockChance.label>melee block chance</Shield_BaseMeleeBlockChance.label>
+                                    <!-- Shield users melee block chance is multiplied by this. The higher the better. -->
+<Shield_BaseMeleeBlockChance.description>Shield users melee block chance is multiplied by this. The higher the better.</Shield_BaseMeleeBlockChance.description>
+                               <!-- ranged block chance -->
+<Shield_BaseRangedBlockChance.label>ranged block chance</Shield_BaseRangedBlockChance.label>
+                                     <!-- Shield users ranged block chance is multiplied by this. The higher the better. -->
+<Shield_BaseRangedBlockChance.description>Shield users ranged block chance is multiplied by this. The higher the better.</Shield_BaseRangedBlockChance.description>
+                        <!-- damage absorption -->
+<Shield_DamageAbsorbed.label>damage absorption</Shield_DamageAbsorbed.label>
+                              <!-- How much damage the shield absorbs from a blocked attack. -->
+<Shield_DamageAbsorbed.description>How much damage the shield absorbs from a blocked attack.</Shield_DamageAbsorbed.description>
+                         <!-- melee block chance -->
+<MeleeShieldBlockChance.label>melee block chance</MeleeShieldBlockChance.label>
+                               <!-- Chance to block a melee attack that would've otherwise hit. -->
+<MeleeShieldBlockChance.description>Chance to block a melee attack that would've otherwise hit.</MeleeShieldBlockChance.description>
+                          <!-- ranged block chance -->
+<RangedShieldBlockChance.label>ranged block chance</RangedShieldBlockChance.label>
+                                <!-- Chance to block a ranged attack that would've otherwise hit. -->
+<RangedShieldBlockChance.description>Chance to block a ranged attack that would've otherwise hit.</RangedShieldBlockChance.description>
+
+</LanguageData>

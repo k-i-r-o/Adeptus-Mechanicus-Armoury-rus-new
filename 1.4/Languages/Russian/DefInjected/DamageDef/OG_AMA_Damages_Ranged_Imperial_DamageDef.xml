@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/DamageDefs/OG_AMA_Damages_Ranged_Imperial.xml-->
+           <!-- flame -->
+<OGFlamer.label>flame</OGFlamer.label>
+                  <!-- {0} was purified with by Fire! -->
+<OGFlamer.deathMessage>{0} was purified with by Fire!</OGFlamer.deathMessage>
+           <!-- melta -->
+<OGIMelta.label>melta</OGIMelta.label>
+                  <!-- {0} has been given the Emperors Justice. -->
+<OGIMelta.deathMessage>{0} has been given the Emperors Justice.</OGIMelta.deathMessage>
+         <!-- laser -->
+<OGILas.label>laser</OGILas.label>
+                <!-- {0} has been given the Emperors Justice. -->
+<OGILas.deathMessage>{0} has been given the Emperors Justice.</OGILas.deathMessage>
+             <!-- volkite -->
+<OGIVolkite.label>volkite</OGIVolkite.label>
+                    <!-- {0} has been given the Emperors Justice. -->
+<OGIVolkite.deathMessage>{0} has been given the Emperors Justice.</OGIVolkite.deathMessage>
+                <!-- conversion beam -->
+<OGIConversion.label>conversion beam</OGIConversion.label>
+                       <!-- {0} has been given the Emperors Justice. -->
+<OGIConversion.deathMessage>{0} has been given the Emperors Justice.</OGIConversion.deathMessage>
+          <!-- autogun -->
+<OGIAuto.label>autogun</OGIAuto.label>
+                 <!-- {0} has been given the Emperors Justice. -->
+<OGIAuto.deathMessage>{0} has been given the Emperors Justice.</OGIAuto.deathMessage>
+             <!-- standard bolt -->
+<OGIBoltStd.label>standard bolt</OGIBoltStd.label>
+                    <!-- {0} has been given the Emperors Justice. -->
+<OGIBoltStd.deathMessage>{0} has been given the Emperors Justice.</OGIBoltStd.deathMessage>
+                    <!-- dragonfire bolt -->
+<OGIBoltDragonfire.label>dragonfire bolt</OGIBoltDragonfire.label>
+                           <!-- {0} has been given the Emperors Justice. -->
+<OGIBoltDragonfire.deathMessage>{0} has been given the Emperors Justice.</OGIBoltDragonfire.deathMessage>
+                  <!-- hellfire bolt -->
+<OGIBoltHellfire.label>hellfire bolt</OGIBoltHellfire.label>
+                         <!-- {0} has been given the Emperors Justice. -->
+<OGIBoltHellfire.deathMessage>{0} has been given the Emperors Justice.</OGIBoltHellfire.deathMessage>
+                <!-- kraken bolt -->
+<OGIBoltKraken.label>kraken bolt</OGIBoltKraken.label>
+                       <!-- {0} has been given the Emperors Justice. -->
+<OGIBoltKraken.deathMessage>{0} has been given the Emperors Justice.</OGIBoltKraken.deathMessage>
+                   <!-- bomb -->
+<OGIBoltVengeance.label>bomb</OGIBoltVengeance.label>
+                          <!-- {0} has been given the Emperors Justice. -->
+<OGIBoltVengeance.deathMessage>{0} has been given the Emperors Justice.</OGIBoltVengeance.deathMessage>
+          <!-- bomb -->
+<OGIBomb.label>bomb</OGIBomb.label>
+                 <!-- {0} has been given the Emperors Justice. -->
+<OGIBomb.deathMessage>{0} has been given the Emperors Justice.</OGIBomb.deathMessage>
+         <!-- Arc -->
+<OGIArc.label>Arc</OGIArc.label>
+                <!-- {0} has been Electrocuted. -->
+<OGIArc.deathMessage>{0} has been Electrocuted.</OGIArc.deathMessage>
+
+
+<!--/Defs/DamageDefs/OG_AMA_Damages_Ranged_Imperial.xml.bak-->
+<!-- bullet -->
+<OGBullet_SX.label>bullet</OGBullet_SX.label>
+<!-- {0} has been shot to death. -->
+<OGBullet_SX.deathMessage>{0} has been shot to death.</OGBullet_SX.deathMessage>
+<!-- flame -->
+<OGFlamer.label>flame</OGFlamer.label>
+<!-- {0} was purified with by Fire! -->
+<OGFlamer.deathMessage>{0} was purified with by Fire!</OGFlamer.deathMessage>
+<!-- plasma -->
+<OGIPlasma.label>plasma</OGIPlasma.label>
+<!-- {0} has been given the Emperors Justice. -->
+<OGIPlasma.deathMessage>{0} has been given the Emperors Justice.</OGIPlasma.deathMessage>
+<!-- plasma cannon -->
+<OGIPlasmaCannon.label>plasma cannon</OGIPlasmaCannon.label>
+<!-- {0} has been given the Emperors Justice. -->
+<OGIPlasmaCannon.deathMessage>{0} has been given the Emperors Justice.</OGIPlasmaCannon.deathMessage>
+<!-- melta -->
+<OGIMelta.label>melta</OGIMelta.label>
+<!-- {0} has been given the Emperors Justice. -->
+<OGIMelta.deathMessage>{0} has been given the Emperors Justice.</OGIMelta.deathMessage>
+<!-- laser -->
+<OGILas.label>laser</OGILas.label>
+<!-- {0} has been given the Emperors Justice. -->
+<OGILas.deathMessage>{0} has been given the Emperors Justice.</OGILas.deathMessage>
+<!-- volkite -->
+<OGIVolkite.label>volkite</OGIVolkite.label>
+<!-- {0} has been given the Emperors Justice. -->
+<OGIVolkite.deathMessage>{0} has been given the Emperors Justice.</OGIVolkite.deathMessage>
+<!-- conversion beam -->
+<OGIConversion.label>conversion beam</OGIConversion.label>
+<!-- {0} has been given the Emperors Justice. -->
+<OGIConversion.deathMessage>{0} has been given the Emperors Justice.</OGIConversion.deathMessage>
+<!-- laser -->
+<OGILasC.label>laser</OGILasC.label>
+<!-- {0} has been given the Emperors Justice. -->
+<OGILasC.deathMessage>{0} has been given the Emperors Justice.</OGILasC.deathMessage>
+<!-- autogun -->
+<OGIAuto.label>autogun</OGIAuto.label>
+<!-- {0} has been given the Emperors Justice. -->
+<OGIAuto.deathMessage>{0} has been given the Emperors Justice.</OGIAuto.deathMessage>
+<!-- autogun -->
+<OGIAutoRubber.label>autogun</OGIAutoRubber.label>
+<!-- {0} has been given the Emperors Justice. -->
+<OGIAutoRubber.deathMessage>{0} has been given the Emperors Justice.</OGIAutoRubber.deathMessage>
+<!-- standard bolt -->
+<OGIBoltStd.label>standard bolt</OGIBoltStd.label>
+<!-- {0} has been given the Emperors Justice. -->
+<OGIBoltStd.deathMessage>{0} has been given the Emperors Justice.</OGIBoltStd.deathMessage>
+<!-- dragonfire bolt -->
+<OGIBoltDragonfire.label>dragonfire bolt</OGIBoltDragonfire.label>
+<!-- {0} has been given the Emperors Justice. -->
+<OGIBoltDragonfire.deathMessage>{0} has been given the Emperors Justice.</OGIBoltDragonfire.deathMessage>
+<!-- hellfire bolt -->
+<OGIBoltHellfire.label>hellfire bolt</OGIBoltHellfire.label>
+<!-- {0} has been given the Emperors Justice. -->
+<OGIBoltHellfire.deathMessage>{0} has been given the Emperors Justice.</OGIBoltHellfire.deathMessage>
+<!-- kraken bolt -->
+<OGIBoltKraken.label>kraken bolt</OGIBoltKraken.label>
+<!-- {0} has been given the Emperors Justice. -->
+<OGIBoltKraken.deathMessage>{0} has been given the Emperors Justice.</OGIBoltKraken.deathMessage>
+<!-- vengeance bolt -->
+<OGIBoltVengeance.label>vengeance bolt</OGIBoltVengeance.label>
+<!-- {0} has been given the Emperors Justice. -->
+<OGIBoltVengeance.deathMessage>{0} has been given the Emperors Justice.</OGIBoltVengeance.deathMessage>
+<!-- bomb -->
+<OGIBomb.label>bomb</OGIBomb.label>
+<!-- {0} has been given the Emperors Justice. -->
+<OGIBomb.deathMessage>{0} has been given the Emperors Justice.</OGIBomb.deathMessage>
+<!-- radium round -->
+<OGIRadium.label>radium round</OGIRadium.label>
+<!-- {0} would have died anyway. -->
+<OGIRadium.deathMessage>{0} would have died anyway.</OGIRadium.deathMessage>
+<!-- galvanic discharge -->
+<OGIGalvanic.label>galvanic discharge</OGIGalvanic.label>
+<!-- {0} caught a Galvanic round. -->
+<OGIGalvanic.deathMessage>{0} caught a Galvanic round.</OGIGalvanic.deathMessage>
+<!-- transuranic -->
+<OGITransuranic.label>transuranic</OGITransuranic.label>
+<!-- {0} was taken by a Transuranic bolt. -->
+<OGITransuranic.deathMessage>{0} was taken by a Transuranic bolt.</OGITransuranic.deathMessage>
+<!-- Arc -->
+<OGIArc.label>Arc</OGIArc.label>
+<!-- {0} has been Electrocuted. -->
+<OGIArc.deathMessage>{0} has been Electrocuted.</OGIArc.deathMessage>
+
+</LanguageData>

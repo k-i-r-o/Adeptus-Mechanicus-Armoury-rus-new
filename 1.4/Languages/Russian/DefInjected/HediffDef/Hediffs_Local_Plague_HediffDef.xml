@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/HediffDefs/Hediffs_Local_Plague.xml.bak-->
+         <!-- plague -->
+<Plague.label>plague</Plague.label>
+                  <!-- initial -->
+<Plague.stages.0.label>initial</Plague.stages.0.label>
+                  <!-- minor -->
+<Plague.stages.1.label>minor</Plague.stages.1.label>
+                  <!-- moderate -->
+<Plague.stages.2.label>moderate</Plague.stages.2.label>
+                  <!-- major -->
+<Plague.stages.3.label>major</Plague.stages.3.label>
+                  <!-- severe -->
+<Plague.stages.4.label>severe</Plague.stages.4.label>
+                  <!-- extreme -->
+<Plague.stages.5.label>extreme</Plague.stages.5.label>
+                  <!-- fatal -->
+<Plague.stages.6.label>fatal</Plague.stages.6.label>
+                     <!-- encapsulated pathogen -->
+<EncapsulatedPlague.label>encapsulated pathogen</EncapsulatedPlague.label>
+
+</LanguageData>

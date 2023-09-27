@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/ThingDefs_Misc/Apparel/OG_AMA_Apparel_Militarum.xml-->
+                            <!-- imperial undershirt -->
+<OGIG_Apparel_UniformShirt.label>imperial undershirt</OGIG_Apparel_UniformShirt.label>
+                                  <!-- A uniform shirt worn by the soldiers of the IG. -->
+<OGIG_Apparel_UniformShirt.description>A uniform shirt worn by the soldiers of the IG.</OGIG_Apparel_UniformShirt.description>
+                                     <!-- The official coat of the Imperial Commissars. -->
+<OGIG_Apparel_CommissarJacket.description>The official coat of the Imperial Commissars.</OGIG_Apparel_CommissarJacket.description>
+                               <!-- Commissar Jacket -->
+<OGIG_Apparel_CommissarJacket.label>Commissar Jacket</OGIG_Apparel_CommissarJacket.label>
+                                             <!-- armageddon pattern trenchcoat -->
+<OGIG_Apparel_Armageddon_Uniform_Trenchcoat.label>armageddon pattern trenchcoat</OGIG_Apparel_Armageddon_Uniform_Trenchcoat.label>
+                                                   <!-- Each Guardsman of the Armageddon Steel Legions is equipped with a toxic-resistant trenchcoat. The specially-treated gear protects a Guardsmen from the most polluted or chemically toxic environments. -->
+<OGIG_Apparel_Armageddon_Uniform_Trenchcoat.description>Each Guardsman of the Armageddon Steel Legions is equipped with a toxic-resistant trenchcoat. The specially-treated gear protects a Guardsmen from the most polluted or chemically toxic environments.</OGIG_Apparel_Armageddon_Uniform_Trenchcoat.description>
+                                        <!-- krieg pattern trenchcoat -->
+<OGIG_Apparel_Krieg_Uniform_Trenchcoat.label>krieg pattern trenchcoat</OGIG_Apparel_Krieg_Uniform_Trenchcoat.label>
+                                              <!-- Each Guardsman of the Death Korps of Krieg is equipped with a toxic-resistant trenchcoat. The specially-treated gear protects a Guardsmen from the most polluted or chemically toxic environments.
+
+Placeholder Texture. -->
+<OGIG_Apparel_Krieg_Uniform_Trenchcoat.description>Each Guardsman of the Death Korps of Krieg is equipped with a toxic-resistant trenchcoat. The specially-treated gear protects a Guardsmen from the most polluted or chemically toxic environments.\n\nPlaceholder Texture.</OGIG_Apparel_Krieg_Uniform_Trenchcoat.description>
+
+</LanguageData>

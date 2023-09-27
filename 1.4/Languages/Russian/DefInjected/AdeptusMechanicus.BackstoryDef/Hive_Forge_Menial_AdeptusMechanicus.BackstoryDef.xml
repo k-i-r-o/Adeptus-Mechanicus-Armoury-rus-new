@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/BackstoryDefs/Imperium Backstories/Mechanicus/Hive_Forge_Menial.xml-->
+                                <!-- forgeworld menial -->
+<OG_Imperial_Mechanicus_Menial.title>forgeworld menial</OG_Imperial_Mechanicus_Menial.title>
+                                   <!-- [PAWN_nameDef] was one of the untold billions of menial, unaugmented human labourers of the Mechanicus, used primarily for unskilled labour too complex for Servitors to economically perform. Indoctrinated with the beliefs of the Cult Mechanicus in a simplified form [PAWN_nameDef] worked on reducing materials down to their base components for reforging.  -->
+<OG_Imperial_Mechanicus_Menial.baseDesc>[PAWN_nameDef] was one of the untold billions of menial, unaugmented human labourers of the Mechanicus, used primarily for unskilled labour too complex for Servitors to economically perform. Indoctrinated with the beliefs of the Cult Mechanicus in a simplified form [PAWN_nameDef] worked on reducing materials down to their base components for reforging. </OG_Imperial_Mechanicus_Menial.baseDesc>
+
+</LanguageData>

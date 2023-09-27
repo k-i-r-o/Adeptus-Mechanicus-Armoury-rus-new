@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/TraderKindDefs/OG_AMA_OrbitalTrader_Recruits.xml-->
+                               <!-- recruiter ship -->
+<OG_Orbital_RecruiterMerchant.label>recruiter ship</OG_Orbital_RecruiterMerchant.label>
+                           <!-- Merc ship -->
+<OG_Orbital_MercsMerchant.label>Merc ship</OG_Orbital_MercsMerchant.label>
+
+</LanguageData>

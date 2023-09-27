@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/BackstoryDefs/Imperium Backstories/Mechanicus/TechPriest_Magos.xml-->
+                                   <!-- [PAWN_nameDef] designed and constructed buildings. On [PAWN_possessive] forgeworld home, most of the technical aspects of architecture were handled by an AI. This enabled [PAWN_objective] to push the artistic limits of the craft, but also meant [PAWN_pronoun] never had to get [PAWN_possessive] hands dirty at building sites. -->
+<OG_Imperial_Mechanicus_Magos_.baseDesc>[PAWN_nameDef] designed and constructed buildings. On [PAWN_possessive] forgeworld home, most of the technical aspects of architecture were handled by an AI. This enabled [PAWN_objective] to push the artistic limits of the craft, but also meant [PAWN_pronoun] never had to get [PAWN_possessive] hands dirty at building sites.</OG_Imperial_Mechanicus_Magos_.baseDesc>
+                                        <!-- Magos Biologis -->
+<OG_Imperial_Mechanicus_Magos_Biologis.title>Magos Biologis</OG_Imperial_Mechanicus_Magos_Biologis.title>
+                                           <!-- [PAWN_pronoun] is a Magos Biologis, highly specialized in genetics, physiology and systemology. -->
+<OG_Imperial_Mechanicus_Magos_Biologis.baseDesc>[PAWN_pronoun] is a Magos Biologis, highly specialized in genetics, physiology and systemology.</OG_Imperial_Mechanicus_Magos_Biologis.baseDesc>
+                                             <!-- [PAWN_pronoun] is a Magos Explorator, who travels with exploration fleets and rogue traders. -->
+<OG_Imperial_Mechanicus_Magos_Explorator.baseDesc>[PAWN_pronoun] is a Magos Explorator, who travels with exploration fleets and rogue traders.</OG_Imperial_Mechanicus_Magos_Explorator.baseDesc>
+
+</LanguageData>

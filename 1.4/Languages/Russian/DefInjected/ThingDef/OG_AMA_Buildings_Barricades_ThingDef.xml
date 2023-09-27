@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/ThingDefs_Buildings/OG_AMA_Buildings_Barricades.xml.bak-->
+                    <!-- deployable barrier -->
+<DeployableBarrier.label>deployable barrier</DeployableBarrier.label>
+                          <!-- A traffic management solution from long ago. -->
+<DeployableBarrier.description>A traffic management solution from long ago.</DeployableBarrier.description>
+                                                   <!-- DB_ToggleModeCommandLabel -->
+<DeployableBarrier.comps.Comp_Flickable.commandLabelKey>DB_ToggleModeCommandLabel</DeployableBarrier.comps.Comp_Flickable.commandLabelKey>
+
+</LanguageData>

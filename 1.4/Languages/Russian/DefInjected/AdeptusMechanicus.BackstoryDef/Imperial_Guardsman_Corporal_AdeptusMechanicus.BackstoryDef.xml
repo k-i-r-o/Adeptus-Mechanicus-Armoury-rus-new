@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/BackstoryDefs/Imperium Backstories/Militarum/Imperial_Guardsman_Corporal.xml-->
+                                 <!-- imperial guard corporal -->
+<OG_Imperial_Militarum_Corporal.title>imperial guard corporal</OG_Imperial_Militarum_Corporal.title>
+                                    <!-- [PAWN_nameDef] was promoted to the rank of Corporal of tbeir squad. [PAWN_pronoun] was tasked with being a secondary their squad, and is the next in line to lead the squad during combat.  -->
+<OG_Imperial_Militarum_Corporal.baseDesc>[PAWN_nameDef] was promoted to the rank of Corporal of tbeir squad. [PAWN_pronoun] was tasked with being a secondary their squad, and is the next in line to lead the squad during combat. </OG_Imperial_Militarum_Corporal.baseDesc>
+
+</LanguageData>

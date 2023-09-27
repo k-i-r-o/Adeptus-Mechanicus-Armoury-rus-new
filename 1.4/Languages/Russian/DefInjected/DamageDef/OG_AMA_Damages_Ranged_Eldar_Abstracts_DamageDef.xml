@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/DamageDefs/OG_AMA_Damages_Ranged_Eldar_Abstracts.xml-->
+              <!-- Shuriken -->
+<OGEShuriken.label>Shuriken</OGEShuriken.label>
+                     <!-- {0} was cut to ribbons. -->
+<OGEShuriken.deathMessage>{0} was cut to ribbons.</OGEShuriken.deathMessage>
+          <!-- Starfire -->
+<OGEPlas.label>Starfire</OGEPlas.label>
+                 <!-- {0}'s death was forseen. -->
+<OGEPlas.deathMessage>{0}'s death was forseen.</OGEPlas.deathMessage>
+                         <!-- Warp Rift -->
+<OG_E_Distortion_Damage.label>Warp Rift</OG_E_Distortion_Damage.label>
+                                <!-- {0} was torn to shreds by a warp rift. -->
+<OG_E_Distortion_Damage.deathMessage>{0} was torn to shreds by a warp rift.</OG_E_Distortion_Damage.deathMessage>
+           <!-- Lance -->
+<OGELance.label>Lance</OGELance.label>
+                  <!-- {0} was slain by a lance of pure energy. -->
+<OGELance.deathMessage>{0} was slain by a lance of pure energy.</OGELance.deathMessage>
+                  <!-- Mono-filament Mesh  -->
+<OGEDeathspinner.label>Mono-filament Mesh </OGEDeathspinner.label>
+                         <!-- {0} was reduced to a pulp. -->
+<OGEDeathspinner.deathMessage>{0} was reduced to a pulp.</OGEDeathspinner.deathMessage>
+                  <!-- Mono-filament Mesh  -->
+<OGEShadowWeaver.label>Mono-filament Mesh </OGEShadowWeaver.label>
+                         <!-- {0} was reduced to a pulp. -->
+<OGEShadowWeaver.deathMessage>{0} was reduced to a pulp.</OGEShadowWeaver.deathMessage>
+
+</LanguageData>

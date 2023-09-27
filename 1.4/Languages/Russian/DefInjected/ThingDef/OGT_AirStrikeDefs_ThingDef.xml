@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/OrdnanceStrikes/AirStrikeDefs/OGT_AirStrikeDefs.xml-->
+                                  <!-- Burst Pulse -->
+<OGT_AirstrikeBullet_BurstCannon.label>Burst Pulse</OGT_AirstrikeBullet_BurstCannon.label>
+                                  <!-- Plasma bolt -->
+<OGT_AirstrikeBullet_PlasmaRifle.label>Plasma bolt</OGT_AirstrikeBullet_PlasmaRifle.label>
+                                        <!-- A superheated bolt fired by a Plasma Weapon impacts with the fury of a supernova, scything through steel, flesh and bone as if they were nothing.Due to the enormous temperatures and deadly energies that Plasma Weapons generate when fired, most such weapons are prone to overheating, destabilisation and misfire. -->
+<OGT_AirstrikeBullet_PlasmaRifle.description>A superheated bolt fired by a Plasma Weapon impacts with the fury of a supernova, scything through steel, flesh and bone as if they were nothing.Due to the enormous temperatures and deadly energies that Plasma Weapons generate when fired, most such weapons are prone to overheating, destabilisation and misfire.</OGT_AirstrikeBullet_PlasmaRifle.description>
+                              <!-- railgun slug -->
+<OGT_AirstrikeBullet_Railgun.label>railgun slug</OGT_AirstrikeBullet_Railgun.label>
+                              <!-- missile -->
+<OGT_AirstrikeBullet_Missile.label>missile</OGT_AirstrikeBullet_Missile.label>
+                                    <!-- Whilst not as powerful as an Imperial Krak Missile warhead and lacking the damage radius of a Frag Missile, T'au missiles instead combine the best attributes of both, and are capable of rapid fire to shred infantry, transports, skimmers, and other light vehicles with ease. -->
+<OGT_AirstrikeBullet_Missile.description>Whilst not as powerful as an Imperial Krak Missile warhead and lacking the damage radius of a Frag Missile, T'au missiles instead combine the best attributes of both, and are capable of rapid fire to shred infantry, transports, skimmers, and other light vehicles with ease.</OGT_AirstrikeBullet_Missile.description>
+
+</LanguageData>

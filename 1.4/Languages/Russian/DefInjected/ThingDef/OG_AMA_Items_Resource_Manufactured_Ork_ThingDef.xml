@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/ThingDefs_Items/OG_AMA_Items_Resource_Manufactured_Ork.xml-->
+                <!-- komponent -->
+<OGO_Component.label>komponent</OGO_Component.label>
+                      <!-- Ork 'Komponents' are usually cobbled togeather from other machinery, the original functions of which vary wildy, Mekboyz use these parts in all ork 'teknology'. -->
+<OGO_Component.description>Ork 'Komponents' are usually cobbled togeather from other machinery, the original functions of which vary wildy, Mekboyz use these parts in all ork 'teknology'.</OGO_Component.description>
+           <!-- Bitz -->
+<OGO_Bitz.label>Bitz</OGO_Bitz.label>
+                 <!-- Ork bitz is are various bits of scavenged, stolen, looted 'teknology', repurposed by Mekboyz for use in their creations, how these peices function is a mystery to all. -->
+<OGO_Bitz.description>Ork bitz is are various bits of scavenged, stolen, looted 'teknology', repurposed by Mekboyz for use in their creations, how these peices function is a mystery to all.</OGO_Bitz.description>
+
+</LanguageData>

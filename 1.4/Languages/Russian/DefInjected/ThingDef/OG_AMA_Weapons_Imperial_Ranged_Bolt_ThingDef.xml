@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/ThingDefs_Misc/Weapons/OG_AMA_Weapons_Imperial_Ranged_Bolt.xml-->
+                     <!-- Bolt -->
+<OGI_Bullet_BoltStd.label>Bolt</OGI_Bullet_BoltStd.label>
+                           <!-- Standard Bolter ammunition utilises a mass-reactive fuse, designed to penetrate the target before detonating within, maximizing damage to the target and leaving little chance for survival. -->
+<OGI_Bullet_BoltStd.description>Standard Bolter ammunition utilises a mass-reactive fuse, designed to penetrate the target before detonating within, maximizing damage to the target and leaving little chance for survival.</OGI_Bullet_BoltStd.description>
+                            <!-- Dragonfire Bolt -->
+<OGI_Bullet_BoltDragonfire.label>Dragonfire Bolt</OGI_Bullet_BoltDragonfire.label>
+                                  <!-- Dragonfire Bolts are hollow-shelled bolts that are issued fo use by Sternguard Veterans, and explode with a gout of superheated gas that can eliminate the value of cover for enemy troops. Any targets struck receive full damage even when partially protected by cover. -->
+<OGI_Bullet_BoltDragonfire.description>Dragonfire Bolts are hollow-shelled bolts that are issued fo use by Sternguard Veterans, and explode with a gout of superheated gas that can eliminate the value of cover for enemy troops. Any targets struck receive full damage even when partially protected by cover.</OGI_Bullet_BoltDragonfire.description>
+                          <!-- Hellfire Bolt -->
+<OGI_Bullet_BoltHellfire.label>Hellfire Bolt</OGI_Bullet_BoltHellfire.label>
+                                <!-- Hellfire bolts were created as one of the Imperium's desperate measures to stem the predations of Tyranid assaults within the galaxy. Each bolt is tipped with thousands of needles and a vial of mutagenic acid capable of dissolving its way through citin and carapace with equal ease.
+
+When the round enters the target's body, the vial shatters and the needles pierce the victim's flesh, pumping the acid into the target. Such is the success of the Hellfire bolt that it has found a use against a variety of foes, its acid just as effective at killing other foul xenos. -->
+<OGI_Bullet_BoltHellfire.description>Hellfire bolts were created as one of the Imperium's desperate measures to stem the predations of Tyranid assaults within the galaxy. Each bolt is tipped with thousands of needles and a vial of mutagenic acid capable of dissolving its way through citin and carapace with equal ease.\n\nWhen the round enters the target's body, the vial shatters and the needles pierce the victim's flesh, pumping the acid into the target. Such is the success of the Hellfire bolt that it has found a use against a variety of foes, its acid just as effective at killing other foul xenos.</OGI_Bullet_BoltHellfire.description>
+                        <!-- Kraken Bolt -->
+<OGI_Bullet_BoltKraken.label>Kraken Bolt</OGI_Bullet_BoltKraken.label>
+                              <!-- Kraken Bolts are specialised Bolter shells with an enhanced adamantium core and improved propellant, and were utilised by Seeker Squads during the Great Crusade and Horus Heresy eras of the late 30th and early 31st Millennia, as well as Sternguard Veterans in modern times. They possessed superior armour-piercing properties and increased range compared to standard bolts, but the expense and resources required to create them kept them in limited issue. -->
+<OGI_Bullet_BoltKraken.description>Kraken Bolts are specialised Bolter shells with an enhanced adamantium core and improved propellant, and were utilised by Seeker Squads during the Great Crusade and Horus Heresy eras of the late 30th and early 31st Millennia, as well as Sternguard Veterans in modern times. They possessed superior armour-piercing properties and increased range compared to standard bolts, but the expense and resources required to create them kept them in limited issue.</OGI_Bullet_BoltKraken.description>
+                           <!-- Vengeance Bolt -->
+<OGI_Bullet_BoltVengeance.label>Vengeance Bolt</OGI_Bullet_BoltVengeance.label>
+                                 <!-- Vengeance Round bolts are designed for use against heavy infantry and armoured targets. Each bolt has a volatile core utilising unstable flux core technology that makes them hazardous to use, but extremely potent at penetrating through heavily armoured targets. They are especially effective at punching clean through even the Ceramite plates of Power Armour. As their name implies, these bolts were developed by the Imperium specifically to target the Chaos Space Marines of the Traitor Legions. -->
+<OGI_Bullet_BoltVengeance.description>Vengeance Round bolts are designed for use against heavy infantry and armoured targets. Each bolt has a volatile core utilising unstable flux core technology that makes them hazardous to use, but extremely potent at penetrating through heavily armoured targets. They are especially effective at punching clean through even the Ceramite plates of Power Armour. As their name implies, these bolts were developed by the Imperium specifically to target the Chaos Space Marines of the Traitor Legions.</OGI_Bullet_BoltVengeance.description>
+                     <!-- bolt pistol (I) -->
+<OGI_Gun_BoltPistol.label>bolt pistol (I)</OGI_Gun_BoltPistol.label>
+                           <!-- A Bolt Pistol is a smaller version of the Bolter in standard use by the Space Marines and other Imperial forces such as the Orders Militant of the Adepta Sororitas and certain members of the Astra Militarum and the Imperial Navy. Powerful and utilitarian side arms, Bolt Pistols have seen service within many of the Imperium's military forces since its inception in the 30th Millennium. The current standard pattern in use amongst the Space Marines is the Mark III. Bolt Pistols are also used by many other Imperial forces as well as the Chaos Space Marines. A Bolt Pistol is commonly used in conjunction with a close combat weapon by Space Marine officers, Veterans and Assault Squads to make them into melee combat specialists. -->
+<OGI_Gun_BoltPistol.description>A Bolt Pistol is a smaller version of the Bolter in standard use by the Space Marines and other Imperial forces such as the Orders Militant of the Adepta Sororitas and certain members of the Astra Militarum and the Imperial Navy. Powerful and utilitarian side arms, Bolt Pistols have seen service within many of the Imperium's military forces since its inception in the 30th Millennium. The current standard pattern in use amongst the Space Marines is the Mark III. Bolt Pistols are also used by many other Imperial forces as well as the Chaos Space Marines. A Bolt Pistol is commonly used in conjunction with a close combat weapon by Space Marine officers, Veterans and Assault Squads to make them into melee combat specialists.</OGI_Gun_BoltPistol.description>
+                             <!-- stock -->
+<OGI_Gun_BoltPistol.tools.0.label>stock</OGI_Gun_BoltPistol.tools.0.label>
+                      <!-- dual bolt pistols (I) -->
+<OGI_Gun_BoltPistolD.label>dual bolt pistols (I)</OGI_Gun_BoltPistolD.label>
+                            <!-- A Bolt Pistol is a smaller version of the Bolter in standard use by the Space Marines and other Imperial forces such as the Orders Militant of the Adepta Sororitas and certain members of the Astra Militarum and the Imperial Navy. Powerful and utilitarian side arms, Bolt Pistols have seen service within many of the Imperium's military forces since its inception in the 30th Millennium. The current standard pattern in use amongst the Space Marines is the Mark III. Bolt Pistols are also used by many other Imperial forces as well as the Chaos Space Marines. A Bolt Pistol is commonly used in conjunction with a close combat weapon by Space Marine officers, Veterans and Assault Squads to make them into melee combat specialists. -->
+<OGI_Gun_BoltPistolD.description>A Bolt Pistol is a smaller version of the Bolter in standard use by the Space Marines and other Imperial forces such as the Orders Militant of the Adepta Sororitas and certain members of the Astra Militarum and the Imperial Navy. Powerful and utilitarian side arms, Bolt Pistols have seen service within many of the Imperium's military forces since its inception in the 30th Millennium. The current standard pattern in use amongst the Space Marines is the Mark III. Bolt Pistols are also used by many other Imperial forces as well as the Chaos Space Marines. A Bolt Pistol is commonly used in conjunction with a close combat weapon by Space Marine officers, Veterans and Assault Squads to make them into melee combat specialists.</OGI_Gun_BoltPistolD.description>
+                              <!-- stock -->
+<OGI_Gun_BoltPistolD.tools.0.label>stock</OGI_Gun_BoltPistolD.tools.0.label>
+                  <!-- bolter locke (I) -->
+<OGI_Gun_BoltGun.label>bolter locke (I)</OGI_Gun_BoltGun.label>
+                        <!-- The Bolter, also called a Boltgun, and its variants are some of the most powerful hand-held ballistic anti-personnel weaponry in use by the military forces of the Imperium of Man. It is a powerful assault weapon that fires explosive kinetic rounds colloquially referred to as bolts capable of ripping through or blowing apart a foe. The Locke Pattern is a variant of an older pattern used by the Adeptus Arbites, and is now the most common pattern of Bolter in use in the Rim.
+
+Like the Bolter patterns used by the Orders Militant of the Adepta Sororitas, the Locke Pattern Bolter can be used without difficulty by normal-sized humans. -->
+<OGI_Gun_BoltGun.description>The Bolter, also called a Boltgun, and its variants are some of the most powerful hand-held ballistic anti-personnel weaponry in use by the military forces of the Imperium of Man. It is a powerful assault weapon that fires explosive kinetic rounds colloquially referred to as bolts capable of ripping through or blowing apart a foe. The Locke Pattern is a variant of an older pattern used by the Adeptus Arbites, and is now the most common pattern of Bolter in use in the Rim.\n\nLike the Bolter patterns used by the Orders Militant of the Adepta Sororitas, the Locke Pattern Bolter can be used without difficulty by normal-sized humans.</OGI_Gun_BoltGun.description>
+                          <!-- stock -->
+<OGI_Gun_BoltGun.tools.0.label>stock</OGI_Gun_BoltGun.tools.0.label>
+                          <!-- barrel -->
+<OGI_Gun_BoltGun.tools.1.label>barrel</OGI_Gun_BoltGun.tools.1.label>
+                      <!-- storm bolter (I) -->
+<OGI_Gun_StormBolter.label>storm bolter (I)</OGI_Gun_StormBolter.label>
+                            <!-- The Storm Bolter is a double-barrelled version of the standard .75 calibre Bolter. As it is heavier and causes more recoil than a normal Bolter, it is even more rarely used than the Bolter by the regiments of the Astra Militarum. Instead, Storm Bolters are the standard weapons employed by Space Marine Terminators or as a pintle-mounted weapon on an Imperial main battle tank. Storm Bolters are also used by the Astartes of the Grey Knights Chapter as a gauntlet-mounted weapon with its feed located on the rear of their armour. The Storm Bolter also sees limited use amongst the Orders Militant of the Adepta Sororitas, where it is considered a specialist weapon, and favoured by those squads of Dominions, the Sororitas' heavy-weapons troops, who prefer to engage in mid-range, anti-infantry combat. -->
+<OGI_Gun_StormBolter.description>The Storm Bolter is a double-barrelled version of the standard .75 calibre Bolter. As it is heavier and causes more recoil than a normal Bolter, it is even more rarely used than the Bolter by the regiments of the Astra Militarum. Instead, Storm Bolters are the standard weapons employed by Space Marine Terminators or as a pintle-mounted weapon on an Imperial main battle tank. Storm Bolters are also used by the Astartes of the Grey Knights Chapter as a gauntlet-mounted weapon with its feed located on the rear of their armour. The Storm Bolter also sees limited use amongst the Orders Militant of the Adepta Sororitas, where it is considered a specialist weapon, and favoured by those squads of Dominions, the Sororitas' heavy-weapons troops, who prefer to engage in mid-range, anti-infantry combat.</OGI_Gun_StormBolter.description>
+                              <!-- stock -->
+<OGI_Gun_StormBolter.tools.0.label>stock</OGI_Gun_StormBolter.tools.0.label>
+                              <!-- barrel -->
+<OGI_Gun_StormBolter.tools.1.label>barrel</OGI_Gun_StormBolter.tools.1.label>
+                         <!-- flames -->
+<OGI_Bullet_FlamerCombi.label>flames</OGI_Bullet_FlamerCombi.label>
+                      <!-- combi-flamer (I) -->
+<OGI_Gun_CombiFlamer.label>combi-flamer (I)</OGI_Gun_CombiFlamer.label>
+                            <!-- Combi-weapons are a variety weaponry derived from the integration of multiple different weapon types into a single weapon.
+
+There are two major types of Combi-weapons. The first combines two identical weapons into one larger weapon, giving the resulting weapon system a higher rate of fire and better accuracy by virtue of simply throwing more shells, heat beams or plasma at the target. The second type of Combi-weapon is an amalgamation of two wholly different weapons into a single casing.
+
+Only one component of the combined weapon can be fired at a time, and often the secondary weapon has very limited ammunition, enough for only one shot or short burst of fire. Such weapons augment the bearer's tactical flexibility, granting him a limited capacity to deal with threats that the main weapon would find hard or impossible to damage.
+
+A standard Bolter with a Flamer attached to the side, useful for close combat. -->
+<OGI_Gun_CombiFlamer.description>Combi-weapons are a variety weaponry derived from the integration of multiple different weapon types into a single weapon.\n\nThere are two major types of Combi-weapons. The first combines two identical weapons into one larger weapon, giving the resulting weapon system a higher rate of fire and better accuracy by virtue of simply throwing more shells, heat beams or plasma at the target. The second type of Combi-weapon is an amalgamation of two wholly different weapons into a single casing.\n\nOnly one component of the combined weapon can be fired at a time, and often the secondary weapon has very limited ammunition, enough for only one shot or short burst of fire. Such weapons augment the bearer's tactical flexibility, granting him a limited capacity to deal with threats that the main weapon would find hard or impossible to damage.\n\nA standard Bolter with a Flamer attached to the side, useful for close combat.</OGI_Gun_CombiFlamer.description>
+                              <!-- stock -->
+<OGI_Gun_CombiFlamer.tools.0.label>stock</OGI_Gun_CombiFlamer.tools.0.label>
+                              <!-- barrel -->
+<OGI_Gun_CombiFlamer.tools.1.label>barrel</OGI_Gun_CombiFlamer.tools.1.label>
+                                                                            <!-- AMA_Combi -->
+<OGI_Gun_CombiFlamer.comps.AdeptusMechanicus.Comp_ToggleFireMode.InspectLabelKey>AMA_Combi</OGI_Gun_CombiFlamer.comps.AdeptusMechanicus.Comp_ToggleFireMode.InspectLabelKey>
+                     <!-- combi-melta (I) -->
+<OGI_Gun_CombiMelta.label>combi-melta (I)</OGI_Gun_CombiMelta.label>
+                           <!-- Combi-weapons are a variety weaponry derived from the integration of multiple different weapon types into a single weapon.
+
+There are two major types of Combi-weapons. The first combines two identical weapons into one larger weapon, giving the resulting weapon system a higher rate of fire and better accuracy by virtue of simply throwing more shells, heat beams or plasma at the target. The second type of Combi-weapon is an amalgamation of two wholly different weapons into a single casing.
+
+Only one component of the combined weapon can be fired at a time, and often the secondary weapon has very limited ammunition, enough for only one shot or short burst of fire. Such weapons augment the bearer's tactical flexibility, granting him a limited capacity to deal with threats that the main weapon would find hard or impossible to damage.
+
+A standard Bolter with a Meltagun attached to its side, used as an anti-armour weapon. -->
+<OGI_Gun_CombiMelta.description>Combi-weapons are a variety weaponry derived from the integration of multiple different weapon types into a single weapon.\n\nThere are two major types of Combi-weapons. The first combines two identical weapons into one larger weapon, giving the resulting weapon system a higher rate of fire and better accuracy by virtue of simply throwing more shells, heat beams or plasma at the target. The second type of Combi-weapon is an amalgamation of two wholly different weapons into a single casing.\n\nOnly one component of the combined weapon can be fired at a time, and often the secondary weapon has very limited ammunition, enough for only one shot or short burst of fire. Such weapons augment the bearer's tactical flexibility, granting him a limited capacity to deal with threats that the main weapon would find hard or impossible to damage.\n\nA standard Bolter with a Meltagun attached to its side, used as an anti-armour weapon.</OGI_Gun_CombiMelta.description>
+                                                                           <!-- AMA_Combi -->
+<OGI_Gun_CombiMelta.comps.AdeptusMechanicus.Comp_ToggleFireMode.InspectLabelKey>AMA_Combi</OGI_Gun_CombiMelta.comps.AdeptusMechanicus.Comp_ToggleFireMode.InspectLabelKey>
+                             <!-- stock -->
+<OGI_Gun_CombiMelta.tools.0.label>stock</OGI_Gun_CombiMelta.tools.0.label>
+                             <!-- barrel -->
+<OGI_Gun_CombiMelta.tools.1.label>barrel</OGI_Gun_CombiMelta.tools.1.label>
+                      <!-- combi-plasma (I) -->
+<OGI_Gun_CombiPlasma.label>combi-plasma (I)</OGI_Gun_CombiPlasma.label>
+                            <!-- Combi-weapons are a variety weaponry derived from the integration of multiple different weapon types into a single weapon.
+
+There are two major types of Combi-weapons. The first combines two identical weapons into one larger weapon, giving the resulting weapon system a higher rate of fire and better accuracy by virtue of simply throwing more shells, heat beams or plasma at the target. The second type of Combi-weapon is an amalgamation of two wholly different weapons into a single casing.
+
+Only one component of the combined weapon can be fired at a time, and often the secondary weapon has very limited ammunition, enough for only one shot or short burst of fire. Such weapons augment the bearer's tactical flexibility, granting him a limited capacity to deal with threats that the main weapon would find hard or impossible to damage.
+
+A Standard Bolter with a Plasma Gun attached that is useful for a variety of tactical necessities. -->
+<OGI_Gun_CombiPlasma.description>Combi-weapons are a variety weaponry derived from the integration of multiple different weapon types into a single weapon.\n\nThere are two major types of Combi-weapons. The first combines two identical weapons into one larger weapon, giving the resulting weapon system a higher rate of fire and better accuracy by virtue of simply throwing more shells, heat beams or plasma at the target. The second type of Combi-weapon is an amalgamation of two wholly different weapons into a single casing.\n\nOnly one component of the combined weapon can be fired at a time, and often the secondary weapon has very limited ammunition, enough for only one shot or short burst of fire. Such weapons augment the bearer's tactical flexibility, granting him a limited capacity to deal with threats that the main weapon would find hard or impossible to damage.\n\nA Standard Bolter with a Plasma Gun attached that is useful for a variety of tactical necessities.</OGI_Gun_CombiPlasma.description>
+                                                                            <!-- AMA_Combi -->
+<OGI_Gun_CombiPlasma.comps.AdeptusMechanicus.Comp_ToggleFireMode.InspectLabelKey>AMA_Combi</OGI_Gun_CombiPlasma.comps.AdeptusMechanicus.Comp_ToggleFireMode.InspectLabelKey>
+                              <!-- stock -->
+<OGI_Gun_CombiPlasma.tools.0.label>stock</OGI_Gun_CombiPlasma.tools.0.label>
+                              <!-- barrel -->
+<OGI_Gun_CombiPlasma.tools.1.label>barrel</OGI_Gun_CombiPlasma.tools.1.label>
+                    <!-- combi-grav (I) -->
+<OGI_Gun_CombiGrav.label>combi-grav (I)</OGI_Gun_CombiGrav.label>
+                          <!-- Combi-weapons are a variety weaponry derived from the integration of multiple different weapon types into a single weapon.
+
+There are two major types of Combi-weapons. The first combines two identical weapons into one larger weapon, giving the resulting weapon system a higher rate of fire and better accuracy by virtue of simply throwing more shells, heat beams or plasma at the target. The second type of Combi-weapon is an amalgamation of two wholly different weapons into a single casing.
+
+Only one component of the combined weapon can be fired at a time, and often the secondary weapon has very limited ammunition, enough for only one shot or short burst of fire. Such weapons augment the bearer's tactical flexibility, granting him a limited capacity to deal with threats that the main weapon would find hard or impossible to damage.
+
+A Standard Bolter with a Grav Gun attached that is useful for a variety of tactical necessities. -->
+<OGI_Gun_CombiGrav.description>Combi-weapons are a variety weaponry derived from the integration of multiple different weapon types into a single weapon.\n\nThere are two major types of Combi-weapons. The first combines two identical weapons into one larger weapon, giving the resulting weapon system a higher rate of fire and better accuracy by virtue of simply throwing more shells, heat beams or plasma at the target. The second type of Combi-weapon is an amalgamation of two wholly different weapons into a single casing.\n\nOnly one component of the combined weapon can be fired at a time, and often the secondary weapon has very limited ammunition, enough for only one shot or short burst of fire. Such weapons augment the bearer's tactical flexibility, granting him a limited capacity to deal with threats that the main weapon would find hard or impossible to damage.\n\nA Standard Bolter with a Grav Gun attached that is useful for a variety of tactical necessities.</OGI_Gun_CombiGrav.description>
+                                                                                                <!-- Bolter -->
+<OGI_Gun_CombiGrav.comps.AdeptusMechanicus.Comp_Weapon_GunSpecialRules.VerbEntries.0.VerbProps.label>Bolter</OGI_Gun_CombiGrav.comps.AdeptusMechanicus.Comp_Weapon_GunSpecialRules.VerbEntries.0.VerbProps.label>
+                            <!-- stock -->
+<OGI_Gun_CombiGrav.tools.0.label>stock</OGI_Gun_CombiGrav.tools.0.label>
+                            <!-- barrel -->
+<OGI_Gun_CombiGrav.tools.1.label>barrel</OGI_Gun_CombiGrav.tools.1.label>
+                                 <!-- Stalker Silenced Bolt -->
+<OGI_Bullet_BoltStalkerSilinced.label>Stalker Silenced Bolt</OGI_Bullet_BoltStalkerSilinced.label>
+                                       <!-- Stalker Silenced Shells are Bolter rounds with low sound signatures, meant for covert fighting. They are often used in conjunction with an M40 Targeter System, an extended barrel, and a stock to create a sniping weapon system. A gas cartridge replaces both the propellant base and main charge for silent firing, but this sacrifices muzzle velocity as a result. A solidified mercury slug replaces the mass-reactive warhead for lethality at sub-sonic projectile speed. These rounds are used when stealth and precision are required. -->
+<OGI_Bullet_BoltStalkerSilinced.description>Stalker Silenced Shells are Bolter rounds with low sound signatures, meant for covert fighting. They are often used in conjunction with an M40 Targeter System, an extended barrel, and a stock to create a sniping weapon system. A gas cartridge replaces both the propellant base and main charge for silent firing, but this sacrifices muzzle velocity as a result. A solidified mercury slug replaces the mass-reactive warhead for lethality at sub-sonic projectile speed. These rounds are used when stealth and precision are required.</OGI_Bullet_BoltStalkerSilinced.description>
+                        <!-- stalker pattern bolter (I) -->
+<OGI_Gun_StalkerBolter.label>stalker pattern bolter (I)</OGI_Gun_StalkerBolter.label>
+                              <!-- The Stalker Pattern Bolter is a standard Godwyn Mark Vb Pattern Bolter modified with an M40 Targeter System and an elongated barrel so that it may also serve as a Sniper Rifle. Although the Space Marines Scouts are its primary users, the Stalker Pattern Bolter finds itself in use in military organisations throughout the Imperium. -->
+<OGI_Gun_StalkerBolter.description>The Stalker Pattern Bolter is a standard Godwyn Mark Vb Pattern Bolter modified with an M40 Targeter System and an elongated barrel so that it may also serve as a Sniper Rifle. Although the Space Marines Scouts are its primary users, the Stalker Pattern Bolter finds itself in use in military organisations throughout the Imperium.</OGI_Gun_StalkerBolter.description>
+                                <!-- stock -->
+<OGI_Gun_StalkerBolter.tools.0.label>stock</OGI_Gun_StalkerBolter.tools.0.label>
+                                <!-- barrel -->
+<OGI_Gun_StalkerBolter.tools.1.label>barrel</OGI_Gun_StalkerBolter.tools.1.label>
+                          <!-- Heavy Bolt -->
+<OGI_Bullet_HeavyBoltStd.label>Heavy Bolt</OGI_Bullet_HeavyBoltStd.label>
+                               <!-- Heavy Hellfire Bolt -->
+<OGI_Bullet_HeavyBoltHellfire.label>Heavy Hellfire Bolt</OGI_Bullet_HeavyBoltHellfire.label>
+                                     <!-- Hellfire bolts were created as one of the Imperium's desperate measures to stem the predations of Tyranid assaults within the galaxy. Each bolt is tipped with thousands of needles and a vial of mutagenic acid capable of dissolving its way through citin and carapace with equal ease.
+
+When the round enters the target's body, the vial shatters and the needles pierce the victim's flesh, pumping the acid into the target. Such is the success of the Hellfire bolt that it has found a use against a variety of foes, its acid just as effective at killing other foul xenos. -->
+<OGI_Bullet_HeavyBoltHellfire.description>Hellfire bolts were created as one of the Imperium's desperate measures to stem the predations of Tyranid assaults within the galaxy. Each bolt is tipped with thousands of needles and a vial of mutagenic acid capable of dissolving its way through citin and carapace with equal ease.\n\nWhen the round enters the target's body, the vial shatters and the needles pierce the victim's flesh, pumping the acid into the target. Such is the success of the Hellfire bolt that it has found a use against a variety of foes, its acid just as effective at killing other foul xenos.</OGI_Bullet_HeavyBoltHellfire.description>
+                      <!-- heavy bolter (I) -->
+<OGI_Gun_HeavyBolter.label>heavy bolter (I)</OGI_Gun_HeavyBolter.label>
+                            <!-- A Heavy Bolter is a powerful Bolt Weapon that is used for anti-infantry and fire support roles, and is also known as the "Backbreaker" or the "Bruiser" because of its great weight and the amount of damage it can deal. Unlike the Boltgun, it is relatively common in Imperial Guard armies and is also often used by the Space Marines. Heavy Bolters have a high rate of fire and are relatively cheap to field. A Heavy Bolter can also be mounted on the cupola pintle-mounts of a wide variety of Imperial armoured vehicles, as well as act as an anti-personnel weapon by Imperial fixed defences, including strongholds and other fortifications. -->
+<OGI_Gun_HeavyBolter.description>A Heavy Bolter is a powerful Bolt Weapon that is used for anti-infantry and fire support roles, and is also known as the "Backbreaker" or the "Bruiser" because of its great weight and the amount of damage it can deal. Unlike the Boltgun, it is relatively common in Imperial Guard armies and is also often used by the Space Marines. Heavy Bolters have a high rate of fire and are relatively cheap to field. A Heavy Bolter can also be mounted on the cupola pintle-mounts of a wide variety of Imperial armoured vehicles, as well as act as an anti-personnel weapon by Imperial fixed defences, including strongholds and other fortifications.</OGI_Gun_HeavyBolter.description>
+                              <!-- barrel -->
+<OGI_Gun_HeavyBolter.tools.0.label>barrel</OGI_Gun_HeavyBolter.tools.0.label>
+
+</LanguageData>

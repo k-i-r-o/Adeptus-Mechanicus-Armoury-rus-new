@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/BackstoryDefs/Imperium Backstories/Common/Underhive_Gangster.xml-->
+                               <!-- underhive ganger -->
+<OG_Imperial_Underhive_Ganger.title>underhive ganger</OG_Imperial_Underhive_Ganger.title>
+                                  <!-- [PAWN_nameDef] was born underneathe a hive city. In order to survive [PAWN_nameDef] joined up with any gang that would give them protection.  -->
+<OG_Imperial_Underhive_Ganger.baseDesc>[PAWN_nameDef] was born underneathe a hive city. In order to survive [PAWN_nameDef] joined up with any gang that would give them protection. </OG_Imperial_Underhive_Ganger.baseDesc>
+
+</LanguageData>

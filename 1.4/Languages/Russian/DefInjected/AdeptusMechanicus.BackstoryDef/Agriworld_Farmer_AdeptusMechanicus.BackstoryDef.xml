@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/BackstoryDefs/Imperium Backstories/Common/Agriworld_Farmer.xml-->
+                               <!-- agriworld farmer -->
+<OG_Imperial_Agriworld_Farmer.title>agriworld farmer</OG_Imperial_Agriworld_Farmer.title>
+                                  <!-- [PAWN_nameDef] was born into a family of farmers on a agricultural world. [PAWN_pronoun] excelled at planting and maintaining crops. -->
+<OG_Imperial_Agriworld_Farmer.baseDesc>[PAWN_nameDef] was born into a family of farmers on a agricultural world. [PAWN_pronoun] excelled at planting and maintaining crops.</OG_Imperial_Agriworld_Farmer.baseDesc>
+
+</LanguageData>

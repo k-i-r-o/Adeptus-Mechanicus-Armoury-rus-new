@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/RulePackDefs/RulePacks_Ideo_RoleNames.xml-->
+                                        <!-- 
+		<li>r_roleName(p=4)-&gt;[memeMoralist]</li>
+ -->
+<OG_NamerRole_Moralist.rulePack.rulesStrings>
+		<li>r_roleName(p=4)-&gt;[memeMoralist]</li>
+</OG_NamerRole_Moralist.rulePack.rulesStrings>
+                                                  <!-- 
+		<li>r_roleName(p=4)-&gt;[memeShootingSpecialist]</li>
+ -->
+<OG_NamerRoleSpecialist_Shooting.rulePack.rulesStrings>
+		<li>r_roleName(p=4)-&gt;[memeShootingSpecialist]</li>
+</OG_NamerRoleSpecialist_Shooting.rulePack.rulesStrings>
+                                               <!-- 
+		<li>r_roleName(p=4)-&gt;[memeMeleeSpecialist]</li>
+ -->
+<OG_NamerRoleSpecialist_Melee.rulePack.rulesStrings>
+		<li>r_roleName(p=4)-&gt;[memeMeleeSpecialist]</li>
+</OG_NamerRoleSpecialist_Melee.rulePack.rulesStrings>
+                                                  <!-- 
+		<li>r_roleName(p=4)-&gt;[memeResearchSpecialist]</li>
+ -->
+<OG_NamerRoleSpecialist_Research.rulePack.rulesStrings>
+		<li>r_roleName(p=4)-&gt;[memeResearchSpecialist]</li>
+</OG_NamerRoleSpecialist_Research.rulePack.rulesStrings>
+                                               <!-- 
+		<li>r_roleName(p=4)-&gt;[memePlantSpecialist]</li>
+ -->
+<OG_NamerRoleSpecialist_Plant.rulePack.rulesStrings>
+		<li>r_roleName(p=4)-&gt;[memePlantSpecialist]</li>
+</OG_NamerRoleSpecialist_Plant.rulePack.rulesStrings>
+                                                    <!-- 
+		<li>r_roleName(p=4)-&gt;[memeProductionSpecialist]</li>
+ -->
+<OG_NamerRoleSpecialist_Production.rulePack.rulesStrings>
+		<li>r_roleName(p=4)-&gt;[memeProductionSpecialist]</li>
+</OG_NamerRoleSpecialist_Production.rulePack.rulesStrings>
+                                                <!-- 
+		<li>r_roleName(p=4)-&gt;[memeMiningSpecialist]</li>
+ -->
+<OG_NamerRoleSpecialist_Mining.rulePack.rulesStrings>
+		<li>r_roleName(p=4)-&gt;[memeMiningSpecialist]</li>
+</OG_NamerRoleSpecialist_Mining.rulePack.rulesStrings>
+                                                 <!-- 
+		<li>r_roleName(p=4)-&gt;[memeAnimalsSpecialist]</li>
+ -->
+<OG_NamerRoleSpecialist_Animals.rulePack.rulesStrings>
+		<li>r_roleName(p=4)-&gt;[memeAnimalsSpecialist]</li>
+</OG_NamerRoleSpecialist_Animals.rulePack.rulesStrings>
+                                                 <!-- 
+		<li>r_roleName(p=4)-&gt;[memeMedicalSpecialist]</li>
+ -->
+<OG_NamerRoleSpecialist_Medical.rulePack.rulesStrings>
+		<li>r_roleName(p=4)-&gt;[memeMedicalSpecialist]</li>
+</OG_NamerRoleSpecialist_Medical.rulePack.rulesStrings>
+
+</LanguageData>

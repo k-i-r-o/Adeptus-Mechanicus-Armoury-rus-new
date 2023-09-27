@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/ResearchProjectDefs/OG_AMA_OfficioAssassinorum_Research.xml-->
+                            <!-- Officio Assassinorum -->
+<OG_Assassinorum_Tech_Base.label>Officio Assassinorum</OG_Assassinorum_Tech_Base.label>
+                                  <!-- Grants you access to the Officio Assassinorum -->
+<OG_Assassinorum_Tech_Base.description>Grants you access to the Officio Assassinorum</OG_Assassinorum_Tech_Base.description>
+                                         <!-- Vindicare Temple -->
+<OG_Assassinorum_Tech_Weapons_Vindicare.label>Vindicare Temple</OG_Assassinorum_Tech_Weapons_Vindicare.label>
+                                               <!-- Grants you access to STC templates for Weapons used by the Officio Assassinorum's Vindicare Temple.
+
+Requires Royalty -->
+<OG_Assassinorum_Tech_Weapons_Vindicare.description>Grants you access to STC templates for Weapons used by the Officio Assassinorum's Vindicare Temple.\n\nRequires Royalty</OG_Assassinorum_Tech_Weapons_Vindicare.description>
+                                        <!-- Callidus Temple -->
+<OG_Assassinorum_Tech_Weapons_Callidus.label>Callidus Temple</OG_Assassinorum_Tech_Weapons_Callidus.label>
+                                              <!-- Grants you access to STC templates for Weapons used by the Officio Assassinorum's Callidus Temple.
+
+Requires Royalty -->
+<OG_Assassinorum_Tech_Weapons_Callidus.description>Grants you access to STC templates for Weapons used by the Officio Assassinorum's Callidus Temple.\n\nRequires Royalty</OG_Assassinorum_Tech_Weapons_Callidus.description>
+                                       <!-- Culexus Temple -->
+<OG_Assassinorum_Tech_Weapons_Culexus.label>Culexus Temple</OG_Assassinorum_Tech_Weapons_Culexus.label>
+                                             <!-- Grants you access to STC templates for Weapons used by the Officio Assassinorum's Culexus Temple.
+
+Requires Royalty -->
+<OG_Assassinorum_Tech_Weapons_Culexus.description>Grants you access to STC templates for Weapons used by the Officio Assassinorum's Culexus Temple.\n\nRequires Royalty</OG_Assassinorum_Tech_Weapons_Culexus.description>
+                                       <!-- Eversor Temple -->
+<OG_Assassinorum_Tech_Weapons_Eversor.label>Eversor Temple</OG_Assassinorum_Tech_Weapons_Eversor.label>
+                                             <!-- Grants you access to STC templates for Weapons used by the Officio Assassinorum's Eversor Temple.
+
+Requires Royalty -->
+<OG_Assassinorum_Tech_Weapons_Eversor.description>Grants you access to STC templates for Weapons used by the Officio Assassinorum's Eversor Temple.\n\nRequires Royalty</OG_Assassinorum_Tech_Weapons_Eversor.description>
+
+</LanguageData>

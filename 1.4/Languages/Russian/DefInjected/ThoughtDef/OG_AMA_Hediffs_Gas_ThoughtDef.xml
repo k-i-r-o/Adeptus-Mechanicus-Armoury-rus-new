@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/HediffDefs/OG_AMA_Hediffs_Gas.xml-->
+                                <!-- uneasy -->
+<HallucinogenThoughts.stages.0.label>uneasy</HallucinogenThoughts.stages.0.label>
+                                      <!-- Something's not right... -->
+<HallucinogenThoughts.stages.0.description>Something's not right...</HallucinogenThoughts.stages.0.description>
+                                <!-- extensive fear -->
+<HallucinogenThoughts.stages.1.label>extensive fear</HallucinogenThoughts.stages.1.label>
+                                      <!-- I sure am jittery... For some reason. -->
+<HallucinogenThoughts.stages.1.description>I sure am jittery... For some reason.</HallucinogenThoughts.stages.1.description>
+                                <!-- unspeakable horror -->
+<HallucinogenThoughts.stages.2.label>unspeakable horror</HallucinogenThoughts.stages.2.label>
+                                      <!-- I feel complete and utter horror! -->
+<HallucinogenThoughts.stages.2.description>I feel complete and utter horror!</HallucinogenThoughts.stages.2.description>
+                                <!-- extreme panic -->
+<HallucinogenThoughts.stages.3.label>extreme panic</HallucinogenThoughts.stages.3.label>
+                                      <!-- By the gods! The fear is eating me up. -->
+<HallucinogenThoughts.stages.3.description>By the gods! The fear is eating me up.</HallucinogenThoughts.stages.3.description>
+                        <!-- uneasy -->
+<FearThoughts.stages.0.label>uneasy</FearThoughts.stages.0.label>
+                              <!-- Something's not right... -->
+<FearThoughts.stages.0.description>Something's not right...</FearThoughts.stages.0.description>
+                        <!-- extensive fear -->
+<FearThoughts.stages.1.label>extensive fear</FearThoughts.stages.1.label>
+                              <!-- I sure am jittery... For some reason. -->
+<FearThoughts.stages.1.description>I sure am jittery... For some reason.</FearThoughts.stages.1.description>
+                        <!-- unspeakable horror -->
+<FearThoughts.stages.2.label>unspeakable horror</FearThoughts.stages.2.label>
+                              <!-- I feel complete and utter horror! -->
+<FearThoughts.stages.2.description>I feel complete and utter horror!</FearThoughts.stages.2.description>
+                        <!-- extreme panic -->
+<FearThoughts.stages.3.label>extreme panic</FearThoughts.stages.3.label>
+                              <!-- By the gods! The fear is eating me up. -->
+<FearThoughts.stages.3.description>By the gods! The fear is eating me up.</FearThoughts.stages.3.description>
+
+</LanguageData>

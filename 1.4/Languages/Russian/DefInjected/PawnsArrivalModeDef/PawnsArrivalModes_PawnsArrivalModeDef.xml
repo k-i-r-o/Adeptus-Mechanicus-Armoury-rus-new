@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/Misc/PawnsArrivalModeDefs/PawnsArrivalModes.xml-->
+                                <!-- A group of {0} from {1} have deep striked right on top of you! -->
+<OG_DeepStrike_TargetPower.textEnemy>A group of {0} from {1} have deep striked right on top of you!</OG_DeepStrike_TargetPower.textEnemy>
+                                   <!-- A group of friendly {0} from {1} have deep striked right on top of you! -->
+<OG_DeepStrike_TargetPower.textFriendly>A group of friendly {0} from {1} have deep striked right on top of you!</OG_DeepStrike_TargetPower.textFriendly>
+                           <!-- A group of {0} from {1} have arrived in transport pods. Their pods went haywire and are landing scattered all over the area! -->
+<OG_DeepStrike_Random.textEnemy>A group of {0} from {1} have arrived in transport pods. Their pods went haywire and are landing scattered all over the area!</OG_DeepStrike_Random.textEnemy>
+                              <!-- A group of friendly {0} from {1} have arrived in transport pods. Their pods went haywire and are landing scattered all over the area! -->
+<OG_DeepStrike_Random.textFriendly>A group of friendly {0} from {1} have arrived in transport pods. Their pods went haywire and are landing scattered all over the area!</OG_DeepStrike_Random.textFriendly>
+
+
+<!--/Defs/Misc/PawnsArrivalModeDefs/PawnsArrivalModes.xml.bak-->
+<!-- A group of {0} from {1} have deep striked right on top of you! -->
+<OG_DeepStrike_DropPod_TargetPower.textEnemy>A group of {0} from {1} have deep striked right on top of you!</OG_DeepStrike_DropPod_TargetPower.textEnemy>
+<!-- A group of friendly {0} from {1} have deep striked right on top of you! -->
+<OG_DeepStrike_DropPod_TargetPower.textFriendly>A group of friendly {0} from {1} have deep striked right on top of you!</OG_DeepStrike_DropPod_TargetPower.textFriendly>
+<!-- A group of {0} from {1} have arrived in transport pods. Their pods went haywire and are landing scattered all over the area! -->
+<OG_DeepStrike_DropPod_TargetEnemies.textEnemy>A group of {0} from {1} have arrived in transport pods. Their pods went haywire and are landing scattered all over the area!</OG_DeepStrike_DropPod_TargetEnemies.textEnemy>
+<!-- A group of friendly {0} from {1} have arrived in transport pods. Their pods went haywire and are landing scattered all over the area! -->
+<OG_DeepStrike_DropPod_TargetEnemies.textFriendly>A group of friendly {0} from {1} have arrived in transport pods. Their pods went haywire and are landing scattered all over the area!</OG_DeepStrike_DropPod_TargetEnemies.textFriendly>
+<!-- A group of {0} from {1} have deep striked right on top of you! -->
+<OG_DeepStrike_Teleport_TargetPower.textEnemy>A group of {0} from {1} have deep striked right on top of you!</OG_DeepStrike_Teleport_TargetPower.textEnemy>
+<!-- A group of friendly {0} from {1} have deep striked right on top of you! -->
+<OG_DeepStrike_Teleport_TargetPower.textFriendly>A group of friendly {0} from {1} have deep striked right on top of you!</OG_DeepStrike_Teleport_TargetPower.textFriendly>
+<!-- A group of {0} from {1} have arrived in transport pods. Their pods went haywire and are landing scattered all over the area! -->
+<OG_DeepStrike_Teleport_TargetEnemies.textEnemy>A group of {0} from {1} have arrived in transport pods. Their pods went haywire and are landing scattered all over the area!</OG_DeepStrike_Teleport_TargetEnemies.textEnemy>
+<!-- A group of friendly {0} from {1} have arrived in transport pods. Their pods went haywire and are landing scattered all over the area! -->
+<OG_DeepStrike_Teleport_TargetEnemies.textFriendly>A group of friendly {0} from {1} have arrived in transport pods. Their pods went haywire and are landing scattered all over the area!</OG_DeepStrike_Teleport_TargetEnemies.textFriendly>
+<!-- A group of {0} from {1} have tunneled up right on top of you! -->
+<OG_DeepStrike_Tunnel_TargetPower.textEnemy>A group of {0} from {1} have tunneled up right on top of you!</OG_DeepStrike_Tunnel_TargetPower.textEnemy>
+<!-- A group of friendly {0} from {1} have tunneled up right on top of you! -->
+<OG_DeepStrike_Tunnel_TargetPower.textFriendly>A group of friendly {0} from {1} have tunneled up right on top of you!</OG_DeepStrike_Tunnel_TargetPower.textFriendly>
+<!-- A group of {0} from {1} have arrived in transport pods. Their pods went haywire and are landing scattered all over the area! -->
+<OG_DeepStrike_Tunnel_TargetEnemies.textEnemy>A group of {0} from {1} have arrived in transport pods. Their pods went haywire and are landing scattered all over the area!</OG_DeepStrike_Tunnel_TargetEnemies.textEnemy>
+<!-- A group of friendly {0} from {1} have arrived in transport pods. Their pods went haywire and are landing scattered all over the area! -->
+<OG_DeepStrike_Tunnel_TargetEnemies.textFriendly>A group of friendly {0} from {1} have arrived in transport pods. Their pods went haywire and are landing scattered all over the area!</OG_DeepStrike_Tunnel_TargetEnemies.textFriendly>
+<!-- A group of {0} from {1} have tunneled up right on top of you! -->
+<OG_DeepStrike_Fly_TargetPower.textEnemy>A group of {0} from {1} have tunneled up right on top of you!</OG_DeepStrike_Fly_TargetPower.textEnemy>
+<!-- A group of friendly {0} from {1} have tunneled up right on top of you! -->
+<OG_DeepStrike_Fly_TargetPower.textFriendly>A group of friendly {0} from {1} have tunneled up right on top of you!</OG_DeepStrike_Fly_TargetPower.textFriendly>
+<!-- A group of {0} from {1} have arrived in transport pods. Their pods went haywire and are landing scattered all over the area! -->
+<OG_DeepStrike_Fly_TargetEnemies.textEnemy>A group of {0} from {1} have arrived in transport pods. Their pods went haywire and are landing scattered all over the area!</OG_DeepStrike_Fly_TargetEnemies.textEnemy>
+<!-- A group of friendly {0} from {1} have arrived in transport pods. Their pods went haywire and are landing scattered all over the area! -->
+<OG_DeepStrike_Fly_TargetEnemies.textFriendly>A group of friendly {0} from {1} have arrived in transport pods. Their pods went haywire and are landing scattered all over the area!</OG_DeepStrike_Fly_TargetEnemies.textFriendly>
+
+</LanguageData>

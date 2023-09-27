@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/BackstoryDefs/Imperium Backstories/Militarum/Imperial_Guardsman_Field_Medic.xml-->
+                                    <!-- imperial guard field medic -->
+<OG_Imperial_Militarum_Field_Medic.title>imperial guard field medic</OG_Imperial_Militarum_Field_Medic.title>
+                                       <!-- [PAWN_nameDef] was recruited into the Imperial Guard and trained in first aid and was equipped with medical supplies. -->
+<OG_Imperial_Militarum_Field_Medic.baseDesc>[PAWN_nameDef] was recruited into the Imperial Guard and trained in first aid and was equipped with medical supplies.</OG_Imperial_Militarum_Field_Medic.baseDesc>
+
+</LanguageData>

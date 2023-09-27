@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/BackstoryDefs/Imperium Backstories/Sororitas/Arco_Flagellant.xml-->
+                              <!-- Arco Flagellant -->
+<OG_Imperial_Arco_Flagellant.title>Arco Flagellant</OG_Imperial_Arco_Flagellant.title>
+                                 <!-- [PAWN_nameDef] committed a serious crime against the Empire and either chose or was forced to become a Flagellant to atone for his/her crime. Now he/she is nothing more than a killing machine. -->
+<OG_Imperial_Arco_Flagellant.baseDesc>[PAWN_nameDef] committed a serious crime against the Empire and either chose or was forced to become a Flagellant to atone for his/her crime. Now he/she is nothing more than a killing machine.</OG_Imperial_Arco_Flagellant.baseDesc>
+
+</LanguageData>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/PawnKindDefs_Human/OG_AMA_PawnKinds_Spacer.xml-->
+                    <!-- ancient soldier of fortune -->
+<OG_AncientSoldier.label>ancient soldier of fortune</OG_AncientSoldier.label>
+                          <!-- Plural ancient soldier of fortune -->
+<OG_AncientSoldier.labelPlural>Plural ancient soldier of fortune</OG_AncientSoldier.labelPlural>
+                        <!-- Male ancient soldier of fortune -->
+<OG_AncientSoldier.labelMale>Male ancient soldier of fortune</OG_AncientSoldier.labelMale>
+                              <!-- Male Plural ancient soldier of fortune -->
+<OG_AncientSoldier.labelMalePlural>Male Plural ancient soldier of fortune</OG_AncientSoldier.labelMalePlural>
+                          <!-- Female ancient soldier of fortune -->
+<OG_AncientSoldier.labelFemale>Female ancient soldier of fortune</OG_AncientSoldier.labelFemale>
+                                <!-- Female Plural ancient soldier of fortune -->
+<OG_AncientSoldier.labelFemalePlural>Female Plural ancient soldier of fortune</OG_AncientSoldier.labelFemalePlural>
+
+</LanguageData>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/CultureDefs/OG_AMXB_Cultures_Ork.xml-->
+                     <!-- goffs -->
+<OG_Greenskin_Goffs.label>goffs</OG_Greenskin_Goffs.label>
+                           <!-- A broad category describing the styles and practices of ork 'Kultures' and the worship of their brutish gods. -->
+<OG_Greenskin_Goffs.description>A broad category describing the styles and practices of ork 'Kultures' and the worship of their brutish gods.</OG_Greenskin_Goffs.description>
+                                <!-- LeaderTitleMaker_Kriminul -->
+<OG_Greenskin_Goffs.leaderTitleMaker>LeaderTitleMaker_Kriminul</OG_Greenskin_Goffs.leaderTitleMaker>
+                             <!-- greenskin tribe -->
+<OG_GreenskinTribal_Culture.label>greenskin tribe</OG_GreenskinTribal_Culture.label>
+                                   <!-- An ancient culture common among rimworld tribes. -->
+<OG_GreenskinTribal_Culture.description>An ancient culture common among rimworld tribes.</OG_GreenskinTribal_Culture.description>
+                                        <!-- LeaderTitleMaker_Corunan -->
+<OG_GreenskinTribal_Culture.leaderTitleMaker>LeaderTitleMaker_Corunan</OG_GreenskinTribal_Culture.leaderTitleMaker>
+
+</LanguageData>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/ThingDefs_Misc/Weapons/OG_AMAXB_Weapons_Tyranid_Ranged.xml.bak-->
+                        <!-- spines -->
+<OGTY_Bullet_Spinefist.label>spines</OGTY_Bullet_Spinefist.label>
+                             <!-- heavy spines -->
+<OGTY_Bullet_SpinefistHeavy.label>heavy spines</OGTY_Bullet_SpinefistHeavy.label>
+                     <!-- spinefist -->
+<OGTY_Gun_Spinefist.label>spinefist</OGTY_Gun_Spinefist.label>
+                           <!-- A Spinefist is a Tyranid Bio-weapon of a symbiotic living gun, typically carried in pairs, which connects its own air-bladder to the airways of its host via a long tube-like tail that burrows through the host's limb into their torso. A spinefist's lethally poisonous spines are coated with neuro-toxins which assault the nervous system of its victims, and are fired by a sharp exhalation of the host. Thus, a larger and more powerful host can exhale more spines in each salvo, ripping through the flesh of any caught victims. -->
+<OGTY_Gun_Spinefist.description>A Spinefist is a Tyranid Bio-weapon of a symbiotic living gun, typically carried in pairs, which connects its own air-bladder to the airways of its host via a long tube-like tail that burrows through the host's limb into their torso. A spinefist's lethally poisonous spines are coated with neuro-toxins which assault the nervous system of its victims, and are fired by a sharp exhalation of the host. Thus, a larger and more powerful host can exhale more spines in each salvo, ripping through the flesh of any caught victims.</OGTY_Gun_Spinefist.description>
+                         <!-- dual spinefist -->
+<OGTY_Gun_SpinefistDual.label>dual spinefist</OGTY_Gun_SpinefistDual.label>
+                               <!-- A Spinefist is a Tyranid Bio-weapon of a symbiotic living gun, typically carried in pairs, which connects its own air-bladder to the airways of its host via a long tube-like tail that burrows through the host's limb into their torso. A spinefist's lethally poisonous spines are coated with neuro-toxins which assault the nervous system of its victims, and are fired by a sharp exhalation of the host. Thus, a larger and more powerful host can exhale more spines in each salvo, ripping through the flesh of any caught victims. -->
+<OGTY_Gun_SpinefistDual.description>A Spinefist is a Tyranid Bio-weapon of a symbiotic living gun, typically carried in pairs, which connects its own air-bladder to the airways of its host via a long tube-like tail that burrows through the host's limb into their torso. A spinefist's lethally poisonous spines are coated with neuro-toxins which assault the nervous system of its victims, and are fired by a sharp exhalation of the host. Thus, a larger and more powerful host can exhale more spines in each salvo, ripping through the flesh of any caught victims.</OGTY_Gun_SpinefistDual.description>
+                         <!-- fleshborer beetles -->
+<OGTY_Bullet_Fleshborer.label>fleshborer beetles</OGTY_Bullet_Fleshborer.label>
+                      <!-- fleshborer -->
+<OGTY_Gun_Fleshborer.label>fleshborer</OGTY_Gun_Fleshborer.label>
+                            <!-- The Fleshborer, designated by the binomial Pulpa terebro, contains a compact brood nest where Borer beetles lay their eggs, which hatch and mature, sustained by the weapon for future use as ammunition. These beetles are kept in their mature state in a hormone-induced dormancy until the weapon is ready to be fired. At this point, neural impulses from the wielder forces one of the insects into a firing sphincter. From here, the beetle can be fired at a target by a further impulse. -->
+<OGTY_Gun_Fleshborer.description>The Fleshborer, designated by the binomial Pulpa terebro, contains a compact brood nest where Borer beetles lay their eggs, which hatch and mature, sustained by the weapon for future use as ammunition. These beetles are kept in their mature state in a hormone-induced dormancy until the weapon is ready to be fired. At this point, neural impulses from the wielder forces one of the insects into a firing sphincter. From here, the beetle can be fired at a target by a further impulse.</OGTY_Gun_Fleshborer.description>
+                       <!-- devourer worms -->
+<OGTY_Bullet_Devourer.label>devourer worms</OGTY_Bullet_Devourer.label>
+                                 <!-- brainleech worms -->
+<OGTY_Bullet_DevourerBrainleech.label>brainleech worms</OGTY_Bullet_DevourerBrainleech.label>
+                    <!-- devourer -->
+<OGTY_Gun_Devourer.label>devourer</OGTY_Gun_Devourer.label>
+                          <!-- The devourer is a conical lump of partly rotted flesh, infested by writhing Flesh-worms, parasites with black, shiny heads. When the weapon is triggered, a bio-electric jolt hurls a shower of these creatures at the enemy, where they immediately start burrowing into the flesh, eating their way through the victim's nervous system towards the brain. The agony caused by this process is enough to drive the victim insane. -->
+<OGTY_Gun_Devourer.description>The devourer is a conical lump of partly rotted flesh, infested by writhing Flesh-worms, parasites with black, shiny heads. When the weapon is triggered, a bio-electric jolt hurls a shower of these creatures at the enemy, where they immediately start burrowing into the flesh, eating their way through the victim's nervous system towards the brain. The agony caused by this process is enough to drive the victim insane.</OGTY_Gun_Devourer.description>
+                              <!-- strangler seed -->
+<OGTY_Bullet_BarbedStrangler.label>strangler seed</OGTY_Bullet_BarbedStrangler.label>
+                           <!-- barbed strangler -->
+<OGTY_Gun_BarbedStrangler.label>barbed strangler</OGTY_Gun_BarbedStrangler.label>
+                                 <!-- the Barbed Strangler is a fairly simple weapon consisting of a seed sac and a muscled tube. A seed moves from the sac to the barrel where it grows in seconds. When it is launched it grows further in all directions, reaching maturity in seconds. It sends out hooked tendrils to bind and tear apart its prey. The seed has some similarity to some ground-based xenomorphs and is in actual fact a sentient alien flora. -->
+<OGTY_Gun_BarbedStrangler.description>the Barbed Strangler is a fairly simple weapon consisting of a seed sac and a muscled tube. A seed moves from the sac to the barrel where it grows in seconds. When it is launched it grows further in all directions, reaching maturity in seconds. It sends out hooked tendrils to bind and tear apart its prey. The seed has some similarity to some ground-based xenomorphs and is in actual fact a sentient alien flora.</OGTY_Gun_BarbedStrangler.description>
+                          <!-- venom blast -->
+<OGTY_Bullet_VenomCannon.label>venom blast</OGTY_Bullet_VenomCannon.label>
+                       <!-- venom cannon -->
+<OGTY_Gun_VenomCannon.label>venom cannon</OGTY_Gun_VenomCannon.label>
+                             <!-- The Venom Cannon fires salvos of crystals formed of highly corrosive poison and then coated in a metallic, venomous reside. They are launched with an electrostatic charge at tremendous velocities. A target, if not killed outright by the impact, will be shredded by the hailing shards of shattered crystal, or by the corrosive poison from the shattered crystals. They are also effective against vehicle armour, shattering within the bulkheads of a tank and killing the crew. -->
+<OGTY_Gun_VenomCannon.description>The Venom Cannon fires salvos of crystals formed of highly corrosive poison and then coated in a metallic, venomous reside. They are launched with an electrostatic charge at tremendous velocities. A target, if not killed outright by the impact, will be shredded by the hailing shards of shattered crystal, or by the corrosive poison from the shattered crystals. They are also effective against vehicle armour, shattering within the bulkheads of a tank and killing the crew.</OGTY_Gun_VenomCannon.description>
+                            <!-- impaler barb -->
+<OGTY_Bullet_ImpalerCannon.label>impaler barb</OGTY_Bullet_ImpalerCannon.label>
+                         <!-- impaler cannon -->
+<OGTY_Gun_ImpalerCannon.label>impaler cannon</OGTY_Gun_ImpalerCannon.label>
+                               <!-- The devourer is a conical lump of partly rotted flesh, infested by writhing Flesh-worms, parasites with black, shiny heads. When the weapon is triggered, a bio-electric jolt hurls a shower of these creatures at the enemy, where they immediately start burrowing into the flesh, eating their way through the victim's nervous system towards the brain. The agony caused by this process is enough to drive the victim insane. -->
+<OGTY_Gun_ImpalerCannon.description>The devourer is a conical lump of partly rotted flesh, infested by writhing Flesh-worms, parasites with black, shiny heads. When the weapon is triggered, a bio-electric jolt hurls a shower of these creatures at the enemy, where they immediately start burrowing into the flesh, eating their way through the victim's nervous system towards the brain. The agony caused by this process is enough to drive the victim insane.</OGTY_Gun_ImpalerCannon.description>
+
+</LanguageData>

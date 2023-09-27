@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/BackstoryDefs/Imperium Backstories/Sororitas/Sororitas_Sister_Hospitaller.xml-->
+                                           <!-- Sister Hospitaller -->
+<OG_Imperial_Sororitas_Sister_Hospitaller.title>Sister Hospitaller</OG_Imperial_Sororitas_Sister_Hospitaller.title>
+                                              <!-- [Unlike many of her sisters, [PAWN_nameDef] shows her devotion through acts of the Emperor's Mercy. She is also known to be one of the few who knows how to cook. -->
+<OG_Imperial_Sororitas_Sister_Hospitaller.baseDesc>[Unlike many of her sisters, [PAWN_nameDef] shows her devotion through acts of the Emperor's Mercy. She is also known to be one of the few who knows how to cook.</OG_Imperial_Sororitas_Sister_Hospitaller.baseDesc>
+
+</LanguageData>

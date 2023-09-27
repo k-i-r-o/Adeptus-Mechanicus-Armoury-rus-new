@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/DamageDefs/OG_AMA_Damages_GrenadeDamageTypes_Abstracts.xml-->
+                     <!-- shredded -->
+<OGGrenadeRadHediff.label>shredded</OGGrenadeRadHediff.label>
+                         <!-- a shredded wound -->
+<OGGrenadeRadHediff.labelNoun>a shredded wound</OGGrenadeRadHediff.labelNoun>
+                           <!-- A part of the body has been shredded and torn. -->
+<OGGrenadeRadHediff.description>A part of the body has been shredded and torn.</OGGrenadeRadHediff.description>
+                                                             <!-- bandaged -->
+<OGGrenadeRadHediff.comps.HediffComp_TendDuration.labelTendedWell>bandaged</OGGrenadeRadHediff.comps.HediffComp_TendDuration.labelTendedWell>
+                                                                  <!-- sutured -->
+<OGGrenadeRadHediff.comps.HediffComp_TendDuration.labelTendedWellInner>sutured</OGGrenadeRadHediff.comps.HediffComp_TendDuration.labelTendedWellInner>
+                                                                  <!-- set -->
+<OGGrenadeRadHediff.comps.HediffComp_TendDuration.labelSolidTendedWell>set</OGGrenadeRadHediff.comps.HediffComp_TendDuration.labelSolidTendedWell>
+                                                             <!-- shredded scar -->
+<OGGrenadeRadHediff.comps.HediffComp_GetsPermanent.permanentLabel>shredded scar</OGGrenadeRadHediff.comps.HediffComp_GetsPermanent.permanentLabel>
+                                          <!-- Torn off -->
+<OGGrenadeRadHediff.injuryProps.destroyedLabel>Torn off</OGGrenadeRadHediff.injuryProps.destroyedLabel>
+                                             <!-- Torn out -->
+<OGGrenadeRadHediff.injuryProps.destroyedOutLabel>Torn out</OGGrenadeRadHediff.injuryProps.destroyedOutLabel>
+                          <!-- crack -->
+<OGGrenadeRadHediffSolid.label>crack</OGGrenadeRadHediffSolid.label>
+                              <!-- a crack wound -->
+<OGGrenadeRadHediffSolid.labelNoun>a crack wound</OGGrenadeRadHediffSolid.labelNoun>
+                                <!-- A crack. -->
+<OGGrenadeRadHediffSolid.description>A crack.</OGGrenadeRadHediffSolid.description>
+                                                                  <!-- set -->
+<OGGrenadeRadHediffSolid.comps.HediffComp_TendDuration.labelTendedWell>set</OGGrenadeRadHediffSolid.comps.HediffComp_TendDuration.labelTendedWell>
+                                                                       <!-- set -->
+<OGGrenadeRadHediffSolid.comps.HediffComp_TendDuration.labelTendedWellInner>set</OGGrenadeRadHediffSolid.comps.HediffComp_TendDuration.labelTendedWellInner>
+                                                                       <!-- set -->
+<OGGrenadeRadHediffSolid.comps.HediffComp_TendDuration.labelSolidTendedWell>set</OGGrenadeRadHediffSolid.comps.HediffComp_TendDuration.labelSolidTendedWell>
+                                                                  <!-- permanent crack -->
+<OGGrenadeRadHediffSolid.comps.HediffComp_GetsPermanent.permanentLabel>permanent crack</OGGrenadeRadHediffSolid.comps.HediffComp_GetsPermanent.permanentLabel>
+                                               <!-- Shattered -->
+<OGGrenadeRadHediffSolid.injuryProps.destroyedLabel>Shattered</OGGrenadeRadHediffSolid.injuryProps.destroyedLabel>
+                             <!-- description -->
+<OGGrenadeFlashHediff.description>description</OGGrenadeFlashHediff.description>
+                       <!-- blinded -->
+<OGGrenadeFlashHediff.label>blinded</OGGrenadeFlashHediff.label>
+                           <!-- blinded -->
+<OGGrenadeFlashHediff.labelNoun>blinded</OGGrenadeFlashHediff.labelNoun>
+                                  <!-- blind -->
+<OGGrenadeFlashHediff.battleStateLabel>blind</OGGrenadeFlashHediff.battleStateLabel>
+
+</LanguageData>

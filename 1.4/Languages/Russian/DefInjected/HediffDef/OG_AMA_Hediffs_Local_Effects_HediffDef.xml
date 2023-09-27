@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/HediffDefs/OG_AMA_Hediffs_Local_Effects.xml-->
+                     <!-- unconsciousness -->
+<OG_unConsciousness.label>unconsciousness</OG_unConsciousness.label>
+                           <!-- description -->
+<OG_unConsciousness.description>description</OG_unConsciousness.description>
+                  <!-- electrocuted -->
+<hediff_Pacifier.label>electrocuted</hediff_Pacifier.label>
+                           <!-- minor -->
+<hediff_Pacifier.stages.0.label>minor</hediff_Pacifier.stages.0.label>
+                           <!-- severe -->
+<hediff_Pacifier.stages.1.label>severe</hediff_Pacifier.stages.1.label>
+                           <!-- extreme -->
+<hediff_Pacifier.stages.2.label>extreme</hediff_Pacifier.stages.2.label>
+                                       <!-- Destroyed -->
+<hediff_Pacifier.injuryProps.destroyedLabel>Destroyed</hediff_Pacifier.injuryProps.destroyedLabel>
+                                          <!-- Fried -->
+<hediff_Pacifier.injuryProps.destroyedOutLabel>Fried</hediff_Pacifier.injuryProps.destroyedOutLabel>
+                        <!-- description -->
+<hediff_Pacifier.description>description</hediff_Pacifier.description>
+               <!-- description -->
+<Toxins.description>description</Toxins.description>
+         <!-- toxic buildup -->
+<Toxins.label>toxic buildup</Toxins.label>
+                  <!-- initial -->
+<Toxins.stages.0.label>initial</Toxins.stages.0.label>
+                  <!-- initial -->
+<Toxins.stages.1.label>initial</Toxins.stages.1.label>
+                  <!-- minor -->
+<Toxins.stages.2.label>minor</Toxins.stages.2.label>
+                  <!-- moderate -->
+<Toxins.stages.3.label>moderate</Toxins.stages.3.label>
+                  <!-- serious -->
+<Toxins.stages.4.label>serious</Toxins.stages.4.label>
+                  <!-- extreme -->
+<Toxins.stages.5.label>extreme</Toxins.stages.5.label>
+                                      <!-- description -->
+<OG_Hediff_RadiationPoisioning.description>description</OG_Hediff_RadiationPoisioning.description>
+                                <!-- radiation poisioning -->
+<OG_Hediff_RadiationPoisioning.label>radiation poisioning</OG_Hediff_RadiationPoisioning.label>
+                                         <!-- initial -->
+<OG_Hediff_RadiationPoisioning.stages.0.label>initial</OG_Hediff_RadiationPoisioning.stages.0.label>
+                                         <!-- initial -->
+<OG_Hediff_RadiationPoisioning.stages.1.label>initial</OG_Hediff_RadiationPoisioning.stages.1.label>
+                                         <!-- minor -->
+<OG_Hediff_RadiationPoisioning.stages.2.label>minor</OG_Hediff_RadiationPoisioning.stages.2.label>
+                                         <!-- moderate -->
+<OG_Hediff_RadiationPoisioning.stages.3.label>moderate</OG_Hediff_RadiationPoisioning.stages.3.label>
+                                         <!-- serious -->
+<OG_Hediff_RadiationPoisioning.stages.4.label>serious</OG_Hediff_RadiationPoisioning.stages.4.label>
+                                         <!-- extreme -->
+<OG_Hediff_RadiationPoisioning.stages.5.label>extreme</OG_Hediff_RadiationPoisioning.stages.5.label>
+                            <!-- description -->
+<BrainDamageModerate.description>description</BrainDamageModerate.description>
+                      <!-- brain damage -->
+<BrainDamageModerate.label>brain damage</BrainDamageModerate.label>
+                          <!-- description -->
+<BrainDamageSevere.description>description</BrainDamageSevere.description>
+                    <!-- severe brain damage -->
+<BrainDamageSevere.label>severe brain damage</BrainDamageSevere.label>
+                                 <!-- description -->
+<OG_Hediff_FWPsychicShock.description>description</OG_Hediff_FWPsychicShock.description>
+                           <!-- psychic shock -->
+<OG_Hediff_FWPsychicShock.label>psychic shock</OG_Hediff_FWPsychicShock.label>
+                               <!-- a psychic shock -->
+<OG_Hediff_FWPsychicShock.labelNoun>a psychic shock</OG_Hediff_FWPsychicShock.labelNoun>
+                             <!-- description -->
+<PsychicInterfearance.description>description</PsychicInterfearance.description>
+                       <!-- psychic Interfearance -->
+<PsychicInterfearance.label>psychic Interfearance</PsychicInterfearance.label>
+                           <!-- psychic Interfearance -->
+<PsychicInterfearance.labelNoun>psychic Interfearance</PsychicInterfearance.labelNoun>
+
+</LanguageData>

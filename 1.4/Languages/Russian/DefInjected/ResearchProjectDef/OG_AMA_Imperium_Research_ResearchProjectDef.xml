@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/ResearchProjectDefs/OG_AMA_Imperium_Research.xml-->
+                           <!-- Imperial Subjects -->
+<OG_Imperial_Tech_Base_T0.label>Imperial Subjects</OG_Imperial_Tech_Base_T0.label>
+                                 <!-- Grants you access to basic Imperial technology. -->
+<OG_Imperial_Tech_Base_T0.description>Grants you access to basic Imperial technology.</OG_Imperial_Tech_Base_T0.description>
+                           <!-- Imperial Clothing -->
+<OG_Imperial_Tech_Apparel.label>Imperial Clothing</OG_Imperial_Tech_Apparel.label>
+                                 <!-- Allows you to create basic Imperial Clothing -->
+<OG_Imperial_Tech_Apparel.description>Allows you to create basic Imperial Clothing</OG_Imperial_Tech_Apparel.description>
+                                     <!-- Flakk Armour -->
+<OG_Imperial_Tech_Apparel_Armour_T1.label>Flakk Armour</OG_Imperial_Tech_Apparel_Armour_T1.label>
+                                           <!-- Allows you to create Imperial variants of Flak Armour -->
+<OG_Imperial_Tech_Apparel_Armour_T1.description>Allows you to create Imperial variants of Flak Armour</OG_Imperial_Tech_Apparel_Armour_T1.description>
+                                     <!-- Carapace Armour -->
+<OG_Imperial_Tech_Apparel_Armour_T2.label>Carapace Armour</OG_Imperial_Tech_Apparel_Armour_T2.label>
+                                           <!-- Allows you to create Imperial variants of Carapace Armour -->
+<OG_Imperial_Tech_Apparel_Armour_T2.description>Allows you to create Imperial variants of Carapace Armour</OG_Imperial_Tech_Apparel_Armour_T2.description>
+                                     <!-- Power Armour -->
+<OG_Imperial_Tech_Apparel_Armour_T3.label>Power Armour</OG_Imperial_Tech_Apparel_Armour_T3.label>
+                                           <!-- Allows you to create Imperial variants of Power Armour -->
+<OG_Imperial_Tech_Apparel_Armour_T3.description>Allows you to create Imperial variants of Power Armour</OG_Imperial_Tech_Apparel_Armour_T3.description>
+                                  <!-- Conversion Fields -->
+<OG_Imperial_Tech_Wargear_Shield.label>Conversion Fields</OG_Imperial_Tech_Wargear_Shield.label>
+                                        <!-- Allows you to create Conversion Field emitters -->
+<OG_Imperial_Tech_Wargear_Shield.description>Allows you to create Conversion Field emitters</OG_Imperial_Tech_Wargear_Shield.description>
+                                      <!-- Servo Skulls -->
+<OG_Imperial_Tech_Wargear_ServoSkull.label>Servo Skulls</OG_Imperial_Tech_Wargear_ServoSkull.label>
+                                            <!-- Allows you to create basic Servo Skulls -->
+<OG_Imperial_Tech_Wargear_ServoSkull.description>Allows you to create basic Servo Skulls</OG_Imperial_Tech_Wargear_ServoSkull.description>
+                                <!-- Bolt Weapons -->
+<OG_Imperial_Tech_Weapons_Bolt.label>Bolt Weapons</OG_Imperial_Tech_Weapons_Bolt.label>
+                                      <!-- A brutally efficient weapon, the Bolter fires mass-reactive bolts at its targets, each one a self-propelled missile which explodes with devastating effectiveness after penetrating its target. The fear and awe that Bolter fire creates makes it a perfect weapon for shock troops, the hammering thunder of the guns mixing terrifyingly with the dull, wet explosions as flesh is blown apart. -->
+<OG_Imperial_Tech_Weapons_Bolt.description>A brutally efficient weapon, the Bolter fires mass-reactive bolts at its targets, each one a self-propelled missile which explodes with devastating effectiveness after penetrating its target. The fear and awe that Bolter fire creates makes it a perfect weapon for shock troops, the hammering thunder of the guns mixing terrifyingly with the dull, wet explosions as flesh is blown apart.</OG_Imperial_Tech_Weapons_Bolt.description>
+
+</LanguageData>

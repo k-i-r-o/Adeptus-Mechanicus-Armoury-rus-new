@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/RulePackDefs/OG_AMA_RulePacks_NameMakers_Tau.xml-->
+                                      <!-- 
+		<li>r_name(p=3)-&gt;Shas Kau'ui [Sept]</li>
+ -->
+<OG_Tau_NamerFaction.rulePack.rulesStrings>
+		<li>r_name(p=3)-&gt;Shas Kau'ui [Sept]</li>
+</OG_Tau_NamerFaction.rulePack.rulesStrings>
+                                    <!-- 
+		<li>name-&gt;[Tau_Outpost]</li>
+ -->
+<OG_Tau_NamerBases.rulePack.rulesStrings>
+		<li>name-&gt;[Tau_Outpost]</li>
+</OG_Tau_NamerBases.rulePack.rulesStrings>
+                                     <!-- 
+		<li>r_name(p=3)-&gt;[NameMaleTau]</li>
+ -->
+<OG_Tau_NamerPerson.rulePack.rulesStrings>
+		<li>r_name(p=3)-&gt;[NameMaleTau]</li>
+</OG_Tau_NamerPerson.rulePack.rulesStrings>
+                                           <!-- 
+		<li>r_name(p=3)-&gt;[NameFemaleTau]</li>
+ -->
+<OG_Tau_NamerPersonFemale.rulePack.rulesStrings>
+		<li>r_name(p=3)-&gt;[NameFemaleTau]</li>
+</OG_Tau_NamerPersonFemale.rulePack.rulesStrings>
+                                     <!-- 
+		<li>NameMaleTau(p=4)-&gt;[Tau_A][Tau_B]</li>
+		<li>NameMaleTau(p=2)-&gt;[Tau]</li>
+		<li>NameMaleTau(p=0.2)-&gt;[Tau][Tau_B]</li>
+		<li>NameFemaleTau(p=4)-&gt;[Tau_A][Tau_B]</li>
+		<li>NameFemaleTau(p=2)-&gt;[Tau]</li>
+		<li>NameFemaleTau(p=0.2)-&gt;[Tau_Female][Tau_B]</li>
+		<li>Sept(p=3)-&gt;[Sept_Major]</li>
+ -->
+<OG_Tau_NameUtility.rulePack.rulesStrings>
+		<li>NameMaleTau(p=4)-&gt;[Tau_A][Tau_B]</li>
+		<li>NameMaleTau(p=2)-&gt;[Tau]</li>
+		<li>NameMaleTau(p=0.2)-&gt;[Tau][Tau_B]</li>
+		<li>NameFemaleTau(p=4)-&gt;[Tau_A][Tau_B]</li>
+		<li>NameFemaleTau(p=2)-&gt;[Tau]</li>
+		<li>NameFemaleTau(p=0.2)-&gt;[Tau_Female][Tau_B]</li>
+		<li>Sept(p=3)-&gt;[Sept_Major]</li>
+</OG_Tau_NameUtility.rulePack.rulesStrings>
+                                   <!-- 
+		<li>Sept_Major-&gt;NameBanks/OG_Tau_Names_Septs_Major</li>
+		<li>Tau_Outpost-&gt;NameBanks/OG_Tau_Names_Outpost</li>
+		<li>Tau-&gt;NameBanks/OG_Tau_Names_Person</li>
+		<li>Tau_A-&gt;NameBanks/OG_Tau_Names_Person_A</li>
+		<li>Tau_B-&gt;NameBanks/OG_Tau_Names_Person_B</li>
+ -->
+<OG_Tau_NameUtility.rulePack.rulesFiles>
+		<li>Sept_Major-&gt;NameBanks/OG_Tau_Names_Septs_Major</li>
+		<li>Tau_Outpost-&gt;NameBanks/OG_Tau_Names_Outpost</li>
+		<li>Tau-&gt;NameBanks/OG_Tau_Names_Person</li>
+		<li>Tau_A-&gt;NameBanks/OG_Tau_Names_Person_A</li>
+		<li>Tau_B-&gt;NameBanks/OG_Tau_Names_Person_B</li>
+</OG_Tau_NameUtility.rulePack.rulesFiles>
+
+</LanguageData>

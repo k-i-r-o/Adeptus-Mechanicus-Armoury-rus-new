@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/OrdnanceStrikes/AirStrikeDefs/OGT_AirStrikeDefs.xml-->
+                            <!-- burst cannon run -->
+<OGT_AirStrike_BurstCannon.label>burst cannon run</OGT_AirStrike_BurstCannon.label>
+                                  <!-- Strike ship fills the air with bullets with its twin burst cannons. Covers a large area. Particularly effective against unarmored units. -->
+<OGT_AirStrike_BurstCannon.description>Strike ship fills the air with bullets with its twin burst cannons. Covers a large area. Particularly effective against unarmored units.</OGT_AirStrike_BurstCannon.description>
+                            <!-- plasma rifle assault -->
+<OGT_AirStrike_PlasmaRifle.label>plasma rifle assault</OGT_AirStrike_PlasmaRifle.label>
+                                  <!-- The powerful frontal plasma rifle can deal high damages to armored units and buildings. It does not cover a wide area though. -->
+<OGT_AirStrike_PlasmaRifle.description>The powerful frontal plasma rifle can deal high damages to armored units and buildings. It does not cover a wide area though.</OGT_AirStrike_PlasmaRifle.description>
+                        <!-- splinter cannon and darklance strafe run -->
+<OGT_AirStrike_Railgun.label>splinter cannon and darklance strafe run</OGT_AirStrike_Railgun.label>
+                              <!-- Strike ship attacks with both gatling guns and darklances. A truly devastative assault. -->
+<OGT_AirStrike_Railgun.description>Strike ship attacks with both gatling guns and darklances. A truly devastative assault.</OGT_AirStrike_Railgun.description>
+
+</LanguageData>

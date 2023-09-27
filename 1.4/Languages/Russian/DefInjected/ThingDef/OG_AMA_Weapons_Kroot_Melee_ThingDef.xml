@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/ThingDefs_Misc/Weapons/OG_AMA_Weapons_Kroot_Melee.xml-->
+                          <!-- fighting staff (K) -->
+<OGK_Melee_FightingStaff.label>fighting staff (K)</OGK_Melee_FightingStaff.label>
+                                <!-- A traditional Kroot melee weapon, used by the ancestors for generations. It still proves to be as effective, albeit primitive melee weapon now as it did then. -->
+<OGK_Melee_FightingStaff.description>A traditional Kroot melee weapon, used by the ancestors for generations. It still proves to be as effective, albeit primitive melee weapon now as it did then.</OGK_Melee_FightingStaff.description>
+                                  <!-- haft -->
+<OGK_Melee_FightingStaff.tools.0.label>haft</OGK_Melee_FightingStaff.tools.0.label>
+                                  <!-- head -->
+<OGK_Melee_FightingStaff.tools.1.label>head</OGK_Melee_FightingStaff.tools.1.label>
+                                  <!-- head -->
+<OGK_Melee_FightingStaff.tools.2.label>head</OGK_Melee_FightingStaff.tools.2.label>
+                                  <!-- head -->
+<OGK_Melee_FightingStaff.tools.3.label>head</OGK_Melee_FightingStaff.tools.3.label>
+                       <!-- power sword (K) -->
+<OGK_Melee_PowerSword.label>power sword (K)</OGK_Melee_PowerSword.label>
+                             <!-- A Power Sword is a Power Weapon that has been shaped into a sword of varying lengths and designs crafted from one of any number of different materials, though usually Adamantium. When its power cell is activated, often by touching a control located on the hilt, the blade is sheathed in a lethal corona of disruptive energy. This energy field allows the blade to carve through flesh, bone and most forms of armour plate alike, making a Power Sword a highly effective Imperial close combat weapon. Power Swords are used by all members of the Imperial armed forces, including the troops of the Imperial Guard and the Space Marines of the Adeptus Astartes. -->
+<OGK_Melee_PowerSword.description>A Power Sword is a Power Weapon that has been shaped into a sword of varying lengths and designs crafted from one of any number of different materials, though usually Adamantium. When its power cell is activated, often by touching a control located on the hilt, the blade is sheathed in a lethal corona of disruptive energy. This energy field allows the blade to carve through flesh, bone and most forms of armour plate alike, making a Power Sword a highly effective Imperial close combat weapon. Power Swords are used by all members of the Imperial armed forces, including the troops of the Imperial Guard and the Space Marines of the Adeptus Astartes.</OGK_Melee_PowerSword.description>
+                               <!-- blade -->
+<OGK_Melee_PowerSword.tools.0.label>blade</OGK_Melee_PowerSword.tools.0.label>
+                               <!-- point -->
+<OGK_Melee_PowerSword.tools.1.label>point</OGK_Melee_PowerSword.tools.1.label>
+                        <!-- shaman staff (K) -->
+<OGK_Melee_ShamanStaff.label>shaman staff (K)</OGK_Melee_ShamanStaff.label>
+                              <!-- Kroot Shamans often carry a staff, adored with mystical runes and charms that allow them to focus their powers and deflect enemy Psychic attacks. -->
+<OGK_Melee_ShamanStaff.description>Kroot Shamans often carry a staff, adored with mystical runes and charms that allow them to focus their powers and deflect enemy Psychic attacks.</OGK_Melee_ShamanStaff.description>
+                                <!-- haft -->
+<OGK_Melee_ShamanStaff.tools.0.label>haft</OGK_Melee_ShamanStaff.tools.0.label>
+                                <!-- head -->
+<OGK_Melee_ShamanStaff.tools.1.label>head</OGK_Melee_ShamanStaff.tools.1.label>
+                                <!-- force strike -->
+<OGK_Melee_ShamanStaff.tools.2.label>force strike</OGK_Melee_ShamanStaff.tools.2.label>
+
+</LanguageData>

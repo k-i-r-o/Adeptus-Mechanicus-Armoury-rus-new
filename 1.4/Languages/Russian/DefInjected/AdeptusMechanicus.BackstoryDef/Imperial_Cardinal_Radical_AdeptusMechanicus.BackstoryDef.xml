@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/BackstoryDefs/Imperium Backstories/Sororitas/Imperial_Cardinal_Radical.xml-->
+                                            <!-- [PAWN_nameDef] is a Radical, someone who believes xenos tech and allies should be used for the good of the Empire, and is disliked by the Sisters. His Inquisitorial Seal is likely the only thing keeping them from losing a frakk grenade in his quarters...for now. -->
+<OG_Imperial_Sororitas_Cardinal_Radical.baseDesc>[PAWN_nameDef] is a Radical, someone who believes xenos tech and allies should be used for the good of the Empire, and is disliked by the Sisters. His Inquisitorial Seal is likely the only thing keeping them from losing a frakk grenade in his quarters...for now.</OG_Imperial_Sororitas_Cardinal_Radical.baseDesc>
+
+</LanguageData>

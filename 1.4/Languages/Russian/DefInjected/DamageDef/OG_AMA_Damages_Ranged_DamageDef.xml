@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/DamageDefs/OG_AMA_Damages_Ranged.xml-->
+              <!-- warpfire -->
+<OG_Warpfire.label>warpfire</OG_Warpfire.label>
+                     <!-- {0} was corrupted by warpfire! -->
+<OG_Warpfire.deathMessage>{0} was corrupted by warpfire!</OG_Warpfire.deathMessage>
+                           <!-- warpfire -->
+<OG_Chaos_Deamon_Warpfire.label>warpfire</OG_Chaos_Deamon_Warpfire.label>
+                                  <!-- {0} was corrupted by warpfire! -->
+<OG_Chaos_Deamon_Warpfire.deathMessage>{0} was corrupted by warpfire!</OG_Chaos_Deamon_Warpfire.deathMessage>
+                                <!-- Warp Rift Blast -->
+<OG_Chaos_Deamon_WarpfireDeath.label>Warp Rift Blast</OG_Chaos_Deamon_WarpfireDeath.label>
+                                       <!-- {0} was lost to the warp. -->
+<OG_Chaos_Deamon_WarpfireDeath.deathMessage>{0} was lost to the warp.</OG_Chaos_Deamon_WarpfireDeath.deathMessage>
+                     <!-- Warp Rift Blast -->
+<OG_WarpStormStrike.label>Warp Rift Blast</OG_WarpStormStrike.label>
+                            <!-- {0} was lost to the warp. -->
+<OG_WarpStormStrike.deathMessage>{0} was lost to the warp.</OG_WarpStormStrike.deathMessage>
+
+</LanguageData>

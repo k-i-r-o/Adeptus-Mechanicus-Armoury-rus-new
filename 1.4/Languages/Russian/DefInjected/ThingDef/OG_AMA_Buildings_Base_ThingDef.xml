@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/ThingDefs_Buildings/OG_AMA_Buildings_Base.xml-->
+           <!-- Teklab -->
+<OGTekLab.label>Teklab</OGTekLab.label>
+                 <!-- A chunk of a spacecraft. used by a lazy modder to lock researches. -->
+<OGTekLab.description>A chunk of a spacecraft. used by a lazy modder to lock researches.</OGTekLab.description>
+
+</LanguageData>

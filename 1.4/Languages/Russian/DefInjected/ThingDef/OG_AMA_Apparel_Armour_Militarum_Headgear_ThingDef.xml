@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/ThingDefs_Misc/Apparel/OG_AMA_Apparel_Armour_Militarum_Headgear.xml-->
+                               <!-- light flak helmet -->
+<OGIG_Apparel_FlakHelmetLight.label>light flak helmet</OGIG_Apparel_FlakHelmetLight.label>
+                                     <!-- A lightweight Imperial combat helmet, often issued to PDF and Cadian Whiteshield regiments. -->
+<OGIG_Apparel_FlakHelmetLight.description>A lightweight Imperial combat helmet, often issued to PDF and Cadian Whiteshield regiments.</OGIG_Apparel_FlakHelmetLight.description>
+                                                    <!-- cadian pattern helmet -->
+<OGIG_Apparel_Cadia_FlakHelmet_TOGGLEDEF_GogglesUp.label>cadian pattern helmet</OGIG_Apparel_Cadia_FlakHelmet_TOGGLEDEF_GogglesUp.label>
+                                                          <!-- A lightweight combat helmet. -->
+<OGIG_Apparel_Cadia_FlakHelmet_TOGGLEDEF_GogglesUp.description>A lightweight combat helmet.</OGIG_Apparel_Cadia_FlakHelmet_TOGGLEDEF_GogglesUp.description>
+                                                                                             <!-- AdeptusMechanicus.Toggle_Goggle -->
+<OGIG_Apparel_Cadia_FlakHelmet_TOGGLEDEF_GogglesUp.comps.OgsCompToggleDef.Comp_ToggleDef.labelKey>AdeptusMechanicus.Toggle_Goggle</OGIG_Apparel_Cadia_FlakHelmet_TOGGLEDEF_GogglesUp.comps.OgsCompToggleDef.Comp_ToggleDef.labelKey>
+                                                      <!-- cadian pattern helmet (Goggled) -->
+<OGIG_Apparel_Cadia_FlakHelmet_TOGGLEDEF_GogglesDown.label>cadian pattern helmet (Goggled)</OGIG_Apparel_Cadia_FlakHelmet_TOGGLEDEF_GogglesDown.label>
+                                                            <!-- A lightweight combat helmet. -->
+<OGIG_Apparel_Cadia_FlakHelmet_TOGGLEDEF_GogglesDown.description>A lightweight combat helmet.</OGIG_Apparel_Cadia_FlakHelmet_TOGGLEDEF_GogglesDown.description>
+                                                                                                           <!-- AdeptusMechanicus.Toggle_Goggle -->
+<OGIG_Apparel_Cadia_FlakHelmet_TOGGLEDEF_GogglesDown.comps.AdeptusMechanicus.Comp_EyeProtectionApparel.labelKey>AdeptusMechanicus.Toggle_Goggle</OGIG_Apparel_Cadia_FlakHelmet_TOGGLEDEF_GogglesDown.comps.AdeptusMechanicus.Comp_EyeProtectionApparel.labelKey>
+                                     <!-- armageddon pattern helmet -->
+<OGIG_Apparel_Armageddon_FlakHelmet.label>armageddon pattern helmet</OGIG_Apparel_Armageddon_FlakHelmet.label>
+                                           <!-- A lightweight combat helmet. -->
+<OGIG_Apparel_Armageddon_FlakHelmet.description>A lightweight combat helmet.</OGIG_Apparel_Armageddon_FlakHelmet.description>
+                                <!-- krieg pattern helmet -->
+<OGIG_Apparel_Krieg_FlakHelmet.label>krieg pattern helmet</OGIG_Apparel_Krieg_FlakHelmet.label>
+                                      <!-- A lightweight combat helmet. -->
+<OGIG_Apparel_Krieg_FlakHelmet.description>A lightweight combat helmet.</OGIG_Apparel_Krieg_FlakHelmet.description>
+                                    <!-- valhallan pattern helmet -->
+<OGIG_Apparel_Valhallan_FlakHelmet.label>valhallan pattern helmet</OGIG_Apparel_Valhallan_FlakHelmet.label>
+                                          <!-- A lightweight combat helmet. -->
+<OGIG_Apparel_Valhallan_FlakHelmet.description>A lightweight combat helmet.</OGIG_Apparel_Valhallan_FlakHelmet.description>
+                                             <!-- Tempestus Scion Omnishield Helmet -->
+<OGIG_Apparel_TempestusScion_CarapaceHelmet.label>Tempestus Scion Omnishield Helmet</OGIG_Apparel_TempestusScion_CarapaceHelmet.label>
+                                                   <!-- The Omnishield Helm is a special helmet used by Imperial Tempestus Scions. In hostile environments, a Tempestus regiment will don all-enclosing Omnishield Helms, their respmasks proof against everything from industrial pollution to fully ignited atmospheres. When sealed, they allow Tempestus Scions to operate even in airless vacuums for limited periods of time. The multi-spectral occulum that attaches via suction to the wearer's eye sockets allow him to see in low light and occluded conditions with relative ease. -->
+<OGIG_Apparel_TempestusScion_CarapaceHelmet.description>The Omnishield Helm is a special helmet used by Imperial Tempestus Scions. In hostile environments, a Tempestus regiment will don all-enclosing Omnishield Helms, their respmasks proof against everything from industrial pollution to fully ignited atmospheres. When sealed, they allow Tempestus Scions to operate even in airless vacuums for limited periods of time. The multi-spectral occulum that attaches via suction to the wearer's eye sockets allow him to see in low light and occluded conditions with relative ease.</OGIG_Apparel_TempestusScion_CarapaceHelmet.description>
+                              <!-- imperial guard gas mask -->
+<OGIG_Apparel_Cadian_GasMask.label>imperial guard gas mask</OGIG_Apparel_Cadian_GasMask.label>
+                                    <!-- A lightweight combat gas mask.
+
+Protective Eye Wear -->
+<OGIG_Apparel_Cadian_GasMask.description>A lightweight combat gas mask.\n\nProtective Eye Wear</OGIG_Apparel_Cadian_GasMask.description>
+                                                         <!-- Child, Adult -->
+<OGIG_Apparel_Cadian_GasMask.apparel.developmentalStageFilter>Child, Adult</OGIG_Apparel_Cadian_GasMask.apparel.developmentalStageFilter>
+                                 <!-- valhallan pattern rebreather -->
+<OGIG_Apparel_Valhallan_GasMask.label>valhallan pattern rebreather</OGIG_Apparel_Valhallan_GasMask.label>
+                                       <!-- A lightweight combat gas mask. -->
+<OGIG_Apparel_Valhallan_GasMask.description>A lightweight combat gas mask.</OGIG_Apparel_Valhallan_GasMask.description>
+                                                            <!-- Child, Adult -->
+<OGIG_Apparel_Valhallan_GasMask.apparel.developmentalStageFilter>Child, Adult</OGIG_Apparel_Valhallan_GasMask.apparel.developmentalStageFilter>
+
+</LanguageData>

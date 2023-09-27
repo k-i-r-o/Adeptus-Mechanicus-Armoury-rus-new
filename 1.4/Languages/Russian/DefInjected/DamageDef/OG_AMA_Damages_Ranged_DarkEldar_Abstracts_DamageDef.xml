@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/DamageDefs/OG_AMA_Damages_Ranged_DarkEldar_Abstracts.xml-->
+               <!-- Splinter -->
+<OGDESplinter.label>Splinter</OGDESplinter.label>
+                      <!-- {0} was cut to ribbons. -->
+<OGDESplinter.deathMessage>{0} was cut to ribbons.</OGDESplinter.deathMessage>
+           <!-- Disintegrator -->
+<OGDEPlas.label>Disintegrator</OGDEPlas.label>
+                  <!-- {0} was disintergrated. -->
+<OGDEPlas.deathMessage>{0} was disintergrated.</OGDEPlas.deathMessage>
+               <!-- Mono-filament Mesh  -->
+<OGDEShredder.label>Mono-filament Mesh </OGDEShredder.label>
+                      <!-- {0} was reduced to a pulp. -->
+<OGDEShredder.deathMessage>{0} was reduced to a pulp.</OGDEShredder.deathMessage>
+              <!-- Stinger -->
+<OGDEStinger.label>Stinger</OGDEStinger.label>
+                     <!-- {0} was torn to shreds by needles. -->
+<OGDEStinger.deathMessage>{0} was torn to shreds by needles.</OGDEStinger.deathMessage>
+
+</LanguageData>

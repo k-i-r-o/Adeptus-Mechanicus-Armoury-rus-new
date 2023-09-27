@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/BackstoryDefs/Imperium Backstories/Common/Underhive_Gang_Leader.xml-->
+                                    <!-- underhiver gang leader -->
+<OG_Imperial_Underhive_Gang_Leader.title>underhiver gang leader</OG_Imperial_Underhive_Gang_Leader.title>
+                                         <!-- gang leader -->
+<OG_Imperial_Underhive_Gang_Leader.titleShort>gang leader</OG_Imperial_Underhive_Gang_Leader.titleShort>
+                                       <!-- [PAWN_nameDef] was the leader of a gang on a hiveworld. [PAWN_pronoun] controled their gang with their forceful presence.  -->
+<OG_Imperial_Underhive_Gang_Leader.baseDesc>[PAWN_nameDef] was the leader of a gang on a hiveworld. [PAWN_pronoun] controled their gang with their forceful presence. </OG_Imperial_Underhive_Gang_Leader.baseDesc>
+
+</LanguageData>

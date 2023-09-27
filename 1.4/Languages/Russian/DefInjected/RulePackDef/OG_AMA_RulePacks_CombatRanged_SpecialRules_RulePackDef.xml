@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/RulePackDefs/OG_AMA_RulePacks_CombatRanged_SpecialRules.xml-->
+                                               <!-- 
+		<li>r_logentry-&gt;[INITIATOR_definite]'s [WEAPON_label] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets].</li>
+		<li>r_logentry-&gt;[INITIATOR_definite]'s [WEAPON_projectile_label] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets] [to] [destroyed_suffix].</li>
+		<li>r_logentry(p=2)-&gt;[INITIATOR_definite]'s [WEAPON_projectile_label] [missed] [ORIGINALTARGET_definite] and [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets].</li>
+		<li>r_logentry(p=2)-&gt;[INITIATOR_definite]'s [WEAPON_projectile_label] [missed] [ORIGINALTARGET_definite], [destroyed_present] [RECIPIENT_definite]'s [destroyed_targets].</li>
+		<li>r_logentry-&gt;[RECIPIENT_definite]'s [destroyed_targets] was [destroyed_past] by [INITIATOR_definite]'s [WEAPON_projectile_label].</li>
+		<li>r_logentry-&gt;[RECIPIENT_definite]'s [destroyed_targets] was [destroyed_past] into [destroyed_suffix] by [INITIATOR_definite]'s [WEAPON_projectile_label].</li>
+		<li>r_logentry(recipient_part_destroyed_count==0)-&gt;[INITIATOR_definite]'s [WEAPON_projectile_label] [damaged_past] [RECIPIENT_definite]'s [damaged_targets].</li>
+		<li>r_logentry(recipient_part_destroyed_count==0,p=2)-&gt;[INITIATOR_definite]'s [WEAPON_projectile_label] [missed] [ORIGINALTARGET_definite] and [damaged_past] [RECIPIENT_definite]'s [damaged_targets].</li>
+		<li>r_logentry(recipient_part_destroyed_count==0,p=2)-&gt;[INITIATOR_definite]'s [WEAPON_projectile_label] [missed] [ORIGINALTARGET_definite], [damaged_present] [RECIPIENT_definite]'s [damaged_targets].</li>
+		<li>r_logentry(recipient_part_destroyed_count==0)-&gt;[RECIPIENT_definite]'s [damaged_targets] was [damaged_past] by [INITIATOR_definite]'s [WEAPON_projectile_label].</li>
+		<li>r_logentry(p=3)-&gt;[INITIATOR_definite]'s [WEAPON_projectile_label] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets] and [damaged_past] [RECIPIENT_possessive] [damaged_targets].</li>
+		<li>r_logentry(p=6)-&gt;[INITIATOR_definite]'s [WEAPON_projectile_label] [missed] [ORIGINALTARGET_definite], [destroyed_present] [RECIPIENT_definite]'s [destroyed_targets] and [damaged_present] [RECIPIENT_possessive] [damaged_targets].</li>
+		<li>r_logentry(p=0.2)-&gt;[INITIATOR_definite] hit [RECIPIENT_definite] with a [WEAPON_projectile_label].</li>
+		<li>r_logentry(p=0.2)-&gt;[INITIATOR_definite]'s [WEAPON_projectile_label] hit [RECIPIENT_definite].</li>
+		<li>r_logentry(p=0.4)-&gt;[INITIATOR_definite] [missed] [ORIGINALTARGET_definite] and hit [RECIPIENT_definite] with a [WEAPON_projectile_label].</li>
+		<li>r_logentry(p=0.4)-&gt;[INITIATOR_definite]'s [WEAPON_projectile_label] [missed] [ORIGINALTARGET_definite] and hit [RECIPIENT_definite].</li>
+		<li>r_logentry(p=0.2)-&gt;[INITIATOR_definite] hit [RECIPIENT_definite] with a [WEAPON_projectile_label] intended for [ORIGINALTARGET_definite].</li>
+		<li>weapon_projectile_label(p=0.05)-&gt;shot</li>
+		<li>destroyed_past-&gt;burned</li>
+		<li>destroyed_past-&gt;melted</li>
+		<li>destroyed_present-&gt;burning</li>
+		<li>destroyed_present-&gt;melting</li>
+		<li>destroyed_suffix-&gt;pieces</li>
+		<li>destroyed_suffix-&gt;bits</li>
+		<li>destroyed_suffix-&gt;a fine mist</li>
+		<li>destroyed_suffix-&gt;fragments</li>
+		<li>destroyed_suffix(p=0.5)-&gt;a holey mess</li>
+		<li>destroyed_suffix(recipient_flesh!=Mechanoid,p=0.2)-&gt;charred beef</li>
+		<li>damaged_past-&gt;wounded</li>
+		<li>damaged_past-&gt;injured</li>
+		<li>damaged_past-&gt;burned</li>
+		<li>damaged_past-&gt;damaged</li>
+		<li>damaged_past-&gt;melted</li>
+		<li>damaged_present-&gt;wounding</li>
+		<li>damaged_present-&gt;injuring</li>
+		<li>damaged_present-&gt;burning</li>
+		<li>damaged_present-&gt;damaging</li>
+		<li>damaged_present-&gt;melting</li>
+		<li>damaged_suffix-&gt;in an ugly fashion</li>
+		<li>damaged_suffix(recipient_flesh!=Mechanoid)-&gt;with horrible burns</li>
+		<li>damaged_suffix(recipient_flesh!=Mechanoid)-&gt;with horrific burns</li>
+		<li>to-&gt;to</li>
+		<li>to-&gt;into</li>
+		<li>missed-&gt;missed</li>
+		<li>missed-&gt;narrowly missed</li>
+ -->
+<OG_AMA_Combat_OverheatDamage.rulePack.rulesStrings>
+		<li>r_logentry-&gt;[INITIATOR_definite]'s [WEAPON_label] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets].</li>
+		<li>r_logentry-&gt;[INITIATOR_definite]'s [WEAPON_projectile_label] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets] [to] [destroyed_suffix].</li>
+		<li>r_logentry(p=2)-&gt;[INITIATOR_definite]'s [WEAPON_projectile_label] [missed] [ORIGINALTARGET_definite] and [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets].</li>
+		<li>r_logentry(p=2)-&gt;[INITIATOR_definite]'s [WEAPON_projectile_label] [missed] [ORIGINALTARGET_definite], [destroyed_present] [RECIPIENT_definite]'s [destroyed_targets].</li>
+		<li>r_logentry-&gt;[RECIPIENT_definite]'s [destroyed_targets] was [destroyed_past] by [INITIATOR_definite]'s [WEAPON_projectile_label].</li>
+		<li>r_logentry-&gt;[RECIPIENT_definite]'s [destroyed_targets] was [destroyed_past] into [destroyed_suffix] by [INITIATOR_definite]'s [WEAPON_projectile_label].</li>
+		<li>r_logentry(recipient_part_destroyed_count==0)-&gt;[INITIATOR_definite]'s [WEAPON_projectile_label] [damaged_past] [RECIPIENT_definite]'s [damaged_targets].</li>
+		<li>r_logentry(recipient_part_destroyed_count==0,p=2)-&gt;[INITIATOR_definite]'s [WEAPON_projectile_label] [missed] [ORIGINALTARGET_definite] and [damaged_past] [RECIPIENT_definite]'s [damaged_targets].</li>
+		<li>r_logentry(recipient_part_destroyed_count==0,p=2)-&gt;[INITIATOR_definite]'s [WEAPON_projectile_label] [missed] [ORIGINALTARGET_definite], [damaged_present] [RECIPIENT_definite]'s [damaged_targets].</li>
+		<li>r_logentry(recipient_part_destroyed_count==0)-&gt;[RECIPIENT_definite]'s [damaged_targets] was [damaged_past] by [INITIATOR_definite]'s [WEAPON_projectile_label].</li>
+		<li>r_logentry(p=3)-&gt;[INITIATOR_definite]'s [WEAPON_projectile_label] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets] and [damaged_past] [RECIPIENT_possessive] [damaged_targets].</li>
+		<li>r_logentry(p=6)-&gt;[INITIATOR_definite]'s [WEAPON_projectile_label] [missed] [ORIGINALTARGET_definite], [destroyed_present] [RECIPIENT_definite]'s [destroyed_targets] and [damaged_present] [RECIPIENT_possessive] [damaged_targets].</li>
+		<li>r_logentry(p=0.2)-&gt;[INITIATOR_definite] hit [RECIPIENT_definite] with a [WEAPON_projectile_label].</li>
+		<li>r_logentry(p=0.2)-&gt;[INITIATOR_definite]'s [WEAPON_projectile_label] hit [RECIPIENT_definite].</li>
+		<li>r_logentry(p=0.4)-&gt;[INITIATOR_definite] [missed] [ORIGINALTARGET_definite] and hit [RECIPIENT_definite] with a [WEAPON_projectile_label].</li>
+		<li>r_logentry(p=0.4)-&gt;[INITIATOR_definite]'s [WEAPON_projectile_label] [missed] [ORIGINALTARGET_definite] and hit [RECIPIENT_definite].</li>
+		<li>r_logentry(p=0.2)-&gt;[INITIATOR_definite] hit [RECIPIENT_definite] with a [WEAPON_projectile_label] intended for [ORIGINALTARGET_definite].</li>
+		<li>weapon_projectile_label(p=0.05)-&gt;shot</li>
+		<li>destroyed_past-&gt;burned</li>
+		<li>destroyed_past-&gt;melted</li>
+		<li>destroyed_present-&gt;burning</li>
+		<li>destroyed_present-&gt;melting</li>
+		<li>destroyed_suffix-&gt;pieces</li>
+		<li>destroyed_suffix-&gt;bits</li>
+		<li>destroyed_suffix-&gt;a fine mist</li>
+		<li>destroyed_suffix-&gt;fragments</li>
+		<li>destroyed_suffix(p=0.5)-&gt;a holey mess</li>
+		<li>destroyed_suffix(recipient_flesh!=Mechanoid,p=0.2)-&gt;charred beef</li>
+		<li>damaged_past-&gt;wounded</li>
+		<li>damaged_past-&gt;injured</li>
+		<li>damaged_past-&gt;burned</li>
+		<li>damaged_past-&gt;damaged</li>
+		<li>damaged_past-&gt;melted</li>
+		<li>damaged_present-&gt;wounding</li>
+		<li>damaged_present-&gt;injuring</li>
+		<li>damaged_present-&gt;burning</li>
+		<li>damaged_present-&gt;damaging</li>
+		<li>damaged_present-&gt;melting</li>
+		<li>damaged_suffix-&gt;in an ugly fashion</li>
+		<li>damaged_suffix(recipient_flesh!=Mechanoid)-&gt;with horrible burns</li>
+		<li>damaged_suffix(recipient_flesh!=Mechanoid)-&gt;with horrific burns</li>
+		<li>to-&gt;to</li>
+		<li>to-&gt;into</li>
+		<li>missed-&gt;missed</li>
+		<li>missed-&gt;narrowly missed</li>
+</OG_AMA_Combat_OverheatDamage.rulePack.rulesStrings>
+                                                  <!-- 
+		<li>prefix-&gt;The [blast] [fromof] [INITIATOR_definite]'s [overheat] [WEAPON_label]</li>
+		<li>prefix-&gt;The [blast] [fromof] [INITIATOR_definite]'s [WEAPON_label]</li>
+		<li>prefix-&gt;[INITIATOR_definite]'s [WEAPON_label] [blast]</li>
+		<li>prefix-&gt;[INITIATOR_definite]'s [WEAPON_label]</li>
+		<li>r_logentry-&gt;[prefix] [injured] [RECIPIENT_definite].</li>
+		<li>r_logentry-&gt;[prefix] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets].</li>
+		<li>r_logentry-&gt;[prefix] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets] [strikeAdv].</li>
+		<li>r_logentry-&gt;[prefix] [strikeAdv] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets].</li>
+		<li>r_logentry-&gt;[prefix] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets] and [damaged_past] [RECIPIENT_possessive] [damaged_targets].</li>
+		<li>r_logentry(recipient_part_destroyed_count==0)-&gt;[prefix] [damaged_past] [RECIPIENT_definite]'s [damaged_targets].</li>
+		<li>r_logentry(recipient_part_destroyed_count==0)-&gt;[prefix] [damaged_past] [RECIPIENT_definite]'s [damaged_targets] [strikeAdv].</li>
+		<li>r_logentry(recipient_part_destroyed_count==0)-&gt;[prefix] [strikeAdv] [damaged_past] [RECIPIENT_definite]'s [damaged_targets].</li>
+		<li>r_logentry-&gt;[RECIPIENT_definite] was [damaged_past] by [INITIATOR_definite].</li>
+		<li>r_logentry-&gt;[RECIPIENT_definite] was [damaged_past] [strikeAdv] by [INITIATOR_definite].</li>
+		<li>r_logentry-&gt;[RECIPIENT_definite] was [damaged_past].</li>
+		<li>r_logentry(p=0.001)-&gt;[RECIPIENT_definite] was caught in an explosion.</li>
+		<li>r_logentry(p=0.001)-&gt;[RECIPIENT_definite] was hit by an explosion.</li>
+		<li>blast-&gt;explosion</li>
+		<li>blast-&gt;blast</li>
+		<li>blast-&gt;shockwave</li>
+		<li>blast-&gt;detonation</li>
+		<li>blast-&gt;discharge</li>
+		<li>blast-&gt;impact</li>
+		<li>overheat-&gt;overheating</li>
+		<li>overheat-&gt;overloading</li>
+		<li>fromof-&gt;from</li>
+		<li>fromof-&gt;of</li>
+ -->
+<OG_AMA_Combat_OverheatExplosion.rulePack.rulesStrings>
+		<li>prefix-&gt;The [blast] [fromof] [INITIATOR_definite]'s [overheat] [WEAPON_label]</li>
+		<li>prefix-&gt;The [blast] [fromof] [INITIATOR_definite]'s [WEAPON_label]</li>
+		<li>prefix-&gt;[INITIATOR_definite]'s [WEAPON_label] [blast]</li>
+		<li>prefix-&gt;[INITIATOR_definite]'s [WEAPON_label]</li>
+		<li>r_logentry-&gt;[prefix] [injured] [RECIPIENT_definite].</li>
+		<li>r_logentry-&gt;[prefix] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets].</li>
+		<li>r_logentry-&gt;[prefix] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets] [strikeAdv].</li>
+		<li>r_logentry-&gt;[prefix] [strikeAdv] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets].</li>
+		<li>r_logentry-&gt;[prefix] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets] and [damaged_past] [RECIPIENT_possessive] [damaged_targets].</li>
+		<li>r_logentry(recipient_part_destroyed_count==0)-&gt;[prefix] [damaged_past] [RECIPIENT_definite]'s [damaged_targets].</li>
+		<li>r_logentry(recipient_part_destroyed_count==0)-&gt;[prefix] [damaged_past] [RECIPIENT_definite]'s [damaged_targets] [strikeAdv].</li>
+		<li>r_logentry(recipient_part_destroyed_count==0)-&gt;[prefix] [strikeAdv] [damaged_past] [RECIPIENT_definite]'s [damaged_targets].</li>
+		<li>r_logentry-&gt;[RECIPIENT_definite] was [damaged_past] by [INITIATOR_definite].</li>
+		<li>r_logentry-&gt;[RECIPIENT_definite] was [damaged_past] [strikeAdv] by [INITIATOR_definite].</li>
+		<li>r_logentry-&gt;[RECIPIENT_definite] was [damaged_past].</li>
+		<li>r_logentry(p=0.001)-&gt;[RECIPIENT_definite] was caught in an explosion.</li>
+		<li>r_logentry(p=0.001)-&gt;[RECIPIENT_definite] was hit by an explosion.</li>
+		<li>blast-&gt;explosion</li>
+		<li>blast-&gt;blast</li>
+		<li>blast-&gt;shockwave</li>
+		<li>blast-&gt;detonation</li>
+		<li>blast-&gt;discharge</li>
+		<li>blast-&gt;impact</li>
+		<li>overheat-&gt;overheating</li>
+		<li>overheat-&gt;overloading</li>
+		<li>fromof-&gt;from</li>
+		<li>fromof-&gt;of</li>
+</OG_AMA_Combat_OverheatExplosion.rulePack.rulesStrings>
+
+</LanguageData>

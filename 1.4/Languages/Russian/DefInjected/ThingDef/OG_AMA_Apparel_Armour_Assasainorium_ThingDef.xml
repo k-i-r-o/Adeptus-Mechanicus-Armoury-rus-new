@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/ThingDefs_Misc/Apparel/OG_AMA_Apparel_Armour_Assasainorium.xml-->
+                         <!-- synth-skin -->
+<OGOA_Apparel_SynthSkin.label>synth-skin</OGOA_Apparel_SynthSkin.label>
+                              <!-- Culexus Assasain Helmet -->
+<OGOA_Apparel_Culexus_Helmet.label>Culexus Assasain Helmet</OGOA_Apparel_Culexus_Helmet.label>
+                              <!-- Eversor Assasain Helmet -->
+<OGOA_Apparel_Eversor_Helmet.label>Eversor Assasain Helmet</OGOA_Apparel_Eversor_Helmet.label>
+                                <!-- Vindicare Assasain Helmet -->
+<OGOA_Apparel_Vindicare_Helmet.label>Vindicare Assasain Helmet</OGOA_Apparel_Vindicare_Helmet.label>
+
+</LanguageData>

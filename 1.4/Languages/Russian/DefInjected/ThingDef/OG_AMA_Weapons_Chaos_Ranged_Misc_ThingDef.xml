@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/ThingDefs_Misc/Weapons/OG_AMA_Weapons_Chaos_Ranged_Misc.xml-->
+                   <!-- meltagun (C) -->
+<OGC_Gun_MeltaGun.label>meltagun (C)</OGC_Gun_MeltaGun.label>
+                         <!-- The Meltagun, also called a "Fusion Gun," "Melter," or "Cooker," is a powerful, short-ranged anti-armour weapon that produces an intense, energetic beam of heat in the tens of thousands of degrees Centigrade. The Melta Gun is used by the Space Marines, the troops of the Imperial Guard and other military forces of the Imperium of Man such as the Orders Militant of the Adepta Sororitas. Melta Weapons emit devastatingly intense but short-ranged blasts of heat which can melt through almost any material. Most types of Melta Weapon like the Meltagun function by inducing highly pressurised gases from an ammunition canister into an unstable sub-molecular state which produces nuclear fusion and directing the resulting energies down the barrel. Melta Weapon usage is always accompanied by a distinctive hissing sound as the Melta beam boils away the water in the air, then a roaring blast as the beam reduces the target to charred scraps or molten slag. Meltaguns are the premier Imperial anti-armour weapons, and few if any vehicles can withstand their power. -->
+<OGC_Gun_MeltaGun.description>The Meltagun, also called a "Fusion Gun," "Melter," or "Cooker," is a powerful, short-ranged anti-armour weapon that produces an intense, energetic beam of heat in the tens of thousands of degrees Centigrade. The Melta Gun is used by the Space Marines, the troops of the Imperial Guard and other military forces of the Imperium of Man such as the Orders Militant of the Adepta Sororitas. Melta Weapons emit devastatingly intense but short-ranged blasts of heat which can melt through almost any material. Most types of Melta Weapon like the Meltagun function by inducing highly pressurised gases from an ammunition canister into an unstable sub-molecular state which produces nuclear fusion and directing the resulting energies down the barrel. Melta Weapon usage is always accompanied by a distinctive hissing sound as the Melta beam boils away the water in the air, then a roaring blast as the beam reduces the target to charred scraps or molten slag. Meltaguns are the premier Imperial anti-armour weapons, and few if any vehicles can withstand their power.</OGC_Gun_MeltaGun.description>
+                           <!-- stock -->
+<OGC_Gun_MeltaGun.tools.0.label>stock</OGC_Gun_MeltaGun.tools.0.label>
+                           <!-- barrel -->
+<OGC_Gun_MeltaGun.tools.1.label>barrel</OGC_Gun_MeltaGun.tools.1.label>
+                          <!-- Sonic Blast -->
+<OGC_Bullet_SonicBlaster.label>Sonic Blast</OGC_Bullet_SonicBlaster.label>
+                       <!-- sonic blaster (C) -->
+<OGC_Gun_SonicBlaster.label>sonic blaster (C)</OGC_Gun_SonicBlaster.label>
+                             <!-- The Sonic Blaster is a heavy Sonic Weapon that when fired unleashes wave after wave of devastating harmonics and literally rips its target apart with the power of extreme sound. The Sonic Blaster is the preferred weapon of Chaos Space Marine Noise Marines and Daemon Engines that serve the Chaos God Slaanesh. The Sonic Blaster is about the same size as the Astartes' man-portable Heavy Bolter, and is wielded with both hands. There exists a slightly larger variant of the weapon that is used by Chaos Sonic Dreadnoughts, where it is twin-linked with a second Sonic Blaster to cause even more destructive results. Imperial records do not list any other known users of the Sonic Blaster, although there probably exist many more amongst the Forces of Chaos dedicated to the Prince of Pleasure. -->
+<OGC_Gun_SonicBlaster.description>The Sonic Blaster is a heavy Sonic Weapon that when fired unleashes wave after wave of devastating harmonics and literally rips its target apart with the power of extreme sound. The Sonic Blaster is the preferred weapon of Chaos Space Marine Noise Marines and Daemon Engines that serve the Chaos God Slaanesh. The Sonic Blaster is about the same size as the Astartes' man-portable Heavy Bolter, and is wielded with both hands. There exists a slightly larger variant of the weapon that is used by Chaos Sonic Dreadnoughts, where it is twin-linked with a second Sonic Blaster to cause even more destructive results. Imperial records do not list any other known users of the Sonic Blaster, although there probably exist many more amongst the Forces of Chaos dedicated to the Prince of Pleasure.</OGC_Gun_SonicBlaster.description>
+                               <!-- stock -->
+<OGC_Gun_SonicBlaster.tools.0.label>stock</OGC_Gun_SonicBlaster.tools.0.label>
+                               <!-- barrel -->
+<OGC_Gun_SonicBlaster.tools.1.label>barrel</OGC_Gun_SonicBlaster.tools.1.label>
+                         <!-- Sonic Blast -->
+<OGC_Bullet_Blastmaster.label>Sonic Blast</OGC_Bullet_Blastmaster.label>
+                      <!-- blastmaster (C) -->
+<OGC_Gun_Blastmaster.label>blastmaster (C)</OGC_Gun_Blastmaster.label>
+                            <!-- The Blastmaster is a heavy Sonic Weapon that when fired focuses a throbbing bass note into an explosive sonic crescendo that can burst eyeballs and rupture internal organs. By varying the frequency of the blast, the effect of the weapon can be altered to produce different effects. The Blastmaster is used alongside the smaller Sonic Blaster weapon. These weapons are employed by Noise Marines and Daemon Engines that serve the Chaos God Slaanesh. The Blastmaster is about the same size as the Astartes man-portable Lascannon, and is wielded with both hands. -->
+<OGC_Gun_Blastmaster.description>The Blastmaster is a heavy Sonic Weapon that when fired focuses a throbbing bass note into an explosive sonic crescendo that can burst eyeballs and rupture internal organs. By varying the frequency of the blast, the effect of the weapon can be altered to produce different effects. The Blastmaster is used alongside the smaller Sonic Blaster weapon. These weapons are employed by Noise Marines and Daemon Engines that serve the Chaos God Slaanesh. The Blastmaster is about the same size as the Astartes man-portable Lascannon, and is wielded with both hands.</OGC_Gun_Blastmaster.description>
+                              <!-- stock -->
+<OGC_Gun_Blastmaster.tools.0.label>stock</OGC_Gun_Blastmaster.tools.0.label>
+                              <!-- barrel -->
+<OGC_Gun_Blastmaster.tools.1.label>barrel</OGC_Gun_Blastmaster.tools.1.label>
+                        <!-- missile launcher (C) -->
+<OGC_Gun_RocketLaucher.label>missile launcher (C)</OGC_Gun_RocketLaucher.label>
+                              <!-- A Missile Launcher is a weapon that can fire several types of self-propelled, usually guided Missile, including both the common Frag and Krak Missiles. Frag (Fragmentation) projectiles are designed to spray a designated area with shrapnel, making these munitions highly useful against groups of lightly armoured infantry.
+
+A variant of a Missile Launcher is a Rocket Launcher, which fires unguided, self-propelled projectiles. Rockets contain the same types of warheads as a missile. -->
+<OGC_Gun_RocketLaucher.description>A Missile Launcher is a weapon that can fire several types of self-propelled, usually guided Missile, including both the common Frag and Krak Missiles. Frag (Fragmentation) projectiles are designed to spray a designated area with shrapnel, making these munitions highly useful against groups of lightly armoured infantry.\n\nA variant of a Missile Launcher is a Rocket Launcher, which fires unguided, self-propelled projectiles. Rockets contain the same types of warheads as a missile.</OGC_Gun_RocketLaucher.description>
+                                <!-- barrel -->
+<OGC_Gun_RocketLaucher.tools.0.label>barrel</OGC_Gun_RocketLaucher.tools.0.label>
+
+</LanguageData>

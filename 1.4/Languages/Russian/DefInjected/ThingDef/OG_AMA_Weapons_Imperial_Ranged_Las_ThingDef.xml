@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/ThingDefs_Misc/Weapons/OG_AMA_Weapons_Imperial_Ranged_Las.xml-->
+                          <!-- las blast -->
+<OGI_Bullet_LasPistolStd.label>las blast</OGI_Bullet_LasPistolStd.label>
+                                <!-- A focused pinpoint laser beam which is strong enough to take an ordinary human arm off with one shot but is not as effective against the more durable alien bodies and stronger types of personal armour. -->
+<OGI_Bullet_LasPistolStd.description>A focused pinpoint laser beam which is strong enough to take an ordinary human arm off with one shot but is not as effective against the more durable alien bodies and stronger types of personal armour.</OGI_Bullet_LasPistolStd.description>
+                          <!-- las blast hotshot -->
+<OGI_Bullet_LasPistolHot.label>las blast hotshot</OGI_Bullet_LasPistolHot.label>
+                                <!-- A higher power laser beam which is effective against the more durable alien bodies and stronger types of personal armour, it does half the weapons effective range. -->
+<OGI_Bullet_LasPistolHot.description>A higher power laser beam which is effective against the more durable alien bodies and stronger types of personal armour, it does half the weapons effective range.</OGI_Bullet_LasPistolHot.description>
+                    <!-- laspistol (I) -->
+<OGI_Gun_LasPistol.label>laspistol (I)</OGI_Gun_LasPistol.label>
+                          <!-- The Laspistol is the pistol version of the Lasgun and like that weapon fires a coherent beam of energetic photons that can burn through most materials. The Laspistol is powered by a miniature power pack that is usually placed within the grip. The Laspistol is used most often by officers or Commissars of the Imperial Guard in conjunction with a close combat weapon, often a Chainsword or Power Sword. The Laspistol was specifically intended to allow the user to fire one-handed and wield a melee weapon in the other hand. The Laspistol is also a favoured weapon of Tech-priest Enginseers and Sanctioned Psykers.
+
+The Laspistol is capable of producing the same amount of damage in a skilled user's hands as the Lasgun, yet it has drastically reduced range as compared to its variant rifle form. The Laspistol lacks the Lasgun's selective fire options, having only the ability to fire single shots. -->
+<OGI_Gun_LasPistol.description>The Laspistol is the pistol version of the Lasgun and like that weapon fires a coherent beam of energetic photons that can burn through most materials. The Laspistol is powered by a miniature power pack that is usually placed within the grip. The Laspistol is used most often by officers or Commissars of the Imperial Guard in conjunction with a close combat weapon, often a Chainsword or Power Sword. The Laspistol was specifically intended to allow the user to fire one-handed and wield a melee weapon in the other hand. The Laspistol is also a favoured weapon of Tech-priest Enginseers and Sanctioned Psykers.\n\nThe Laspistol is capable of producing the same amount of damage in a skilled user's hands as the Lasgun, yet it has drastically reduced range as compared to its variant rifle form. The Laspistol lacks the Lasgun's selective fire options, having only the ability to fire single shots.</OGI_Gun_LasPistol.description>
+                            <!-- barrel -->
+<OGI_Gun_LasPistol.tools.0.label>barrel</OGI_Gun_LasPistol.tools.0.label>
+                            <!-- grip -->
+<OGI_Gun_LasPistol.tools.1.label>grip</OGI_Gun_LasPistol.tools.1.label>
+                    <!-- las blast -->
+<OGI_Bullet_LasGun.label>las blast</OGI_Bullet_LasGun.label>
+                          <!-- A focused pinpoint laser beam which is strong enough to take an ordinary human arm off with one shot but is not as effective against the more durable alien bodies and stronger types of personal armour. -->
+<OGI_Bullet_LasGun.description>A focused pinpoint laser beam which is strong enough to take an ordinary human arm off with one shot but is not as effective against the more durable alien bodies and stronger types of personal armour.</OGI_Bullet_LasGun.description>
+                        <!-- las blast hotshot -->
+<OGI_Bullet_LasGun_Hot.label>las blast hotshot</OGI_Bullet_LasGun_Hot.label>
+                              <!-- A higher power laser beam which is effective against the more durable alien bodies and stronger types of personal armour, it does half the weapons effective range. -->
+<OGI_Bullet_LasGun_Hot.description>A higher power laser beam which is effective against the more durable alien bodies and stronger types of personal armour, it does half the weapons effective range.</OGI_Bullet_LasGun_Hot.description>
+                        <!-- m-galaxy pattern lasgun (I) -->
+<OGI_Gun_LasGun_Galaxy.label>m-galaxy pattern lasgun (I)</OGI_Gun_LasGun_Galaxy.label>
+                              <!-- The Lasgun, also sometimes referred to as a Lasrifle, is a directed-energy antipersonnel weapon used by the military forces of the Imperium of Man, and it is the most common and widely-used type of laser weapon in the galaxy. Lasguns are reliable, easy to maintain and to produce, and are readily available on most Imperial worlds. The Lasgun is strong enough to take an ordinary human arm off with one shot but is not as effective against the more durable alien bodies and stronger types of personal armour. A Lasgun's beam also cauterizes the wounds it inflicts due to the immense heat given off by the shot.
+		
+		Although thousands of variant models, marks and patterns exist the standard Lasgun pattern used by the Imperial Guard is the M35 "M-Galaxy" Lasgun, first put into use in 2546.789.M35. -->
+<OGI_Gun_LasGun_Galaxy.description>The Lasgun, also sometimes referred to as a Lasrifle, is a directed-energy antipersonnel weapon used by the military forces of the Imperium of Man, and it is the most common and widely-used type of laser weapon in the galaxy. Lasguns are reliable, easy to maintain and to produce, and are readily available on most Imperial worlds. The Lasgun is strong enough to take an ordinary human arm off with one shot but is not as effective against the more durable alien bodies and stronger types of personal armour. A Lasgun's beam also cauterizes the wounds it inflicts due to the immense heat given off by the shot.
+		
+		Although thousands of variant models, marks and patterns exist the standard Lasgun pattern used by the Imperial Guard is the M35 "M-Galaxy" Lasgun, first put into use in 2546.789.M35.</OGI_Gun_LasGun_Galaxy.description>
+                                                                              <!-- AMA_Hotshot -->
+<OGI_Gun_LasGun_Galaxy.comps.AdeptusMechanicus.Comp_ToggleFireMode.InspectLabelKey>AMA_Hotshot</OGI_Gun_LasGun_Galaxy.comps.AdeptusMechanicus.Comp_ToggleFireMode.InspectLabelKey>
+                                <!-- stock -->
+<OGI_Gun_LasGun_Galaxy.tools.0.label>stock</OGI_Gun_LasGun_Galaxy.tools.0.label>
+                                <!-- barrel -->
+<OGI_Gun_LasGun_Galaxy.tools.1.label>barrel</OGI_Gun_LasGun_Galaxy.tools.1.label>
+                          <!-- kantrael pattern lasgun (I) -->
+<OGI_Gun_LasGun_Kantrael.label>kantrael pattern lasgun (I)</OGI_Gun_LasGun_Kantrael.label>
+                                <!-- The Lasgun, also sometimes referred to as a Lasrifle, is a directed-energy antipersonnel weapon used by the military forces of the Imperium of Man, and it is the most common and widely-used type of laser weapon in the galaxy. Lasguns are reliable, easy to maintain and to produce, and are readily available on most Imperial worlds. The Lasgun is strong enough to take an ordinary human arm off with one shot but is not as effective against the more durable alien bodies and stronger types of personal armour. A Lasgun's beam also cauterizes the wounds it inflicts due to the immense heat given off by the shot. -->
+<OGI_Gun_LasGun_Kantrael.description>The Lasgun, also sometimes referred to as a Lasrifle, is a directed-energy antipersonnel weapon used by the military forces of the Imperium of Man, and it is the most common and widely-used type of laser weapon in the galaxy. Lasguns are reliable, easy to maintain and to produce, and are readily available on most Imperial worlds. The Lasgun is strong enough to take an ordinary human arm off with one shot but is not as effective against the more durable alien bodies and stronger types of personal armour. A Lasgun's beam also cauterizes the wounds it inflicts due to the immense heat given off by the shot.</OGI_Gun_LasGun_Kantrael.description>
+                                                                                <!-- AMA_Hotshot -->
+<OGI_Gun_LasGun_Kantrael.comps.AdeptusMechanicus.Comp_ToggleFireMode.InspectLabelKey>AMA_Hotshot</OGI_Gun_LasGun_Kantrael.comps.AdeptusMechanicus.Comp_ToggleFireMode.InspectLabelKey>
+                                  <!-- stock -->
+<OGI_Gun_LasGun_Kantrael.tools.0.label>stock</OGI_Gun_LasGun_Kantrael.tools.0.label>
+                                  <!-- barrel -->
+<OGI_Gun_LasGun_Kantrael.tools.1.label>barrel</OGI_Gun_LasGun_Kantrael.tools.1.label>
+                         <!-- triplex pattern lasgun (I) -->
+<OGI_Gun_LasGun_Triplex.label>triplex pattern lasgun (I)</OGI_Gun_LasGun_Triplex.label>
+                               <!-- The Lasgun, also sometimes referred to as a Lasrifle, is a directed-energy antipersonnel weapon used by the military forces of the Imperium of Man, and it is the most common and widely-used type of laser weapon in the galaxy. Lasguns are reliable, easy to maintain and to produce, and are readily available on most Imperial worlds. The Lasgun is strong enough to take an ordinary human arm off with one shot but is not as effective against the more durable alien bodies and stronger types of personal armour. A Lasgun's beam also cauterizes the wounds it inflicts due to the immense heat given off by the shot. -->
+<OGI_Gun_LasGun_Triplex.description>The Lasgun, also sometimes referred to as a Lasrifle, is a directed-energy antipersonnel weapon used by the military forces of the Imperium of Man, and it is the most common and widely-used type of laser weapon in the galaxy. Lasguns are reliable, easy to maintain and to produce, and are readily available on most Imperial worlds. The Lasgun is strong enough to take an ordinary human arm off with one shot but is not as effective against the more durable alien bodies and stronger types of personal armour. A Lasgun's beam also cauterizes the wounds it inflicts due to the immense heat given off by the shot.</OGI_Gun_LasGun_Triplex.description>
+                                                                               <!-- AMA_Hotshot -->
+<OGI_Gun_LasGun_Triplex.comps.AdeptusMechanicus.Comp_ToggleFireMode.InspectLabelKey>AMA_Hotshot</OGI_Gun_LasGun_Triplex.comps.AdeptusMechanicus.Comp_ToggleFireMode.InspectLabelKey>
+                                 <!-- stock -->
+<OGI_Gun_LasGun_Triplex.tools.0.label>stock</OGI_Gun_LasGun_Triplex.tools.0.label>
+                                 <!-- barrel -->
+<OGI_Gun_LasGun_Triplex.tools.1.label>barrel</OGI_Gun_LasGun_Triplex.tools.1.label>
+                          <!-- merovech pattern lasgun (I) -->
+<OGI_Gun_LasGun_Merovech.label>merovech pattern lasgun (I)</OGI_Gun_LasGun_Merovech.label>
+                                <!-- The Lasgun, also sometimes referred to as a Lasrifle, is a directed-energy antipersonnel weapon used by the military forces of the Imperium of Man, and it is the most common and widely-used type of laser weapon in the galaxy. Lasguns are reliable, easy to maintain and to produce, and are readily available on most Imperial worlds. The Lasgun is strong enough to take an ordinary human arm off with one shot but is not as effective against the more durable alien bodies and stronger types of personal armour. A Lasgun's beam also cauterizes the wounds it inflicts due to the immense heat given off by the shot.
+		
+		Designed purely for close range assaults, the merovech assault lasgun is heavily reinforced and has a bayonet built into its short and heavy frame. Slots for two power packs are included so the gun can switch to a fresh pack with no reloading. Since the firefights it’s designed for are typically over long before two packs are exhausted, it serves its design perfectly. -->
+<OGI_Gun_LasGun_Merovech.description>The Lasgun, also sometimes referred to as a Lasrifle, is a directed-energy antipersonnel weapon used by the military forces of the Imperium of Man, and it is the most common and widely-used type of laser weapon in the galaxy. Lasguns are reliable, easy to maintain and to produce, and are readily available on most Imperial worlds. The Lasgun is strong enough to take an ordinary human arm off with one shot but is not as effective against the more durable alien bodies and stronger types of personal armour. A Lasgun's beam also cauterizes the wounds it inflicts due to the immense heat given off by the shot.
+		
+		Designed purely for close range assaults, the merovech assault lasgun is heavily reinforced and has a bayonet built into its short and heavy frame. Slots for two power packs are included so the gun can switch to a fresh pack with no reloading. Since the firefights it’s designed for are typically over long before two packs are exhausted, it serves its design perfectly.</OGI_Gun_LasGun_Merovech.description>
+                                  <!-- stock -->
+<OGI_Gun_LasGun_Merovech.tools.0.label>stock</OGI_Gun_LasGun_Merovech.tools.0.label>
+                                  <!-- barrel -->
+<OGI_Gun_LasGun_Merovech.tools.1.label>barrel</OGI_Gun_LasGun_Merovech.tools.1.label>
+                                  <!-- bayonet -->
+<OGI_Gun_LasGun_Merovech.tools.2.label>bayonet</OGI_Gun_LasGun_Merovech.tools.2.label>
+                       <!-- locke pattern lascarbine (I) -->
+<OGI_Gun_LasGun_Locke.label>locke pattern lascarbine (I)</OGI_Gun_LasGun_Locke.label>
+                             <!-- The Lascarbine is a carbine form of the standard Imperial Lasgun that is easier to carry and to aim than its larger counterpart. It will often possess a folding stock. However, as a result of these modifications, a Lascarbine has a shorter range and will fire fewer shots before depleting its power pack when compared to a standard Lasgun.
+
+The Locke Pattern is A lighter, cut down variant of the Lascarbine that is commonly deployed amoungst PDF regiments, local milita, which possesses a shorter barrel-length than the standard Lasgun, decreasing its range but making it easier to use in enclosed spaces, to save on manufacturing costs the variable power setting has been removed and it is limited to single shot, this also makes it light enought that it can be fired in one hand. -->
+<OGI_Gun_LasGun_Locke.description>The Lascarbine is a carbine form of the standard Imperial Lasgun that is easier to carry and to aim than its larger counterpart. It will often possess a folding stock. However, as a result of these modifications, a Lascarbine has a shorter range and will fire fewer shots before depleting its power pack when compared to a standard Lasgun.\n\nThe Locke Pattern is A lighter, cut down variant of the Lascarbine that is commonly deployed amoungst PDF regiments, local milita, which possesses a shorter barrel-length than the standard Lasgun, decreasing its range but making it easier to use in enclosed spaces, to save on manufacturing costs the variable power setting has been removed and it is limited to single shot, this also makes it light enought that it can be fired in one hand.</OGI_Gun_LasGun_Locke.description>
+                               <!-- stock -->
+<OGI_Gun_LasGun_Locke.tools.0.label>stock</OGI_Gun_LasGun_Locke.tools.0.label>
+                               <!-- barrel -->
+<OGI_Gun_LasGun_Locke.tools.1.label>barrel</OGI_Gun_LasGun_Locke.tools.1.label>
+                          <!-- MKIV "Catachan" lascarbine (I) -->
+<OGI_Gun_LasGun_Catachan.label>MKIV "Catachan" lascarbine (I)</OGI_Gun_LasGun_Catachan.label>
+                                <!-- The Lascarbine is a carbine form of the standard Imperial Lasgun that is easier to carry and to aim than its larger counterpart. It will often possess a folding stock. However, as a result of these modifications, a Lascarbine has a shorter range and will fire fewer shots before depleting its power pack when compared to a standard Lasgun.
+		
+		The Mark iV "Catachan" Lascarbine, has less cowling than the M36 and is therefore lighter and easier to carry, it also has a slightly reduced effective range and an increased rate of fire, which in the dense jungle environs frequented by Catachan regiments. -->
+<OGI_Gun_LasGun_Catachan.description>The Lascarbine is a carbine form of the standard Imperial Lasgun that is easier to carry and to aim than its larger counterpart. It will often possess a folding stock. However, as a result of these modifications, a Lascarbine has a shorter range and will fire fewer shots before depleting its power pack when compared to a standard Lasgun.
+		
+		The Mark iV "Catachan" Lascarbine, has less cowling than the M36 and is therefore lighter and easier to carry, it also has a slightly reduced effective range and an increased rate of fire, which in the dense jungle environs frequented by Catachan regiments.</OGI_Gun_LasGun_Catachan.description>
+                                                                                <!-- AMA_Hotshot -->
+<OGI_Gun_LasGun_Catachan.comps.AdeptusMechanicus.Comp_ToggleFireMode.InspectLabelKey>AMA_Hotshot</OGI_Gun_LasGun_Catachan.comps.AdeptusMechanicus.Comp_ToggleFireMode.InspectLabelKey>
+                                  <!-- stock -->
+<OGI_Gun_LasGun_Catachan.tools.0.label>stock</OGI_Gun_LasGun_Catachan.tools.0.label>
+                                  <!-- barrel -->
+<OGI_Gun_LasGun_Catachan.tools.1.label>barrel</OGI_Gun_LasGun_Catachan.tools.1.label>
+                      <!-- voss pattern lascarbine (I) -->
+<OGI_Gun_LasGun_Voss.label>voss pattern lascarbine (I)</OGI_Gun_LasGun_Voss.label>
+                            <!-- The Lascarbine is a carbine form of the standard Imperial Lasgun that is easier to carry and to aim than its larger counterpart. It will often possess a folding stock. However, as a result of these modifications, a Lascarbine has a shorter range and will fire fewer shots before depleting its power pack when compared to a standard Lasgun.
+		
+		The Voss Pattern Lascarbine, has less cowling than the M36 and is therefore lighter and easier to carry, it also has a slightly reduced effective range and an increased rate of fire, which in the dense jungle environs frequented by Catachan regiments. -->
+<OGI_Gun_LasGun_Voss.description>The Lascarbine is a carbine form of the standard Imperial Lasgun that is easier to carry and to aim than its larger counterpart. It will often possess a folding stock. However, as a result of these modifications, a Lascarbine has a shorter range and will fire fewer shots before depleting its power pack when compared to a standard Lasgun.
+		
+		The Voss Pattern Lascarbine, has less cowling than the M36 and is therefore lighter and easier to carry, it also has a slightly reduced effective range and an increased rate of fire, which in the dense jungle environs frequented by Catachan regiments.</OGI_Gun_LasGun_Voss.description>
+                              <!-- grip -->
+<OGI_Gun_LasGun_Voss.tools.0.label>grip</OGI_Gun_LasGun_Voss.tools.0.label>
+                              <!-- barrel -->
+<OGI_Gun_LasGun_Voss.tools.1.label>barrel</OGI_Gun_LasGun_Voss.tools.1.label>
+                          <!-- accatran pattern lascarbine (I) -->
+<OGI_Gun_LasGun_Accatran.label>accatran pattern lascarbine (I)</OGI_Gun_LasGun_Accatran.label>
+                                <!-- The Lascarbine is a carbine form of the standard Imperial Lasgun that is easier to carry and to aim than its larger counterpart. It will often possess a folding stock. However, as a result of these modifications, a Lascarbine has a shorter range and will fire fewer shots before depleting its power pack when compared to a standard Lasgun.
+		
+		The Accatran Mark IV is a bullpup-style Lasgun. The smaller profile is easily manoeuvred at short range or fired from the hip. Often employed by Elysian Drop Troop regiments and Drop Troops regiments drawn from other worlds. -->
+<OGI_Gun_LasGun_Accatran.description>The Lascarbine is a carbine form of the standard Imperial Lasgun that is easier to carry and to aim than its larger counterpart. It will often possess a folding stock. However, as a result of these modifications, a Lascarbine has a shorter range and will fire fewer shots before depleting its power pack when compared to a standard Lasgun.
+		
+		The Accatran Mark IV is a bullpup-style Lasgun. The smaller profile is easily manoeuvred at short range or fired from the hip. Often employed by Elysian Drop Troop regiments and Drop Troops regiments drawn from other worlds.</OGI_Gun_LasGun_Accatran.description>
+                                  <!-- grip -->
+<OGI_Gun_LasGun_Accatran.tools.0.label>grip</OGI_Gun_LasGun_Accatran.tools.0.label>
+                                  <!-- barrel -->
+<OGI_Gun_LasGun_Accatran.tools.1.label>barrel</OGI_Gun_LasGun_Accatran.tools.1.label>
+                      <!-- las blast -->
+<OGI_Bullet_LasRifle.label>las blast</OGI_Bullet_LasRifle.label>
+                            <!-- A focused pinpoint laser beam which is strong enough to take an ordinary human arm off with one shot but is not as effective against the more durable alien bodies and stronger types of personal armour. -->
+<OGI_Bullet_LasRifle.description>A focused pinpoint laser beam which is strong enough to take an ordinary human arm off with one shot but is not as effective against the more durable alien bodies and stronger types of personal armour.</OGI_Bullet_LasRifle.description>
+                          <!-- las blast hotshot -->
+<OGI_Bullet_LasRifle_Hot.label>las blast hotshot</OGI_Bullet_LasRifle_Hot.label>
+                                <!-- A higher power laser beam which is effective against the more durable alien bodies and stronger types of personal armour, it does half the weapons effective range. -->
+<OGI_Bullet_LasRifle_Hot.description>A higher power laser beam which is effective against the more durable alien bodies and stronger types of personal armour, it does half the weapons effective range.</OGI_Bullet_LasRifle_Hot.description>
+                        <!-- lucius pattern lasgun (I) -->
+<OGI_Gun_LasGun_Lucius.label>lucius pattern lasgun (I)</OGI_Gun_LasGun_Lucius.label>
+                              <!-- The Lasrifle is a rifle form of the standard Imperial Lasgun that is more cumbersome to carry and to aim than its smaller counterpart. It will often possess a folding stock. However, as a result of these modifications, a Lasrifle has a longer range and will fire fewer shots before depleting its power pack when compared to a standard Lasgun.
+
+Lucius Pattern Lasguns operate in the 21 megathoule range, it discharges a more powerful shot, but drains the power pack at an increased rate. This also puts a great strain on the weapon, limiting the rate of fire and requiring such features as additional heat sink rings lining the exterior of the barrel increasing its weight further. -->
+<OGI_Gun_LasGun_Lucius.description>The Lasrifle is a rifle form of the standard Imperial Lasgun that is more cumbersome to carry and to aim than its smaller counterpart. It will often possess a folding stock. However, as a result of these modifications, a Lasrifle has a longer range and will fire fewer shots before depleting its power pack when compared to a standard Lasgun.\n\nLucius Pattern Lasguns operate in the 21 megathoule range, it discharges a more powerful shot, but drains the power pack at an increased rate. This also puts a great strain on the weapon, limiting the rate of fire and requiring such features as additional heat sink rings lining the exterior of the barrel increasing its weight further.</OGI_Gun_LasGun_Lucius.description>
+                                <!-- stock -->
+<OGI_Gun_LasGun_Lucius.tools.0.label>stock</OGI_Gun_LasGun_Lucius.tools.0.label>
+                                <!-- barrel -->
+<OGI_Gun_LasGun_Lucius.tools.1.label>barrel</OGI_Gun_LasGun_Lucius.tools.1.label>
+                      <!-- martian pattern lasrifle (I) -->
+<OGI_Gun_LasGun_Mars.label>martian pattern lasrifle (I)</OGI_Gun_LasGun_Mars.label>
+                            <!-- The Lasgun, also sometimes referred to as a Lasrifle, is a directed-energy antipersonnel weapon used by the military forces of the Imperium of Man, and it is the most common and widely-used type of laser weapon in the galaxy. Lasguns are reliable, easy to maintain and to produce, and are readily available on most Imperial worlds. The Lasgun is strong enough to take an ordinary human arm off with one shot but is not as effective against the more durable alien bodies and stronger types of personal armour. A Lasgun's beam also cauterizes the wounds it inflicts due to the immense heat given off by the shot.
+
+Vostroya Pattern Lasguns operate in the 21 megathoule range, it discharges a more powerful shot, but drains the power pack at an increased rate. This also puts a great strain on the weapon, limiting the rate of fire and requiring such features as additional heat sink rings lining the exterior of the barrel.
+		
+		. -->
+<OGI_Gun_LasGun_Mars.description>The Lasgun, also sometimes referred to as a Lasrifle, is a directed-energy antipersonnel weapon used by the military forces of the Imperium of Man, and it is the most common and widely-used type of laser weapon in the galaxy. Lasguns are reliable, easy to maintain and to produce, and are readily available on most Imperial worlds. The Lasgun is strong enough to take an ordinary human arm off with one shot but is not as effective against the more durable alien bodies and stronger types of personal armour. A Lasgun's beam also cauterizes the wounds it inflicts due to the immense heat given off by the shot.\n\nVostroya Pattern Lasguns operate in the 21 megathoule range, it discharges a more powerful shot, but drains the power pack at an increased rate. This also puts a great strain on the weapon, limiting the rate of fire and requiring such features as additional heat sink rings lining the exterior of the barrel.
+		
+		.</OGI_Gun_LasGun_Mars.description>
+                              <!-- stock -->
+<OGI_Gun_LasGun_Mars.tools.0.label>stock</OGI_Gun_LasGun_Mars.tools.0.label>
+                              <!-- barrel -->
+<OGI_Gun_LasGun_Mars.tools.1.label>barrel</OGI_Gun_LasGun_Mars.tools.1.label>
+                          <!-- vostroya pattern lasgun (I) -->
+<OGI_Gun_LasGun_Vostroya.label>vostroya pattern lasgun (I)</OGI_Gun_LasGun_Vostroya.label>
+                                <!-- The Lasgun, also sometimes referred to as a Lasrifle, is a directed-energy antipersonnel weapon used by the military forces of the Imperium of Man, and it is the most common and widely-used type of laser weapon in the galaxy. Lasguns are reliable, easy to maintain and to produce, and are readily available on most Imperial worlds. The Lasgun is strong enough to take an ordinary human arm off with one shot but is not as effective against the more durable alien bodies and stronger types of personal armour. A Lasgun's beam also cauterizes the wounds it inflicts due to the immense heat given off by the shot.
+
+Vostroya Pattern Lasguns operate in the 21 megathoule range, it discharges a more powerful shot, but drains the power pack at an increased rate. This also puts a great strain on the weapon, limiting the rate of fire and requiring such features as additional heat sink rings lining the exterior of the barrel.
+		
+		. -->
+<OGI_Gun_LasGun_Vostroya.description>The Lasgun, also sometimes referred to as a Lasrifle, is a directed-energy antipersonnel weapon used by the military forces of the Imperium of Man, and it is the most common and widely-used type of laser weapon in the galaxy. Lasguns are reliable, easy to maintain and to produce, and are readily available on most Imperial worlds. The Lasgun is strong enough to take an ordinary human arm off with one shot but is not as effective against the more durable alien bodies and stronger types of personal armour. A Lasgun's beam also cauterizes the wounds it inflicts due to the immense heat given off by the shot.\n\nVostroya Pattern Lasguns operate in the 21 megathoule range, it discharges a more powerful shot, but drains the power pack at an increased rate. This also puts a great strain on the weapon, limiting the rate of fire and requiring such features as additional heat sink rings lining the exterior of the barrel.
+		
+		.</OGI_Gun_LasGun_Vostroya.description>
+                                  <!-- stock -->
+<OGI_Gun_LasGun_Vostroya.tools.0.label>stock</OGI_Gun_LasGun_Vostroya.tools.0.label>
+                                  <!-- barrel -->
+<OGI_Gun_LasGun_Vostroya.tools.1.label>barrel</OGI_Gun_LasGun_Vostroya.tools.1.label>
+                     <!-- las blast -->
+<OGI_Bullet_Hellgun.label>las blast</OGI_Bullet_Hellgun.label>
+                           <!-- A higher power laser beam which is effective against the more durable alien bodies and stronger types of personal armour. -->
+<OGI_Bullet_Hellgun.description>A higher power laser beam which is effective against the more durable alien bodies and stronger types of personal armour.</OGI_Bullet_Hellgun.description>
+                     <!-- hellpistol (I) -->
+<OGI_Gun_HellPistol.label>hellpistol (I)</OGI_Gun_HellPistol.label>
+                           <!-- The Hellpistol, also known as a Hot-shot Laspistol, corresponds to the Laspistol the same way the Hellgun corresponds to the Lasgun -- it is a more deadly weapon and only slightly heavier than the Laspistol. However, it is also more expensive in terms of the materials and manpower required to manufacture it. Hellpistols are usually found in the company of elite Imperial Guard Grenadier or Storm Trooper Sergeants, although higher-ranking Imperial Guard officers also have access to this weapon by virtue of their higher grade.
+
+The standard Laspistol can be considered a semi-automatic weapon in which one pull of the trigger produces one shot, whilst the Hellpistol is fully automatic in the sense that it will continuously fire high-powered las beams as long as the trigger is depressed. -->
+<OGI_Gun_HellPistol.description>The Hellpistol, also known as a Hot-shot Laspistol, corresponds to the Laspistol the same way the Hellgun corresponds to the Lasgun -- it is a more deadly weapon and only slightly heavier than the Laspistol. However, it is also more expensive in terms of the materials and manpower required to manufacture it. Hellpistols are usually found in the company of elite Imperial Guard Grenadier or Storm Trooper Sergeants, although higher-ranking Imperial Guard officers also have access to this weapon by virtue of their higher grade.\n\nThe standard Laspistol can be considered a semi-automatic weapon in which one pull of the trigger produces one shot, whilst the Hellpistol is fully automatic in the sense that it will continuously fire high-powered las beams as long as the trigger is depressed.</OGI_Gun_HellPistol.description>
+                             <!-- barrel -->
+<OGI_Gun_HellPistol.tools.0.label>barrel</OGI_Gun_HellPistol.tools.0.label>
+                             <!-- grip -->
+<OGI_Gun_HellPistol.tools.1.label>grip</OGI_Gun_HellPistol.tools.1.label>
+                  <!-- hellgun (I) -->
+<OGI_Gun_Hellgun.label>hellgun (I)</OGI_Gun_Hellgun.label>
+                        <!-- A Hellgun, also called a Hot-shot Lasgun, is a pattern of Imperial Lasgun that possesses a more advanced and powerful laser generation system intended to provide more potent laser fire on-target. This makes the Hellgun superior in both range and power output compared to the standard-issue Lasgun. However, the higher power output requires superior quality power cells or the use of a separate backpack power supply, and the more complex inner workings of the weapon require more time and resources to manufacture than the standard Lasgun. This makes it more costly to field and so it is not generally issued to the average soldier of most Astra Militarum regiments. -->
+<OGI_Gun_Hellgun.description>A Hellgun, also called a Hot-shot Lasgun, is a pattern of Imperial Lasgun that possesses a more advanced and powerful laser generation system intended to provide more potent laser fire on-target. This makes the Hellgun superior in both range and power output compared to the standard-issue Lasgun. However, the higher power output requires superior quality power cells or the use of a separate backpack power supply, and the more complex inner workings of the weapon require more time and resources to manufacture than the standard Lasgun. This makes it more costly to field and so it is not generally issued to the average soldier of most Astra Militarum regiments.</OGI_Gun_Hellgun.description>
+                          <!-- stock -->
+<OGI_Gun_Hellgun.tools.0.label>stock</OGI_Gun_Hellgun.tools.0.label>
+                          <!-- barrel -->
+<OGI_Gun_Hellgun.tools.1.label>barrel</OGI_Gun_Hellgun.tools.1.label>
+                     <!-- las blast -->
+<OGI_Bullet_LongLas.label>las blast</OGI_Bullet_LongLas.label>
+                           <!-- A higher power laser beam which is effective against the more durable alien bodies and stronger types of personal armour. -->
+<OGI_Bullet_LongLas.description>A higher power laser beam which is effective against the more durable alien bodies and stronger types of personal armour.</OGI_Bullet_LongLas.description>
+                  <!-- long-las (I) -->
+<OGI_Gun_LongLas.label>long-las (I)</OGI_Gun_LongLas.label>
+                        <!-- Favoured by Imperial Guard Sharpshooters, the Long-Las, originally known as the "Sniper Variant Lasgun," is a specially modified version of the standard Lasgun constructed for increased range and accuracy. In addition to the redoubtable Lasgun's many variants, there are certain types of weapons that exhibit differences enough to be considered seperate weapons. One such weapon is the Sniper Variant Lasgun, better known as the Long-Las. Such weapons are only ever issued to those Guardsmen of the Astra Militarum who have displayed a flair for marksmanship, stealth operations and scout movement, for such weapons are difficult to produce and require more training and intelligence to utilise properly. -->
+<OGI_Gun_LongLas.description>Favoured by Imperial Guard Sharpshooters, the Long-Las, originally known as the "Sniper Variant Lasgun," is a specially modified version of the standard Lasgun constructed for increased range and accuracy. In addition to the redoubtable Lasgun's many variants, there are certain types of weapons that exhibit differences enough to be considered seperate weapons. One such weapon is the Sniper Variant Lasgun, better known as the Long-Las. Such weapons are only ever issued to those Guardsmen of the Astra Militarum who have displayed a flair for marksmanship, stealth operations and scout movement, for such weapons are difficult to produce and require more training and intelligence to utilise properly.</OGI_Gun_LongLas.description>
+                          <!-- stock -->
+<OGI_Gun_LongLas.tools.0.label>stock</OGI_Gun_LongLas.tools.0.label>
+                          <!-- barrel -->
+<OGI_Gun_LongLas.tools.1.label>barrel</OGI_Gun_LongLas.tools.1.label>
+                       <!-- las blast -->
+<OGI_Bullet_LasCannon.label>las blast</OGI_Bullet_LasCannon.label>
+                             <!-- A higher power laser beam which is effective against the more durable alien bodies and stronger types of personal armour. -->
+<OGI_Bullet_LasCannon.description>A higher power laser beam which is effective against the more durable alien bodies and stronger types of personal armour.</OGI_Bullet_LasCannon.description>
+                    <!-- lascannon (I) -->
+<OGI_Gun_LasCannon.label>lascannon (I)</OGI_Gun_LasCannon.label>
+                          <!-- The powerful Lascannon is a formidable Laser Weapon whose energetic shot of coherent light is capable of penetrating most armoured vehicles. It is the favourite anti-tank weapon of the Imperial Guard and is also commonly used by the Space Marines. Its high strength and armour-piercing ability make it a formidable weapon and when it is twin-linked, it becomes even more deadly. However, it is very heavy and power-consuming, and must recharge after every shot, making it a poor anti-personnel weapon. As a result, it is usually installed on tanks or Sentinel platforms, and in the Imperial Guard, two-man teams are required to operate and carry around a single Lascannon. To accommodate the increased power output, the Lascannon has become the largest man-portable form of Las-weaponry, the barrel being several times larger in diameter and length than the standard Lasgun. Space Marines also make extensive use of the Lascannon. -->
+<OGI_Gun_LasCannon.description>The powerful Lascannon is a formidable Laser Weapon whose energetic shot of coherent light is capable of penetrating most armoured vehicles. It is the favourite anti-tank weapon of the Imperial Guard and is also commonly used by the Space Marines. Its high strength and armour-piercing ability make it a formidable weapon and when it is twin-linked, it becomes even more deadly. However, it is very heavy and power-consuming, and must recharge after every shot, making it a poor anti-personnel weapon. As a result, it is usually installed on tanks or Sentinel platforms, and in the Imperial Guard, two-man teams are required to operate and carry around a single Lascannon. To accommodate the increased power output, the Lascannon has become the largest man-portable form of Las-weaponry, the barrel being several times larger in diameter and length than the standard Lasgun. Space Marines also make extensive use of the Lascannon.</OGI_Gun_LasCannon.description>
+                            <!-- barrel -->
+<OGI_Gun_LasCannon.tools.0.label>barrel</OGI_Gun_LasCannon.tools.0.label>
+
+</LanguageData>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/ResearchProjectDefs/OG_AMA_Chaos_Research.xml-->
+                        <!-- Heretical Inclinations -->
+<OG_Chaos_Tech_Base_T1.label>Heretical Inclinations</OG_Chaos_Tech_Base_T1.label>
+                              <!-- Allows you to create basic Heretical technology -->
+<OG_Chaos_Tech_Base_T1.description>Allows you to create basic Heretical technology</OG_Chaos_Tech_Base_T1.description>
+                        <!-- Heretical Tech -->
+<OG_Chaos_Tech_Base_T2.label>Heretical Tech</OG_Chaos_Tech_Base_T2.label>
+                              <!-- Allows you to create more Heretical technology -->
+<OG_Chaos_Tech_Base_T2.description>Allows you to create more Heretical technology</OG_Chaos_Tech_Base_T2.description>
+                        <!-- Grand Heresy -->
+<OG_Chaos_Tech_Base_T3.label>Grand Heresy</OG_Chaos_Tech_Base_T3.label>
+                              <!-- Allows you to create advanced warpspawned technology -->
+<OG_Chaos_Tech_Base_T3.description>Allows you to create advanced warpspawned technology</OG_Chaos_Tech_Base_T3.description>
+
+</LanguageData>

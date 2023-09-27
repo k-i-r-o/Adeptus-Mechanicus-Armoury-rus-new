@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/AbilityDefs/OG_AMA_Abilities_Grenades.xml-->
+                          <!-- Throw Blind Grenade -->
+<OGI_Ability_ThrowPhoton.label>Throw Blind Grenade</OGI_Ability_ThrowPhoton.label>
+                                <!-- Throws a Blind Grenade. -->
+<OGI_Ability_ThrowPhoton.description>Throws a Blind Grenade.</OGI_Ability_ThrowPhoton.description>
+                        <!-- Throw Frag -->
+<OGI_Ability_ThrowFrag.label>Throw Frag</OGI_Ability_ThrowFrag.label>
+                              <!-- Throws a Frag Grenade. -->
+<OGI_Ability_ThrowFrag.description>Throws a Frag Grenade.</OGI_Ability_ThrowFrag.description>
+                        <!-- Throw Krak -->
+<OGI_Ability_ThrowKrak.label>Throw Krak</OGI_Ability_ThrowKrak.label>
+                              <!-- Throws a Krak Grenade. -->
+<OGI_Ability_ThrowKrak.description>Throws a Krak Grenade.</OGI_Ability_ThrowKrak.description>
+                       <!-- Throw Rad Grenade -->
+<OGI_Ability_ThrowRad.label>Throw Rad Grenade</OGI_Ability_ThrowRad.label>
+                             <!-- Throws a Rad Grenade. -->
+<OGI_Ability_ThrowRad.description>Throws a Rad Grenade.</OGI_Ability_ThrowRad.description>
+                         <!-- Throw Melta -->
+<OGI_Ability_ThrowMelta.label>Throw Melta</OGI_Ability_ThrowMelta.label>
+                               <!-- Throws a Melta Bomb. -->
+<OGI_Ability_ThrowMelta.description>Throws a Melta Bomb.</OGI_Ability_ThrowMelta.description>
+                          <!-- Throw Photon Grenade -->
+<OGT_Ability_ThrowPhoton.label>Throw Photon Grenade</OGT_Ability_ThrowPhoton.label>
+                                <!-- Throws a Photon Grenade. -->
+<OGT_Ability_ThrowPhoton.description>Throws a Photon Grenade.</OGT_Ability_ThrowPhoton.description>
+                           <!-- Launch Photon -->
+<OGT_Ability_LaunchPhoton.label>Launch Photon</OGT_Ability_LaunchPhoton.label>
+                                 <!-- Launches a Photon Grenade. -->
+<OGT_Ability_LaunchPhoton.description>Launches a Photon Grenade.</OGT_Ability_LaunchPhoton.description>
+                       <!-- Throw EMP Grenade -->
+<OGT_Ability_ThrowEMP.label>Throw EMP Grenade</OGT_Ability_ThrowEMP.label>
+                             <!-- Throws an EMP Grenade. -->
+<OGT_Ability_ThrowEMP.description>Throws an EMP Grenade.</OGT_Ability_ThrowEMP.description>
+                          <!-- Throw Plasma Grenade -->
+<OGE_Ability_ThrowPlasma.label>Throw Plasma Grenade</OGE_Ability_ThrowPlasma.label>
+                                <!-- Throws a Plasma Grenade. -->
+<OGE_Ability_ThrowPlasma.description>Throws a Plasma Grenade.</OGE_Ability_ThrowPlasma.description>
+                           <!-- Throw Haywire Grenade -->
+<OGE_Ability_ThrowHaywire.label>Throw Haywire Grenade</OGE_Ability_ThrowHaywire.label>
+                                 <!-- Throws a Haywire Grenade. -->
+<OGE_Ability_ThrowHaywire.description>Throws a Haywire Grenade.</OGE_Ability_ThrowHaywire.description>
+                         <!-- Throw Melta -->
+<OGE_Ability_ThrowMelta.label>Throw Melta</OGE_Ability_ThrowMelta.label>
+                               <!-- Throws a Melta Bomb. -->
+<OGE_Ability_ThrowMelta.description>Throws a Melta Bomb.</OGE_Ability_ThrowMelta.description>
+                                <!-- Throw Hallucinogen Grenade -->
+<OGE_Ability_ThrowHallucinogen.label>Throw Hallucinogen Grenade</OGE_Ability_ThrowHallucinogen.label>
+                                      <!-- Throws a Hallucinogen Grenade. -->
+<OGE_Ability_ThrowHallucinogen.description>Throws a Hallucinogen Grenade.</OGE_Ability_ThrowHallucinogen.description>
+                           <!-- Throw Plasma Grenade -->
+<OGDE_Ability_ThrowPlasma.label>Throw Plasma Grenade</OGDE_Ability_ThrowPlasma.label>
+                                 <!-- Throws a Plasma Grenade. -->
+<OGDE_Ability_ThrowPlasma.description>Throws a Plasma Grenade.</OGDE_Ability_ThrowPlasma.description>
+                            <!-- Throw Haywire Grenade -->
+<OGDE_Ability_ThrowHaywire.label>Throw Haywire Grenade</OGDE_Ability_ThrowHaywire.label>
+                                  <!-- Throws a Haywire Grenade. -->
+<OGDE_Ability_ThrowHaywire.description>Throws a Haywire Grenade.</OGDE_Ability_ThrowHaywire.description>
+                          <!-- Throw Melta -->
+<OGDE_Ability_ThrowMelta.label>Throw Melta</OGDE_Ability_ThrowMelta.label>
+                                <!-- Throws a Melta Bomb. -->
+<OGDE_Ability_ThrowMelta.description>Throws a Melta Bomb.</OGDE_Ability_ThrowMelta.description>
+                        <!-- Lob Frag -->
+<OGO_Ability_ThrowFrag.label>Lob Frag</OGO_Ability_ThrowFrag.label>
+                              <!-- Lobs a Frag Stikkbomb. -->
+<OGO_Ability_ThrowFrag.description>Lobs a Frag Stikkbomb.</OGO_Ability_ThrowFrag.description>
+                        <!-- Lob Krak -->
+<OGO_Ability_ThrowKrak.label>Lob Krak</OGO_Ability_ThrowKrak.label>
+                              <!-- Lobs a Krak Stikkbomb. -->
+<OGO_Ability_ThrowKrak.description>Lobs a Krak Stikkbomb.</OGO_Ability_ThrowKrak.description>
+                         <!-- Lob Tankbusta -->
+<OGO_Ability_ThrowMelta.label>Lob Tankbusta</OGO_Ability_ThrowMelta.label>
+                               <!-- Lobs a Tankbusta Bomb. -->
+<OGO_Ability_ThrowMelta.description>Lobs a Tankbusta Bomb.</OGO_Ability_ThrowMelta.description>
+
+</LanguageData>

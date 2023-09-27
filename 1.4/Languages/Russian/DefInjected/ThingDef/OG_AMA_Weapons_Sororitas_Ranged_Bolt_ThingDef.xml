@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/ThingDefs_Misc/Weapons/OG_AMA_Weapons_Sororitas_Ranged_Bolt.xml-->
+                              <!-- bolter godwyn-deaz (AS) -->
+<OGAS_Gun_BoltGun_GodwynDeaz.label>bolter godwyn-deaz (AS)</OGAS_Gun_BoltGun_GodwynDeaz.label>
+                                    <!-- The Bolter, also called a Boltgun, and its variants are some of the most powerful hand-held ballistic anti-personnel weaponry in use by the military forces of the Imperium of Man. It is a powerful assault weapon that fires explosive kinetic rounds colloquially referred to as bolts capable of ripping through or blowing apart a foe. The Godwyn-Deaz Pattern is a variant used by the Orders Militant of the Adepta Sororitas.
+
+Like the Bolter patterns by the Adeptus Arbites, the Godwyn-Deaz Pattern Bolter can be used without difficulty by normal-sized humans. -->
+<OGAS_Gun_BoltGun_GodwynDeaz.description>The Bolter, also called a Boltgun, and its variants are some of the most powerful hand-held ballistic anti-personnel weaponry in use by the military forces of the Imperium of Man. It is a powerful assault weapon that fires explosive kinetic rounds colloquially referred to as bolts capable of ripping through or blowing apart a foe. The Godwyn-Deaz Pattern is a variant used by the Orders Militant of the Adepta Sororitas.\n\nLike the Bolter patterns by the Adeptus Arbites, the Godwyn-Deaz Pattern Bolter can be used without difficulty by normal-sized humans.</OGAS_Gun_BoltGun_GodwynDeaz.description>
+                                      <!-- stock -->
+<OGAS_Gun_BoltGun_GodwynDeaz.tools.0.label>stock</OGAS_Gun_BoltGun_GodwynDeaz.tools.0.label>
+                                      <!-- barrel -->
+<OGAS_Gun_BoltGun_GodwynDeaz.tools.1.label>barrel</OGAS_Gun_BoltGun_GodwynDeaz.tools.1.label>
+
+</LanguageData>

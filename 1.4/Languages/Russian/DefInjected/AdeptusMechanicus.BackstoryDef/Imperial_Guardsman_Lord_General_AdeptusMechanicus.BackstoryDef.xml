@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/BackstoryDefs/Imperium Backstories/Militarum/Imperial_Guardsman_Lord_General.xml-->
+                                     <!-- imperial guard lord general -->
+<OG_Imperial_Militarum_Lord_General.title>imperial guard lord general</OG_Imperial_Militarum_Lord_General.title>
+                                          <!-- lord general -->
+<OG_Imperial_Militarum_Lord_General.titleShort>lord general</OG_Imperial_Militarum_Lord_General.titleShort>
+                                        <!-- [PAWN_nameDef] had a long career within the Imperial Guard and has reached the rank of Lord General by social engineering as well as proof of conquest. [PAWN_pronoun] answered only to their sector's Warmaster, and the High Lords of Terra.  -->
+<OG_Imperial_Militarum_Lord_General.baseDesc>[PAWN_nameDef] had a long career within the Imperial Guard and has reached the rank of Lord General by social engineering as well as proof of conquest. [PAWN_pronoun] answered only to their sector's Warmaster, and the High Lords of Terra. </OG_Imperial_Militarum_Lord_General.baseDesc>
+
+</LanguageData>

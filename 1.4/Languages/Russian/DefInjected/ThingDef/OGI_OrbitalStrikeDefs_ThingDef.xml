@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/OrdnanceStrikes/OrbitalStrikeDefs/OGI_OrbitalStrikeDefs.xml-->
+                                 <!-- macro cannon shell -->
+<OGI_Bullet_MacroCannonHEStrike.label>macro cannon shell</OGI_Bullet_MacroCannonHEStrike.label>
+                                     <!-- Plasma Bolt -->
+<OGI_Bullet_MacroCannonPlasmaStrike.label>Plasma Bolt</OGI_Bullet_MacroCannonPlasmaStrike.label>
+                         <!-- lance blast -->
+<OGI_Bullet_LanceStrike.label>lance blast</OGI_Bullet_LanceStrike.label>
+                               <!-- A Starship class laser beam which is effective against the more durable alien bodies and stronger types of personal armour. -->
+<OGI_Bullet_LanceStrike.description>A Starship class laser beam which is effective against the more durable alien bodies and stronger types of personal armour.</OGI_Bullet_LanceStrike.description>
+               <!-- glassing beam -->
+<GlassingBeam.label>glassing beam</GlassingBeam.label>
+
+</LanguageData>

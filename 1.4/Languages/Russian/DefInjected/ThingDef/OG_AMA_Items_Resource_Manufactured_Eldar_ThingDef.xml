@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/ThingDefs_Items/OG_AMA_Items_Resource_Manufactured_Eldar.xml-->
+                <!-- psychic circuitry -->
+<OGE_Component.label>psychic circuitry</OGE_Component.label>
+                      <!-- Advanced computing and energy-directing machinery, miniaturized and hardened for the most demanding applications. It incorporates intricate crystalline psychic circuitry, which allows control via the innate psychic abilities that all eldar posses -->
+<OGE_Component.description>Advanced computing and energy-directing machinery, miniaturized and hardened for the most demanding applications. It incorporates intricate crystalline psychic circuitry, which allows control via the innate psychic abilities that all eldar posses</OGE_Component.description>
+                 <!-- wraithbone -->
+<OGE_Wraithbone.label>wraithbone</OGE_Wraithbone.label>
+                       <!-- Wraithbone is a psycho-plastic material that is highly resilient to damage, and capable of limited self-repair. It, and the other building materials of the Eldar, will grow and react more like living tissue than the building materials of other races. -->
+<OGE_Wraithbone.description>Wraithbone is a psycho-plastic material that is highly resilient to damage, and capable of limited self-repair. It, and the other building materials of the Eldar, will grow and react more like living tissue than the building materials of other races.</OGE_Wraithbone.description>
+                  <!-- spirit stones -->
+<OGE_SpiritStone.label>spirit stones</OGE_SpiritStone.label>
+                        <!-- An Eldar Spirit Stone, also known as Waystones, Dreamstones or Tears of Isha are a small, seemingly precious gem carried in a variety of different aesthetically-pleasing settings on an Eldar's chest, used to save their souls from destruction by Slaanesh. -->
+<OGE_SpiritStone.description>An Eldar Spirit Stone, also known as Waystones, Dreamstones or Tears of Isha are a small, seemingly precious gem carried in a variety of different aesthetically-pleasing settings on an Eldar's chest, used to save their souls from destruction by Slaanesh.</OGE_SpiritStone.description>
+
+</LanguageData>

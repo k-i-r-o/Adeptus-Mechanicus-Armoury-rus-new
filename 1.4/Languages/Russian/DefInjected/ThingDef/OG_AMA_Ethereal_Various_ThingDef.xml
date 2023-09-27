@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/ThingDefs_Misc/OG_AMA_Ethereal_Various.xml-->
+                        <!-- jump -->
+<FlyingObject_JumpPack.label>jump</FlyingObject_JumpPack.label>
+                  <!-- tunnel -->
+<OG_AMA_Tunneler.label>tunnel</OG_AMA_Tunneler.label>
+                    <!-- tunnel -->
+<OG_AMA_Teleporter.label>tunnel</OG_AMA_Teleporter.label>
+
+</LanguageData>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/OrdnanceStrikes/AirStrikeDefs/OGI_AirStrikeDefs.xml-->
+                                    <!-- assaultcannon round -->
+<OGU_AirstrikeBullet_AssaultCannon.label>assaultcannon round</OGU_AirstrikeBullet_AssaultCannon.label>
+                                 <!-- autocannon shell -->
+<OGI_AirstrikeBullet_Autocannon.label>autocannon shell</OGI_AirstrikeBullet_Autocannon.label>
+                                 <!-- frag rocket -->
+<OGI_AirstrikeBullet_RocketFrag.label>frag rocket</OGI_AirstrikeBullet_RocketFrag.label>
+                                       <!-- Fragmention rockets have a large blast radius and excel at dealing with light infantry, however they have little effect against vehicals, fortifications or heavily armoured troops. -->
+<OGI_AirstrikeBullet_RocketFrag.description>Fragmention rockets have a large blast radius and excel at dealing with light infantry, however they have little effect against vehicals, fortifications or heavily armoured troops.</OGI_AirstrikeBullet_RocketFrag.description>
+                                 <!-- krak rocket -->
+<OGI_AirstrikeBullet_RocketKrak.label>krak rocket</OGI_AirstrikeBullet_RocketKrak.label>
+                                       <!-- Krak grenades high explovie charge excels at dealing with vehicals, fortifications or heavily armoured troops, however due to their small blast radius they have little effect against large groups of light infantry. -->
+<OGI_AirstrikeBullet_RocketKrak.description>Krak grenades high explovie charge excels at dealing with vehicals, fortifications or heavily armoured troops, however due to their small blast radius they have little effect against large groups of light infantry.</OGI_AirstrikeBullet_RocketKrak.description>
+                                <!-- incendiary bomb -->
+<OGI_BombingRunBomb_Incendiary.label>incendiary bomb</OGI_BombingRunBomb_Incendiary.label>
+
+</LanguageData>

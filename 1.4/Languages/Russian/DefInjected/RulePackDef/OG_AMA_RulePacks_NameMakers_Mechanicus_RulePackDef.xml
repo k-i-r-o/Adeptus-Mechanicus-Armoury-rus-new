@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/RulePackDefs/OG_AMA_RulePacks_NameMakers_Mechanicus.xml-->
+                                             <!-- 
+		<li>r_name-&gt;[Mechanicus_HomeWorld] [Ordinal] Legio</li>
+ -->
+<OG_Mechanicus_NamerFaction.rulePack.rulesStrings>
+		<li>r_name-&gt;[Mechanicus_HomeWorld] [Ordinal] Legio</li>
+</OG_Mechanicus_NamerFaction.rulePack.rulesStrings>
+                                           <!-- 
+		<li>name-&gt;[Mechanicus_Outpost]</li>
+ -->
+<OG_NamerBases_Mechanicus.rulePack.rulesStrings>
+		<li>name-&gt;[Mechanicus_Outpost]</li>
+</OG_NamerBases_Mechanicus.rulePack.rulesStrings>
+                                            <!-- 
+		<li>r_name(p=7)-&gt;[GreekLetter] [SingleDigit]-[Mechanicus_SingleSyllable]</li>
+		<li>r_name(p=7)-&gt;[GreekLetter]-[GreekLetter] [SingleDigit][SingleDigit]</li>
+		<li>r_name(p=7)-&gt;[Mechanicus_SingleSyllable] [Mechanicus_TriSyllable]</li>
+		<li>r_name(p=7)-&gt;[Mechanicus_SingleSyllable] [Mechanicus_QuadSyllable]</li>
+		<li>r_name(p=7)-&gt;[Mechanicus_DualSyllable] [Mechanicus_TriSyllable]</li>
+		<li>r_name(p=7)-&gt;[Mechanicus_DualSyllable] [Mechanicus_QuadSyllable]</li>
+		<li>r_name(p=7)-&gt;[Mechanicus_DualSyllable] [Mechanicus_SingleSyllable]-[Mechanicus_SingleSyllable]</li>
+		<li>r_name(p=7)-&gt;[Mechanicus_TriSyllable] [Mechanicus_SingleSyllable]-[Mechanicus_SingleSyllable]</li>
+		<li>r_name(p=5)-&gt;[Capital]-[Capital] [Capital][SingleDigit][Capital]/[Capital][SingleDigit][Capital]</li>
+		<li>r_name(p=5)-&gt;[Mechanicus_DualSyllable] [SingleDigit][SingleDigit]/[SingleDigit] [Mechanicus_DualSyllable]</li>
+		<li>r_name(p=4)-&gt;[MaleFirst] [MaleSecond]</li>
+		<li>r_name(p=0.2)-&gt;[MaleFirst] `[MaleNick]`</li>
+		<li>r_name(p=0.2)-&gt;[MaleFirst] `[MaleNick]` [MaleSecond]</li>
+ -->
+<OG_NamerPerson_Mechanicus.rulePack.rulesStrings>
+		<li>r_name(p=7)-&gt;[GreekLetter] [SingleDigit]-[Mechanicus_SingleSyllable]</li>
+		<li>r_name(p=7)-&gt;[GreekLetter]-[GreekLetter] [SingleDigit][SingleDigit]</li>
+		<li>r_name(p=7)-&gt;[Mechanicus_SingleSyllable] [Mechanicus_TriSyllable]</li>
+		<li>r_name(p=7)-&gt;[Mechanicus_SingleSyllable] [Mechanicus_QuadSyllable]</li>
+		<li>r_name(p=7)-&gt;[Mechanicus_DualSyllable] [Mechanicus_TriSyllable]</li>
+		<li>r_name(p=7)-&gt;[Mechanicus_DualSyllable] [Mechanicus_QuadSyllable]</li>
+		<li>r_name(p=7)-&gt;[Mechanicus_DualSyllable] [Mechanicus_SingleSyllable]-[Mechanicus_SingleSyllable]</li>
+		<li>r_name(p=7)-&gt;[Mechanicus_TriSyllable] [Mechanicus_SingleSyllable]-[Mechanicus_SingleSyllable]</li>
+		<li>r_name(p=5)-&gt;[Capital]-[Capital] [Capital][SingleDigit][Capital]/[Capital][SingleDigit][Capital]</li>
+		<li>r_name(p=5)-&gt;[Mechanicus_DualSyllable] [SingleDigit][SingleDigit]/[SingleDigit] [Mechanicus_DualSyllable]</li>
+		<li>r_name(p=4)-&gt;[MaleFirst] [MaleSecond]</li>
+		<li>r_name(p=0.2)-&gt;[MaleFirst] `[MaleNick]`</li>
+		<li>r_name(p=0.2)-&gt;[MaleFirst] `[MaleNick]` [MaleSecond]</li>
+</OG_NamerPerson_Mechanicus.rulePack.rulesStrings>
+                                                  <!-- 
+		<li>r_name(p=10)-&gt;[Mechanicus_Name] `[FemaleNick]`</li>
+		<li>r_name(p=7)-&gt;[GreekLetter] [SingleDigit]-[Mechanicus_SingleSyllable]</li>
+		<li>r_name(p=7)-&gt;[GreekLetter]-[GreekLetter] [SingleDigit][SingleDigit]</li>
+		<li>r_name(p=7)-&gt;[Mechanicus_SingleSyllable] [Mechanicus_TriSyllable]</li>
+		<li>r_name(p=7)-&gt;[Mechanicus_SingleSyllable] [Mechanicus_QuadSyllable]</li>
+		<li>r_name(p=7)-&gt;[Mechanicus_DualSyllable] [Mechanicus_TriSyllable]</li>
+		<li>r_name(p=7)-&gt;[Mechanicus_DualSyllable] [Mechanicus_QuadSyllable]</li>
+		<li>r_name(p=7)-&gt;[Mechanicus_DualSyllable] [Mechanicus_SingleSyllable]-[Mechanicus_SingleSyllable]</li>
+		<li>r_name(p=7)-&gt;[Mechanicus_TriSyllable] [Mechanicus_SingleSyllable]-[Mechanicus_SingleSyllable]</li>
+		<li>r_name(p=5)-&gt;[Capital]-[Capital] [Capital][SingleDigit][Capital]/[Capital][SingleDigit][Capital]</li>
+		<li>r_name(p=5)-&gt;[Mechanicus_DualSyllable] [SingleDigit][SingleDigit]/[SingleDigit] [Mechanicus_DualSyllable]</li>
+		<li>r_name(p=4)-&gt;[FemaleFirst] [FemaleSecond]</li>
+		<li>r_name(p=0.2)-&gt;[FemaleFirst] `[FemaleNick]`</li>
+		<li>r_name(p=0.2)-&gt;[FemaleFirst] `[FemaleNick]` [FemaleSecond]</li>
+ -->
+<OG_NamerPersonFemale_Mechanicus.rulePack.rulesStrings>
+		<li>r_name(p=10)-&gt;[Mechanicus_Name] `[FemaleNick]`</li>
+		<li>r_name(p=7)-&gt;[GreekLetter] [SingleDigit]-[Mechanicus_SingleSyllable]</li>
+		<li>r_name(p=7)-&gt;[GreekLetter]-[GreekLetter] [SingleDigit][SingleDigit]</li>
+		<li>r_name(p=7)-&gt;[Mechanicus_SingleSyllable] [Mechanicus_TriSyllable]</li>
+		<li>r_name(p=7)-&gt;[Mechanicus_SingleSyllable] [Mechanicus_QuadSyllable]</li>
+		<li>r_name(p=7)-&gt;[Mechanicus_DualSyllable] [Mechanicus_TriSyllable]</li>
+		<li>r_name(p=7)-&gt;[Mechanicus_DualSyllable] [Mechanicus_QuadSyllable]</li>
+		<li>r_name(p=7)-&gt;[Mechanicus_DualSyllable] [Mechanicus_SingleSyllable]-[Mechanicus_SingleSyllable]</li>
+		<li>r_name(p=7)-&gt;[Mechanicus_TriSyllable] [Mechanicus_SingleSyllable]-[Mechanicus_SingleSyllable]</li>
+		<li>r_name(p=5)-&gt;[Capital]-[Capital] [Capital][SingleDigit][Capital]/[Capital][SingleDigit][Capital]</li>
+		<li>r_name(p=5)-&gt;[Mechanicus_DualSyllable] [SingleDigit][SingleDigit]/[SingleDigit] [Mechanicus_DualSyllable]</li>
+		<li>r_name(p=4)-&gt;[FemaleFirst] [FemaleSecond]</li>
+		<li>r_name(p=0.2)-&gt;[FemaleFirst] `[FemaleNick]`</li>
+		<li>r_name(p=0.2)-&gt;[FemaleFirst] `[FemaleNick]` [FemaleSecond]</li>
+</OG_NamerPersonFemale_Mechanicus.rulePack.rulesStrings>
+                                            <!-- 
+		<li>MaleFirst-&gt;[Mechanicus_Male_First]</li>
+		<li>MaleSecond-&gt;[Mechanicus_Unisex_Last]</li>
+		<li>MaleNick-&gt;[Mechanicus_Male_Nick]</li>
+		<li>MaleNick-&gt;[Mechanicus_Unisex_Nick]</li>
+		<li>FemaleFirst-&gt;[Mechanicus_Female_First]</li>
+		<li>FemaleSecond-&gt;[Mechanicus_Unisex_Last]</li>
+		<li>FemaleNick-&gt;[Mechanicus_Female_Nick]</li>
+		<li>FemaleNick-&gt;[Mechanicus_Unisex_Nick]</li>
+		<li>Mechanicus_Name-&gt;[SingleDigit][SingleDigit]-[Mechanicus_SingleSyllable]</li>
+		<li>Mechanicus_Name-&gt;[Capital][Capital]-[SingleDigit][SingleDigit][SingleDigit]</li>
+		<li>Mechanicus_Name-&gt;[Capital]-[SingleDigit][SingleDigit][SingleDigit]</li>
+		<li>Mechanicus_Name-&gt;[Mechanicus_DualSyllable]-[GreekLetter]-[SingleDigit]</li>
+		<li>Mechanicus_Name-&gt;[Mechanicus_SingleSyllable][Mechanicus_Extra][Mechanicus_DualSyllable]</li>
+		<li>Mechanicus_Name-&gt;[Mechanicus_DualSyllable][Mechanicus_Extra][Mechanicus_SingleSyllable]</li>
+		<li>Mechanicus_Name-&gt;[Mechanicus_TriSyllable][Mechanicus_Extra][Mechanicus_SingleSyllable]</li>
+		<li>Mechanicus_Name-&gt;[Mechanicus_TriSyllable][Mechanicus_Extra][Mechanicus_DualSyllable]</li>
+		<li>Mechanicus_Name-&gt;[Mechanicus_QuadSyllable][Mechanicus_Extra][Mechanicus_SingleSyllable]</li>
+		<li>Mechanicus_Name-&gt;[Mechanicus_QuadSyllable][Mechanicus_Extra][Mechanicus_DualSyllable]</li>
+		<li>Mechanicus_SingleSyllable-&gt;[SingleSyllableA][SingleSyllableB]</li>
+		<li>Mechanicus_DualSyllable-&gt;[DualSyllableA][DualSyllableB]</li>
+		<li>Mechanicus_TriSyllable-&gt;[TriSyllableA][TriSyllableB][TriSyllableC]</li>
+		<li>Mechanicus_QuadSyllable-&gt;[QuadSyllableA][QuadSyllableB][QuadSyllableC][QuadSyllableD]</li>
+		<li>Mechanicus_Extra(p=5)-&gt; </li>
+		<li>Mechanicus_Extra(p=1)-&gt;-</li>
+		<li>Mechanicus_Extra(p=1)-&gt; van </li>
+		<li>Mechanicus_Extra(p=1)-&gt; van der </li>
+		<li>Mechanicus_Title(p=1)-&gt; [TitleA] [TitleB] of the [TitleC] [TitleD]</li>
+ -->
+<OG_NameUtility_Mechanicus.rulePack.rulesStrings>
+		<li>MaleFirst-&gt;[Mechanicus_Male_First]</li>
+		<li>MaleSecond-&gt;[Mechanicus_Unisex_Last]</li>
+		<li>MaleNick-&gt;[Mechanicus_Male_Nick]</li>
+		<li>MaleNick-&gt;[Mechanicus_Unisex_Nick]</li>
+		<li>FemaleFirst-&gt;[Mechanicus_Female_First]</li>
+		<li>FemaleSecond-&gt;[Mechanicus_Unisex_Last]</li>
+		<li>FemaleNick-&gt;[Mechanicus_Female_Nick]</li>
+		<li>FemaleNick-&gt;[Mechanicus_Unisex_Nick]</li>
+		<li>Mechanicus_Name-&gt;[SingleDigit][SingleDigit]-[Mechanicus_SingleSyllable]</li>
+		<li>Mechanicus_Name-&gt;[Capital][Capital]-[SingleDigit][SingleDigit][SingleDigit]</li>
+		<li>Mechanicus_Name-&gt;[Capital]-[SingleDigit][SingleDigit][SingleDigit]</li>
+		<li>Mechanicus_Name-&gt;[Mechanicus_DualSyllable]-[GreekLetter]-[SingleDigit]</li>
+		<li>Mechanicus_Name-&gt;[Mechanicus_SingleSyllable][Mechanicus_Extra][Mechanicus_DualSyllable]</li>
+		<li>Mechanicus_Name-&gt;[Mechanicus_DualSyllable][Mechanicus_Extra][Mechanicus_SingleSyllable]</li>
+		<li>Mechanicus_Name-&gt;[Mechanicus_TriSyllable][Mechanicus_Extra][Mechanicus_SingleSyllable]</li>
+		<li>Mechanicus_Name-&gt;[Mechanicus_TriSyllable][Mechanicus_Extra][Mechanicus_DualSyllable]</li>
+		<li>Mechanicus_Name-&gt;[Mechanicus_QuadSyllable][Mechanicus_Extra][Mechanicus_SingleSyllable]</li>
+		<li>Mechanicus_Name-&gt;[Mechanicus_QuadSyllable][Mechanicus_Extra][Mechanicus_DualSyllable]</li>
+		<li>Mechanicus_SingleSyllable-&gt;[SingleSyllableA][SingleSyllableB]</li>
+		<li>Mechanicus_DualSyllable-&gt;[DualSyllableA][DualSyllableB]</li>
+		<li>Mechanicus_TriSyllable-&gt;[TriSyllableA][TriSyllableB][TriSyllableC]</li>
+		<li>Mechanicus_QuadSyllable-&gt;[QuadSyllableA][QuadSyllableB][QuadSyllableC][QuadSyllableD]</li>
+		<li>Mechanicus_Extra(p=5)-&gt; </li>
+		<li>Mechanicus_Extra(p=1)-&gt;-</li>
+		<li>Mechanicus_Extra(p=1)-&gt; van </li>
+		<li>Mechanicus_Extra(p=1)-&gt; van der </li>
+		<li>Mechanicus_Title(p=1)-&gt; [TitleA] [TitleB] of the [TitleC] [TitleD]</li>
+</OG_NameUtility_Mechanicus.rulePack.rulesStrings>
+                                          <!-- 
+		<li>Mechanicus_HomeWorld-&gt;NameBanks/OG_Imperial_Names_ForgeWorlds</li>
+		<li>Mechanicus_Outpost-&gt;NameBanks/OG_Imperial_Names_Outpost</li>
+		<li>Mechanicus_Male_First-&gt;NameBanks/OG_Imperial_Mechanicus_Names_First_Male</li>
+		<li>Mechanicus_Male_Nick-&gt;NameBanks/OG_Imperial_Mechanicus_Names_Nick_Male</li>
+		<li>Mechanicus_Female_First-&gt;NameBanks/OG_Imperial_Mechanicus_Names_First_Female</li>
+		<li>Mechanicus_Female_Nick-&gt;NameBanks/OG_Imperial_Mechanicus_Names_Nick_Female</li>
+		<li>Mechanicus_Unisex_Nick-&gt;NameBanks/OG_Imperial_Mechanicus_Names_Nick_Unisex</li>
+		<li>Mechanicus_Unisex_Last-&gt;NameBanks/OG_Imperial_Mechanicus_Names_Last_Unisex</li>
+		<li>SingleSyllableA-&gt;NameBanks/OG_Imperial_Mechanicus_Names_Syllable_A</li>
+		<li>SingleSyllableB-&gt;NameBanks/OG_Imperial_Mechanicus_Names_Syllable_B</li>
+		<li>DualSyllableA-&gt;NameBanks/OG_Imperial_Mechanicus_Names_SyllableDual_A</li>
+		<li>DualSyllableB-&gt;NameBanks/OG_Imperial_Mechanicus_Names_SyllableDual_B</li>
+		<li>TriSyllableA-&gt;NameBanks/OG_Imperial_Mechanicus_Names_SyllableTri_A</li>
+		<li>TriSyllableB-&gt;NameBanks/OG_Imperial_Mechanicus_Names_SyllableTri_B</li>
+		<li>TriSyllableC-&gt;NameBanks/OG_Imperial_Mechanicus_Names_SyllableTri_C</li>
+		<li>QuadSyllableA-&gt;NameBanks/OG_Imperial_Mechanicus_Names_SyllableQuad_A</li>
+		<li>QuadSyllableB-&gt;NameBanks/OG_Imperial_Mechanicus_Names_SyllableQuad_B</li>
+		<li>QuadSyllableC-&gt;NameBanks/OG_Imperial_Mechanicus_Names_SyllableQuad_C</li>
+		<li>QuadSyllableD-&gt;NameBanks/OG_Imperial_Mechanicus_Names_SyllableQuad_D</li>
+		<li>TitleA-&gt;NameBanks/OG_Imperial_Mechanicus_Title_A</li>
+		<li>TitleB-&gt;NameBanks/OG_Imperial_Mechanicus_Title_B</li>
+		<li>TitleC-&gt;NameBanks/OG_Imperial_Mechanicus_Title_C</li>
+		<li>TitleD-&gt;NameBanks/OG_Imperial_Mechanicus_Title_D</li>
+		<li>CapitalLetter-&gt;WordParts/CapitalLetters</li>
+		<li>SingleDigit-&gt;WordParts/SingleDigit</li>
+		<li>GreekLetter-&gt;WordParts/GreekLetters</li>
+ -->
+<OG_NameUtility_Mechanicus.rulePack.rulesFiles>
+		<li>Mechanicus_HomeWorld-&gt;NameBanks/OG_Imperial_Names_ForgeWorlds</li>
+		<li>Mechanicus_Outpost-&gt;NameBanks/OG_Imperial_Names_Outpost</li>
+		<li>Mechanicus_Male_First-&gt;NameBanks/OG_Imperial_Mechanicus_Names_First_Male</li>
+		<li>Mechanicus_Male_Nick-&gt;NameBanks/OG_Imperial_Mechanicus_Names_Nick_Male</li>
+		<li>Mechanicus_Female_First-&gt;NameBanks/OG_Imperial_Mechanicus_Names_First_Female</li>
+		<li>Mechanicus_Female_Nick-&gt;NameBanks/OG_Imperial_Mechanicus_Names_Nick_Female</li>
+		<li>Mechanicus_Unisex_Nick-&gt;NameBanks/OG_Imperial_Mechanicus_Names_Nick_Unisex</li>
+		<li>Mechanicus_Unisex_Last-&gt;NameBanks/OG_Imperial_Mechanicus_Names_Last_Unisex</li>
+		<li>SingleSyllableA-&gt;NameBanks/OG_Imperial_Mechanicus_Names_Syllable_A</li>
+		<li>SingleSyllableB-&gt;NameBanks/OG_Imperial_Mechanicus_Names_Syllable_B</li>
+		<li>DualSyllableA-&gt;NameBanks/OG_Imperial_Mechanicus_Names_SyllableDual_A</li>
+		<li>DualSyllableB-&gt;NameBanks/OG_Imperial_Mechanicus_Names_SyllableDual_B</li>
+		<li>TriSyllableA-&gt;NameBanks/OG_Imperial_Mechanicus_Names_SyllableTri_A</li>
+		<li>TriSyllableB-&gt;NameBanks/OG_Imperial_Mechanicus_Names_SyllableTri_B</li>
+		<li>TriSyllableC-&gt;NameBanks/OG_Imperial_Mechanicus_Names_SyllableTri_C</li>
+		<li>QuadSyllableA-&gt;NameBanks/OG_Imperial_Mechanicus_Names_SyllableQuad_A</li>
+		<li>QuadSyllableB-&gt;NameBanks/OG_Imperial_Mechanicus_Names_SyllableQuad_B</li>
+		<li>QuadSyllableC-&gt;NameBanks/OG_Imperial_Mechanicus_Names_SyllableQuad_C</li>
+		<li>QuadSyllableD-&gt;NameBanks/OG_Imperial_Mechanicus_Names_SyllableQuad_D</li>
+		<li>TitleA-&gt;NameBanks/OG_Imperial_Mechanicus_Title_A</li>
+		<li>TitleB-&gt;NameBanks/OG_Imperial_Mechanicus_Title_B</li>
+		<li>TitleC-&gt;NameBanks/OG_Imperial_Mechanicus_Title_C</li>
+		<li>TitleD-&gt;NameBanks/OG_Imperial_Mechanicus_Title_D</li>
+		<li>CapitalLetter-&gt;WordParts/CapitalLetters</li>
+		<li>SingleDigit-&gt;WordParts/SingleDigit</li>
+		<li>GreekLetter-&gt;WordParts/GreekLetters</li>
+</OG_NameUtility_Mechanicus.rulePack.rulesFiles>
+                                                 <!-- 
+		<li>memeLeaderNoun(priority=1)-&gt;[cultureLeaderNoun]</li>
+		<li>cultureLeaderTitle-&gt;[cultureLeaderAdjective] [cultureLeaderNoun]</li>
+		<li>cultureLeaderAdjective-&gt;high</li>
+		<li>cultureLeaderAdjective-&gt;grand</li>
+		<li>cultureLeaderAdjective-&gt;lord</li>
+		<li>cultureLeaderNoun-&gt;magos</li>
+		<li>cultureLeaderNoun-&gt;archmagos</li>
+		<li>cultureLeaderNoun-&gt;marshal</li>
+		<li>cultureLeaderNoun-&gt;governor</li>
+ -->
+<OG_LeaderTitleMaker_Mechanicus.rulePack.rulesStrings>
+		<li>memeLeaderNoun(priority=1)-&gt;[cultureLeaderNoun]</li>
+		<li>cultureLeaderTitle-&gt;[cultureLeaderAdjective] [cultureLeaderNoun]</li>
+		<li>cultureLeaderAdjective-&gt;high</li>
+		<li>cultureLeaderAdjective-&gt;grand</li>
+		<li>cultureLeaderAdjective-&gt;lord</li>
+		<li>cultureLeaderNoun-&gt;magos</li>
+		<li>cultureLeaderNoun-&gt;archmagos</li>
+		<li>cultureLeaderNoun-&gt;marshal</li>
+		<li>cultureLeaderNoun-&gt;governor</li>
+</OG_LeaderTitleMaker_Mechanicus.rulePack.rulesStrings>
+                                          <!-- 
+		<li>r_deityName-&gt;The Omnissiah</li>
+		<li>r_deityName-&gt;The Machine God</li>
+		<li>r_deityName-&gt;Deus Mechanicus</li>
+ -->
+<OG_NamerDeity_Omnissiah.rulePack.rulesStrings>
+		<li>r_deityName-&gt;The Omnissiah</li>
+		<li>r_deityName-&gt;The Machine God</li>
+		<li>r_deityName-&gt;Deus Mechanicus</li>
+</OG_NamerDeity_Omnissiah.rulePack.rulesStrings>
+                                              <!-- 
+		<li>r_deityType-&gt;The Machine God</li>
+ -->
+<OG_DeityTypeMaker_Omnissiah.rulePack.rulesStrings>
+		<li>r_deityType-&gt;The Machine God</li>
+</OG_DeityTypeMaker_Omnissiah.rulePack.rulesStrings>
+                                                    <!-- 
+		<li>festivalName(p=2)-&gt;[memeAdjective] [festival]</li>
+		<li>festivalName-&gt;[festival] of [chosenTheme]</li>
+		<li>festivalName-&gt;[chosenAdjective] [festival]</li>
+		<li>festivalName-&gt;[keyDeity]'s [festival]</li>
+		<li>festivalName-&gt;[festival] of [keyDeity]</li>
+		<li>festivalName-&gt;[festival] of [memeConcept]</li>
+		<li>festivalName-&gt;[festival] of [chosenIdeoName]</li>
+		<li>festival-&gt;festival</li>
+		<li>festival-&gt;celebration</li>
+		<li>festival-&gt;party</li>
+		<li>festival-&gt;advent</li>
+		<li>festival-&gt;fair</li>
+		<li>festival-&gt;jubilee</li>
+		<li>festival-&gt;fiesta</li>
+ -->
+<OG_NamerFestivalGlobal_Mechanicus.rulePack.rulesStrings>
+		<li>festivalName(p=2)-&gt;[memeAdjective] [festival]</li>
+		<li>festivalName-&gt;[festival] of [chosenTheme]</li>
+		<li>festivalName-&gt;[chosenAdjective] [festival]</li>
+		<li>festivalName-&gt;[keyDeity]'s [festival]</li>
+		<li>festivalName-&gt;[festival] of [keyDeity]</li>
+		<li>festivalName-&gt;[festival] of [memeConcept]</li>
+		<li>festivalName-&gt;[festival] of [chosenIdeoName]</li>
+		<li>festival-&gt;festival</li>
+		<li>festival-&gt;celebration</li>
+		<li>festival-&gt;party</li>
+		<li>festival-&gt;advent</li>
+		<li>festival-&gt;fair</li>
+		<li>festival-&gt;jubilee</li>
+		<li>festival-&gt;fiesta</li>
+</OG_NamerFestivalGlobal_Mechanicus.rulePack.rulesStrings>
+                                                   <!-- 
+		<li>r_ritualName(p=2)-&gt;[memeAdjective] [funeral]</li>
+		<li>r_ritualName-&gt;[funeral] of [chosenTheme]</li>
+		<li>r_ritualName-&gt;[chosenAdjective] [funeral]</li>
+		<li>r_ritualName-&gt;[keyDeity]'s [funeral]</li>
+		<li>r_ritualName-&gt;[funeral] of [keyDeity]</li>
+		<li>r_ritualName-&gt;[funeral] of [memeConcept]</li>
+		<li>r_ritualName-&gt;[funeral] of [chosenIdeoName]</li>
+		<li>funeral-&gt;funeral</li>
+		<li>funeral-&gt;mourning</li>
+		<li>funeral-&gt;eulogy</li>
+		<li>funeral-&gt;burial</li>
+		<li>funeral-&gt;interment</li>
+		<li>funeral-&gt;inhumation</li>
+		<li>funeral-&gt;requiem</li>
+		<li>funeral-&gt;sepulture</li>
+ -->
+<OG_NamerRitualFuneral_Mechanicus.rulePack.rulesStrings>
+		<li>r_ritualName(p=2)-&gt;[memeAdjective] [funeral]</li>
+		<li>r_ritualName-&gt;[funeral] of [chosenTheme]</li>
+		<li>r_ritualName-&gt;[chosenAdjective] [funeral]</li>
+		<li>r_ritualName-&gt;[keyDeity]'s [funeral]</li>
+		<li>r_ritualName-&gt;[funeral] of [keyDeity]</li>
+		<li>r_ritualName-&gt;[funeral] of [memeConcept]</li>
+		<li>r_ritualName-&gt;[funeral] of [chosenIdeoName]</li>
+		<li>funeral-&gt;funeral</li>
+		<li>funeral-&gt;mourning</li>
+		<li>funeral-&gt;eulogy</li>
+		<li>funeral-&gt;burial</li>
+		<li>funeral-&gt;interment</li>
+		<li>funeral-&gt;inhumation</li>
+		<li>funeral-&gt;requiem</li>
+		<li>funeral-&gt;sepulture</li>
+</OG_NamerRitualFuneral_Mechanicus.rulePack.rulesStrings>
+
+</LanguageData>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/BackstoryDefs/Imperium Backstories/Mechanicus/TechPriest.xml-->
+                                    <!-- [PAWN_pronoun] is an artisan, tasked with overseeing major construction sites. -->
+<OG_Imperial_Mechanicus_Artisan.baseDesc>[PAWN_pronoun] is an artisan, tasked with overseeing major construction sites.</OG_Imperial_Mechanicus_Artisan.baseDesc>
+                                        <!-- [PAWN_pronoun] is a lexmechanic, a low rank in the Mechanicum, tasked with data management. -->
+<OG_Imperial_Mechanicus_Lexmechanic.baseDesc>[PAWN_pronoun] is a lexmechanic, a low rank in the Mechanicum, tasked with data management.</OG_Imperial_Mechanicus_Lexmechanic.baseDesc>
+                                          <!-- [PAWN_pronoun] is a tramechanic, a low rank in the Mechanicum, specialized in communication technology. -->
+<OG_Imperial_Mechanicus_Transmechanic.baseDesc>[PAWN_pronoun] is a tramechanic, a low rank in the Mechanicum, specialized in communication technology.</OG_Imperial_Mechanicus_Transmechanic.baseDesc>
+                                      <!-- [PAWN_pronoun] is a Enginseer, dedicated to the maintenance of technology. -->
+<OG_Imperial_Mechanicus_Enginseer.baseDesc>[PAWN_pronoun] is a Enginseer, dedicated to the maintenance of technology.</OG_Imperial_Mechanicus_Enginseer.baseDesc>
+                                  <!-- [PAWN_pronoun] is a Logis, a highly specialized mathematician. -->
+<OG_Imperial_Mechanicus_Logis.baseDesc>[PAWN_pronoun] is a Logis, a highly specialized mathematician.</OG_Imperial_Mechanicus_Logis.baseDesc>
+
+</LanguageData>

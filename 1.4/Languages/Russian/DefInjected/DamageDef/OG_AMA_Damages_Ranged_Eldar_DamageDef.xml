@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/DamageDefs/OG_AMA_Damages_Ranged_Eldar.xml-->
+                               <!-- Warp Rift Blast -->
+<OG_E_Distortion_Damage_Blast.label>Warp Rift Blast</OG_E_Distortion_Damage_Blast.label>
+                                      <!-- {0} was lost to the warp. -->
+<OG_E_Distortion_Damage_Blast.deathMessage>{0} was lost to the warp.</OG_E_Distortion_Damage_Blast.deathMessage>
+
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/OrdnanceStrikes/AirStrikeDefs/OGDE_AirStrikeDefs.xml-->
+                                     <!-- Splinter -->
+<OGDE_AirstrikeBullet_SplinterRifle.label>Splinter</OGDE_AirstrikeBullet_SplinterRifle.label>
+                                      <!-- large splinter -->
+<OGDE_AirstrikeBullet_SplinterCannon.label>large splinter</OGDE_AirstrikeBullet_SplinterCannon.label>
+                                           <!-- Disintegrator Bolt -->
+<OGDE_AirstrikeBullet_DisintegratorCannon.label>Disintegrator Bolt</OGDE_AirstrikeBullet_DisintegratorCannon.label>
+                                 <!-- darklight beam -->
+<OGDE_AirstrikeBullet_Darklance.label>darklight beam</OGDE_AirstrikeBullet_Darklance.label>
+
+</LanguageData>

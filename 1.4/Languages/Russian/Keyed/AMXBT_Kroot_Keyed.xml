@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Xenobiologis Playable Kroot Mod -->
+  <AdeptusMechanicus.Kroot.ModName>Kroot</AdeptusMechanicus.Kroot.ModName>
+  <AdeptusMechanicus.Kroot.Genetic_Absorb_Add>{0} gained the {1} trait from {2}'s corpse</AdeptusMechanicus.Kroot.Genetic_Absorb_Add>
+  <AdeptusMechanicus.Kroot.Genetic_Absorb_Replace>{0} gained the {1} trait from {2}'s corpse, it replaced their {3} trait</AdeptusMechanicus.Kroot.Genetic_Absorb_Replace>
+
+</LanguageData>

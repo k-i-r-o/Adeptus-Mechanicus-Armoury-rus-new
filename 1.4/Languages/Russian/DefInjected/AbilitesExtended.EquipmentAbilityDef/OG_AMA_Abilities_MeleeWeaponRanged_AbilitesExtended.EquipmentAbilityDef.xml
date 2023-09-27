@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/AbilityDefs/OG_AMA_Abilities_MeleeWeaponRanged.xml-->
+                         <!-- Fire Bolter -->
+<OGI_Ability_FireBolter.label>Fire Bolter</OGI_Ability_FireBolter.label>
+                               <!-- Fire built in Bolter. -->
+<OGI_Ability_FireBolter.description>Fire built in Bolter.</OGI_Ability_FireBolter.description>
+                           <!-- Fire Shuriken Catapult -->
+<OGE_Ability_FireShuriken.label>Fire Shuriken Catapult</OGE_Ability_FireShuriken.label>
+                                 <!-- Fire built in Shuriken Catapult. -->
+<OGE_Ability_FireShuriken.description>Fire built in Shuriken Catapult.</OGE_Ability_FireShuriken.description>
+                                <!-- Throw Singing Spear -->
+<OGE_Ability_ThrowSingingSpear.label>Throw Singing Spear</OGE_Ability_ThrowSingingSpear.label>
+                                      <!-- Throw the Singing Spear. -->
+<OGE_Ability_ThrowSingingSpear.description>Throw the Singing Spear.</OGE_Ability_ThrowSingingSpear.description>
+                            <!-- Fire Splinter Rifle -->
+<OGDE_Ability_FireSplinter.label>Fire Splinter Rifle</OGDE_Ability_FireSplinter.label>
+                                  <!-- Fire built in Splinter Rifle. -->
+<OGDE_Ability_FireSplinter.description>Fire built in Splinter Rifle.</OGDE_Ability_FireSplinter.description>
+
+</LanguageData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/BackstoryDefs/Imperium Backstories/Sororitas/Sororitas_Sister_Veteran.xml-->
+                                       <!-- Veteran Sister -->
+<OG_Imperial_Sororitas_Sister_Veteran.title>Veteran Sister</OG_Imperial_Sororitas_Sister_Veteran.title>
+                                          <!-- [PAWN_nameDef] is a distinguished veteran of several campaigns and has earned the right to lead the most skilled Sisters into battle. Her mere presence inspires her sisters onto greater acts of violent worship. -->
+<OG_Imperial_Sororitas_Sister_Veteran.baseDesc>[PAWN_nameDef] is a distinguished veteran of several campaigns and has earned the right to lead the most skilled Sisters into battle. Her mere presence inspires her sisters onto greater acts of violent worship.</OG_Imperial_Sororitas_Sister_Veteran.baseDesc>
+
+</LanguageData>

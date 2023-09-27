@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/ResearchProjectDefs/OG_AMA_Common_Research.xml-->
+                                 <!-- Power Weapons -->
+<OG_Common_Tech_Weapons_Powered.label>Power Weapons</OG_Common_Tech_Weapons_Powered.label>
+                                       <!-- Allows the creation of basic Power Weapons.
+Attacks made by power weapons ignore all armour. -->
+<OG_Common_Tech_Weapons_Powered.description>Allows the creation of basic Power Weapons.\nAttacks made by power weapons ignore all armour.</OG_Common_Tech_Weapons_Powered.description>
+                                         <!-- Special Power Weapons -->
+<OG_Common_Tech_Weapons_Powered_Special.label>Special Power Weapons</OG_Common_Tech_Weapons_Powered_Special.label>
+                                               <!-- Allows the creation of Power Weapons with additional effects. -->
+<OG_Common_Tech_Weapons_Powered_Special.description>Allows the creation of Power Weapons with additional effects.</OG_Common_Tech_Weapons_Powered_Special.description>
+                               <!-- Force Weapons -->
+<OG_Common_Tech_Weapons_Force.label>Force Weapons</OG_Common_Tech_Weapons_Force.label>
+                                     <!-- Force Weapons are advanced, psychically-attuned close combat weapons that are only effective in the hands of a psyker. Force Weapons effectively act as deadly, psychic extensions or amplifiers of the wielder's own Empyrean-spawned powers. They are designed to allow a psyker to channel deadly Warp energies into their victim, acting as a conduit between the wielder's mind and the flesh of his target. Large alien monstrosities and daemons that are resilient to conventional weapons can be slain outright by a single wound from a Force Weapon, as their bodies and minds are destroyed by the unearthly powers of the Immaterium. -->
+<OG_Common_Tech_Weapons_Force.description>Force Weapons are advanced, psychically-attuned close combat weapons that are only effective in the hands of a psyker. Force Weapons effectively act as deadly, psychic extensions or amplifiers of the wielder's own Empyrean-spawned powers. They are designed to allow a psyker to channel deadly Warp energies into their victim, acting as a conduit between the wielder's mind and the flesh of his target. Large alien monstrosities and daemons that are resilient to conventional weapons can be slain outright by a single wound from a Force Weapon, as their bodies and minds are destroyed by the unearthly powers of the Immaterium.</OG_Common_Tech_Weapons_Force.description>
+                                 <!-- Special Weapons -->
+<OG_Common_Tech_Weapons_Special.label>Special Weapons</OG_Common_Tech_Weapons_Special.label>
+                                       <!-- Allows you to Research Special Weapons -->
+<OG_Common_Tech_Weapons_Special.description>Allows you to Research Special Weapons</OG_Common_Tech_Weapons_Special.description>
+                               <!-- Heavy Weapons -->
+<OG_Common_Tech_Weapons_Heavy.label>Heavy Weapons</OG_Common_Tech_Weapons_Heavy.label>
+                                     <!-- Allows you to create basic Heavy Weapons -->
+<OG_Common_Tech_Weapons_Heavy.description>Allows you to create basic Heavy Weapons</OG_Common_Tech_Weapons_Heavy.description>
+                               <!-- Flame Weapons -->
+<OG_Common_Tech_Weapons_Flame.label>Flame Weapons</OG_Common_Tech_Weapons_Flame.label>
+                                     <!-- An age old principle Flamer Weapons are flamethrower weapons, capable of unleashing a liquid incendiary chemical that bursts into flames as it leaves the weapon.
+Flame-based weapons are used by several of the intelligent races and their militaries across the Milky Way Galaxy, and are valued for their ability to destroy many enemies at once with a burst of expanding flame, regardless of any protective cover they possess., some variety of Flame based weapons are used by most races in the galaxy, from Imperial Flamers to Orkish Burnaz, even the Tau and Eldar make use of similar weapons. -->
+<OG_Common_Tech_Weapons_Flame.description>An age old principle Flamer Weapons are flamethrower weapons, capable of unleashing a liquid incendiary chemical that bursts into flames as it leaves the weapon.\nFlame-based weapons are used by several of the intelligent races and their militaries across the Milky Way Galaxy, and are valued for their ability to destroy many enemies at once with a burst of expanding flame, regardless of any protective cover they possess., some variety of Flame based weapons are used by most races in the galaxy, from Imperial Flamers to Orkish Burnaz, even the Tau and Eldar make use of similar weapons.</OG_Common_Tech_Weapons_Flame.description>
+                               <!-- Laser Weapons -->
+<OG_Common_Tech_Weapons_Laser.label>Laser Weapons</OG_Common_Tech_Weapons_Laser.label>
+                                     <!-- Laser Weapons, or Las Weapons as they are known in the Imperium of Man, are a family of directed energy weapons that produce beams of high-intensity amplified light to produce heat damage on a target. Laser Weapons are relatively easy to produce and maintain. No solid ammunition is ever used -- only power cells which can be recharged and quickly swapped when depleted with another fully-charged power cell. This makes them ideal for large troop formations like the Astra Militarum. -->
+<OG_Common_Tech_Weapons_Laser.description>Laser Weapons, or Las Weapons as they are known in the Imperium of Man, are a family of directed energy weapons that produce beams of high-intensity amplified light to produce heat damage on a target. Laser Weapons are relatively easy to produce and maintain. No solid ammunition is ever used -- only power cells which can be recharged and quickly swapped when depleted with another fully-charged power cell. This makes them ideal for large troop formations like the Astra Militarum.</OG_Common_Tech_Weapons_Laser.description>
+                                 <!-- Haywire Tech -->
+<OG_Common_Tech_Weapons_Haywire.label>Haywire Tech</OG_Common_Tech_Weapons_Haywire.label>
+                                       <!-- When fired Haywire based weapons cause crackling blasts of electromagnetic energy leap from the projector with every shot. Capable of scrambling even the most robust electrical systems, a single hit from such a weapon can leave enemy tanks and aircraft powerles. -->
+<OG_Common_Tech_Weapons_Haywire.description>When fired Haywire based weapons cause crackling blasts of electromagnetic energy leap from the projector with every shot. Capable of scrambling even the most robust electrical systems, a single hit from such a weapon can leave enemy tanks and aircraft powerles.</OG_Common_Tech_Weapons_Haywire.description>
+                                <!-- Plasma Weapons -->
+<OG_Common_Tech_Weapons_Plasma.label>Plasma Weapons</OG_Common_Tech_Weapons_Plasma.label>
+                                      <!-- Plasma Weapons are highly potent and destructive directed energy weapons utilised in many forms by the advanced intelligent races of the Milky Way Galaxy. Most Plasma Weapons work by delivering pulses of searing energy and superheated matter that have been transmuted into a gaseous plasma state that carries an electrical charge. The plasma "bolts" fired by these weapons explode on impact and generate the destructive heat of a small sun, and the sheer amount of energy released by the impact of superheated plasma is often enough to completely vaporise the target.
+
+Imperial Plasma weapons are prone to Overheating (Gets Hot!) -->
+<OG_Common_Tech_Weapons_Plasma.description>Plasma Weapons are highly potent and destructive directed energy weapons utilised in many forms by the advanced intelligent races of the Milky Way Galaxy. Most Plasma Weapons work by delivering pulses of searing energy and superheated matter that have been transmuted into a gaseous plasma state that carries an electrical charge. The plasma "bolts" fired by these weapons explode on impact and generate the destructive heat of a small sun, and the sheer amount of energy released by the impact of superheated plasma is often enough to completely vaporise the target.\n\nImperial Plasma weapons are prone to Overheating (Gets Hot!)</OG_Common_Tech_Weapons_Plasma.description>
+                               <!-- Melta Tech -->
+<OG_Common_Tech_Weapons_Melta.label>Melta Tech</OG_Common_Tech_Weapons_Melta.label>
+                                     <!-- Melta Weapons are a type of thermal weapon that make use of a sub-atomic reaction in a chemical fuel source to produce a tightly-focused beam of intense, searing heat. The Imperial Meltagun and Multi-Melta (also known as "Cookers" or "Vape Guns"), as well as the grenade-like Melta Bomb, are formidable directed energy weapons. Melta Weapons have a short range but are very powerful and their thermal blast's intensity increases as the distance to the target decreases. A Meltagun works by inducing a minute, sub-molecular reaction within a highly-pressurised pyrum-petrol fuel mix located within an ammunition canister, and then projecting the resulting plasma through the canister and from the weapon's barrel as a blast of incredible heat. -->
+<OG_Common_Tech_Weapons_Melta.description>Melta Weapons are a type of thermal weapon that make use of a sub-atomic reaction in a chemical fuel source to produce a tightly-focused beam of intense, searing heat. The Imperial Meltagun and Multi-Melta (also known as "Cookers" or "Vape Guns"), as well as the grenade-like Melta Bomb, are formidable directed energy weapons. Melta Weapons have a short range but are very powerful and their thermal blast's intensity increases as the distance to the target decreases. A Meltagun works by inducing a minute, sub-molecular reaction within a highly-pressurised pyrum-petrol fuel mix located within an ammunition canister, and then projecting the resulting plasma through the canister and from the weapon's barrel as a blast of incredible heat.</OG_Common_Tech_Weapons_Melta.description>
+                               <!-- Sonic Weaponry -->
+<OG_Common_Tech_Weapons_Sonic.label>Sonic Weaponry</OG_Common_Tech_Weapons_Sonic.label>
+                                     <!-- Allows you to create Sonic weaponry -->
+<OG_Common_Tech_Weapons_Sonic.description>Allows you to create Sonic weaponry</OG_Common_Tech_Weapons_Sonic.description>
+
+</LanguageData>

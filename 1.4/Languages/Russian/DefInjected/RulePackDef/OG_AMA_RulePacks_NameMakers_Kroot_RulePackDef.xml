@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/RulePackDefs/OG_AMA_RulePacks_NameMakers_Kroot.xml-->
+                                      <!-- 
+		<li>name-&gt;[OG_NameKrootKindredWorlds] [OG_NameKrootBaseNamesA][OG_NameKrootBaseNamesB] [OG_NameKrootKindredTypes]</li>
+ -->
+<NamerOGKrootFaction.rulePack.rulesStrings>
+		<li>name-&gt;[OG_NameKrootKindredWorlds] [OG_NameKrootBaseNamesA][OG_NameKrootBaseNamesB] [OG_NameKrootKindredTypes]</li>
+</NamerOGKrootFaction.rulePack.rulesStrings>
+                                    <!-- 
+		<li>name-&gt;[OG_NameKrootBaseTypes] [OG_NameKrootBaseNamesA][OG_NameKrootBaseNamesB]</li>
+ -->
+<NamerOGKrootBases.rulePack.rulesStrings>
+		<li>name-&gt;[OG_NameKrootBaseTypes] [OG_NameKrootBaseNamesA][OG_NameKrootBaseNamesB]</li>
+</NamerOGKrootBases.rulePack.rulesStrings>
+                                       <!-- 
+		<li>name-&gt;[KrootName] [OG_Unisexlastname]</li>
+		<li>name-&gt;[KrootName] '[nickname]' [OG_Unisexlastname]</li>
+		<li>OG_Unisexlastname(p=3)-&gt;[OG_NameKrootSurA][OG_NameKrootSurB]</li>
+		<li>OG_Unisexlastname(p=2)-&gt;[WordKroot]</li>
+		<li>nickname(p=3)-&gt;[OG_NameKrootNickA][OG_NameKrootNickB]</li>
+ -->
+<OG_Kroot_NamerPerson.rulePack.rulesStrings>
+		<li>name-&gt;[KrootName] [OG_Unisexlastname]</li>
+		<li>name-&gt;[KrootName] '[nickname]' [OG_Unisexlastname]</li>
+		<li>OG_Unisexlastname(p=3)-&gt;[OG_NameKrootSurA][OG_NameKrootSurB]</li>
+		<li>OG_Unisexlastname(p=2)-&gt;[WordKroot]</li>
+		<li>nickname(p=3)-&gt;[OG_NameKrootNickA][OG_NameKrootNickB]</li>
+</OG_Kroot_NamerPerson.rulePack.rulesStrings>
+                                       <!-- 
+		<li>KrootName(p=4)-&gt;[SylK_1][SylK_2][SylK_3][SylK_4][SylK_6]</li>
+		<li>KrootName(p=3)-&gt;[SylK_1][SylK_2][SylK_3][SylK_4][SylK_7][SylK_5][SylK_6]</li>
+		<li>KrootName(p=2)-&gt;[SylK_1][SylK_2][SylK_3][SylK_4][SylK_6]-[SylK_1][SylK_2][SylK_6]</li>
+		<li>KrootName(p=1)-&gt;[SylK_1][SylK_2][SylK_6]-[SylK_1][SylK_2][SylK_3][SylK_4][SylK_6]</li>
+		<li>WordKroot(p=3)-&gt;[SylG]'[SylE]-[SylG]</li>
+		<li>WordKroot(p=2)-&gt;[SylG]'[SylG][SylE]-[SylG]</li>
+ -->
+<OG_Kroot_NameUtility.rulePack.rulesStrings>
+		<li>KrootName(p=4)-&gt;[SylK_1][SylK_2][SylK_3][SylK_4][SylK_6]</li>
+		<li>KrootName(p=3)-&gt;[SylK_1][SylK_2][SylK_3][SylK_4][SylK_7][SylK_5][SylK_6]</li>
+		<li>KrootName(p=2)-&gt;[SylK_1][SylK_2][SylK_3][SylK_4][SylK_6]-[SylK_1][SylK_2][SylK_6]</li>
+		<li>KrootName(p=1)-&gt;[SylK_1][SylK_2][SylK_6]-[SylK_1][SylK_2][SylK_3][SylK_4][SylK_6]</li>
+		<li>WordKroot(p=3)-&gt;[SylG]'[SylE]-[SylG]</li>
+		<li>WordKroot(p=2)-&gt;[SylG]'[SylG][SylE]-[SylG]</li>
+</OG_Kroot_NameUtility.rulePack.rulesStrings>
+                                     <!-- 
+		<li>OG_NameKrootFirstA-&gt;NameBanks/OG_Kroot_Names_First_A</li>
+		<li>OG_NameKrootFirstB-&gt;NameBanks/OG_Kroot_Names_First_B</li>
+		<li>OG_NameKrootSurA-&gt;NameBanks/OG_Kroot_Names_Last_A</li>
+		<li>OG_NameKrootSurB-&gt;NameBanks/OG_Kroot_Names_Last_B</li>
+		<li>OG_NameKrootNickA-&gt;NameBanks/OG_Kroot_Names_Nick_A</li>
+		<li>OG_NameKrootNickB-&gt;NameBanks/OG_Kroot_Names_Nick_B</li>
+		<li>OG_NameKrootKindredTypes-&gt;NameBanks/OG_Kroot_Kindred_Types</li>
+		<li>OG_NameKrootKindredWorlds-&gt;NameBanks/OG_Kroot_Worlds</li>
+		<li>OG_NameKrootBaseNamesA-&gt;NameBanks/OG_Kroot_Names_Outpost_A</li>
+		<li>OG_NameKrootBaseNamesB-&gt;NameBanks/OG_Kroot_Names_Outpost_B</li>
+		<li>OG_NameKrootBaseTypes-&gt;NameBanks/OG_Kroot_Outpost_Types</li>
+		<li>SylE-&gt;WordParts/Syllables_English</li>
+		<li>SylG-&gt;WordParts/Syllables_Galician</li>
+		<li>SylK_1-&gt;NameBanks/OG_Kroot_Names_SybA</li>
+		<li>SylK_2-&gt;NameBanks/OG_Kroot_Names_SybB</li>
+		<li>SylK_3-&gt;NameBanks/OG_Kroot_Names_SybC</li>
+		<li>SylK_4-&gt;NameBanks/OG_Kroot_Names_SybD</li>
+		<li>SylK_5-&gt;NameBanks/OG_Kroot_Names_SybE</li>
+		<li>SylK_6-&gt;NameBanks/OG_Kroot_Names_SybF</li>
+		<li>SylK_7-&gt;NameBanks/OG_Kroot_Names_SybG</li>
+ -->
+<OG_Kroot_NameUtility.rulePack.rulesFiles>
+		<li>OG_NameKrootFirstA-&gt;NameBanks/OG_Kroot_Names_First_A</li>
+		<li>OG_NameKrootFirstB-&gt;NameBanks/OG_Kroot_Names_First_B</li>
+		<li>OG_NameKrootSurA-&gt;NameBanks/OG_Kroot_Names_Last_A</li>
+		<li>OG_NameKrootSurB-&gt;NameBanks/OG_Kroot_Names_Last_B</li>
+		<li>OG_NameKrootNickA-&gt;NameBanks/OG_Kroot_Names_Nick_A</li>
+		<li>OG_NameKrootNickB-&gt;NameBanks/OG_Kroot_Names_Nick_B</li>
+		<li>OG_NameKrootKindredTypes-&gt;NameBanks/OG_Kroot_Kindred_Types</li>
+		<li>OG_NameKrootKindredWorlds-&gt;NameBanks/OG_Kroot_Worlds</li>
+		<li>OG_NameKrootBaseNamesA-&gt;NameBanks/OG_Kroot_Names_Outpost_A</li>
+		<li>OG_NameKrootBaseNamesB-&gt;NameBanks/OG_Kroot_Names_Outpost_B</li>
+		<li>OG_NameKrootBaseTypes-&gt;NameBanks/OG_Kroot_Outpost_Types</li>
+		<li>SylE-&gt;WordParts/Syllables_English</li>
+		<li>SylG-&gt;WordParts/Syllables_Galician</li>
+		<li>SylK_1-&gt;NameBanks/OG_Kroot_Names_SybA</li>
+		<li>SylK_2-&gt;NameBanks/OG_Kroot_Names_SybB</li>
+		<li>SylK_3-&gt;NameBanks/OG_Kroot_Names_SybC</li>
+		<li>SylK_4-&gt;NameBanks/OG_Kroot_Names_SybD</li>
+		<li>SylK_5-&gt;NameBanks/OG_Kroot_Names_SybE</li>
+		<li>SylK_6-&gt;NameBanks/OG_Kroot_Names_SybF</li>
+		<li>SylK_7-&gt;NameBanks/OG_Kroot_Names_SybG</li>
+</OG_Kroot_NameUtility.rulePack.rulesFiles>
+                                    <!-- 
+		<li>r_ideoName-&gt;[keyDeity]ism</li>
+		<li>r_ideoName-&gt;[hyphenPrefix]-[keyDeity]ism</li>
+		<li>r_ideoName-&gt;[keyDeity]'s [creed]</li>
+		<li>r_ideoName-&gt;[creed] of [keyDeity]</li>
+		<li>r_ideoAdjective-&gt;[keyDeity]ic</li>
+		<li>r_memberName-&gt;[keyDeity]ist</li>
+		<li>r_memberName-&gt;[keyDeity]ite</li>
+		<li>r_ideoName(p=2)-&gt;[globalAdjective] [packIdeoName]</li>
+		<li>r_ideoName(p=1.5,forcePrefix==False)-&gt;[hyphenPrefix]-[packIdeoName]</li>
+		<li>r_ideoName-&gt;[memeAdjective] [packIdeoName]</li>
+		<li>r_ideoName(p=0.5)-&gt;[memeAdjective] [creed]</li>
+		<li>r_ideoName(p=0.2)-&gt;[creed] of [packTheme]</li>
+		<li>r_ideoAdjective(priority=1)-&gt;[packAdjective]</li>
+		<li>r_memberName-&gt;[packMember]</li>
+		<li>creed(priority=1)-&gt;[memeCreed]</li>
+		<li>creed-&gt;[genericCreed]</li>
+		<li>genericCreed-&gt;creed</li>
+		<li>genericCreed-&gt;doctrine</li>
+		<li>genericCreed-&gt;way</li>
+		<li>genericCreed-&gt;path</li>
+		<li>globalAdjective-&gt;[Color]</li>
+		<li>globalAdjective-&gt;New</li>
+		<li>globalAdjective-&gt;Full</li>
+		<li>globalAdjective-&gt;Old</li>
+		<li>globalAdjective-&gt;Ancient</li>
+		<li>globalAdjective-&gt;Historical</li>
+		<li>globalAdjective-&gt;Revised</li>
+		<li>globalAdjective-&gt;Reformed</li>
+		<li>globalAdjective-&gt;Hard</li>
+		<li>globalAdjective-&gt;Fundamental</li>
+		<li>globalAdjective-&gt;True</li>
+		<li>globalAdjective-&gt;Folk</li>
+		<li>globalAdjective-&gt;Reformed</li>
+		<li>globalAdjective-&gt;[place_adjective]</li>
+		<li>hyphenPrefix-&gt;[globalHyphenPrefix]</li>
+		<li>hyphenPrefix-&gt;[memeHyphenPrefix]</li>
+		<li>globalHyphenPrefix(p=4)-&gt;neo</li>
+		<li>globalHyphenPrefix(p=2)-&gt;post</li>
+		<li>globalHyphenPrefix-&gt;nova</li>
+		<li>globalHyphenPrefix-&gt;archaeo</li>
+		<li>globalHyphenPrefix-&gt;hyper</li>
+ -->
+<OG_NamerIdeoKroot.rulePack.rulesStrings>
+		<li>r_ideoName-&gt;[keyDeity]ism</li>
+		<li>r_ideoName-&gt;[hyphenPrefix]-[keyDeity]ism</li>
+		<li>r_ideoName-&gt;[keyDeity]'s [creed]</li>
+		<li>r_ideoName-&gt;[creed] of [keyDeity]</li>
+		<li>r_ideoAdjective-&gt;[keyDeity]ic</li>
+		<li>r_memberName-&gt;[keyDeity]ist</li>
+		<li>r_memberName-&gt;[keyDeity]ite</li>
+		<li>r_ideoName(p=2)-&gt;[globalAdjective] [packIdeoName]</li>
+		<li>r_ideoName(p=1.5,forcePrefix==False)-&gt;[hyphenPrefix]-[packIdeoName]</li>
+		<li>r_ideoName-&gt;[memeAdjective] [packIdeoName]</li>
+		<li>r_ideoName(p=0.5)-&gt;[memeAdjective] [creed]</li>
+		<li>r_ideoName(p=0.2)-&gt;[creed] of [packTheme]</li>
+		<li>r_ideoAdjective(priority=1)-&gt;[packAdjective]</li>
+		<li>r_memberName-&gt;[packMember]</li>
+		<li>creed(priority=1)-&gt;[memeCreed]</li>
+		<li>creed-&gt;[genericCreed]</li>
+		<li>genericCreed-&gt;creed</li>
+		<li>genericCreed-&gt;doctrine</li>
+		<li>genericCreed-&gt;way</li>
+		<li>genericCreed-&gt;path</li>
+		<li>globalAdjective-&gt;[Color]</li>
+		<li>globalAdjective-&gt;New</li>
+		<li>globalAdjective-&gt;Full</li>
+		<li>globalAdjective-&gt;Old</li>
+		<li>globalAdjective-&gt;Ancient</li>
+		<li>globalAdjective-&gt;Historical</li>
+		<li>globalAdjective-&gt;Revised</li>
+		<li>globalAdjective-&gt;Reformed</li>
+		<li>globalAdjective-&gt;Hard</li>
+		<li>globalAdjective-&gt;Fundamental</li>
+		<li>globalAdjective-&gt;True</li>
+		<li>globalAdjective-&gt;Folk</li>
+		<li>globalAdjective-&gt;Reformed</li>
+		<li>globalAdjective-&gt;[place_adjective]</li>
+		<li>hyphenPrefix-&gt;[globalHyphenPrefix]</li>
+		<li>hyphenPrefix-&gt;[memeHyphenPrefix]</li>
+		<li>globalHyphenPrefix(p=4)-&gt;neo</li>
+		<li>globalHyphenPrefix(p=2)-&gt;post</li>
+		<li>globalHyphenPrefix-&gt;nova</li>
+		<li>globalHyphenPrefix-&gt;archaeo</li>
+		<li>globalHyphenPrefix-&gt;hyper</li>
+</OG_NamerIdeoKroot.rulePack.rulesStrings>
+
+</LanguageData>

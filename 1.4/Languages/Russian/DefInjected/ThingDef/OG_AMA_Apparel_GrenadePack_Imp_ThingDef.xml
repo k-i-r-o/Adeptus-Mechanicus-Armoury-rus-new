@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/ThingDefs_Misc/Apparel/OG_AMA_Apparel_GrenadePack_Imp.xml-->
+                        <!-- Blind grenade pack (I) -->
+<OGI_GrenadePack_Blind.label>Blind grenade pack (I)</OGI_GrenadePack_Blind.label>
+                              <!-- A Blind Grenade, also called a Baffler Grenade, is an Imperial grenade that explodes with a burst of dense, dark grey smoke including infrared bafﬂers and broadband electromagnetic spectrum chaff. -->
+<OGI_GrenadePack_Blind.description>A Blind Grenade, also called a Baffler Grenade, is an Imperial grenade that explodes with a burst of dense, dark grey smoke including infrared bafﬂers and broadband electromagnetic spectrum chaff.</OGI_GrenadePack_Blind.description>
+                       <!-- frag grenade pack (I) -->
+<OGI_GrenadePack_Frag.label>frag grenade pack (I)</OGI_GrenadePack_Frag.label>
+                             <!-- a pack of frag grenades. -->
+<OGI_GrenadePack_Frag.description>a pack of frag grenades.</OGI_GrenadePack_Frag.description>
+                       <!-- krak grenade pack (I) -->
+<OGI_GrenadePack_Krak.label>krak grenade pack (I)</OGI_GrenadePack_Krak.label>
+                             <!-- a pack of krak grenades. -->
+<OGI_GrenadePack_Krak.description>a pack of krak grenades.</OGI_GrenadePack_Krak.description>
+                      <!-- Rad grenade pack (I) -->
+<OGI_GrenadePack_Rad.label>Rad grenade pack (I)</OGI_GrenadePack_Rad.label>
+                            <!-- A Rad Grenade is a potent and dangerous radioactive anti-personnel weapon used by the military forces of the Imperium of Man.
+
+Rad Grenades detonate in a shower of tiny, radioactively-contaminated fragments. Each fragment's ionising radioactive emissions have only a millisecond half-life, ensuring that the wielder can charge in without exposing themself to radioactive contamination. -->
+<OGI_GrenadePack_Rad.description>A Rad Grenade is a potent and dangerous radioactive anti-personnel weapon used by the military forces of the Imperium of Man.\n\nRad Grenades detonate in a shower of tiny, radioactively-contaminated fragments. Each fragment's ionising radioactive emissions have only a millisecond half-life, ensuring that the wielder can charge in without exposing themself to radioactive contamination.</OGI_GrenadePack_Rad.description>
+                        <!-- melta bomb pack (I) -->
+<OGI_GrenadePack_Melta.label>melta bomb pack (I)</OGI_GrenadePack_Melta.label>
+                              <!-- a pack of melta bombs. -->
+<OGI_GrenadePack_Melta.description>a pack of melta bombs.</OGI_GrenadePack_Melta.description>
+
+</LanguageData>

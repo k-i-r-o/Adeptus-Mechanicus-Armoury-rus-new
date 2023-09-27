@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/CultureDefs/OG_AMXB_Cultures_Kroot.xml-->
+                     <!-- mercenary kindred -->
+<OG_Kroot_Mercenary.label>mercenary kindred</OG_Kroot_Mercenary.label>
+                           <!-- A broad category describing the styles and practices of many kroot mercenary kindred groups. -->
+<OG_Kroot_Mercenary.description>A broad category describing the styles and practices of many kroot mercenary kindred groups.</OG_Kroot_Mercenary.description>
+                                <!-- LeaderTitleMaker_Kriminul -->
+<OG_Kroot_Mercenary.leaderTitleMaker>LeaderTitleMaker_Kriminul</OG_Kroot_Mercenary.leaderTitleMaker>
+                  <!-- tribal kroot -->
+<OG_Kroot_Tribal.label>tribal kroot</OG_Kroot_Tribal.label>
+                        <!-- A broad category describing the styles and practices of those kroot kindred groups, that for one reason or another have regressed technologically. -->
+<OG_Kroot_Tribal.description>A broad category describing the styles and practices of those kroot kindred groups, that for one reason or another have regressed technologically.</OG_Kroot_Tribal.description>
+                             <!-- LeaderTitleMaker_Corunan -->
+<OG_Kroot_Tribal.leaderTitleMaker>LeaderTitleMaker_Corunan</OG_Kroot_Tribal.leaderTitleMaker>
+
+</LanguageData>

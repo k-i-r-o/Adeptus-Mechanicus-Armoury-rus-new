@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/RecipeDefs/OG_AMA_Recipes_Production_Eldar.xml-->
+                     <!-- make eldar component -->
+<Make_OGE_Component.label>make eldar component</Make_OGE_Component.label>
+                           <!-- Make an eldar component. -->
+<Make_OGE_Component.description>Make an eldar component.</Make_OGE_Component.description>
+                         <!-- Making eldar component. -->
+<Make_OGE_Component.jobString>Making eldar component.</Make_OGE_Component.jobString>
+                      <!-- make wraithbone -->
+<Make_OGE_Wraithbone.label>make wraithbone</Make_OGE_Wraithbone.label>
+                            <!-- Make some wraithbone. -->
+<Make_OGE_Wraithbone.description>Make some wraithbone.</Make_OGE_Wraithbone.description>
+                          <!-- Making wraithbone. -->
+<Make_OGE_Wraithbone.jobString>Making wraithbone.</Make_OGE_Wraithbone.jobString>
+                       <!-- make spirit stones -->
+<Make_OGE_SpiritStone.label>make spirit stones</Make_OGE_SpiritStone.label>
+                             <!-- Make a spirit stone. -->
+<Make_OGE_SpiritStone.description>Make a spirit stone.</Make_OGE_SpiritStone.description>
+                           <!-- Making spirit stones. -->
+<Make_OGE_SpiritStone.jobString>Making spirit stones.</Make_OGE_SpiritStone.jobString>
+
+</LanguageData>

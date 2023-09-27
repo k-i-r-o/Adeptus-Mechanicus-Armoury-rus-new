@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/BackstoryDefs/Imperium Backstories/Militarum/Imperial_Guardsman_Armor_Crewman.xml-->
+                                      <!-- imperial armor crewman -->
+<OG_Imperial_Militarum_Armor_Crewman.title>imperial armor crewman</OG_Imperial_Militarum_Armor_Crewman.title>
+                                           <!-- armor crewman -->
+<OG_Imperial_Militarum_Armor_Crewman.titleShort>armor crewman</OG_Imperial_Militarum_Armor_Crewman.titleShort>
+                                         <!-- [PAWN_nameDef] was drafted into service of the Imperial Guard. [PAWN_possessive] regiment was an armored division where [PAWN_pronoun] crewed an armored vehicle. -->
+<OG_Imperial_Militarum_Armor_Crewman.baseDesc>[PAWN_nameDef] was drafted into service of the Imperial Guard. [PAWN_possessive] regiment was an armored division where [PAWN_pronoun] crewed an armored vehicle.</OG_Imperial_Militarum_Armor_Crewman.baseDesc>
+
+</LanguageData>

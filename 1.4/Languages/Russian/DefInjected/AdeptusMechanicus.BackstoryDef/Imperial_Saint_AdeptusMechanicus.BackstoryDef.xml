@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/BackstoryDefs/Imperium Backstories/Sororitas/Imperial_Saint.xml-->
+                              <!-- Living Saint -->
+<OG_Imperial_Sororitas_Saint.title>Living Saint</OG_Imperial_Sororitas_Saint.title>
+                                 <!-- [PAWN_nameDef] is a Living Saint, an incarnation of the God Emperor's will. -->
+<OG_Imperial_Sororitas_Saint.baseDesc>[PAWN_nameDef] is a Living Saint, an incarnation of the God Emperor's will.</OG_Imperial_Sororitas_Saint.baseDesc>
+
+</LanguageData>

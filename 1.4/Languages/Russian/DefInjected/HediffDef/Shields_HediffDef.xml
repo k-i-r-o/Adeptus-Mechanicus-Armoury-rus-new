@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/PawnShields/Shields.xml.bak-->
+                <!-- shield fatigue -->
+<ShieldFatigue.label>shield fatigue</ShieldFatigue.label>
+                      <!-- shield fatigue -->
+<ShieldFatigue.description>shield fatigue</ShieldFatigue.description>
+                         <!-- minor -->
+<ShieldFatigue.stages.0.label>minor</ShieldFatigue.stages.0.label>
+                         <!-- major -->
+<ShieldFatigue.stages.1.label>major</ShieldFatigue.stages.1.label>
+                         <!-- severe -->
+<ShieldFatigue.stages.2.label>severe</ShieldFatigue.stages.2.label>
+                         <!-- extreme -->
+<ShieldFatigue.stages.3.label>extreme</ShieldFatigue.stages.3.label>
+
+</LanguageData>

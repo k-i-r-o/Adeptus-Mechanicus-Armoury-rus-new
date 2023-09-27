@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/ThingDefs_Misc/Weapons/OG_AMA_Weapons_ImperialAssassinorum_Ranged.xml-->
+                     <!-- needle -->
+<OGI_Bullet_Needler.label>needle</OGI_Bullet_Needler.label>
+                            <!-- executioner pistol (I) -->
+<OGI_Gun_ExecutionerPistol.label>executioner pistol (I)</OGI_Gun_ExecutionerPistol.label>
+                                  <!-- An Executioner Pistol is a brutal blending of Bolt Pistol and Needler, able to switch between mass-reactive bolts and toxic darts at the touch of a button. This lethal fusillade has felled countless unlucky victims, their armour cratered and blasted open, even as their nerves sizzle with neurotoxins. -->
+<OGI_Gun_ExecutionerPistol.description>An Executioner Pistol is a brutal blending of Bolt Pistol and Needler, able to switch between mass-reactive bolts and toxic darts at the touch of a button. This lethal fusillade has felled countless unlucky victims, their armour cratered and blasted open, even as their nerves sizzle with neurotoxins.</OGI_Gun_ExecutionerPistol.description>
+                                    <!-- stock -->
+<OGI_Gun_ExecutionerPistol.tools.0.label>stock</OGI_Gun_ExecutionerPistol.tools.0.label>
+                                                                                  <!-- AMA_Combi -->
+<OGI_Gun_ExecutionerPistol.comps.AdeptusMechanicus.Comp_ToggleFireMode.InspectLabelKey>AMA_Combi</OGI_Gun_ExecutionerPistol.comps.AdeptusMechanicus.Comp_ToggleFireMode.InspectLabelKey>
+                         <!-- exitus round -->
+<OGI_Bullet_ExitusRound.label>exitus round</OGI_Bullet_ExitusRound.label>
+                       <!-- exitus pistol (I) -->
+<OGI_Gun_ExitusPistol.label>exitus pistol (I)</OGI_Gun_ExitusPistol.label>
+                             <!-- The Exitus Pistol is an Imperial pistol and a signature weapon of the Vindicare Temple of the Officio Assassinorum. Like its cousin the Exitus Rifle, it is a masterpiece of Adeptus Mechanicus engineering and is custom-built for the requirements of the individual assassin. The Pistol is largely a backup weapon for the Exitus Rifle and is used in the rare circumstances the assassin is discovered, cornered, or in need of rapid-fire weaponry. With a built-in silencer and capable of penetrating most armor with ease, it is has saved the lives of many Vindicare Assassins. Like its rifle counterpart, the Exitus Pistol is capable of firing a variety of specialized ammunition. These include:
+Shield-Breaker Rounds - Overload the personal Force Fields of the target.
+Turbo-Penetrator Rounds - Use a two-stage charge to punch a secondary round through the thickest armor.
+Hellfire Rounds - Contain virulent bio-acidic toxins that can reduce targets to ash. -->
+<OGI_Gun_ExitusPistol.description>The Exitus Pistol is an Imperial pistol and a signature weapon of the Vindicare Temple of the Officio Assassinorum. Like its cousin the Exitus Rifle, it is a masterpiece of Adeptus Mechanicus engineering and is custom-built for the requirements of the individual assassin. The Pistol is largely a backup weapon for the Exitus Rifle and is used in the rare circumstances the assassin is discovered, cornered, or in need of rapid-fire weaponry. With a built-in silencer and capable of penetrating most armor with ease, it is has saved the lives of many Vindicare Assassins. Like its rifle counterpart, the Exitus Pistol is capable of firing a variety of specialized ammunition. These include:\nShield-Breaker Rounds - Overload the personal Force Fields of the target.\nTurbo-Penetrator Rounds - Use a two-stage charge to punch a secondary round through the thickest armor.\nHellfire Rounds - Contain virulent bio-acidic toxins that can reduce targets to ash.</OGI_Gun_ExitusPistol.description>
+                               <!-- barrel -->
+<OGI_Gun_ExitusPistol.tools.0.label>barrel</OGI_Gun_ExitusPistol.tools.0.label>
+                      <!-- exitus rifle (I) -->
+<OGI_Gun_ExitusRifle.label>exitus rifle (I)</OGI_Gun_ExitusRifle.label>
+                            <!-- The Exitus Rifle is a specialised projectile rifle used exclusively by the Imperial Assassins of the Officio Assassinorum's Vindicare Temple. It is purpose-built for each individual Vindicare sniper. The weapon is outfitted with a variety of micro-sensors that are capable of detecting even slight changes in ambient temperature, humidity, gravity, and air pressure intended to aid the Assassin in effectively targeting his victim at long ranges. -->
+<OGI_Gun_ExitusRifle.description>The Exitus Rifle is a specialised projectile rifle used exclusively by the Imperial Assassins of the Officio Assassinorum's Vindicare Temple. It is purpose-built for each individual Vindicare sniper. The weapon is outfitted with a variety of micro-sensors that are capable of detecting even slight changes in ambient temperature, humidity, gravity, and air pressure intended to aid the Assassin in effectively targeting his victim at long ranges.</OGI_Gun_ExitusRifle.description>
+                              <!-- barrel -->
+<OGI_Gun_ExitusRifle.tools.0.label>barrel</OGI_Gun_ExitusRifle.tools.0.label>
+
+</LanguageData>

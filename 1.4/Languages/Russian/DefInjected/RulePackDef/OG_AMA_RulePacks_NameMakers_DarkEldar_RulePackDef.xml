@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/RulePackDefs/OG_AMA_RulePacks_NameMakers_DarkEldar.xml-->
+                                                  <!-- 
+		<li>r_name(p=3)-&gt;Kabal of the [Kabal]</li>
+		<li>r_name-&gt;The Kabal of the [Kabal]</li>
+ -->
+<OG_DarkEldar_Kabal_NamerFaction.rulePack.rulesStrings>
+		<li>r_name(p=3)-&gt;Kabal of the [Kabal]</li>
+		<li>r_name-&gt;The Kabal of the [Kabal]</li>
+</OG_DarkEldar_Kabal_NamerFaction.rulePack.rulesStrings>
+                                          <!-- 
+		<li>name-&gt;[Kabal_Outpost]</li>
+ -->
+<OG_DarkEldar_NamerBases.rulePack.rulesStrings>
+		<li>name-&gt;[Kabal_Outpost]</li>
+</OG_DarkEldar_NamerBases.rulePack.rulesStrings>
+                                           <!-- 
+		<li>r_name(p=3)-&gt;[NameMaleDarkEldar]</li>
+ -->
+<OG_DarkEldar_NamerPerson.rulePack.rulesStrings>
+		<li>r_name(p=3)-&gt;[NameMaleDarkEldar]</li>
+</OG_DarkEldar_NamerPerson.rulePack.rulesStrings>
+                                                 <!-- 
+		<li>r_name(p=3)-&gt;[NameFemaleDarkEldar]</li>
+ -->
+<OG_DarkEldar_NamerPersonFemale.rulePack.rulesStrings>
+		<li>r_name(p=3)-&gt;[NameFemaleDarkEldar]</li>
+</OG_DarkEldar_NamerPersonFemale.rulePack.rulesStrings>
+                                           <!-- 
+		<li>NameMaleDarkEldar(p=4)-&gt;[DarkEldar_A_Male][DarkEldar_B_Male]</li>
+		<li>NameMaleDarkEldar(p=2)-&gt;[DarkEldar_Male]</li>
+		<li>NameMaleDarkEldar(p=0.2)-&gt;[DarkEldar_Male][DarkEldar_B_Male]</li>
+		<li>NameFemaleDarkEldar(p=4)-&gt;[DarkEldar_A_Female][DarkEldar_B_Female]</li>
+		<li>NameFemaleDarkEldar(p=2)-&gt;[DarkEldar_Female]</li>
+		<li>NameFemaleDarkEldar(p=0.2)-&gt;[DarkEldar_Female][DarkEldar_B_Female]</li>
+		<li>Kabal(p=3)-&gt;[Kabal_A] [Kabal_B]</li>
+ -->
+<OG_DarkEldar_NameUtility.rulePack.rulesStrings>
+		<li>NameMaleDarkEldar(p=4)-&gt;[DarkEldar_A_Male][DarkEldar_B_Male]</li>
+		<li>NameMaleDarkEldar(p=2)-&gt;[DarkEldar_Male]</li>
+		<li>NameMaleDarkEldar(p=0.2)-&gt;[DarkEldar_Male][DarkEldar_B_Male]</li>
+		<li>NameFemaleDarkEldar(p=4)-&gt;[DarkEldar_A_Female][DarkEldar_B_Female]</li>
+		<li>NameFemaleDarkEldar(p=2)-&gt;[DarkEldar_Female]</li>
+		<li>NameFemaleDarkEldar(p=0.2)-&gt;[DarkEldar_Female][DarkEldar_B_Female]</li>
+		<li>Kabal(p=3)-&gt;[Kabal_A] [Kabal_B]</li>
+</OG_DarkEldar_NameUtility.rulePack.rulesStrings>
+                                         <!-- 
+		<li>Kabal_A-&gt;NameBanks/OG_Aeldari_DarkEldar_Names_Kabal_A</li>
+		<li>Kabal_B-&gt;NameBanks/OG_Aeldari_DarkEldar_Names_Kabal_B</li>
+		<li>Kabal_Outpost-&gt;NameBanks/OG_Aeldari_DarkEldar_Names_Outpost</li>
+		<li>DarkEldar_A_Male-&gt;NameBanks/OG_Aeldari_DarkEldar_Names_Male_A</li>
+		<li>DarkEldar_B_Male-&gt;NameBanks/OG_Aeldari_DarkEldar_Names_Male_B</li>
+		<li>DarkEldar_Male-&gt;NameBanks/OG_Aeldari_DarkEldar_Names_Male</li>
+		<li>DarkEldar_A_Female-&gt;NameBanks/OG_Aeldari_DarkEldar_Names_Female_A</li>
+		<li>DarkEldar_B_Female-&gt;NameBanks/OG_Aeldari_DarkEldar_Names_Female_B</li>
+		<li>DarkEldar_Female-&gt;NameBanks/OG_Aeldari_DarkEldar_Names_Female</li>
+ -->
+<OG_DarkEldar_NameUtility.rulePack.rulesFiles>
+		<li>Kabal_A-&gt;NameBanks/OG_Aeldari_DarkEldar_Names_Kabal_A</li>
+		<li>Kabal_B-&gt;NameBanks/OG_Aeldari_DarkEldar_Names_Kabal_B</li>
+		<li>Kabal_Outpost-&gt;NameBanks/OG_Aeldari_DarkEldar_Names_Outpost</li>
+		<li>DarkEldar_A_Male-&gt;NameBanks/OG_Aeldari_DarkEldar_Names_Male_A</li>
+		<li>DarkEldar_B_Male-&gt;NameBanks/OG_Aeldari_DarkEldar_Names_Male_B</li>
+		<li>DarkEldar_Male-&gt;NameBanks/OG_Aeldari_DarkEldar_Names_Male</li>
+		<li>DarkEldar_A_Female-&gt;NameBanks/OG_Aeldari_DarkEldar_Names_Female_A</li>
+		<li>DarkEldar_B_Female-&gt;NameBanks/OG_Aeldari_DarkEldar_Names_Female_B</li>
+		<li>DarkEldar_Female-&gt;NameBanks/OG_Aeldari_DarkEldar_Names_Female</li>
+</OG_DarkEldar_NameUtility.rulePack.rulesFiles>
+
+</LanguageData>

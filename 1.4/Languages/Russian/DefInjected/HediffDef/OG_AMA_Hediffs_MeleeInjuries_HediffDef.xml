@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/HediffDefs/OG_AMA_Hediffs_MeleeInjuries.xml-->
+                     <!-- power weapon(cut) -->
+<OG_PowerWeapon_Cut.label>power weapon(cut)</OG_PowerWeapon_Cut.label>
+                                                             <!-- bandaged -->
+<OG_PowerWeapon_Cut.comps.HediffComp_TendDuration.labelTendedWell>bandaged</OG_PowerWeapon_Cut.comps.HediffComp_TendDuration.labelTendedWell>
+                                                                  <!-- sutured -->
+<OG_PowerWeapon_Cut.comps.HediffComp_TendDuration.labelTendedWellInner>sutured</OG_PowerWeapon_Cut.comps.HediffComp_TendDuration.labelTendedWellInner>
+                                                                  <!-- set -->
+<OG_PowerWeapon_Cut.comps.HediffComp_TendDuration.labelSolidTendedWell>set</OG_PowerWeapon_Cut.comps.HediffComp_TendDuration.labelSolidTendedWell>
+                                                            <!-- cut scar -->
+<OG_PowerWeapon_Cut.comps.HediffComp_TendDuration.permanentLabel>cut scar</OG_PowerWeapon_Cut.comps.HediffComp_TendDuration.permanentLabel>
+                                          <!-- Cut off -->
+<OG_PowerWeapon_Cut.injuryProps.destroyedLabel>Cut off</OG_PowerWeapon_Cut.injuryProps.destroyedLabel>
+                                             <!-- Cut out -->
+<OG_PowerWeapon_Cut.injuryProps.destroyedOutLabel>Cut out</OG_PowerWeapon_Cut.injuryProps.destroyedOutLabel>
+                           <!-- description -->
+<OG_PowerWeapon_Cut.description>description</OG_PowerWeapon_Cut.description>
+                         <!-- a cut -->
+<OG_PowerWeapon_Cut.labelNoun>a cut</OG_PowerWeapon_Cut.labelNoun>
+                               <!-- {0} in the {1} -->
+<OG_PowerWeapon_Cut.labelNounPretty>{0} in the {1}</OG_PowerWeapon_Cut.labelNounPretty>
+                      <!-- power weapon(stab) -->
+<OG_PowerWeapon_Stab.label>power weapon(stab)</OG_PowerWeapon_Stab.label>
+                                                              <!-- bandaged -->
+<OG_PowerWeapon_Stab.comps.HediffComp_TendDuration.labelTendedWell>bandaged</OG_PowerWeapon_Stab.comps.HediffComp_TendDuration.labelTendedWell>
+                                                                   <!-- sutured -->
+<OG_PowerWeapon_Stab.comps.HediffComp_TendDuration.labelTendedWellInner>sutured</OG_PowerWeapon_Stab.comps.HediffComp_TendDuration.labelTendedWellInner>
+                                                                   <!-- set -->
+<OG_PowerWeapon_Stab.comps.HediffComp_TendDuration.labelSolidTendedWell>set</OG_PowerWeapon_Stab.comps.HediffComp_TendDuration.labelSolidTendedWell>
+                                                             <!-- stab scar -->
+<OG_PowerWeapon_Stab.comps.HediffComp_TendDuration.permanentLabel>stab scar</OG_PowerWeapon_Stab.comps.HediffComp_TendDuration.permanentLabel>
+                                           <!-- Cut off -->
+<OG_PowerWeapon_Stab.injuryProps.destroyedLabel>Cut off</OG_PowerWeapon_Stab.injuryProps.destroyedLabel>
+                                              <!-- Cut out -->
+<OG_PowerWeapon_Stab.injuryProps.destroyedOutLabel>Cut out</OG_PowerWeapon_Stab.injuryProps.destroyedOutLabel>
+                            <!-- description -->
+<OG_PowerWeapon_Stab.description>description</OG_PowerWeapon_Stab.description>
+                          <!-- a stab wound -->
+<OG_PowerWeapon_Stab.labelNoun>a stab wound</OG_PowerWeapon_Stab.labelNoun>
+                                <!-- {0} in the {1} -->
+<OG_PowerWeapon_Stab.labelNounPretty>{0} in the {1}</OG_PowerWeapon_Stab.labelNounPretty>
+                       <!-- power weapon(blunt) -->
+<OG_PowerWeapon_Blunt.label>power weapon(blunt)</OG_PowerWeapon_Blunt.label>
+                                                               <!-- bandaged -->
+<OG_PowerWeapon_Blunt.comps.HediffComp_TendDuration.labelTendedWell>bandaged</OG_PowerWeapon_Blunt.comps.HediffComp_TendDuration.labelTendedWell>
+                                                                    <!-- sutured -->
+<OG_PowerWeapon_Blunt.comps.HediffComp_TendDuration.labelTendedWellInner>sutured</OG_PowerWeapon_Blunt.comps.HediffComp_TendDuration.labelTendedWellInner>
+                                                                    <!-- set -->
+<OG_PowerWeapon_Blunt.comps.HediffComp_TendDuration.labelSolidTendedWell>set</OG_PowerWeapon_Blunt.comps.HediffComp_TendDuration.labelSolidTendedWell>
+                                                              <!-- mangled scar -->
+<OG_PowerWeapon_Blunt.comps.HediffComp_TendDuration.permanentLabel>mangled scar</OG_PowerWeapon_Blunt.comps.HediffComp_TendDuration.permanentLabel>
+                                            <!-- Crushed -->
+<OG_PowerWeapon_Blunt.injuryProps.destroyedLabel>Crushed</OG_PowerWeapon_Blunt.injuryProps.destroyedLabel>
+                             <!-- description -->
+<OG_PowerWeapon_Blunt.description>description</OG_PowerWeapon_Blunt.description>
+                           <!-- a crush wound -->
+<OG_PowerWeapon_Blunt.labelNoun>a crush wound</OG_PowerWeapon_Blunt.labelNoun>
+                                 <!-- {0} in the {1} -->
+<OG_PowerWeapon_Blunt.labelNounPretty>{0} in the {1}</OG_PowerWeapon_Blunt.labelNounPretty>
+                     <!-- force weapon(cut) -->
+<OG_ForceWeapon_Cut.label>force weapon(cut)</OG_ForceWeapon_Cut.label>
+                                                             <!-- bandaged -->
+<OG_ForceWeapon_Cut.comps.HediffComp_TendDuration.labelTendedWell>bandaged</OG_ForceWeapon_Cut.comps.HediffComp_TendDuration.labelTendedWell>
+                                                                  <!-- sutured -->
+<OG_ForceWeapon_Cut.comps.HediffComp_TendDuration.labelTendedWellInner>sutured</OG_ForceWeapon_Cut.comps.HediffComp_TendDuration.labelTendedWellInner>
+                                                                  <!-- set -->
+<OG_ForceWeapon_Cut.comps.HediffComp_TendDuration.labelSolidTendedWell>set</OG_ForceWeapon_Cut.comps.HediffComp_TendDuration.labelSolidTendedWell>
+                                                            <!-- cut scar -->
+<OG_ForceWeapon_Cut.comps.HediffComp_TendDuration.permanentLabel>cut scar</OG_ForceWeapon_Cut.comps.HediffComp_TendDuration.permanentLabel>
+                                          <!-- Cut off -->
+<OG_ForceWeapon_Cut.injuryProps.destroyedLabel>Cut off</OG_ForceWeapon_Cut.injuryProps.destroyedLabel>
+                                             <!-- Cut out -->
+<OG_ForceWeapon_Cut.injuryProps.destroyedOutLabel>Cut out</OG_ForceWeapon_Cut.injuryProps.destroyedOutLabel>
+                           <!-- description -->
+<OG_ForceWeapon_Cut.description>description</OG_ForceWeapon_Cut.description>
+                         <!-- a cut -->
+<OG_ForceWeapon_Cut.labelNoun>a cut</OG_ForceWeapon_Cut.labelNoun>
+                               <!-- {0} in the {1} -->
+<OG_ForceWeapon_Cut.labelNounPretty>{0} in the {1}</OG_ForceWeapon_Cut.labelNounPretty>
+                      <!-- force weapon(stab) -->
+<OG_ForceWeapon_Stab.label>force weapon(stab)</OG_ForceWeapon_Stab.label>
+                                                              <!-- bandaged -->
+<OG_ForceWeapon_Stab.comps.HediffComp_TendDuration.labelTendedWell>bandaged</OG_ForceWeapon_Stab.comps.HediffComp_TendDuration.labelTendedWell>
+                                                                   <!-- sutured -->
+<OG_ForceWeapon_Stab.comps.HediffComp_TendDuration.labelTendedWellInner>sutured</OG_ForceWeapon_Stab.comps.HediffComp_TendDuration.labelTendedWellInner>
+                                                                   <!-- set -->
+<OG_ForceWeapon_Stab.comps.HediffComp_TendDuration.labelSolidTendedWell>set</OG_ForceWeapon_Stab.comps.HediffComp_TendDuration.labelSolidTendedWell>
+                                                             <!-- stab scar -->
+<OG_ForceWeapon_Stab.comps.HediffComp_TendDuration.permanentLabel>stab scar</OG_ForceWeapon_Stab.comps.HediffComp_TendDuration.permanentLabel>
+                                           <!-- Cut off -->
+<OG_ForceWeapon_Stab.injuryProps.destroyedLabel>Cut off</OG_ForceWeapon_Stab.injuryProps.destroyedLabel>
+                                              <!-- Cut out -->
+<OG_ForceWeapon_Stab.injuryProps.destroyedOutLabel>Cut out</OG_ForceWeapon_Stab.injuryProps.destroyedOutLabel>
+                            <!-- description -->
+<OG_ForceWeapon_Stab.description>description</OG_ForceWeapon_Stab.description>
+                          <!-- a stab wound -->
+<OG_ForceWeapon_Stab.labelNoun>a stab wound</OG_ForceWeapon_Stab.labelNoun>
+                                <!-- {0} in the {1} -->
+<OG_ForceWeapon_Stab.labelNounPretty>{0} in the {1}</OG_ForceWeapon_Stab.labelNounPretty>
+                       <!-- Force weapon(blunt) -->
+<OG_ForceWeapon_Blunt.label>Force weapon(blunt)</OG_ForceWeapon_Blunt.label>
+                                                               <!-- bandaged -->
+<OG_ForceWeapon_Blunt.comps.HediffComp_TendDuration.labelTendedWell>bandaged</OG_ForceWeapon_Blunt.comps.HediffComp_TendDuration.labelTendedWell>
+                                                                    <!-- sutured -->
+<OG_ForceWeapon_Blunt.comps.HediffComp_TendDuration.labelTendedWellInner>sutured</OG_ForceWeapon_Blunt.comps.HediffComp_TendDuration.labelTendedWellInner>
+                                                                    <!-- set -->
+<OG_ForceWeapon_Blunt.comps.HediffComp_TendDuration.labelSolidTendedWell>set</OG_ForceWeapon_Blunt.comps.HediffComp_TendDuration.labelSolidTendedWell>
+                                                              <!-- mangled scar -->
+<OG_ForceWeapon_Blunt.comps.HediffComp_TendDuration.permanentLabel>mangled scar</OG_ForceWeapon_Blunt.comps.HediffComp_TendDuration.permanentLabel>
+                                            <!-- Crushed -->
+<OG_ForceWeapon_Blunt.injuryProps.destroyedLabel>Crushed</OG_ForceWeapon_Blunt.injuryProps.destroyedLabel>
+                             <!-- description -->
+<OG_ForceWeapon_Blunt.description>description</OG_ForceWeapon_Blunt.description>
+                           <!-- a crush wound -->
+<OG_ForceWeapon_Blunt.labelNoun>a crush wound</OG_ForceWeapon_Blunt.labelNoun>
+                                 <!-- {0} in the {1} -->
+<OG_ForceWeapon_Blunt.labelNounPretty>{0} in the {1}</OG_ForceWeapon_Blunt.labelNounPretty>
+
+</LanguageData>

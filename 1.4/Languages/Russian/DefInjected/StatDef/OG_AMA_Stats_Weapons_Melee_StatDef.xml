@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/Stats/OG_AMA_Stats_Weapons_Melee.xml-->
+                                  <!-- Disruption Field -->
+<OG_PowerWeapon_DamageMultiplier.label>Disruption Field</OG_PowerWeapon_DamageMultiplier.label>
+                                        <!-- A multiplier on damage from Power Weapon-type attacks for weapons made of this material. -->
+<OG_PowerWeapon_DamageMultiplier.description>A multiplier on damage from Power Weapon-type attacks for weapons made of this material.</OG_PowerWeapon_DamageMultiplier.description>
+
+</LanguageData>

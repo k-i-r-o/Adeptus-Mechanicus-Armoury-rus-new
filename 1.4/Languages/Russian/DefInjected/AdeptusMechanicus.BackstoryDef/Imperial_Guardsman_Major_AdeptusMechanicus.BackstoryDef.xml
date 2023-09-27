@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/BackstoryDefs/Imperium Backstories/Militarum/Imperial_Guardsman_Major.xml-->
+                              <!-- imperial guard major -->
+<OG_Imperial_Militarum_Major.title>imperial guard major</OG_Imperial_Militarum_Major.title>
+                                 <!-- [PAWN_nameDef] was promoted to the rank of Major of tbeir regiment. [PAWN_pronoun] was tasked with collaborating and organizing with company commanders and taking orders from their Colonel.  -->
+<OG_Imperial_Militarum_Major.baseDesc>[PAWN_nameDef] was promoted to the rank of Major of tbeir regiment. [PAWN_pronoun] was tasked with collaborating and organizing with company commanders and taking orders from their Colonel. </OG_Imperial_Militarum_Major.baseDesc>
+
+</LanguageData>

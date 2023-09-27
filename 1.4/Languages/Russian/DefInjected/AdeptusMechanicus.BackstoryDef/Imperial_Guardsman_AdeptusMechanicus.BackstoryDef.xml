@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/BackstoryDefs/Imperium Backstories/Militarum/Imperial_Guardsman.xml-->
+                                  <!-- Imperial guardsman -->
+<OG_Imperial_Militarum_Guardsman.title>Imperial guardsman</OG_Imperial_Militarum_Guardsman.title>
+                                     <!-- [PAWN_nameDef] was drafted from their PDF force in a tithe to serve in a larger conquest. -->
+<OG_Imperial_Militarum_Guardsman.baseDesc>[PAWN_nameDef] was drafted from their PDF force in a tithe to serve in a larger conquest.</OG_Imperial_Militarum_Guardsman.baseDesc>
+
+</LanguageData>

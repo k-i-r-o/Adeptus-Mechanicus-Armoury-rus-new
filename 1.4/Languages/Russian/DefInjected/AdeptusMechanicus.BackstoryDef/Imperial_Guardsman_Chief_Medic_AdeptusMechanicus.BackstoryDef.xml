@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/BackstoryDefs/Imperium Backstories/Militarum/Imperial_Guardsman_Chief_Medic.xml-->
+                                    <!-- chief medical officer -->
+<OG_Imperial_Militarum_Chief_Medic.title>chief medical officer</OG_Imperial_Militarum_Chief_Medic.title>
+                                         <!-- chief medic -->
+<OG_Imperial_Militarum_Chief_Medic.titleShort>chief medic</OG_Imperial_Militarum_Chief_Medic.titleShort>
+                                       <!-- [PAWN_nameDef] had previous experience as a doctor on their homeworld. When the Imperial Guard tithed [PAWN_possessive] homeworld, [PAWN_pronoun] was made the regimental Chief Medic.  -->
+<OG_Imperial_Militarum_Chief_Medic.baseDesc>[PAWN_nameDef] had previous experience as a doctor on their homeworld. When the Imperial Guard tithed [PAWN_possessive] homeworld, [PAWN_pronoun] was made the regimental Chief Medic. </OG_Imperial_Militarum_Chief_Medic.baseDesc>
+
+</LanguageData>

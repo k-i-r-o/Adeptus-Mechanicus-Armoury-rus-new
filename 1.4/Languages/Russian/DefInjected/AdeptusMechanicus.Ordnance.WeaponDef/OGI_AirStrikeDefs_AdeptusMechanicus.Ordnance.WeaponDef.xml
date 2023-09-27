@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/OrdnanceStrikes/AirStrikeDefs/OGI_AirStrikeDefs.xml-->
+                                     <!-- assaultcannon -->
+<OGDE_AirstrikeWeapon_AssaultCannon.label>assaultcannon</OGDE_AirstrikeWeapon_AssaultCannon.label>
+                                 <!-- autocannon -->
+<OGI_AirstrikeWeapon_Autocannon.label>autocannon</OGI_AirstrikeWeapon_Autocannon.label>
+                                 <!-- rocket rack -->
+<OGI_AirstrikeWeapon_RocketFrag.label>rocket rack</OGI_AirstrikeWeapon_RocketFrag.label>
+                                 <!-- rocket rack -->
+<OGI_AirstrikeWeapon_RocketKrak.label>rocket rack</OGI_AirstrikeWeapon_RocketKrak.label>
+                                  <!-- incendiary bomb -->
+<OGI_BombingRunWeapon_Incendiary.label>incendiary bomb</OGI_BombingRunWeapon_Incendiary.label>
+
+</LanguageData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/BackstoryDefs/Imperium Backstories/Militarum/Imperial_Guardsman_General.xml-->
+                                <!-- imperial guard general -->
+<OG_Imperial_Militarum_General.title>imperial guard general</OG_Imperial_Militarum_General.title>
+                                   <!-- [PAWN_nameDef] had a long career within the Imperial Guard and has reached the rank of General. [PAWN_pronoun] was a member of the Lord General's Staff and was charged with giving orders to multiple regiments of troopers.  -->
+<OG_Imperial_Militarum_General.baseDesc>[PAWN_nameDef] had a long career within the Imperial Guard and has reached the rank of General. [PAWN_pronoun] was a member of the Lord General's Staff and was charged with giving orders to multiple regiments of troopers. </OG_Imperial_Militarum_General.baseDesc>
+
+</LanguageData>

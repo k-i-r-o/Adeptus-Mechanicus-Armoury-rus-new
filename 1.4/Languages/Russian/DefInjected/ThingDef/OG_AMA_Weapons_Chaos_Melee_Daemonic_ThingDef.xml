@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/ThingDefs_Misc/Weapons/OG_AMA_Weapons_Chaos_Melee_Daemonic.xml-->
+                      <!-- hellblade -->
+<OGC_Melee_Hellblade.label>hellblade</OGC_Melee_Hellblade.label>
+                            <!-- A Hellblade is a powerful Daemon Weapon in the form of a great two-handed sword that is usually wielded by a Bloodletter, the Lesser Daemon of Khorne. Some tales claim that each razored edge is sharpened by pure hatred. No mortal-forged armour can withstand the assault of a Hellblade, and the carnage wrought by these wicked weapons has broken the wills of uncounted mortal foes over the millennia. -->
+<OGC_Melee_Hellblade.description>A Hellblade is a powerful Daemon Weapon in the form of a great two-handed sword that is usually wielded by a Bloodletter, the Lesser Daemon of Khorne. Some tales claim that each razored edge is sharpened by pure hatred. No mortal-forged armour can withstand the assault of a Hellblade, and the carnage wrought by these wicked weapons has broken the wills of uncounted mortal foes over the millennia.</OGC_Melee_Hellblade.description>
+                              <!-- blade -->
+<OGC_Melee_Hellblade.tools.0.label>blade</OGC_Melee_Hellblade.tools.0.label>
+                              <!-- point -->
+<OGC_Melee_Hellblade.tools.1.label>point</OGC_Melee_Hellblade.tools.1.label>
+                        <!-- Plagueknife -->
+<OGC_Melee_PlagueKnife.label>Plagueknife</OGC_Melee_PlagueKnife.label>
+                              <!-- A Plague Knife is a long-bladed, dagger-like weapon wielded by Plague Marines and other devotees of the Chaos God Nurgle. It possesses the capability of "blessing" anyone it touches with the daemonic infection known as Nurgle's Rot. These long, pitted knives are encrusted and dripping with the most virulent of toxins, viruses and other pathogens. Their wielders believe that they have been directly blessed by the Plague God himself, for the rot the weapons carry and spread is so powerful that it can lay low even the most monstrous or powerful of enemies in only Terran seconds. -->
+<OGC_Melee_PlagueKnife.description>A Plague Knife is a long-bladed, dagger-like weapon wielded by Plague Marines and other devotees of the Chaos God Nurgle. It possesses the capability of "blessing" anyone it touches with the daemonic infection known as Nurgle's Rot. These long, pitted knives are encrusted and dripping with the most virulent of toxins, viruses and other pathogens. Their wielders believe that they have been directly blessed by the Plague God himself, for the rot the weapons carry and spread is so powerful that it can lay low even the most monstrous or powerful of enemies in only Terran seconds.</OGC_Melee_PlagueKnife.description>
+                                <!-- handle -->
+<OGC_Melee_PlagueKnife.tools.0.label>handle</OGC_Melee_PlagueKnife.tools.0.label>
+                                <!-- blade -->
+<OGC_Melee_PlagueKnife.tools.1.label>blade</OGC_Melee_PlagueKnife.tools.1.label>
+                                <!-- point -->
+<OGC_Melee_PlagueKnife.tools.2.label>point</OGC_Melee_PlagueKnife.tools.2.label>
+                        <!-- plaguesword -->
+<OGC_Melee_Plaguesword.label>plaguesword</OGC_Melee_Plaguesword.label>
+                              <!-- A Plaguesword is a Daemon Weapon of Nurgle. Each Plaguebearer, the Lesser Daemons of the Plague God, carries a gnarled and spike-ridden blade -- an infamous Plaguesword. Although corroded and battered, these blades drip with a coating of loathsome slime whose touch brings disease and death./n/nVictims not slain outright have been known to come down with all manner of gruesome and deadly maladies. -->
+<OGC_Melee_Plaguesword.description>A Plaguesword is a Daemon Weapon of Nurgle. Each Plaguebearer, the Lesser Daemons of the Plague God, carries a gnarled and spike-ridden blade -- an infamous Plaguesword. Although corroded and battered, these blades drip with a coating of loathsome slime whose touch brings disease and death./n/nVictims not slain outright have been known to come down with all manner of gruesome and deadly maladies.</OGC_Melee_Plaguesword.description>
+                                <!-- blade -->
+<OGC_Melee_Plaguesword.tools.0.label>blade</OGC_Melee_Plaguesword.tools.0.label>
+                                <!-- point -->
+<OGC_Melee_Plaguesword.tools.1.label>point</OGC_Melee_Plaguesword.tools.1.label>
+                      <!-- bile sword (C) -->
+<OGC_Melee_Bileblade.label>bile sword (C)</OGC_Melee_Bileblade.label>
+                            <!-- A bileblade is a foul deamonic weapon of Nurgle, the blade is slick with filth and putrid bile. -->
+<OGC_Melee_Bileblade.description>A bileblade is a foul deamonic weapon of Nurgle, the blade is slick with filth and putrid bile.</OGC_Melee_Bileblade.description>
+                              <!-- blade -->
+<OGC_Melee_Bileblade.tools.0.label>blade</OGC_Melee_Bileblade.tools.0.label>
+                              <!-- point -->
+<OGC_Melee_Bileblade.tools.1.label>point</OGC_Melee_Bileblade.tools.1.label>
+                      <!-- man reaper -->
+<OGC_Melee_ManReaper.label>man reaper</OGC_Melee_ManReaper.label>
+                            <!-- The Manreaper is a daemonic Power Scythe. It is said that even the smell of the pitted scythe can lay a mortal man low for weeks. Though Typhus has never confirmed the rumours that he dipped his weapon in Nurgle's own brew of filth, any mortal being that is touched by its blade quickly collapses into a pile of festering bone. -->
+<OGC_Melee_ManReaper.description>The Manreaper is a daemonic Power Scythe. It is said that even the smell of the pitted scythe can lay a mortal man low for weeks. Though Typhus has never confirmed the rumours that he dipped his weapon in Nurgle's own brew of filth, any mortal being that is touched by its blade quickly collapses into a pile of festering bone.</OGC_Melee_ManReaper.description>
+                              <!-- handle -->
+<OGC_Melee_ManReaper.tools.0.label>handle</OGC_Melee_ManReaper.tools.0.label>
+                              <!-- blade -->
+<OGC_Melee_ManReaper.tools.1.label>blade</OGC_Melee_ManReaper.tools.1.label>
+                             <!-- Deamonic claw -->
+<OGCD_Melee_Deamonette_Claw.label>Deamonic claw</OGCD_Melee_Deamonette_Claw.label>
+                                   <!-- A deamonettes claws are long, razor-edged claws resembling pincers made of Chitin and serrated bone-like substances. Each claw is powered by whipcord muscles to stab, slash, and eviscerate victims with lightning-fast swipes. -->
+<OGCD_Melee_Deamonette_Claw.description>A deamonettes claws are long, razor-edged claws resembling pincers made of Chitin and serrated bone-like substances. Each claw is powered by whipcord muscles to stab, slash, and eviscerate victims with lightning-fast swipes.</OGCD_Melee_Deamonette_Claw.description>
+                                     <!-- claw -->
+<OGCD_Melee_Deamonette_Claw.tools.0.label>claw</OGCD_Melee_Deamonette_Claw.tools.0.label>
+                                     <!-- claw -->
+<OGCD_Melee_Deamonette_Claw.tools.1.label>claw</OGCD_Melee_Deamonette_Claw.tools.1.label>
+                                     <!-- talon -->
+<OGCD_Melee_Deamonette_Claw.tools.2.label>talon</OGCD_Melee_Deamonette_Claw.tools.2.label>
+                                     <!-- talon -->
+<OGCD_Melee_Deamonette_Claw.tools.3.label>talon</OGCD_Melee_Deamonette_Claw.tools.3.label>
+
+</LanguageData>

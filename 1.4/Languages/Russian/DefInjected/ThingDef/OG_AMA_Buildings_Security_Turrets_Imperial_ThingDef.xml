@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/ThingDefs_Buildings/OG_AMA_Buildings_Security_Turrets_Imperial.xml-->
+                                <!-- pintle-mounted storm bolter -->
+<OGI_Turret_StormBolter_Manual.label>pintle-mounted storm bolter</OGI_Turret_StormBolter_Manual.label>
+                                      <!-- A mounted storm bolter turret. Requires a gunner. Can be placed on top of barricades and sandbags. -->
+<OGI_Turret_StormBolter_Manual.description>A mounted storm bolter turret. Requires a gunner. Can be placed on top of barricades and sandbags.</OGI_Turret_StormBolter_Manual.description>
+                            <!-- pintle-mounted storm bolter -->
+<OGI_GunTurret_StormBolter.label>pintle-mounted storm bolter</OGI_GunTurret_StormBolter.label>
+                                  <!-- A storm bolter made to be mounted on a stand. -->
+<OGI_GunTurret_StormBolter.description>A storm bolter made to be mounted on a stand.</OGI_GunTurret_StormBolter.description>
+                                <!-- pintle-mounted heavy bolter -->
+<OGI_Turret_HeavyBolter_Manual.label>pintle-mounted heavy bolter</OGI_Turret_HeavyBolter_Manual.label>
+                                      <!-- A mounted heavy bolter turret. Requires a gunner. Can be placed on top of barricades and sandbags. -->
+<OGI_Turret_HeavyBolter_Manual.description>A mounted heavy bolter turret. Requires a gunner. Can be placed on top of barricades and sandbags.</OGI_Turret_HeavyBolter_Manual.description>
+                            <!-- pintle-mounted heavy bolter -->
+<OGI_GunTurret_HeavyBolter.label>pintle-mounted heavy bolter</OGI_GunTurret_HeavyBolter.label>
+                                  <!-- A heavy bolter made to be mounted on a stand. -->
+<OGI_GunTurret_HeavyBolter.description>A heavy bolter made to be mounted on a stand.</OGI_GunTurret_HeavyBolter.description>
+                                   <!-- quad heavy stubber turret -->
+<OGI_Turret_QuadHeavyStubber_Auto.label>quad heavy stubber turret</OGI_Turret_QuadHeavyStubber_Auto.label>
+                                         <!-- An automatic quad heavy stubber turret. Its capable of laying down awithering hail of fire, but its not the most accurate and its barrel must be refurbished after use. It cannot fire at close-up targets, and may explode when damaged. -->
+<OGI_Turret_QuadHeavyStubber_Auto.description>An automatic quad heavy stubber turret. Its capable of laying down awithering hail of fire, but its not the most accurate and its barrel must be refurbished after use. It cannot fire at close-up targets, and may explode when damaged.</OGI_Turret_QuadHeavyStubber_Auto.description>
+                                                             <!-- Shots until barrel change -->
+<OGI_Turret_QuadHeavyStubber_Auto.comps.Comp_Refuelable.fuelLabel>Shots until barrel change</OGI_Turret_QuadHeavyStubber_Auto.comps.Comp_Refuelable.fuelLabel>
+                                                                  <!-- Barrel durability -->
+<OGI_Turret_QuadHeavyStubber_Auto.comps.Comp_Refuelable.fuelGizmoLabel>Barrel durability</OGI_Turret_QuadHeavyStubber_Auto.comps.Comp_Refuelable.fuelGizmoLabel>
+                                                                    <!-- Cannot shoot: Needs new barrel -->
+<OGI_Turret_QuadHeavyStubber_Auto.comps.Comp_Refuelable.outOfFuelMessage>Cannot shoot: Needs new barrel</OGI_Turret_QuadHeavyStubber_Auto.comps.Comp_Refuelable.outOfFuelMessage>
+                                 <!-- quad heavy stubber -->
+<OGI_GunTurret_QuadHeavyStubber.label>quad heavy stubber</OGI_GunTurret_QuadHeavyStubber.label>
+                                       <!-- A self-loading quad heavy stubber designed to attach to a turret. -->
+<OGI_GunTurret_QuadHeavyStubber.description>A self-loading quad heavy stubber designed to attach to a turret.</OGI_GunTurret_QuadHeavyStubber.description>
+                                  <!-- dual heavy bolter turret -->
+<OGI_Turret_DualHeavyBolter_Auto.label>dual heavy bolter turret</OGI_Turret_DualHeavyBolter_Auto.label>
+                                        <!-- An automatic dual heavy bolter turret. Its capable of laying down awithering hail of fire, but its not the most accurate and its barrel must be refurbished after use. It cannot fire at close-up targets, and may explode when damaged. -->
+<OGI_Turret_DualHeavyBolter_Auto.description>An automatic dual heavy bolter turret. Its capable of laying down awithering hail of fire, but its not the most accurate and its barrel must be refurbished after use. It cannot fire at close-up targets, and may explode when damaged.</OGI_Turret_DualHeavyBolter_Auto.description>
+                                                            <!-- Shots until barrel change -->
+<OGI_Turret_DualHeavyBolter_Auto.comps.Comp_Refuelable.fuelLabel>Shots until barrel change</OGI_Turret_DualHeavyBolter_Auto.comps.Comp_Refuelable.fuelLabel>
+                                                                 <!-- Barrel durability -->
+<OGI_Turret_DualHeavyBolter_Auto.comps.Comp_Refuelable.fuelGizmoLabel>Barrel durability</OGI_Turret_DualHeavyBolter_Auto.comps.Comp_Refuelable.fuelGizmoLabel>
+                                                                   <!-- Cannot shoot: Needs new barrel -->
+<OGI_Turret_DualHeavyBolter_Auto.comps.Comp_Refuelable.outOfFuelMessage>Cannot shoot: Needs new barrel</OGI_Turret_DualHeavyBolter_Auto.comps.Comp_Refuelable.outOfFuelMessage>
+                                <!-- dual heavy bolter -->
+<OGI_GunTurret_DualHeavyBolter.label>dual heavy bolter</OGI_GunTurret_DualHeavyBolter.label>
+                                      <!-- A self-loading dual heavy bolter designed to attach to a turret. -->
+<OGI_GunTurret_DualHeavyBolter.description>A self-loading dual heavy bolter designed to attach to a turret.</OGI_GunTurret_DualHeavyBolter.description>
+                             <!-- autocannon turret -->
+<OGI_Turret_Autocannon_Auto.label>autocannon turret</OGI_Turret_Autocannon_Auto.label>
+                                   <!-- An automatic autocannon turret. Its large-caliber shells do heavy damage over significant ranges, but its barrel must be refurbished after use. It cannot fire at close-up targets, and may explode when damaged. -->
+<OGI_Turret_Autocannon_Auto.description>An automatic autocannon turret. Its large-caliber shells do heavy damage over significant ranges, but its barrel must be refurbished after use. It cannot fire at close-up targets, and may explode when damaged.</OGI_Turret_Autocannon_Auto.description>
+                                                       <!-- Shots until barrel change -->
+<OGI_Turret_Autocannon_Auto.comps.Comp_Refuelable.fuelLabel>Shots until barrel change</OGI_Turret_Autocannon_Auto.comps.Comp_Refuelable.fuelLabel>
+                                                            <!-- Barrel durability -->
+<OGI_Turret_Autocannon_Auto.comps.Comp_Refuelable.fuelGizmoLabel>Barrel durability</OGI_Turret_Autocannon_Auto.comps.Comp_Refuelable.fuelGizmoLabel>
+                                                              <!-- Cannot shoot: Needs new barrel -->
+<OGI_Turret_Autocannon_Auto.comps.Comp_Refuelable.outOfFuelMessage>Cannot shoot: Needs new barrel</OGI_Turret_Autocannon_Auto.comps.Comp_Refuelable.outOfFuelMessage>
+                           <!-- autocannon -->
+<OGI_GunTurret_Autocannon.label>autocannon</OGI_GunTurret_Autocannon.label>
+                                 <!-- A self-loading large-bore cannon designed to attach to a turret. -->
+<OGI_GunTurret_Autocannon.description>A self-loading large-bore cannon designed to attach to a turret.</OGI_GunTurret_Autocannon.description>
+                            <!-- lascannon turret -->
+<OGI_Turret_Lascannon_Auto.label>lascannon turret</OGI_Turret_Lascannon_Auto.label>
+                                  <!-- An automatic lascannon turret. Its beam can do heavy damage over significant ranges, but it draws a large amount of power and must be connected to batteries to fire. It cannot fire at close-up targets, and may explode when damaged. -->
+<OGI_Turret_Lascannon_Auto.description>An automatic lascannon turret. Its beam can do heavy damage over significant ranges, but it draws a large amount of power and must be connected to batteries to fire. It cannot fire at close-up targets, and may explode when damaged.</OGI_Turret_Lascannon_Auto.description>
+                          <!-- lascannon -->
+<OGI_GunTurret_Lascannon.label>lascannon</OGI_GunTurret_Lascannon.label>
+                                <!-- A lascannon designed to attach to a turret. -->
+<OGI_GunTurret_Lascannon.description>A lascannon designed to attach to a turret.</OGI_GunTurret_Lascannon.description>
+                                <!-- twin-linked lascannon turret -->
+<OGI_Turret_LascannonDual_Auto.label>twin-linked lascannon turret</OGI_Turret_LascannonDual_Auto.label>
+                                      <!-- An automatic twin-linked lascannon turret. Its beam can do heavy damage over significant ranges, but it draws a large amount of power and must be connected to batteries to fire. It cannot fire at close-up targets, and may explode when damaged. -->
+<OGI_Turret_LascannonDual_Auto.description>An automatic twin-linked lascannon turret. Its beam can do heavy damage over significant ranges, but it draws a large amount of power and must be connected to batteries to fire. It cannot fire at close-up targets, and may explode when damaged.</OGI_Turret_LascannonDual_Auto.description>
+                              <!-- twin-linked lascannon -->
+<OGI_GunTurret_LascannonDual.label>twin-linked lascannon</OGI_GunTurret_LascannonDual.label>
+                                    <!-- A twin-linked lascannon designed to attach to a turret. -->
+<OGI_GunTurret_LascannonDual.description>A twin-linked lascannon designed to attach to a turret.</OGI_GunTurret_LascannonDual.description>
+
+</LanguageData>

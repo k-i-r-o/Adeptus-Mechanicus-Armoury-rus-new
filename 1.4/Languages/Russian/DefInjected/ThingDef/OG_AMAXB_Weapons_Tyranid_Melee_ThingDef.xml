@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/ThingDefs_Misc/Weapons/OG_AMAXB_Weapons_Tyranid_Melee.xml.bak-->
+                           <!-- scything talons -->
+<OGTY_Melee_Hormagaunt_ST.label>scything talons</OGTY_Melee_Hormagaunt_ST.label>
+                                 <!-- Scything Talons are a Tyranid biomorph of long, razor-edged claws resembling fused talons made of Chitin and serrated bone-like substances. Each talon is powered by whipcord muscles to stab, slash, and eviscerate victims with lightning-fast swipes. -->
+<OGTY_Melee_Hormagaunt_ST.description>Scything Talons are a Tyranid biomorph of long, razor-edged claws resembling fused talons made of Chitin and serrated bone-like substances. Each talon is powered by whipcord muscles to stab, slash, and eviscerate victims with lightning-fast swipes.</OGTY_Melee_Hormagaunt_ST.description>
+                                   <!-- claw -->
+<OGTY_Melee_Hormagaunt_ST.tools.0.label>claw</OGTY_Melee_Hormagaunt_ST.tools.0.label>
+                                   <!-- claw -->
+<OGTY_Melee_Hormagaunt_ST.tools.1.label>claw</OGTY_Melee_Hormagaunt_ST.tools.1.label>
+                                   <!-- talon -->
+<OGTY_Melee_Hormagaunt_ST.tools.2.label>talon</OGTY_Melee_Hormagaunt_ST.tools.2.label>
+                                   <!-- talon -->
+<OGTY_Melee_Hormagaunt_ST.tools.3.label>talon</OGTY_Melee_Hormagaunt_ST.tools.3.label>
+                            <!-- rending claws -->
+<OGTY_Melee_Genestealer_RC.label>rending claws</OGTY_Melee_Genestealer_RC.label>
+                                  <!-- Rending Claws are a Tyranid Bio-weapon consisting of short, deadly claws tipped in extremely dense diamond-hard chitin. Powered by the overdeveloped musculature and steel-like tendons of a Tyranid, rending claws become capable of ripping open Ceramite and thick armour with ease as well as fatally shredding flesh and bone. -->
+<OGTY_Melee_Genestealer_RC.description>Rending Claws are a Tyranid Bio-weapon consisting of short, deadly claws tipped in extremely dense diamond-hard chitin. Powered by the overdeveloped musculature and steel-like tendons of a Tyranid, rending claws become capable of ripping open Ceramite and thick armour with ease as well as fatally shredding flesh and bone.</OGTY_Melee_Genestealer_RC.description>
+                                    <!-- claw -->
+<OGTY_Melee_Genestealer_RC.tools.0.label>claw</OGTY_Melee_Genestealer_RC.tools.0.label>
+                                    <!-- claw -->
+<OGTY_Melee_Genestealer_RC.tools.1.label>claw</OGTY_Melee_Genestealer_RC.tools.1.label>
+                                    <!-- talon -->
+<OGTY_Melee_Genestealer_RC.tools.2.label>talon</OGTY_Melee_Genestealer_RC.tools.2.label>
+                                    <!-- talon -->
+<OGTY_Melee_Genestealer_RC.tools.3.label>talon</OGTY_Melee_Genestealer_RC.tools.3.label>
+                        <!-- scything talons -->
+<OGTY_Melee_Ravener_ST.label>scything talons</OGTY_Melee_Ravener_ST.label>
+                              <!-- Scything Talons are a Tyranid biomorph of long, razor-edged claws resembling fused talons made of Chitin and serrated bone-like substances. Each talon is powered by whipcord muscles to stab, slash, and eviscerate victims with lightning-fast swipes. -->
+<OGTY_Melee_Ravener_ST.description>Scything Talons are a Tyranid biomorph of long, razor-edged claws resembling fused talons made of Chitin and serrated bone-like substances. Each talon is powered by whipcord muscles to stab, slash, and eviscerate victims with lightning-fast swipes.</OGTY_Melee_Ravener_ST.description>
+                                <!-- talon -->
+<OGTY_Melee_Ravener_ST.tools.0.label>talon</OGTY_Melee_Ravener_ST.tools.0.label>
+                                <!-- talon -->
+<OGTY_Melee_Ravener_ST.tools.1.label>talon</OGTY_Melee_Ravener_ST.tools.1.label>
+                       <!-- scything talons -->
+<OGTY_Melee_Lictor_ST.label>scything talons</OGTY_Melee_Lictor_ST.label>
+                             <!-- Scything Talons are a Tyranid biomorph of long, razor-edged claws resembling fused talons made of Chitin and serrated bone-like substances. Each talon is powered by whipcord muscles to stab, slash, and eviscerate victims with lightning-fast swipes. -->
+<OGTY_Melee_Lictor_ST.description>Scything Talons are a Tyranid biomorph of long, razor-edged claws resembling fused talons made of Chitin and serrated bone-like substances. Each talon is powered by whipcord muscles to stab, slash, and eviscerate victims with lightning-fast swipes.</OGTY_Melee_Lictor_ST.description>
+                               <!-- talon -->
+<OGTY_Melee_Lictor_ST.tools.0.label>talon</OGTY_Melee_Lictor_ST.tools.0.label>
+                               <!-- talon -->
+<OGTY_Melee_Lictor_ST.tools.1.label>talon</OGTY_Melee_Lictor_ST.tools.1.label>
+                           <!-- scything talons crushing claws -->
+<OGTY_Melee_Carnifex_STCC.label>scything talons crushing claws</OGTY_Melee_Carnifex_STCC.label>
+                                 <!-- Scything Talons are a Tyranid biomorph of long, razor-edged claws resembling fused talons made of Chitin and serrated bone-like substances. Each talon is powered by whipcord muscles to stab, slash, and eviscerate victims with lightning-fast swipes.
+
+Crushing Claws are a Tyranid Bio-weapon of huge crab-like claws found on the largest Tyranid organisms, the only creatures capable of hefting the enormous bulk of the claws, such as Carnifexes. The claws are obscenely strong and powerful enough to destroy multiple opponents in one swoop or easy cut through the toughest vehicle armour. -->
+<OGTY_Melee_Carnifex_STCC.description>Scything Talons are a Tyranid biomorph of long, razor-edged claws resembling fused talons made of Chitin and serrated bone-like substances. Each talon is powered by whipcord muscles to stab, slash, and eviscerate victims with lightning-fast swipes.\n\nCrushing Claws are a Tyranid Bio-weapon of huge crab-like claws found on the largest Tyranid organisms, the only creatures capable of hefting the enormous bulk of the claws, such as Carnifexes. The claws are obscenely strong and powerful enough to destroy multiple opponents in one swoop or easy cut through the toughest vehicle armour.</OGTY_Melee_Carnifex_STCC.description>
+                                   <!-- claw -->
+<OGTY_Melee_Carnifex_STCC.tools.0.label>claw</OGTY_Melee_Carnifex_STCC.tools.0.label>
+                                   <!-- claw -->
+<OGTY_Melee_Carnifex_STCC.tools.1.label>claw</OGTY_Melee_Carnifex_STCC.tools.1.label>
+                                   <!-- talon -->
+<OGTY_Melee_Carnifex_STCC.tools.2.label>talon</OGTY_Melee_Carnifex_STCC.tools.2.label>
+                                   <!-- talon -->
+<OGTY_Melee_Carnifex_STCC.tools.3.label>talon</OGTY_Melee_Carnifex_STCC.tools.3.label>
+
+</LanguageData>

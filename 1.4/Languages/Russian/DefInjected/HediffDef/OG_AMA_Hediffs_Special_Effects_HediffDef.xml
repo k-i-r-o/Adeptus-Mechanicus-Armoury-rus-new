@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/HediffDefs/OG_AMA_Hediffs_Special_Effects.xml-->
+                      <!-- Servo Arm -->
+<OGI_HeDiff_ServoArm.label>Servo Arm</OGI_HeDiff_ServoArm.label>
+                          <!-- servo arm attack -->
+<OGI_HeDiff_ServoArm.labelNoun>servo arm attack</OGI_HeDiff_ServoArm.labelNoun>
+                               <!-- initial -->
+<OGI_HeDiff_ServoArm.stages.0.label>initial</OGI_HeDiff_ServoArm.stages.0.label>
+                                                         <!-- servo Arm -->
+<OGI_HeDiff_ServoArm.comps.HediffComp_VerbGiver.tools.0.label>servo Arm</OGI_HeDiff_ServoArm.comps.HediffComp_VerbGiver.tools.0.label>
+                            <!-- description -->
+<OGI_HeDiff_ServoArm.description>description</OGI_HeDiff_ServoArm.description>
+              <!-- Holographic -->
+<Holographic.label>Holographic</Holographic.label>
+                  <!-- Holographic -->
+<Holographic.labelNoun>Holographic</Holographic.labelNoun>
+                    <!-- description -->
+<Holographic.description>description</Holographic.description>
+                           <!-- Banshee Scream -->
+<OGE_HeDiff_BansheeScream.label>Banshee Scream</OGE_HeDiff_BansheeScream.label>
+                               <!-- banshee sonic attack -->
+<OGE_HeDiff_BansheeScream.labelNoun>banshee sonic attack</OGE_HeDiff_BansheeScream.labelNoun>
+                                    <!-- initial -->
+<OGE_HeDiff_BansheeScream.stages.0.label>initial</OGE_HeDiff_BansheeScream.stages.0.label>
+                                 <!-- description -->
+<OGE_HeDiff_BansheeScream.description>description</OGE_HeDiff_BansheeScream.description>
+                    <!-- webbed -->
+<OGU_HeDiff_Webbed.label>webbed</OGU_HeDiff_Webbed.label>
+                        <!-- a sticky web -->
+<OGU_HeDiff_Webbed.labelNoun>a sticky web</OGU_HeDiff_Webbed.labelNoun>
+                          <!-- description -->
+<OGU_HeDiff_Webbed.description>description</OGU_HeDiff_Webbed.description>
+                              <!-- regrowing -->
+<OG_Hediff_Regenerating_Part.label>regrowing</OG_Hediff_Regenerating_Part.label>
+                                    <!-- description -->
+<OG_Hediff_Regenerating_Part.description>description</OG_Hediff_Regenerating_Part.description>
+                             <!-- regenerated bodypart -->
+<OG_Hediff_Regenerated_Part.label>regenerated bodypart</OG_Hediff_Regenerated_Part.label>
+                                   <!-- description -->
+<OG_Hediff_Regenerated_Part.description>description</OG_Hediff_Regenerated_Part.description>
+
+</LanguageData>

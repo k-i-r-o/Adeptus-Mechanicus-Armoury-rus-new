@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/RecipeDefs/OG_AMA_Recipes_Production_Tau.xml-->
+                    <!-- make tau component -->
+<Make_ComponentTau.label>make tau component</Make_ComponentTau.label>
+                          <!-- Make a tau component. -->
+<Make_ComponentTau.description>Make a tau component.</Make_ComponentTau.description>
+                        <!-- Making tau component. -->
+<Make_ComponentTau.jobString>Making tau component.</Make_ComponentTau.jobString>
+                  <!-- make fio'tak -->
+<Make_OGT_Fiotak.label>make fio'tak</Make_OGT_Fiotak.label>
+                        <!-- Make fio'tak. -->
+<Make_OGT_Fiotak.description>Make fio'tak.</Make_OGT_Fiotak.description>
+                      <!-- Making fio'tak. -->
+<Make_OGT_Fiotak.jobString>Making fio'tak.</Make_OGT_Fiotak.jobString>
+                     <!-- make mor'tonium -->
+<Make_OGT_Mortonium.label>make mor'tonium</Make_OGT_Mortonium.label>
+                           <!-- Make mor'tonium. -->
+<Make_OGT_Mortonium.description>Make mor'tonium.</Make_OGT_Mortonium.description>
+                         <!-- Making mor'tonium. -->
+<Make_OGT_Mortonium.jobString>Making mor'tonium.</Make_OGT_Mortonium.jobString>
+
+</LanguageData>

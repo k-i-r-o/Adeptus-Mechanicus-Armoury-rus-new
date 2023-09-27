@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/AbilityDefs/OG_AMA_Abilities_CombiWeapons.xml-->
+                         <!-- Fire Flamer -->
+<OGI_Ability_FireFlamer.label>Fire Flamer</OGI_Ability_FireFlamer.label>
+                               <!-- Fire built in Flamer. -->
+<OGI_Ability_FireFlamer.description>Fire built in Flamer.</OGI_Ability_FireFlamer.description>
+                        <!-- Fire Melta -->
+<OGI_Ability_FireMelta.label>Fire Melta</OGI_Ability_FireMelta.label>
+                              <!-- Fire built in Melta. -->
+<OGI_Ability_FireMelta.description>Fire built in Melta.</OGI_Ability_FireMelta.description>
+                         <!-- Fire Plasma -->
+<OGI_Ability_FirePlasma.label>Fire Plasma</OGI_Ability_FirePlasma.label>
+                               <!-- Fire built in Plasmagun. -->
+<OGI_Ability_FirePlasma.description>Fire built in Plasmagun.</OGI_Ability_FirePlasma.description>
+                       <!-- Fire Gravgun -->
+<OGI_Ability_FireGrav.label>Fire Gravgun</OGI_Ability_FireGrav.label>
+                             <!-- Fire built in Gravgun. -->
+<OGI_Ability_FireGrav.description>Fire built in Gravgun.</OGI_Ability_FireGrav.description>
+                        <!-- Fire Burna -->
+<OGO_Ability_FireBurna.label>Fire Burna</OGO_Ability_FireBurna.label>
+                              <!-- Fire built in Burna. -->
+<OGO_Ability_FireBurna.description>Fire built in Burna.</OGO_Ability_FireBurna.description>
+                         <!-- Fire Rokkit -->
+<OGO_Ability_FireRokkit.label>Fire Rokkit</OGO_Ability_FireRokkit.label>
+                               <!-- Fire built in Plasmagun. -->
+<OGO_Ability_FireRokkit.description>Fire built in Plasmagun.</OGO_Ability_FireRokkit.description>
+
+</LanguageData>

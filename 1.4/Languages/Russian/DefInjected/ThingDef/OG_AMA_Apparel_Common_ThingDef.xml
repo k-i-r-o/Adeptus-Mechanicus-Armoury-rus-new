@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/ThingDefs_Misc/Apparel/OG_AMA_Apparel_Common.xml-->
+                          <!-- tribalcloak -->
+<OG_Apparel_Tribal_Cloak.label>tribalcloak</OG_Apparel_Tribal_Cloak.label>
+                                <!-- A full-body garment crafted using neolithic tools. While it may look primitive, it is effective at insulating the wearer. -->
+<OG_Apparel_Tribal_Cloak.description>A full-body garment crafted using neolithic tools. While it may look primitive, it is effective at insulating the wearer.</OG_Apparel_Tribal_Cloak.description>
+                   <!-- cloak -->
+<OG_Apparel_Cloak.label>cloak</OG_Apparel_Cloak.label>
+                         <!-- A full-body garment, While it may look primitive, it is effective at insulating the wearer. -->
+<OG_Apparel_Cloak.description>A full-body garment, While it may look primitive, it is effective at insulating the wearer.</OG_Apparel_Cloak.description>
+
+</LanguageData>

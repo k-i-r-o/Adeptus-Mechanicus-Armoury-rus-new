@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/BackstoryDefs/Imperium Backstories/Militarum/Imperial_Guardsman_Colonel.xml-->
+                                <!-- imperial guard colonel -->
+<OG_Imperial_Militarum_Colonel.title>imperial guard colonel</OG_Imperial_Militarum_Colonel.title>
+                                   <!-- [PAWN_nameDef] was promoted to the rank of Colonel of tbeir regiment. [PAWN_pronoun] was tasked with collaborating with other Colonels and taking orders from their General.  -->
+<OG_Imperial_Militarum_Colonel.baseDesc>[PAWN_nameDef] was promoted to the rank of Colonel of tbeir regiment. [PAWN_pronoun] was tasked with collaborating with other Colonels and taking orders from their General. </OG_Imperial_Militarum_Colonel.baseDesc>
+
+</LanguageData>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/BackstoryDefs/Imperium Backstories/Mechanicus/Child_Forgeworlder.xml-->
+                                   <!-- [PAWN_nameDef] was born on a Forge World that produced the materials required by the Imperium. -->
+<OG_Imperial_Child_Forge_World.baseDesc>[PAWN_nameDef] was born on a Forge World that produced the materials required by the Imperium.</OG_Imperial_Child_Forge_World.baseDesc>
+                                          <!-- [PAWN_nameDef] showed exceptional talent at understanding, creating and maintaning complex machinery from an early age, awarding him a way into the upper ranks of the Adeptus Mechanicus. -->
+<OG_Imperial_Child_Mechanicus_Prodigy.baseDesc>[PAWN_nameDef] showed exceptional talent at understanding, creating and maintaning complex machinery from an early age, awarding him a way into the upper ranks of the Adeptus Mechanicus.</OG_Imperial_Child_Mechanicus_Prodigy.baseDesc>
+                                         <!-- Forgeworld urchin -->
+<OG_Imperial_Child_Mechanicus_Forgeborn.title>Forgeworld urchin</OG_Imperial_Child_Mechanicus_Forgeborn.title>
+                                              <!-- Forge urchin -->
+<OG_Imperial_Child_Mechanicus_Forgeborn.titleShort>Forge urchin</OG_Imperial_Child_Mechanicus_Forgeborn.titleShort>
+                                            <!-- [PAWN_nameDef] grew up on a forge-world. Through hard work and discipline [PAWN_pronoun] earned entry into the ranks of the Adeptus Mechanicus. -->
+<OG_Imperial_Child_Mechanicus_Forgeborn.baseDesc>[PAWN_nameDef] grew up on a forge-world. Through hard work and discipline [PAWN_pronoun] earned entry into the ranks of the Adeptus Mechanicus.</OG_Imperial_Child_Mechanicus_Forgeborn.baseDesc>
+                                      <!-- [PAWN_pronoun] became a fervent follower of the machine-cult and was consequently turned into a cybernetic warrior for the Legiones Skitarii. -->
+<OG_Imperial_Mechanicus_Skitarius.baseDesc>[PAWN_pronoun] became a fervent follower of the machine-cult and was consequently turned into a cybernetic warrior for the Legiones Skitarii.</OG_Imperial_Mechanicus_Skitarius.baseDesc>
+
+</LanguageData>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/ThingDefs_Misc/Weapons/OG_AMA_Weapons_DarkEldar_Ranged.xml-->
+                       <!-- Splinter -->
+<OGDE_Bullet_Splinter.label>Splinter</OGDE_Bullet_Splinter.label>
+                            <!-- Toxic Splinter -->
+<OGDE_Bullet_ToxicSplinter.label>Toxic Splinter</OGDE_Bullet_ToxicSplinter.label>
+                          <!-- splinter pistol (DE) -->
+<OGDE_Gun_SplinterPistol.label>splinter pistol (DE)</OGDE_Gun_SplinterPistol.label>
+                                <!-- The Splinter Pistol is the ranged weapon of choice for most the remainder of the Dark Eldar forces, finding frequent use in the ranks of Archons, Wyches, Reaver Jetbikers and most Sybarites and Dracons. Usually paired with a Monomolecular Knife or Claw and used as a pair for added effectiveness in assaults. The Splinter Pistol uses the same ammunition and firing mechanisms as the rifle, although compacted and therefore have shorter range, and with a smaller ammunition crystal to reduce the weight even further. Splinter Pistol crystals are therefore the most frequently impregnated with toxins, as they are the weapons that most need the added effect.
+
+The gun houses an ammunition disintegration generator to break up the crystal into shards, along with a cyclic ammunition feeder to house the shards before firing. Once fired, it routes the energy used to disintegrate the ammunition crystal through a magno-electric impulse chamber that accelerates the crystal to supersonic speeds, rocketing it towards its intended target. -->
+<OGDE_Gun_SplinterPistol.description>The Splinter Pistol is the ranged weapon of choice for most the remainder of the Dark Eldar forces, finding frequent use in the ranks of Archons, Wyches, Reaver Jetbikers and most Sybarites and Dracons. Usually paired with a Monomolecular Knife or Claw and used as a pair for added effectiveness in assaults. The Splinter Pistol uses the same ammunition and firing mechanisms as the rifle, although compacted and therefore have shorter range, and with a smaller ammunition crystal to reduce the weight even further. Splinter Pistol crystals are therefore the most frequently impregnated with toxins, as they are the weapons that most need the added effect.\n\nThe gun houses an ammunition disintegration generator to break up the crystal into shards, along with a cyclic ammunition feeder to house the shards before firing. Once fired, it routes the energy used to disintegrate the ammunition crystal through a magno-electric impulse chamber that accelerates the crystal to supersonic speeds, rocketing it towards its intended target.</OGDE_Gun_SplinterPistol.description>
+                                  <!-- stock -->
+<OGDE_Gun_SplinterPistol.tools.0.label>stock</OGDE_Gun_SplinterPistol.tools.0.label>
+                                  <!-- barrel -->
+<OGDE_Gun_SplinterPistol.tools.1.label>barrel</OGDE_Gun_SplinterPistol.tools.1.label>
+                         <!-- splinter rifle (DE) -->
+<OGDE_Gun_SplinterRifle.label>splinter rifle (DE)</OGDE_Gun_SplinterRifle.label>
+                               <!-- The most common weapon in the Dark Eldar Armoury, the Splinter Rifle is used by nearly every citizen of Commorragh at some point in their lives. It is the standard weapon of choice for Kabalite Warriors. The weapon is lightweight and usually sports Monomolecular Blades for added functionality in melee combat. It features a medium sized ammunition crystal to reduce weight while still maintaining a decent amount of ammo before the user needs to reload.
+
+The gun houses an ammunition disintegration generator to break up the crystal into shards, along with a cyclic ammunition feeder to house the shards before firing. Once fired, it routes the energy used to disintegrate the ammunition crystal through a magno-electric impulse chamber that accelerates the crystal to supersonic speeds, rocketing it towards its intended target. -->
+<OGDE_Gun_SplinterRifle.description>The most common weapon in the Dark Eldar Armoury, the Splinter Rifle is used by nearly every citizen of Commorragh at some point in their lives. It is the standard weapon of choice for Kabalite Warriors. The weapon is lightweight and usually sports Monomolecular Blades for added functionality in melee combat. It features a medium sized ammunition crystal to reduce weight while still maintaining a decent amount of ammo before the user needs to reload.\n\nThe gun houses an ammunition disintegration generator to break up the crystal into shards, along with a cyclic ammunition feeder to house the shards before firing. Once fired, it routes the energy used to disintegrate the ammunition crystal through a magno-electric impulse chamber that accelerates the crystal to supersonic speeds, rocketing it towards its intended target.</OGDE_Gun_SplinterRifle.description>
+                                 <!-- stock -->
+<OGDE_Gun_SplinterRifle.tools.0.label>stock</OGDE_Gun_SplinterRifle.tools.0.label>
+                                 <!-- barrel -->
+<OGDE_Gun_SplinterRifle.tools.1.label>barrel</OGDE_Gun_SplinterRifle.tools.1.label>
+                        <!-- shardcarbine (DE) -->
+<OGDE_Gun_ShardCarbine.label>shardcarbine (DE)</OGDE_Gun_ShardCarbine.label>
+                              <!-- The Shardcarbine has an enlarged barrel able to launch even greater volleys of toxic crystal-ammunition than the normal Splinter Rifle without interrupting the shooter at all. This weapon's range is little bit shorter than a splinter rifle and is favoured by Scourges. Some Trueborns prefer this gun over others they would be able to possess.
+
+The gun houses an ammunition disintegration generator to break up the crystal into shards, along with a cyclic ammunition feeder to house the shards before firing. Once fired, it routes the energy used to disintegrate the ammunition crystal through a magno-electric impulse chamber that accelerates the crystal to supersonic speeds, rocketing it towards its intended target. -->
+<OGDE_Gun_ShardCarbine.description>The Shardcarbine has an enlarged barrel able to launch even greater volleys of toxic crystal-ammunition than the normal Splinter Rifle without interrupting the shooter at all. This weapon's range is little bit shorter than a splinter rifle and is favoured by Scourges. Some Trueborns prefer this gun over others they would be able to possess.\n\nThe gun houses an ammunition disintegration generator to break up the crystal into shards, along with a cyclic ammunition feeder to house the shards before firing. Once fired, it routes the energy used to disintegrate the ammunition crystal through a magno-electric impulse chamber that accelerates the crystal to supersonic speeds, rocketing it towards its intended target.</OGDE_Gun_ShardCarbine.description>
+                                <!-- stock -->
+<OGDE_Gun_ShardCarbine.tools.0.label>stock</OGDE_Gun_ShardCarbine.tools.0.label>
+                                <!-- barrel -->
+<OGDE_Gun_ShardCarbine.tools.1.label>barrel</OGDE_Gun_ShardCarbine.tools.1.label>
+                             <!-- large splinter -->
+<OGDE_Bullet_SplinterCannon.label>large splinter</OGDE_Bullet_SplinterCannon.label>
+                                  <!-- Toxic Splinter -->
+<OGDE_Bullet_ToxicSplinterCannon.label>Toxic Splinter</OGDE_Bullet_ToxicSplinterCannon.label>
+                          <!-- splinter cannon (DE) -->
+<OGDE_Gun_SplinterCannon.label>splinter cannon (DE)</OGDE_Gun_SplinterCannon.label>
+                                <!-- The Splinter Cannon is the most lethal of the four, and much more expensive to produce, as it incorporates several additions to allow the user to fire this large, bulky weapon even while charging into assault.
+
+The primary additions are a semi-liquid stabilization mechanism housed approximately in the center of the cannon, to provide a counterweight to the constantly fluctuating center of gravity on the weapon. Second, an auto-burst trigger will continue to fire splinters for four to five seconds after it has been pulled, in case the user loses his grip temporarily during the charge. Finally, and possibly most important, is the addition of magneto-impulse directional spines along the barrel, and a secondary power generator housed in the back of the cannon, to prevent stalling or improper functioning. These directional spines provide additional magnetic field stability, preventing the splinters from exiting the barrel traveling at an awkward angle or hitting the inside of the barrel and causing damage to the weapon.
+
+The Splinter Cannon otherwise contains the same mechanism for loading and firing ammunition, and comes with a very large ammunition crystal to allow for extended use of the cannon regardless of its high rate of fire. -->
+<OGDE_Gun_SplinterCannon.description>The Splinter Cannon is the most lethal of the four, and much more expensive to produce, as it incorporates several additions to allow the user to fire this large, bulky weapon even while charging into assault.\n\nThe primary additions are a semi-liquid stabilization mechanism housed approximately in the center of the cannon, to provide a counterweight to the constantly fluctuating center of gravity on the weapon. Second, an auto-burst trigger will continue to fire splinters for four to five seconds after it has been pulled, in case the user loses his grip temporarily during the charge. Finally, and possibly most important, is the addition of magneto-impulse directional spines along the barrel, and a secondary power generator housed in the back of the cannon, to prevent stalling or improper functioning. These directional spines provide additional magnetic field stability, preventing the splinters from exiting the barrel traveling at an awkward angle or hitting the inside of the barrel and causing damage to the weapon.\n\nThe Splinter Cannon otherwise contains the same mechanism for loading and firing ammunition, and comes with a very large ammunition crystal to allow for extended use of the cannon regardless of its high rate of fire.</OGDE_Gun_SplinterCannon.description>
+                                  <!-- stock -->
+<OGDE_Gun_SplinterCannon.tools.0.label>stock</OGDE_Gun_SplinterCannon.tools.0.label>
+                                  <!-- barrel -->
+<OGDE_Gun_SplinterCannon.tools.1.label>barrel</OGDE_Gun_SplinterCannon.tools.1.label>
+                                  <!-- Disintegrator Bolt -->
+<OGDE_Bullet_DisintegratorCannon.label>Disintegrator Bolt</OGDE_Bullet_DisintegratorCannon.label>
+                               <!-- disintegrator cannon (DE) -->
+<OGDE_Gun_DisintegratorCannon.label>disintegrator cannon (DE)</OGDE_Gun_DisintegratorCannon.label>
+                                     <!-- The Disintegrator Cannon is a Dark Eldar weapon, able to fire burst of particles of unstable matter from a stolen sun. It is similar to Imperial plasma weapons but more sophisticated and does not suffer from the same over-heating problems. It remains cool even in the fiercest battles despite the ravening energies housed within. -->
+<OGDE_Gun_DisintegratorCannon.description>The Disintegrator Cannon is a Dark Eldar weapon, able to fire burst of particles of unstable matter from a stolen sun. It is similar to Imperial plasma weapons but more sophisticated and does not suffer from the same over-heating problems. It remains cool even in the fiercest battles despite the ravening energies housed within.</OGDE_Gun_DisintegratorCannon.description>
+                                       <!-- barrel -->
+<OGDE_Gun_DisintegratorCannon.tools.0.label>barrel</OGDE_Gun_DisintegratorCannon.tools.0.label>
+                       <!-- Monofilament Mesh -->
+<OGDE_Bullet_Shredder.label>Monofilament Mesh</OGDE_Bullet_Shredder.label>
+                    <!-- shredder (DE) -->
+<OGDE_Gun_Shredder.label>shredder (DE)</OGDE_Gun_Shredder.label>
+                          <!-- the Shredder is a weapon used primarily by Dark Eldar Warriors. When the gun is fired at its target, it unleashes an expanding mesh of monofilaments with miniscule barbs along their lenght. The mesh entangles the victim in an invisible net that slices apart the target as it struggles. -->
+<OGDE_Gun_Shredder.description>the Shredder is a weapon used primarily by Dark Eldar Warriors. When the gun is fired at its target, it unleashes an expanding mesh of monofilaments with miniscule barbs along their lenght. The mesh entangles the victim in an invisible net that slices apart the target as it struggles.</OGDE_Gun_Shredder.description>
+                            <!-- stock -->
+<OGDE_Gun_Shredder.tools.0.label>stock</OGDE_Gun_Shredder.tools.0.label>
+                            <!-- barrel -->
+<OGDE_Gun_Shredder.tools.1.label>barrel</OGDE_Gun_Shredder.tools.1.label>
+                      <!-- small Stinger -->
+<OGDE_Bullet_Stinger.label>small Stinger</OGDE_Bullet_Stinger.label>
+                         <!-- stinger pistol (DE) -->
+<OGDE_Gun_StingerPistol.label>stinger pistol (DE)</OGDE_Gun_StingerPistol.label>
+                               <!-- The Stinger is a Dark Eldar weapon used primarily by Haemonculi. This weapon resembles a smaller, more rounded Splinter Pistol, although the similarities end there. The Stinger, instead, fires small hypodermic needles at the target, the cavity of which contain an incredibly exotic bacteria. This bacteria, once introduced to the target's bloodstream, multiplies quickly, and shortly afterwards causes the victim to literally explode, sending fragments of bone and armor flying in all directions. In the event that the victim's comrades are close enough or unlucky enough to have one of these fragments lodged in their bodies, the bacteria will travel from the lodged debris into the comrade's bloodstream, multiplying and ultimately causing them to explode.. -->
+<OGDE_Gun_StingerPistol.description>The Stinger is a Dark Eldar weapon used primarily by Haemonculi. This weapon resembles a smaller, more rounded Splinter Pistol, although the similarities end there. The Stinger, instead, fires small hypodermic needles at the target, the cavity of which contain an incredibly exotic bacteria. This bacteria, once introduced to the target's bloodstream, multiplies quickly, and shortly afterwards causes the victim to literally explode, sending fragments of bone and armor flying in all directions. In the event that the victim's comrades are close enough or unlucky enough to have one of these fragments lodged in their bodies, the bacteria will travel from the lodged debris into the comrade's bloodstream, multiplying and ultimately causing them to explode..</OGDE_Gun_StingerPistol.description>
+                                 <!-- stock -->
+<OGDE_Gun_StingerPistol.tools.0.label>stock</OGDE_Gun_StingerPistol.tools.0.label>
+                                 <!-- barrel -->
+<OGDE_Gun_StingerPistol.tools.1.label>barrel</OGDE_Gun_StingerPistol.tools.1.label>
+                        <!-- darklight beam -->
+<OGDE_Bullet_Darklance.label>darklight beam</OGDE_Bullet_Darklance.label>
+                       <!-- blast pistol (DE) -->
+<OGDE_Gun_BlastPistol.label>blast pistol (DE)</OGDE_Gun_BlastPistol.label>
+                             <!-- A smaller hand-held version of the Blaster is known as the Blast Pistol. This allows for Warrior squads to launch volleys of this devastating energy while running, although the more compact build of the gun significantly shortens the maximum range of the device. The device uses magnetic containment and stabilization fields to prevent the Darklight from damaging the weapon or its user. The Darklight is accelerated very rapidly down the barrel by these same containment fields. Upon making contact with its target, it reacts very violently, tearing through armor regardless of thickness or composition, and in the event of the Dark Lances use on infantry, it's incredibly rare that any sign of the unfortunate target is left whatsoever. -->
+<OGDE_Gun_BlastPistol.description>A smaller hand-held version of the Blaster is known as the Blast Pistol. This allows for Warrior squads to launch volleys of this devastating energy while running, although the more compact build of the gun significantly shortens the maximum range of the device. The device uses magnetic containment and stabilization fields to prevent the Darklight from damaging the weapon or its user. The Darklight is accelerated very rapidly down the barrel by these same containment fields. Upon making contact with its target, it reacts very violently, tearing through armor regardless of thickness or composition, and in the event of the Dark Lances use on infantry, it's incredibly rare that any sign of the unfortunate target is left whatsoever.</OGDE_Gun_BlastPistol.description>
+                               <!-- barrel -->
+<OGDE_Gun_BlastPistol.tools.0.label>barrel</OGDE_Gun_BlastPistol.tools.0.label>
+                   <!-- blaster (DE) -->
+<OGDE_Gun_Blaster.label>blaster (DE)</OGDE_Gun_Blaster.label>
+                         <!-- A Blaster is a smaller, lightweight version of a Dark Lance, which includes a semi-liquid stabilizer like that found in the Dark Eldar Splinter Cannon. This allows for Warrior squads to launch volleys of this devastating energy while running, although the more compact build of the gun significantly shortens the maximum range of the device. The device uses magnetic containment and stabilization fields to prevent the Darklight from damaging the weapon or its user. The Darklight is accelerated very rapidly down the barrel by these same containment fields. Upon making contact with its target, it reacts very violently, tearing through armor regardless of thickness or composition, and in the event of the Dark Lances use on infantry, it's incredibly rare that any sign of the unfortunate target is left whatsoever. -->
+<OGDE_Gun_Blaster.description>A Blaster is a smaller, lightweight version of a Dark Lance, which includes a semi-liquid stabilizer like that found in the Dark Eldar Splinter Cannon. This allows for Warrior squads to launch volleys of this devastating energy while running, although the more compact build of the gun significantly shortens the maximum range of the device. The device uses magnetic containment and stabilization fields to prevent the Darklight from damaging the weapon or its user. The Darklight is accelerated very rapidly down the barrel by these same containment fields. Upon making contact with its target, it reacts very violently, tearing through armor regardless of thickness or composition, and in the event of the Dark Lances use on infantry, it's incredibly rare that any sign of the unfortunate target is left whatsoever.</OGDE_Gun_Blaster.description>
+                           <!-- barrel -->
+<OGDE_Gun_Blaster.tools.0.label>barrel</OGDE_Gun_Blaster.tools.0.label>
+                     <!-- darklance (DE) -->
+<OGDE_Gun_Darklance.label>darklance (DE)</OGDE_Gun_Darklance.label>
+                           <!-- The Dark Lance is one of the most powerful heavy weapons in the arsenal of the Eldar and is an equivalent of the Imperial Lascannon in utility and power. It can be added as an optional weapon to Wraithlords, War Walkers, Falcons, Wave Serpents and Vypers. It operates in the same manner as a Lascannon, firing a concentrated blast of coherent light that is primarily intended to destroy enemy vehicles. The Dark Lance is a far more efficient weapon than its cruder, human-made counterpart, in part due to its use of psychically-grown crystals to serve as a lasing matrix. It also possesses greater accuracy than a Lascannon and can penetrate any form of armour that is less than a certain thickness. -->
+<OGDE_Gun_Darklance.description>The Dark Lance is one of the most powerful heavy weapons in the arsenal of the Eldar and is an equivalent of the Imperial Lascannon in utility and power. It can be added as an optional weapon to Wraithlords, War Walkers, Falcons, Wave Serpents and Vypers. It operates in the same manner as a Lascannon, firing a concentrated blast of coherent light that is primarily intended to destroy enemy vehicles. The Dark Lance is a far more efficient weapon than its cruder, human-made counterpart, in part due to its use of psychically-grown crystals to serve as a lasing matrix. It also possesses greater accuracy than a Lascannon and can penetrate any form of armour that is less than a certain thickness.</OGDE_Gun_Darklance.description>
+                             <!-- barrel -->
+<OGDE_Gun_Darklance.tools.0.label>barrel</OGDE_Gun_Darklance.tools.0.label>
+                         <!-- fusion beam -->
+<OGDE_Bullet_FusionBeam.label>fusion beam</OGDE_Bullet_FusionBeam.label>
+                        <!-- fusion pistol (DE) -->
+<OGDE_Gun_FusionPistol.label>fusion pistol (DE)</OGDE_Gun_FusionPistol.label>
+                              <!-- A Fusion Pistol is a hand-held, heat-based Melta Weapon utilised exclusively by the Eldar and Dark Eldar. Fusion Pistols cause the molecules of the target to hyper-vibrate, generating so much heat that their targets burst into flames before suddenly liquefying, and then evaporating into nothingness. Though incredibly short-ranged, the sheer destructive potential of these weapons ensures that they see common usage amongst the masques of the enigmatic Eldar known as Harlequins. -->
+<OGDE_Gun_FusionPistol.description>A Fusion Pistol is a hand-held, heat-based Melta Weapon utilised exclusively by the Eldar and Dark Eldar. Fusion Pistols cause the molecules of the target to hyper-vibrate, generating so much heat that their targets burst into flames before suddenly liquefying, and then evaporating into nothingness. Though incredibly short-ranged, the sheer destructive potential of these weapons ensures that they see common usage amongst the masques of the enigmatic Eldar known as Harlequins.</OGDE_Gun_FusionPistol.description>
+                                <!-- stock -->
+<OGDE_Gun_FusionPistol.tools.0.label>stock</OGDE_Gun_FusionPistol.tools.0.label>
+                                <!-- barrel -->
+<OGDE_Gun_FusionPistol.tools.1.label>barrel</OGDE_Gun_FusionPistol.tools.1.label>
+                     <!-- heat lance (DE) -->
+<OGDE_Gun_HeatLance.label>heat lance (DE)</OGDE_Gun_HeatLance.label>
+                           <!-- Heat Lances are Dark Eldar weapons used by Reavers and Scourges. It is a great technological breakthrough as commorrites have managed to combine the power of melta- and high-yield las-technology in one weapon. As with every melta weapon, the heat lance has short range but is extremely devastating. -->
+<OGDE_Gun_HeatLance.description>Heat Lances are Dark Eldar weapons used by Reavers and Scourges. It is a great technological breakthrough as commorrites have managed to combine the power of melta- and high-yield las-technology in one weapon. As with every melta weapon, the heat lance has short range but is extremely devastating.</OGDE_Gun_HeatLance.description>
+                             <!-- stock -->
+<OGDE_Gun_HeatLance.tools.0.label>stock</OGDE_Gun_HeatLance.tools.0.label>
+                             <!-- barrel -->
+<OGDE_Gun_HeatLance.tools.1.label>barrel</OGDE_Gun_HeatLance.tools.1.label>
+                             <!-- haywire blast -->
+<OGDE_Bullet_HaywireBlaster.label>haywire blast</OGDE_Bullet_HaywireBlaster.label>
+                          <!-- haywire blaster (DE) -->
+<OGDE_Gun_HaywireBlaster.label>haywire blaster (DE)</OGDE_Gun_HaywireBlaster.label>
+                                <!-- Haywire Blasters are Dark Eldar weapons mainly used by Scourges. These are long-barrelled weapons so lightweight that can be fired even when moving. As ammunition it uses crippling electromagnetic energy drawn from the highest aeries of Commorragh which is later released in a horrifying burst. A well-aimed haywire blast can destroy an enemy tank's control system in a single shot. Even the mighty Land Raider can be destroyed by these weapons. -->
+<OGDE_Gun_HaywireBlaster.description>Haywire Blasters are Dark Eldar weapons mainly used by Scourges. These are long-barrelled weapons so lightweight that can be fired even when moving. As ammunition it uses crippling electromagnetic energy drawn from the highest aeries of Commorragh which is later released in a horrifying burst. A well-aimed haywire blast can destroy an enemy tank's control system in a single shot. Even the mighty Land Raider can be destroyed by these weapons.</OGDE_Gun_HaywireBlaster.description>
+                                  <!-- barrel -->
+<OGDE_Gun_HaywireBlaster.tools.0.label>barrel</OGDE_Gun_HaywireBlaster.tools.0.label>
+
+</LanguageData>

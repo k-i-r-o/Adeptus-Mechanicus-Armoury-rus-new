@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/DamageDefs/OG_AMA_Damages_GrenadeDamageTypes.xml-->
+                <!-- frag grenade -->
+<OGGrenadeFrag.label>frag grenade</OGGrenadeFrag.label>
+                       <!-- {0} has been killed by a grenade. -->
+<OGGrenadeFrag.deathMessage>{0} has been killed by a grenade.</OGGrenadeFrag.deathMessage>
+                  <!-- plasma grenade -->
+<OGGrenadePlasma.label>plasma grenade</OGGrenadePlasma.label>
+                         <!-- {0} has been killed by a grenade. -->
+<OGGrenadePlasma.deathMessage>{0} has been killed by a grenade.</OGGrenadePlasma.deathMessage>
+                <!-- krak grenade -->
+<OGGrenadeKrak.label>krak grenade</OGGrenadeKrak.label>
+                       <!-- {0} has been killed by a grenade. -->
+<OGGrenadeKrak.deathMessage>{0} has been killed by a grenade.</OGGrenadeKrak.deathMessage>
+                 <!-- melta bomb -->
+<OGGrenadeMelta.label>melta bomb</OGGrenadeMelta.label>
+                        <!-- {0} has burned to death. -->
+<OGGrenadeMelta.deathMessage>{0} has burned to death.</OGGrenadeMelta.deathMessage>
+                      <!-- Extinguish grenade -->
+<OGGrenadeExtinguish.label>Extinguish grenade</OGGrenadeExtinguish.label>
+                             <!-- {0} has been killed by a grenade. -->
+<OGGrenadeExtinguish.deathMessage>{0} has been killed by a grenade.</OGGrenadeExtinguish.deathMessage>
+               <!-- rad grenade -->
+<OGGrenadeRad.label>rad grenade</OGGrenadeRad.label>
+                      <!-- {0} has been killed by a grenade. -->
+<OGGrenadeRad.deathMessage>{0} has been killed by a grenade.</OGGrenadeRad.deathMessage>
+               <!-- EMP/Haywire -->
+<OGGrenadeEMP.label>EMP/Haywire</OGGrenadeEMP.label>
+                      <!-- {0} has been Electrocuted. -->
+<OGGrenadeEMP.deathMessage>{0} has been Electrocuted.</OGGrenadeEMP.deathMessage>
+                  <!-- photon grenade -->
+<OGGrenadePhoton.label>photon grenade</OGGrenadePhoton.label>
+                         <!-- {0} has been stunned to death. -->
+<OGGrenadePhoton.deathMessage>{0} has been stunned to death.</OGGrenadePhoton.deathMessage>
+
+</LanguageData>

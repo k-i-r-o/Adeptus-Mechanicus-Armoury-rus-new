@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/OrdnanceStrikes/AirStrikeDefs/OGDE_AirStrikeDefs.xml-->
+                                      <!-- twin-linked splinter rifles -->
+<OGDE_AirstrikeWeapon_SplinterRifles.label>twin-linked splinter rifles</OGDE_AirstrikeWeapon_SplinterRifles.label>
+                                      <!-- splinter cannon -->
+<OGDE_AirstrikeWeapon_SplinterCannon.label>splinter cannon</OGDE_AirstrikeWeapon_SplinterCannon.label>
+                                           <!-- disintegrator cannon -->
+<OGDE_AirstrikeWeapon_DisintegratorCannon.label>disintegrator cannon</OGDE_AirstrikeWeapon_DisintegratorCannon.label>
+                                 <!-- darklance -->
+<OGDE_AirstrikeWeapon_Darklance.label>darklance</OGDE_AirstrikeWeapon_Darklance.label>
+
+</LanguageData>

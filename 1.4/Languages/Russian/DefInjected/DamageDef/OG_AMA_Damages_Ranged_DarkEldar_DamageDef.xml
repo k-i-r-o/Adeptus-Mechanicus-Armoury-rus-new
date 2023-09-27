@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/DamageDefs/OG_AMA_Damages_Ranged_DarkEldar.xml-->
+                  <!-- Stinger Toxin Blast -->
+<OGEStingerBlast.label>Stinger Toxin Blast</OGEStingerBlast.label>
+                         <!-- {0} exploaded in a shower of gore. -->
+<OGEStingerBlast.deathMessage>{0} exploaded in a shower of gore.</OGEStingerBlast.deathMessage>
+            <!-- Stinger Toxin Blast -->
+<OGDELance.label>Stinger Toxin Blast</OGDELance.label>
+                   <!-- {0} exploaded in a shower of gore. -->
+<OGDELance.deathMessage>{0} exploaded in a shower of gore.</OGDELance.deathMessage>
+
+
+<!--/Defs/DamageDefs/OG_AMA_Damages_Ranged_DarkEldar.xml.bak-->
+<!-- Splinter -->
+<OGESplinter.label>Splinter</OGESplinter.label>
+<!-- {0} was cut to ribbons. -->
+<OGESplinter.deathMessage>{0} was cut to ribbons.</OGESplinter.deathMessage>
+<!-- Disintegrator -->
+<OGDEPlas.label>Disintegrator</OGDEPlas.label>
+<!-- {0} was disintergrated. -->
+<OGDEPlas.deathMessage>{0} was disintergrated.</OGDEPlas.deathMessage>
+<!-- Stinger -->
+<OGDEStinger.label>Stinger</OGDEStinger.label>
+<!-- {0} was torn to shreds by needles. -->
+<OGDEStinger.deathMessage>{0} was torn to shreds by needles.</OGDEStinger.deathMessage>
+<!-- Stinger Toxin Blast -->
+<OGEStingerBlast.label>Stinger Toxin Blast</OGEStingerBlast.label>
+<!-- {0} exploaded in a shower of gore. -->
+<OGEStingerBlast.deathMessage>{0} exploaded in a shower of gore.</OGEStingerBlast.deathMessage>
+<!-- Lance -->
+<OGDELance.label>Lance</OGDELance.label>
+<!-- {0} was slain by a Brightlance. -->
+<OGDELance.deathMessage>{0} was slain by a Brightlance.</OGDELance.deathMessage>
+<!-- Mono-filament Mesh  -->
+<OGDEShredder.label>Mono-filament Mesh </OGDEShredder.label>
+<!-- {0} was reduced to a pulp. -->
+<OGDEShredder.deathMessage>{0} was reduced to a pulp.</OGDEShredder.deathMessage>
+
+</LanguageData>

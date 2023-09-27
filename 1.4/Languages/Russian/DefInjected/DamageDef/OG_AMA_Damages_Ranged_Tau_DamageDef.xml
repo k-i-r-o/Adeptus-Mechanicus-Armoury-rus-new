@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/DamageDefs/OG_AMA_Damages_Ranged_Tau.xml-->
+                 <!-- plasma pulse -->
+<OGTPlasmaPulse.label>plasma pulse</OGTPlasmaPulse.label>
+                        <!-- {0} has perished for the Greater Good. -->
+<OGTPlasmaPulse.deathMessage>{0} has perished for the Greater Good.</OGTPlasmaPulse.deathMessage>
+         <!-- ion beam -->
+<OGTIon.label>ion beam</OGTIon.label>
+                <!-- {0} has perished for the Greater Good. -->
+<OGTIon.deathMessage>{0} has perished for the Greater Good.</OGTIon.deathMessage>
+             <!-- Railgun Slug -->
+<OGTRailgun.label>Railgun Slug</OGTRailgun.label>
+                    <!-- {0} has perished for the Greater Good. -->
+<OGTRailgun.deathMessage>{0} has perished for the Greater Good.</OGTRailgun.deathMessage>
+           <!-- Kroot Slug -->
+<OGTKroot.label>Kroot Slug</OGTKroot.label>
+                  <!-- {0} has perished for the Greater Good. -->
+<OGTKroot.deathMessage>{0} has perished for the Greater Good.</OGTKroot.deathMessage>
+             <!-- Neutron blast -->
+<OGTNeutron.label>Neutron blast</OGTNeutron.label>
+                    <!-- {0} has perished for the Greater Good. -->
+<OGTNeutron.deathMessage>{0} has perished for the Greater Good.</OGTNeutron.deathMessage>
+
+</LanguageData>

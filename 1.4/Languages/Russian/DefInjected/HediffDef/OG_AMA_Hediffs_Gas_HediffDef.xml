@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/HediffDefs/OG_AMA_Hediffs_Gas.xml-->
+                     <!-- description -->
+<OG_AcidicGas.description>description</OG_AcidicGas.description>
+               <!-- acid gas -->
+<OG_AcidicGas.label>acid gas</OG_AcidicGas.label>
+                        <!-- initial -->
+<OG_AcidicGas.stages.0.label>initial</OG_AcidicGas.stages.0.label>
+                        <!-- minor -->
+<OG_AcidicGas.stages.1.label>minor</OG_AcidicGas.stages.1.label>
+                        <!-- moderate -->
+<OG_AcidicGas.stages.2.label>moderate</OG_AcidicGas.stages.2.label>
+                        <!-- serious -->
+<OG_AcidicGas.stages.3.label>serious</OG_AcidicGas.stages.3.label>
+                    <!-- description -->
+<OG_ToxicGas.description>description</OG_ToxicGas.description>
+              <!-- toxic gas -->
+<OG_ToxicGas.label>toxic gas</OG_ToxicGas.label>
+                       <!-- initial -->
+<OG_ToxicGas.stages.0.label>initial</OG_ToxicGas.stages.0.label>
+                       <!-- minor -->
+<OG_ToxicGas.stages.1.label>minor</OG_ToxicGas.stages.1.label>
+                       <!-- moderate -->
+<OG_ToxicGas.stages.2.label>moderate</OG_ToxicGas.stages.2.label>
+                       <!-- serious -->
+<OG_ToxicGas.stages.3.label>serious</OG_ToxicGas.stages.3.label>
+                       <!-- extreme -->
+<OG_ToxicGas.stages.4.label>extreme</OG_ToxicGas.stages.4.label>
+                   <!-- description -->
+<OG_RageGas.description>description</OG_RageGas.description>
+             <!-- rage gas -->
+<OG_RageGas.label>rage gas</OG_RageGas.label>
+                      <!-- initial -->
+<OG_RageGas.stages.0.label>initial</OG_RageGas.stages.0.label>
+                      <!-- minor -->
+<OG_RageGas.stages.1.label>minor</OG_RageGas.stages.1.label>
+                      <!-- moderate -->
+<OG_RageGas.stages.2.label>moderate</OG_RageGas.stages.2.label>
+                      <!-- serious -->
+<OG_RageGas.stages.3.label>serious</OG_RageGas.stages.3.label>
+                      <!-- extreme -->
+<OG_RageGas.stages.4.label>extreme</OG_RageGas.stages.4.label>
+                   <!-- description -->
+<OG_TearGas.description>description</OG_TearGas.description>
+             <!-- tear gas -->
+<OG_TearGas.label>tear gas</OG_TearGas.label>
+                      <!-- initial -->
+<OG_TearGas.stages.0.label>initial</OG_TearGas.stages.0.label>
+                      <!-- minor -->
+<OG_TearGas.stages.1.label>minor</OG_TearGas.stages.1.label>
+                      <!-- major -->
+<OG_TearGas.stages.2.label>major</OG_TearGas.stages.2.label>
+                      <!-- extreme -->
+<OG_TearGas.stages.3.label>extreme</OG_TearGas.stages.3.label>
+                      <!-- blind -->
+<OG_TearGas.stages.4.label>blind</OG_TearGas.stages.4.label>
+                    <!-- description -->
+<OG_SleepGas.description>description</OG_SleepGas.description>
+              <!-- sleep gas -->
+<OG_SleepGas.label>sleep gas</OG_SleepGas.label>
+                       <!-- drowsy -->
+<OG_SleepGas.stages.0.label>drowsy</OG_SleepGas.stages.0.label>
+                       <!-- weary -->
+<OG_SleepGas.stages.1.label>weary</OG_SleepGas.stages.1.label>
+                       <!-- tired -->
+<OG_SleepGas.stages.2.label>tired</OG_SleepGas.stages.2.label>
+                       <!-- passed out -->
+<OG_SleepGas.stages.3.label>passed out</OG_SleepGas.stages.3.label>
+                       <!-- comatose -->
+<OG_SleepGas.stages.4.label>comatose</OG_SleepGas.stages.4.label>
+                   <!-- description -->
+<OG_FearGas.description>description</OG_FearGas.description>
+             <!-- fear -->
+<OG_FearGas.label>fear</OG_FearGas.label>
+                      <!-- minor -->
+<OG_FearGas.stages.0.label>minor</OG_FearGas.stages.0.label>
+                      <!-- minor -->
+<OG_FearGas.stages.1.label>minor</OG_FearGas.stages.1.label>
+                      <!-- major -->
+<OG_FearGas.stages.2.label>major</OG_FearGas.stages.2.label>
+                      <!-- extreme -->
+<OG_FearGas.stages.3.label>extreme</OG_FearGas.stages.3.label>
+                           <!-- description -->
+<OG_HallucinogenGas.description>description</OG_HallucinogenGas.description>
+                     <!-- hallucinogen gas -->
+<OG_HallucinogenGas.label>hallucinogen gas</OG_HallucinogenGas.label>
+                              <!-- initial -->
+<OG_HallucinogenGas.stages.0.label>initial</OG_HallucinogenGas.stages.0.label>
+                              <!-- minor -->
+<OG_HallucinogenGas.stages.1.label>minor</OG_HallucinogenGas.stages.1.label>
+                              <!-- moderate -->
+<OG_HallucinogenGas.stages.2.label>moderate</OG_HallucinogenGas.stages.2.label>
+                              <!-- serious -->
+<OG_HallucinogenGas.stages.3.label>serious</OG_HallucinogenGas.stages.3.label>
+                              <!-- extreme -->
+<OG_HallucinogenGas.stages.4.label>extreme</OG_HallucinogenGas.stages.4.label>
+
+</LanguageData>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/DamageDefs/OG_AMA_Damages_Ranged_Imperial_Abstracts.xml-->
+              <!-- bullet -->
+<OGBullet_SX.label>bullet</OGBullet_SX.label>
+                     <!-- {0} has been shot to death. -->
+<OGBullet_SX.deathMessage>{0} has been shot to death.</OGBullet_SX.deathMessage>
+            <!-- plasma -->
+<OGIPlasma.label>plasma</OGIPlasma.label>
+                   <!-- {0} has been given the Emperors Justice. -->
+<OGIPlasma.deathMessage>{0} has been given the Emperors Justice.</OGIPlasma.deathMessage>
+                  <!-- plasma cannon -->
+<OGIPlasmaCannon.label>plasma cannon</OGIPlasmaCannon.label>
+                         <!-- {0} has been given the Emperors Justice. -->
+<OGIPlasmaCannon.deathMessage>{0} has been given the Emperors Justice.</OGIPlasmaCannon.deathMessage>
+          <!-- laser -->
+<OGILasC.label>laser</OGILasC.label>
+                 <!-- {0} has been given the Emperors Justice. -->
+<OGILasC.deathMessage>{0} has been given the Emperors Justice.</OGILasC.deathMessage>
+                <!-- autogun -->
+<OGIAutoRubber.label>autogun</OGIAutoRubber.label>
+                       <!-- {0} has been given the Emperors Justice. -->
+<OGIAutoRubber.deathMessage>{0} has been given the Emperors Justice.</OGIAutoRubber.deathMessage>
+            <!-- radium round -->
+<OGIRadium.label>radium round</OGIRadium.label>
+                   <!-- {0} would have died anyway. -->
+<OGIRadium.deathMessage>{0} would have died anyway.</OGIRadium.deathMessage>
+              <!-- galvanic discharge -->
+<OGIGalvanic.label>galvanic discharge</OGIGalvanic.label>
+                     <!-- {0} caught a Galvanic round. -->
+<OGIGalvanic.deathMessage>{0} caught a Galvanic round.</OGIGalvanic.deathMessage>
+                 <!-- transuranic -->
+<OGITransuranic.label>transuranic</OGITransuranic.label>
+                        <!-- {0} was taken by a Transuranic bolt. -->
+<OGITransuranic.deathMessage>{0} was taken by a Transuranic bolt.</OGITransuranic.deathMessage>
+
+</LanguageData>

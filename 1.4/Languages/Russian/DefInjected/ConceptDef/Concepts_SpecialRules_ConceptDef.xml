@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/TutorDefs/Concepts_SpecialRules.xml-->
+                          <!-- Special: Power Weapons -->
+<OG_Concept_PowerWeapons.label>Special: Power Weapons</OG_Concept_PowerWeapons.label>
+                             <!-- Power Weapons give off a blue glow and ingnore all mundane armour while active. -->
+<OG_Concept_PowerWeapons.helpText>Power Weapons give off a blue glow and ingnore all mundane armour while active.</OG_Concept_PowerWeapons.helpText>
+                          <!-- Special: Force Weapons -->
+<OG_Concept_ForceWeapons.label>Special: Force Weapons</OG_Concept_ForceWeapons.label>
+                             <!-- Force Weapons possess the ability to channel the users psychic talents into a potent melee attack, which is capable of incapacitating or killing the target instantly.(this only functions when weilded by a pawn with either Psychicly sensitivitive or Psychicly hypersensitivitive traits) and give off a purple glow while active. -->
+<OG_Concept_ForceWeapons.helpText>Force Weapons possess the ability to channel the users psychic talents into a potent melee attack, which is capable of incapacitating or killing the target instantly.(this only functions when weilded by a pawn with either Psychicly sensitivitive or Psychicly hypersensitivitive traits) and give off a purple glow while active.</OG_Concept_ForceWeapons.helpText>
+                              <!-- Special: Pacifiers -->
+<OG_Concept_PacifyingWeapons.label>Special: Pacifiers</OG_Concept_PacifyingWeapons.label>
+                                 <!-- Pacifiers possess though various means, excel at subduing their opponents in a (Ususally) Non Lethal manner. Current types are either Psychic or Pain based -->
+<OG_Concept_PacifyingWeapons.helpText>Pacifiers possess though various means, excel at subduing their opponents in a (Ususally) Non Lethal manner. Current types are either Psychic or Pain based</OG_Concept_PacifyingWeapons.helpText>
+                                  <!-- Special: Irradiated Munitions -->
+<OG_Concept_IrradiatedAmmunition.label>Special: Irradiated Munitions</OG_Concept_IrradiatedAmmunition.label>
+                                     <!-- Wounds caused by Irradiated Munitions cause radiation poisoning untill tended. -->
+<OG_Concept_IrradiatedAmmunition.helpText>Wounds caused by Irradiated Munitions cause radiation poisoning untill tended.</OG_Concept_IrradiatedAmmunition.helpText>
+                       <!-- Special: Weapon Jam -->
+<OG_Concept_WeaponJam.label>Special: Weapon Jam</OG_Concept_WeaponJam.label>
+                          <!-- Some weapons have a chance to jam while firing, damaging the weapon, the better qaulity and condition, the less likely it is to jam. -->
+<OG_Concept_WeaponJam.helpText>Some weapons have a chance to jam while firing, damaging the weapon, the better qaulity and condition, the less likely it is to jam.</OG_Concept_WeaponJam.helpText>
+                     <!-- Special: Gets Hot -->
+<OG_Concept_GetsHot.label>Special: Gets Hot</OG_Concept_GetsHot.label>
+                        <!-- Some weapons have a chance to overheat while firing, causing injury to the user, damaging the weapon and potentially exploding, the better qaulity and condition, the less likely it is to jam. -->
+<OG_Concept_GetsHot.helpText>Some weapons have a chance to overheat while firing, causing injury to the user, damaging the weapon and potentially exploding, the better qaulity and condition, the less likely it is to jam.</OG_Concept_GetsHot.helpText>
+                          <!-- Special: Vortex Weapons -->
+<OG_Concept_VortexWeapon.label>Special: Vortex Weapons</OG_Concept_VortexWeapon.label>
+                             <!-- Vortex weapons cause tears in the fabric of reality, to the warp, anything unfortuneate enough to be hit by such a weapon risks being flung into the warp, if not torn to shreds by the forces involved. -->
+<OG_Concept_VortexWeapon.helpText>Vortex weapons cause tears in the fabric of reality, to the warp, anything unfortuneate enough to be hit by such a weapon risks being flung into the warp, if not torn to shreds by the forces involved.</OG_Concept_VortexWeapon.helpText>
+                             <!-- Special: Baleful Energies -->
+<OG_Concept_BalefulEnergies.label>Special: Baleful Energies</OG_Concept_BalefulEnergies.label>
+                                <!-- The baleful energies channeled by utilizing Necron weaponry are hazardous to biological beings, and have been known to eat through armour as if it wasnt there. -->
+<OG_Concept_BalefulEnergies.helpText>The baleful energies channeled by utilizing Necron weaponry are hazardous to biological beings, and have been known to eat through armour as if it wasnt there.</OG_Concept_BalefulEnergies.helpText>
+                       <!-- Special: Rapid Fire -->
+<OG_Concept_RapidFire.label>Special: Rapid Fire</OG_Concept_RapidFire.label>
+                          <!-- Rapid fire weapons have an increased Rate of fire, their warmup/cooldown cycle is halfed when firing at targets are within half of their max range. -->
+<OG_Concept_RapidFire.helpText>Rapid fire weapons have an increased Rate of fire, their warmup/cooldown cycle is halfed when firing at targets are within half of their max range.</OG_Concept_RapidFire.helpText>
+                   <!-- Special: Rapid Fire -->
+<OG_Concept_Melta.label>Special: Rapid Fire</OG_Concept_Melta.label>
+                      <!-- Rapid fire weapons have an increased Rate of fire, their warmup/cooldown cycle is halfed when firing at targets are within half of their max range. -->
+<OG_Concept_Melta.helpText>Rapid fire weapons have an increased Rate of fire, their warmup/cooldown cycle is halfed when firing at targets are within half of their max range.</OG_Concept_Melta.helpText>
+              <!-- Shield belts -->
+<ShieldBelts.label>Shield belts</ShieldBelts.label>
+                 <!-- Shield belts stop ranged attacks from coming in or out. They have no effect on melee attacks.
+
+To fight against shield belts, either concentrate a lot of gunfire on the target, or fight hand-to-hand. -->
+<ShieldBelts.helpText>Shield belts stop ranged attacks from coming in or out. They have no effect on melee attacks.\n\nTo fight against shield belts, either concentrate a lot of gunfire on the target, or fight hand-to-hand.</ShieldBelts.helpText>
+
+</LanguageData>

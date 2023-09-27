@@ -2,26 +2,26 @@
 <LanguageData>
 <!--/Defs/ThingDefs_Misc/Apparel/OG_AMA_Apparel_GrenadePack_Imp.xml-->
                         <!-- Blind grenade pack (I) -->
-<OGI_GrenadePack_Blind.label>Blind grenade pack (I)</OGI_GrenadePack_Blind.label>
+<OGI_GrenadePack_Blind.label>Набор ослепляющих гранат (I)</OGI_GrenadePack_Blind.label>
                               <!-- A Blind Grenade, also called a Baffler Grenade, is an Imperial grenade that explodes with a burst of dense, dark grey smoke including infrared bafﬂers and broadband electromagnetic spectrum chaff. -->
-<OGI_GrenadePack_Blind.description>A Blind Grenade, also called a Baffler Grenade, is an Imperial grenade that explodes with a burst of dense, dark grey smoke including infrared bafﬂers and broadband electromagnetic spectrum chaff.</OGI_GrenadePack_Blind.description>
+<OGI_GrenadePack_Blind.description>Ослепляющая граната - это имперская граната, которая взрывается с выбросом густого темно-серого дыма, включающего инфракрасные помехи и помехи широкополосного электромагнитного спектра.</OGI_GrenadePack_Blind.description>
                        <!-- frag grenade pack (I) -->
-<OGI_GrenadePack_Frag.label>frag grenade pack (I)</OGI_GrenadePack_Frag.label>
+<OGI_GrenadePack_Frag.label>набор осколочных гранат (I)</OGI_GrenadePack_Frag.label>
                              <!-- a pack of frag grenades. -->
-<OGI_GrenadePack_Frag.description>a pack of frag grenades.</OGI_GrenadePack_Frag.description>
+<OGI_GrenadePack_Frag.description>набор осколочных гранат.</OGI_GrenadePack_Frag.description>
                        <!-- krak grenade pack (I) -->
-<OGI_GrenadePack_Krak.label>krak grenade pack (I)</OGI_GrenadePack_Krak.label>
+<OGI_GrenadePack_Krak.label>набор гранат крак (I)</OGI_GrenadePack_Krak.label>
                              <!-- a pack of krak grenades. -->
-<OGI_GrenadePack_Krak.description>a pack of krak grenades.</OGI_GrenadePack_Krak.description>
+<OGI_GrenadePack_Krak.description>набор гранат крак.</OGI_GrenadePack_Krak.description>
                       <!-- Rad grenade pack (I) -->
-<OGI_GrenadePack_Rad.label>Rad grenade pack (I)</OGI_GrenadePack_Rad.label>
+<OGI_GrenadePack_Rad.label>Набор радиоактивных гранат (I)</OGI_GrenadePack_Rad.label>
                             <!-- A Rad Grenade is a potent and dangerous radioactive anti-personnel weapon used by the military forces of the Imperium of Man.
 
 Rad Grenades detonate in a shower of tiny, radioactively-contaminated fragments. Each fragment's ionising radioactive emissions have only a millisecond half-life, ensuring that the wielder can charge in without exposing themself to radioactive contamination. -->
-<OGI_GrenadePack_Rad.description>A Rad Grenade is a potent and dangerous radioactive anti-personnel weapon used by the military forces of the Imperium of Man.\n\nRad Grenades detonate in a shower of tiny, radioactively-contaminated fragments. Each fragment's ionising radioactive emissions have only a millisecond half-life, ensuring that the wielder can charge in without exposing themself to radioactive contamination.</OGI_GrenadePack_Rad.description>
+<OGI_GrenadePack_Rad.description>Рад-граната - это мощное и опасное радиоактивное противопехотное оружие, используемое вооруженными силами Империума Человечества. Рад-гранаты взрываются дождем крошечных, радиоактивно загрязненных осколков. Ионизирующие радиоактивные выбросы каждого фрагмента имеют период полураспада всего в миллисекунду, гарантируя, что владелец может заряжаться, не подвергая себя радиоактивному загрязнению.</OGI_GrenadePack_Rad.description>
                         <!-- melta bomb pack (I) -->
-<OGI_GrenadePack_Melta.label>melta bomb pack (I)</OGI_GrenadePack_Melta.label>
+<OGI_GrenadePack_Melta.label>набор мелта бомб (I)</OGI_GrenadePack_Melta.label>
                               <!-- a pack of melta bombs. -->
-<OGI_GrenadePack_Melta.description>a pack of melta bombs.</OGI_GrenadePack_Melta.description>
+<OGI_GrenadePack_Melta.description>набор мелта бомб.</OGI_GrenadePack_Melta.description>
 
 </LanguageData>

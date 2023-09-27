@@ -2,20 +2,20 @@
 <LanguageData>
 <!--/Defs/ThingDefs_Misc/Apparel/OG_AMA_Apparel_Militarum_Headgear_Valhallan.xml-->
                                  <!-- ushanka -->
-<OGIG_Apparel_ValhallanUshanhka.label>ushanka</OGIG_Apparel_ValhallanUshanhka.label>
+<OGIG_Apparel_ValhallanUshanhka.label>ушанка</OGIG_Apparel_ValhallanUshanhka.label>
                                        <!-- A fur cap with ear flaps found in many cold regions. -->
-<OGIG_Apparel_ValhallanUshanhka.description>A fur cap with ear flaps found in many cold regions.</OGIG_Apparel_ValhallanUshanhka.description>
+<OGIG_Apparel_ValhallanUshanhka.description>Меховая шапка-ушанка, встречающаяся во многих холодных регионах.</OGIG_Apparel_ValhallanUshanhka.description>
                                 <!-- pilotka -->
-<OGIG_Apparel_ValhallanPilotka.label>pilotka</OGIG_Apparel_ValhallanPilotka.label>
+<OGIG_Apparel_ValhallanPilotka.label>пилотка</OGIG_Apparel_ValhallanPilotka.label>
                                       <!-- A fur cap found in many cold regions. -->
-<OGIG_Apparel_ValhallanPilotka.description>A fur cap found in many cold regions.</OGIG_Apparel_ValhallanPilotka.description>
+<OGIG_Apparel_ValhallanPilotka.description>Меховая шапка, встречающаяся во многих холодных регионах.</OGIG_Apparel_ValhallanPilotka.description>
                                  <!-- snow goggles -->
-<OGIG_Apparel_Valhallan_Goggles.label>snow goggles</OGIG_Apparel_Valhallan_Goggles.label>
+<OGIG_Apparel_Valhallan_Goggles.label>снежные очки</OGIG_Apparel_Valhallan_Goggles.label>
                                        <!-- A long strip of cloth that is wrapped over the eyes to block vision. -->
-<OGIG_Apparel_Valhallan_Goggles.description>A long strip of cloth that is wrapped over the eyes to block vision.</OGIG_Apparel_Valhallan_Goggles.description>
+<OGIG_Apparel_Valhallan_Goggles.description>Длинная полоска ткани, обернутая вокруг глаз, чтобы блокировать зрение.</OGIG_Apparel_Valhallan_Goggles.description>
                                   <!-- snow goggles -->
-<OGIG_Apparel_Armageddon_Goggles.label>snow goggles</OGIG_Apparel_Armageddon_Goggles.label>
+<OGIG_Apparel_Armageddon_Goggles.label>снежные очки</OGIG_Apparel_Armageddon_Goggles.label>
                                         <!-- A long strip of cloth that is wrapped over the eyes to block vision. -->
-<OGIG_Apparel_Armageddon_Goggles.description>A long strip of cloth that is wrapped over the eyes to block vision.</OGIG_Apparel_Armageddon_Goggles.description>
+<OGIG_Apparel_Armageddon_Goggles.description>Длинная полоска ткани, обернутая вокруг глаз, чтобы блокировать зрение.</OGIG_Apparel_Armageddon_Goggles.description>
 
 </LanguageData>

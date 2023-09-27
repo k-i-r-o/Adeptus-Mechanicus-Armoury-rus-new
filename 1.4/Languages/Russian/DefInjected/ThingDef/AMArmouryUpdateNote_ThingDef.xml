@@ -2,9 +2,9 @@
 <LanguageData>
 <!--/Defs/AMArmouryUpdateNote.xml-->
                     <!-- Multi launcher -->
-<Gun_MultiLauncher.label>Multi launcher</Gun_MultiLauncher.label>
+<Gun_MultiLauncher.label>Мульти пусковая установка</Gun_MultiLauncher.label>
                           <!-- A wide-barreled bolt launcher. The bolts can be swapped between incendiary, smoke and EMP. -->
-<Gun_MultiLauncher.description>A wide-barreled bolt launcher. The bolts can be swapped between incendiary, smoke and EMP.</Gun_MultiLauncher.description>
+<Gun_MultiLauncher.description>Широкоствольный болт-гранатомет. Болты можно менять местами между зажигательными, дымовыми и электромагнитными.</Gun_MultiLauncher.description>
                             <!-- stock -->
 <Gun_MultiLauncher.tools.0.label>stock</Gun_MultiLauncher.tools.0.label>
                             <!-- barrel -->

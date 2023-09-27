@@ -2,12 +2,12 @@
 <LanguageData>
 <!--/Defs/OrdnanceStrikes/OG_StrikeTypeDefs.xml-->
                              <!-- ordnance -->
-<OG_IncomingArtilleryStrike.label>ordnance</OG_IncomingArtilleryStrike.label>
+<OG_IncomingArtilleryStrike.label>боеприпасы</OG_IncomingArtilleryStrike.label>
                        <!-- strikeship -->
-<OG_IncomingAirStrike.label>strikeship</OG_IncomingAirStrike.label>
+<OG_IncomingAirStrike.label>ударный корабль</OG_IncomingAirStrike.label>
                                 <!-- lance strike -->
-<OG_IncomingOrbitalLanceStrike.label>lance strike</OG_IncomingOrbitalLanceStrike.label>
+<OG_IncomingOrbitalLanceStrike.label>удар копьем</OG_IncomingOrbitalLanceStrike.label>
                            <!-- bombardment -->
-<OG_IncomingOrbitalStrike.label>bombardment</OG_IncomingOrbitalStrike.label>
+<OG_IncomingOrbitalStrike.label>бомбардировка</OG_IncomingOrbitalStrike.label>
 
 </LanguageData>

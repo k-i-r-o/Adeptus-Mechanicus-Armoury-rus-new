@@ -2,10 +2,10 @@
 <LanguageData>
 <!--/Defs/RecipeDefs/OG_AMA_Recipes_Production_Salvage.xml-->
                                 <!-- extract resources -->
-<OG_ExtractMetalFromComponents.label>extract resources</OG_ExtractMetalFromComponents.label>
+<OG_ExtractMetalFromComponents.label>извлечь ресурсы</OG_ExtractMetalFromComponents.label>
                                       <!-- Use heat and strong electromagnets to extract resources from Xeno components. -->
-<OG_ExtractMetalFromComponents.description>Use heat and strong electromagnets to extract resources from Xeno components.</OG_ExtractMetalFromComponents.description>
+<OG_ExtractMetalFromComponents.description>Используйте тепло и мощные электромагниты для извлечения ресурсов из ксенокомпонентов.</OG_ExtractMetalFromComponents.description>
                                     <!-- Extracting resources from components. -->
-<OG_ExtractMetalFromComponents.jobString>Extracting resources from components.</OG_ExtractMetalFromComponents.jobString>
+<OG_ExtractMetalFromComponents.jobString>Извлечение ресурсов из компонентов.</OG_ExtractMetalFromComponents.jobString>
 
 </LanguageData>

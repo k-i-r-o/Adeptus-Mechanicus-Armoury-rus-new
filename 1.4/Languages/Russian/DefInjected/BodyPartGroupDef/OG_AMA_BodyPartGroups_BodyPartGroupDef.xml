@@ -2,12 +2,12 @@
 <LanguageData>
 <!--/Defs/Bodies/OG_AMA_BodyPartGroups.xml-->
                   <!-- wargear slot -->
-<OGTorsoWargear1.label>wargear slot</OGTorsoWargear1.label>
+<OGTorsoWargear1.label>слот для боевого снаряжения</OGTorsoWargear1.label>
                   <!-- wargear slot -->
-<OGTorsoWargear2.label>wargear slot</OGTorsoWargear2.label>
+<OGTorsoWargear2.label>слот для боевого снаряжения</OGTorsoWargear2.label>
                   <!-- wargear slot -->
-<OGTorsoWargear3.label>wargear slot</OGTorsoWargear3.label>
+<OGTorsoWargear3.label>слот для боевого снаряжения</OGTorsoWargear3.label>
                <!-- neural link -->
-<OGNeuralLink.label>neural link</OGNeuralLink.label>
+<OGNeuralLink.label>нейронная связь</OGNeuralLink.label>
 
 </LanguageData>

@@ -2,16 +2,16 @@
 <LanguageData>
 <!--/Defs/ResearchProjectDefs/OG_AMA_Chaos_Research.xml-->
                         <!-- Heretical Inclinations -->
-<OG_Chaos_Tech_Base_T1.label>Heretical Inclinations</OG_Chaos_Tech_Base_T1.label>
+<OG_Chaos_Tech_Base_T1.label>Еретические наклонности</OG_Chaos_Tech_Base_T1.label>
                               <!-- Allows you to create basic Heretical technology -->
-<OG_Chaos_Tech_Base_T1.description>Allows you to create basic Heretical technology</OG_Chaos_Tech_Base_T1.description>
+<OG_Chaos_Tech_Base_T1.description>Позволяет вам создавать базовые еретические технологии</OG_Chaos_Tech_Base_T1.description>
                         <!-- Heretical Tech -->
-<OG_Chaos_Tech_Base_T2.label>Heretical Tech</OG_Chaos_Tech_Base_T2.label>
+<OG_Chaos_Tech_Base_T2.label>Еретические технологии</OG_Chaos_Tech_Base_T2.label>
                               <!-- Allows you to create more Heretical technology -->
-<OG_Chaos_Tech_Base_T2.description>Allows you to create more Heretical technology</OG_Chaos_Tech_Base_T2.description>
+<OG_Chaos_Tech_Base_T2.description>Позволяет вам создавать больше еретических технологии</OG_Chaos_Tech_Base_T2.description>
                         <!-- Grand Heresy -->
-<OG_Chaos_Tech_Base_T3.label>Grand Heresy</OG_Chaos_Tech_Base_T3.label>
+<OG_Chaos_Tech_Base_T3.label>Великая ересь</OG_Chaos_Tech_Base_T3.label>
                               <!-- Allows you to create advanced warpspawned technology -->
-<OG_Chaos_Tech_Base_T3.description>Allows you to create advanced warpspawned technology</OG_Chaos_Tech_Base_T3.description>
+<OG_Chaos_Tech_Base_T3.description>Позволяет вам создавать передовые технологии, порожденные варпом</OG_Chaos_Tech_Base_T3.description>
 
 </LanguageData>

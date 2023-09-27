@@ -2,14 +2,14 @@
 <LanguageData>
 <!--/Defs/Storyteller/OG_AMA_Incidents_Map_CrashedShipParts.xml-->
                               <!-- Unknown Ship impact -->
-<UnknownCrashedShipPartCrash.label>Unknown Ship impact</UnknownCrashedShipPartCrash.label>
+<UnknownCrashedShipPartCrash.label>Столкновение с неизвестным кораблем</UnknownCrashedShipPartCrash.label>
                                     <!-- Unknown Ship part Impact -->
-<UnknownCrashedShipPartCrash.letterLabel>Unknown Ship part Impact</UnknownCrashedShipPartCrash.letterLabel>
+<UnknownCrashedShipPartCrash.letterLabel>Столкновение с неизвестной частью корабля</UnknownCrashedShipPartCrash.letterLabel>
                                    <!-- A large piece of an ancient Ship has crashed nearby.
 
 It's mysterious influence will kill all plants in an expanding circle around itself.
 
 Destroy it as soon as possible. But beware - it will probably defend itself. -->
-<UnknownCrashedShipPartCrash.letterText>A large piece of an ancient Ship has crashed nearby.\n\nIt's mysterious influence will kill all plants in an expanding circle around itself.\n\nDestroy it as soon as possible. But beware - it will probably defend itself.</UnknownCrashedShipPartCrash.letterText>
+<UnknownCrashedShipPartCrash.letterText>Неподалеку разбился большой обломок древнего корабля.\n\nЭто таинственное влияние убьет все растения в расширяющемся круге вокруг себя.\n\nУничтожьте его как можно скорее. Но будьте осторожны - он, вероятно, будет защищаться.</UnknownCrashedShipPartCrash.letterText>
 
 </LanguageData>

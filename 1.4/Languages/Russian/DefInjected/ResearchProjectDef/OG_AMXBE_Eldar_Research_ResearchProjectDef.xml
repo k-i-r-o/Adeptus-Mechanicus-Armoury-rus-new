@@ -2,52 +2,52 @@
 <LanguageData>
 <!--/Defs/ResearchProjectDefs/OG_AMXBE_Eldar_Research.xml-->
                         <!-- Craftworld Eldar -->
-<OG_Eldar_Tech_Base_T1.label>Craftworld Eldar</OG_Eldar_Tech_Base_T1.label>
+<OG_Eldar_Tech_Base_T1.label>Ремесло Эльдар</OG_Eldar_Tech_Base_T1.label>
                               <!-- The Asuryani, often referred to by outsiders as "Craftworld Eldar" were those of the ancient Aeldari who fled their ancient empire in the Craftworlds, their culture was redefined by their decision to pursue the Asuryani Path that they believed had been laid out for them by the chief Aeldari god, the Phoenix King Asuryan. -->
-<OG_Eldar_Tech_Base_T1.description>The Asuryani, often referred to by outsiders as "Craftworld Eldar" were those of the ancient Aeldari who fled their ancient empire in the Craftworlds, their culture was redefined by their decision to pursue the Asuryani Path that they believed had been laid out for them by the chief Aeldari god, the Phoenix King Asuryan.</OG_Eldar_Tech_Base_T1.description>
+<OG_Eldar_Tech_Base_T1.description>Асурьяни, часто упоминаемые посторонними как "Эльдары Мира Ремесел", были теми древними эльдари, которые бежали из своей древней империи в Мирах Ремесел, их культура была пересмотрена их решением следовать Пути Асурьяни, который, как они верили, был проложен для них главным богом Эльдари, королем-Фениксом Асурианом.</OG_Eldar_Tech_Base_T1.description>
                         <!-- The Eldar Path -->
-<OG_Eldar_Tech_Base_T2.label>The Eldar Path</OG_Eldar_Tech_Base_T2.label>
+<OG_Eldar_Tech_Base_T2.label>Путь Эльдар</OG_Eldar_Tech_Base_T2.label>
                               <!-- Basic Eldar Technology Concepts -->
-<OG_Eldar_Tech_Base_T2.description>Basic Eldar Technology Concepts</OG_Eldar_Tech_Base_T2.description>
+<OG_Eldar_Tech_Base_T2.description>Основные технологические концепции Эльдар</OG_Eldar_Tech_Base_T2.description>
                         <!-- Infinity Circuit -->
-<OG_Eldar_Tech_Base_T3.label>Infinity Circuit</OG_Eldar_Tech_Base_T3.label>
+<OG_Eldar_Tech_Base_T3.label>Бесконечный контур</OG_Eldar_Tech_Base_T3.label>
                               <!-- Allows you to construct Wraith weaponry -->
-<OG_Eldar_Tech_Base_T3.description>Allows you to construct Wraith weaponry</OG_Eldar_Tech_Base_T3.description>
+<OG_Eldar_Tech_Base_T3.description>Позволяет вам создавать оружие призраков</OG_Eldar_Tech_Base_T3.description>
                                  <!-- Shuriken Technology -->
-<OG_Eldar_Tech_Weapons_Shuriken.label>Shuriken Technology</OG_Eldar_Tech_Weapons_Shuriken.label>
+<OG_Eldar_Tech_Weapons_Shuriken.label>Технология сюрикенов</OG_Eldar_Tech_Weapons_Shuriken.label>
                                        <!-- Shuriken Weapons are the primary type of anti-personnel weapons used by the Aeldari. Utilising gravitic pulses, a mono-molecular disc of plasti-crystal taken from the weapon's magazine is accelerated down the barrel of the weapon, hurling it at the target at incredible velocity. The accelerator creates a peristaltic shift from the front to the rear of the firing chamber, hurling the shuriken missiles forward at a tremendous velocity. A burst of several missiles can be fired in a fraction of a second in this way. -->
-<OG_Eldar_Tech_Weapons_Shuriken.description>Shuriken Weapons are the primary type of anti-personnel weapons used by the Aeldari. Utilising gravitic pulses, a mono-molecular disc of plasti-crystal taken from the weapon's magazine is accelerated down the barrel of the weapon, hurling it at the target at incredible velocity. The accelerator creates a peristaltic shift from the front to the rear of the firing chamber, hurling the shuriken missiles forward at a tremendous velocity. A burst of several missiles can be fired in a fraction of a second in this way.</OG_Eldar_Tech_Weapons_Shuriken.description>
+<OG_Eldar_Tech_Weapons_Shuriken.description>Сюрикены - это основной тип противопехотного оружия, используемого эльдарами. Используя гравитационные импульсы, мономолекулярный диск из пластикристалла, извлеченный из магазина оружия, ускоряется вниз по стволу оружия, швыряя его в цель с невероятной скоростью. Ускоритель создает перистальтический сдвиг от передней части камеры к задней части, выбрасывая сюрикеновые снаряды вперед с огромной скоростью. Таким образом, за долю секунды может быть выпущена очередь из нескольких снарядов.</OG_Eldar_Tech_Weapons_Shuriken.description>
                                        <!-- Monofilament Weaponry -->
-<OG_Aeldari_Tech_Weapons_Monofilament.label>Monofilament Weaponry</OG_Aeldari_Tech_Weapons_Monofilament.label>
+<OG_Aeldari_Tech_Weapons_Monofilament.label>Вооружение из мононити</OG_Aeldari_Tech_Weapons_Monofilament.label>
                                              <!-- All Aeldari Monofilament Weapons work on the same principle: a liquid form of the psycho-reactive substance known as Wraithbone is kept in stasis within the weapon's magazine. Once the weapon is activated, this substance will be forced by an electromagnetic propulsive field through an incredibly fine sift, and will solidify into a mass of threads, each one molecule thick, called mono-filaments which are razor sharp. This mass of threads, called a "spinner cloud," is then catapulted at the enemy with tremendous force. Being only one molecule in width, the filaments will have few difficulties in penetrating any armour through minute weaknesses in its molecular structure, and will wreak havoc on the body within, chopping it into a gory mess. -->
-<OG_Aeldari_Tech_Weapons_Monofilament.description>All Aeldari Monofilament Weapons work on the same principle: a liquid form of the psycho-reactive substance known as Wraithbone is kept in stasis within the weapon's magazine. Once the weapon is activated, this substance will be forced by an electromagnetic propulsive field through an incredibly fine sift, and will solidify into a mass of threads, each one molecule thick, called mono-filaments which are razor sharp. This mass of threads, called a "spinner cloud," is then catapulted at the enemy with tremendous force. Being only one molecule in width, the filaments will have few difficulties in penetrating any armour through minute weaknesses in its molecular structure, and will wreak havoc on the body within, chopping it into a gory mess.</OG_Aeldari_Tech_Weapons_Monofilament.description>
+<OG_Aeldari_Tech_Weapons_Monofilament.description>Все мононитевое оружие Аэлдари работает по одному и тому же принципу: жидкая форма психореактивного вещества, известного как Призрачная кость, хранится в стазисе в магазине оружия. Как только оружие будет активировано, это вещество будет вытеснено электромагнитным полем через невероятно мелкое сито и затвердеет в массу нитей толщиной в одну молекулу, называемых мононитями, которые являются острыми, как бритва. Эта масса нитей, называемая "облаком прядильщиков", затем катапультируется во врага с огромной силой. Имея ширину всего в одну молекулу, нити не будут испытывать особых трудностей при проникновении в любую броню через мельчайшие недостатки в ее молекулярной структуре и нанесут ущерб телу внутри, превратив его в кровавое месиво.</OG_Aeldari_Tech_Weapons_Monofilament.description>
                                <!-- Vortex Tech -->
-<OG_Eldar_Tech_Weapons_Vortex.label>Vortex Tech</OG_Eldar_Tech_Weapons_Vortex.label>
+<OG_Eldar_Tech_Weapons_Vortex.label>Вихревая технология</OG_Eldar_Tech_Weapons_Vortex.label>
                                      <!-- Vortex Weapons are some of the most deadly weapons available and, while coming in many shapes and sizes, operate on the same principle of creating a gaping hole in reality. Like a black hole anything that comes in contact with this rift, whether matter or energy, is effectively wiped from existence as it is sucked into the nightmare realm known as the Immaterium and turned into the very stuff of the Warp. -->
-<OG_Eldar_Tech_Weapons_Vortex.description>Vortex Weapons are some of the most deadly weapons available and, while coming in many shapes and sizes, operate on the same principle of creating a gaping hole in reality. Like a black hole anything that comes in contact with this rift, whether matter or energy, is effectively wiped from existence as it is sucked into the nightmare realm known as the Immaterium and turned into the very stuff of the Warp.</OG_Eldar_Tech_Weapons_Vortex.description>
+<OG_Eldar_Tech_Weapons_Vortex.description>Вихревое оружие - одно из самых смертоносных доступных видов оружия, и, хотя оно бывает разных форм и размеров, действует по тому же принципу, создавая зияющую дыру в реальности. Подобно черной дыре, все, что соприкасается с этим разломом, будь то материя или энергия, эффективно стирается с лица земли, поскольку засасывается в царство кошмаров, известное как Имматериум, и превращается в саму материю Варпа.</OG_Eldar_Tech_Weapons_Vortex.description>
                                    <!-- Witchblades -->
-<OG_Eldar_Tech_Weapons_Witchblade.label>Witchblades</OG_Eldar_Tech_Weapons_Witchblade.label>
+<OG_Eldar_Tech_Weapons_Witchblade.label>Ведьмины клинки</OG_Eldar_Tech_Weapons_Witchblade.label>
                                          <!-- A Witchblade is a psychically-attuned melee weapon that a Craftworld Aeldari walking the Path of the Seer, such as Warlocks and Farseers, often carry to battle. Essentially a potent Force Weapon, these swords resonate with their users, enhancing their physical strength to terrifying levels -- Farseers have been known to slash through the heaviest of Power Armour or cleave battle tanks clean in half with devastating blows from these weapons. Used to enhance and unleash the latent psychic power of the wielder, Witchblades are effective against all infantry targets; humanoid, xenos, beast or daemon. A Witch Blade contains a helix-shaped, crystalline psychic matrix embedded with runes to channel and focus a Seer's psychic energies. -->
-<OG_Eldar_Tech_Weapons_Witchblade.description>A Witchblade is a psychically-attuned melee weapon that a Craftworld Aeldari walking the Path of the Seer, such as Warlocks and Farseers, often carry to battle. Essentially a potent Force Weapon, these swords resonate with their users, enhancing their physical strength to terrifying levels -- Farseers have been known to slash through the heaviest of Power Armour or cleave battle tanks clean in half with devastating blows from these weapons. Used to enhance and unleash the latent psychic power of the wielder, Witchblades are effective against all infantry targets; humanoid, xenos, beast or daemon. A Witch Blade contains a helix-shaped, crystalline psychic matrix embedded with runes to channel and focus a Seer's psychic energies.</OG_Eldar_Tech_Weapons_Witchblade.description>
+<OG_Eldar_Tech_Weapons_Witchblade.description>Ведьмин клинок - это психически настроенное оружие ближнего боя, которое эльдары Мира Ремесел, идущие Путем Провидца, такие как Чернокнижники и Провидцы-Дальновидцы, часто носят с собой в бой. По сути, это мощное силовое оружие, эти мечи находят отклик у своих пользователей, повышая их физическую силу до ужасающих уровней - известно, что Провидцы могут пробивать самую тяжелую силовую броню или разрубать боевые танки пополам разрушительными ударами этого оружия. Используемые для усиления и высвобождения скрытой психической силы владельца, ведьмовские клинки эффективны против всех целей пехоты; гуманоид, ксенос, зверь или демон. Клинок ведьмы содержит кристаллическую психическую матрицу в форме спирали, покрытую рунами для направления и фокусировки психической энергии Провидца.</OG_Eldar_Tech_Weapons_Witchblade.description>
                           <!-- Aeldari Apparel -->
-<OG_Aeldari_Tech_Apparel.label>Aeldari Apparel</OG_Aeldari_Tech_Apparel.label>
+<OG_Aeldari_Tech_Apparel.label>Одежда Эльдари</OG_Aeldari_Tech_Apparel.label>
                                 <!-- Allows you to create basic Aeldari apparel -->
-<OG_Aeldari_Tech_Apparel.description>Allows you to create basic Aeldari apparel</OG_Aeldari_Tech_Apparel.description>
+<OG_Aeldari_Tech_Apparel.description>Позволяет создавать базовую одежду эльдари</OG_Aeldari_Tech_Apparel.description>
                                     <!-- Aeldari Armour -->
-<OG_Aeldari_Tech_Apparel_Armour_T1.label>Aeldari Armour</OG_Aeldari_Tech_Apparel_Armour_T1.label>
+<OG_Aeldari_Tech_Apparel_Armour_T1.label>Эльдарские доспехи</OG_Aeldari_Tech_Apparel_Armour_T1.label>
                                           <!-- Allows you to create basic Aeldari armour -->
-<OG_Aeldari_Tech_Apparel_Armour_T1.description>Allows you to create basic Aeldari armour</OG_Aeldari_Tech_Apparel_Armour_T1.description>
+<OG_Aeldari_Tech_Apparel_Armour_T1.description>Позволяет вам создавать базовую броню эльдар</OG_Aeldari_Tech_Apparel_Armour_T1.description>
                                   <!-- Aspect Armour -->
-<OG_Eldar_Tech_Apparel_Armour_T2.label>Aspect Armour</OG_Eldar_Tech_Apparel_Armour_T2.label>
+<OG_Eldar_Tech_Apparel_Armour_T2.label>Аспектная броня</OG_Eldar_Tech_Apparel_Armour_T2.label>
                                         <!-- Allows you to create Eldar Aspect Warrior armours -->
-<OG_Eldar_Tech_Apparel_Armour_T2.description>Allows you to create Eldar Aspect Warrior armours</OG_Eldar_Tech_Apparel_Armour_T2.description>
+<OG_Eldar_Tech_Apparel_Armour_T2.description>Позволяет вам создавать доспехи воинов аспекта Эльдар</OG_Eldar_Tech_Apparel_Armour_T2.description>
                                   <!-- Rune Armour -->
-<OG_Eldar_Tech_Apparel_Armour_T3.label>Rune Armour</OG_Eldar_Tech_Apparel_Armour_T3.label>
+<OG_Eldar_Tech_Apparel_Armour_T3.label>Рунная броня</OG_Eldar_Tech_Apparel_Armour_T3.label>
                                         <!-- Allows you to create the most Advanced Eldar armours, such as those worn by Farseers, Warlocks and Exarchs -->
-<OG_Eldar_Tech_Apparel_Armour_T3.description>Allows you to create the most Advanced Eldar armours, such as those worn by Farseers, Warlocks and Exarchs</OG_Eldar_Tech_Apparel_Armour_T3.description>
+<OG_Eldar_Tech_Apparel_Armour_T3.description>Позволяет вам создавать самые совершенные доспехи эльдар, такие как те, которые носят Провидцы, чернокнижники и экзархи</OG_Eldar_Tech_Apparel_Armour_T3.description>
                                 <!-- Eldar Warger -->
-<OG_Eldar_Tech_Apparel_Wargear.label>Eldar Warger</OG_Eldar_Tech_Apparel_Wargear.label>
+<OG_Eldar_Tech_Apparel_Wargear.label>Боевое снаряжение Эльдар</OG_Eldar_Tech_Apparel_Wargear.label>
                                       <!-- Allows you to create basic Eldar wargear -->
-<OG_Eldar_Tech_Apparel_Wargear.description>Allows you to create basic Eldar wargear</OG_Eldar_Tech_Apparel_Wargear.description>
+<OG_Eldar_Tech_Apparel_Wargear.description>Позволяет вам создавать базовое боевое снаряжение эльдар</OG_Eldar_Tech_Apparel_Wargear.description>
 
 </LanguageData>

@@ -2,10 +2,10 @@
 <LanguageData>
 <!--/Defs/ThingDefs_Items/OG_AMA_Items_Exotic.xml-->
                    <!-- STC datacore -->
-<OGI_STC_Datacore.label>STC datacore</OGI_STC_Datacore.label>
+<OGI_STC_Datacore.label>STC ядро с данными</OGI_STC_Datacore.label>
                          <!-- A small AI core housing a low-grade subpersona specialized in teaching technology. When used, the AI will teach you the technology you're currently researching, instantly and for free. Can only be used once. -->
-<OGI_STC_Datacore.description>A small AI core housing a low-grade subpersona specialized in teaching technology. When used, the AI will teach you the technology you're currently researching, instantly and for free. Can only be used once.</OGI_STC_Datacore.description>
+<OGI_STC_Datacore.description>Небольшое ядро ИИ, в котором содержится низкосортная субличность, специализирующаяся на обучении технологиям. При использовании ИИ мгновенно и бесплатно обучит вас технологии, которую вы изучаете в настоящее время. Можно использовать только один раз.</OGI_STC_Datacore.description>
                                         <!-- Examine datacore -->
-<OGI_STC_Datacore.comps.Comp_Usable.useLabel>Examine datacore</OGI_STC_Datacore.comps.Comp_Usable.useLabel>
+<OGI_STC_Datacore.comps.Comp_Usable.useLabel>Использовать ядро с данными</OGI_STC_Datacore.comps.Comp_Usable.useLabel>
 
 </LanguageData>

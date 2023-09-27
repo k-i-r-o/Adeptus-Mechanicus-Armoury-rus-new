@@ -2,12 +2,12 @@
 <LanguageData>
 <!--/Defs/OrdnanceStrikes/AirStrikeDefs/OGDE_AirStrikeDefs.xml-->
                                      <!-- Splinter -->
-<OGDE_AirstrikeBullet_SplinterRifle.label>Splinter</OGDE_AirstrikeBullet_SplinterRifle.label>
+<OGDE_AirstrikeBullet_SplinterRifle.label>Осколок</OGDE_AirstrikeBullet_SplinterRifle.label>
                                       <!-- large splinter -->
-<OGDE_AirstrikeBullet_SplinterCannon.label>large splinter</OGDE_AirstrikeBullet_SplinterCannon.label>
+<OGDE_AirstrikeBullet_SplinterCannon.label>большой осколок</OGDE_AirstrikeBullet_SplinterCannon.label>
                                            <!-- Disintegrator Bolt -->
-<OGDE_AirstrikeBullet_DisintegratorCannon.label>Disintegrator Bolt</OGDE_AirstrikeBullet_DisintegratorCannon.label>
+<OGDE_AirstrikeBullet_DisintegratorCannon.label>Болт дезинтегратора</OGDE_AirstrikeBullet_DisintegratorCannon.label>
                                  <!-- darklight beam -->
-<OGDE_AirstrikeBullet_Darklance.label>darklight beam</OGDE_AirstrikeBullet_Darklance.label>
+<OGDE_AirstrikeBullet_Darklance.label>темный луч света</OGDE_AirstrikeBullet_Darklance.label>
 
 </LanguageData>

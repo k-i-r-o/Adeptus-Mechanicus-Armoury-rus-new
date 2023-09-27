@@ -2,16 +2,16 @@
 <LanguageData>
 <!--/Defs/ResearchProjectDefs/OG_AMA_Militarum_Research.xml-->
                             <!-- Adeptus Arbites -->
-<OG_Militarum_Tech_Base_T1.label>Adeptus Arbites</OG_Militarum_Tech_Base_T1.label>
+<OG_Militarum_Tech_Base_T1.label>Адептус Арбайтес</OG_Militarum_Tech_Base_T1.label>
                                   <!-- Grants you access to STC templates used by the Adeptus Arbites -->
-<OG_Militarum_Tech_Base_T1.description>Grants you access to STC templates used by the Adeptus Arbites</OG_Militarum_Tech_Base_T1.description>
+<OG_Militarum_Tech_Base_T1.description>Предоставляет вам доступ к шаблонам STC, используемым Адептус Арбайтес</OG_Militarum_Tech_Base_T1.description>
                             <!-- Adeptus Militarum -->
-<OG_Militarum_Tech_Base_T2.label>Adeptus Militarum</OG_Militarum_Tech_Base_T2.label>
+<OG_Militarum_Tech_Base_T2.label>Адептус Милитарум</OG_Militarum_Tech_Base_T2.label>
                                   <!-- Grants you access to STC templates used by the Adeptus Militarum -->
-<OG_Militarum_Tech_Base_T2.description>Grants you access to STC templates used by the Adeptus Militarum</OG_Militarum_Tech_Base_T2.description>
+<OG_Militarum_Tech_Base_T2.description>Предоставляет вам доступ к шаблонам STC, используемым Адептус Милитарум</OG_Militarum_Tech_Base_T2.description>
                             <!-- Militarum Tempestus -->
-<OG_Militarum_Tech_Base_T3.label>Militarum Tempestus</OG_Militarum_Tech_Base_T3.label>
+<OG_Militarum_Tech_Base_T3.label>Милитарум Темпестус</OG_Militarum_Tech_Base_T3.label>
                                   <!-- Grants you access to STC templates used to create finest weapons and wargear in the Departmento Munitorum's arsenal, Tempestus Scions are equipped to carry out missions beyond the capabilities of the rank-and-file Guardsman. -->
-<OG_Militarum_Tech_Base_T3.description>Grants you access to STC templates used to create finest weapons and wargear in the Departmento Munitorum's arsenal, Tempestus Scions are equipped to carry out missions beyond the capabilities of the rank-and-file Guardsman.</OG_Militarum_Tech_Base_T3.description>
+<OG_Militarum_Tech_Base_T3.description>Предоставляя вам доступ к шаблонам STC, используемым для создания лучшего оружия и боевой экипировки в арсенале Департамента Муниторум, отпрыски Темпестус экипированы для выполнения миссий, выходящих за рамки возможностей рядового гвардейца.</OG_Militarum_Tech_Base_T3.description>
 
 </LanguageData>

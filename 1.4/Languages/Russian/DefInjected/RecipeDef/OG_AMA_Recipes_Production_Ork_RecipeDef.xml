@@ -2,16 +2,16 @@
 <LanguageData>
 <!--/Defs/RecipeDefs/OG_AMA_Recipes_Production_Ork.xml-->
                     <!-- make ork component -->
-<Make_ComponentOrk.label>make ork component</Make_ComponentOrk.label>
+<Make_ComponentOrk.label>создать компонент орков</Make_ComponentOrk.label>
                           <!-- Make an ork component. -->
-<Make_ComponentOrk.description>Make an ork component.</Make_ComponentOrk.description>
+<Make_ComponentOrk.description>Создать компонент орков.</Make_ComponentOrk.description>
                         <!-- Making ork component. -->
-<Make_ComponentOrk.jobString>Making ork component.</Make_ComponentOrk.jobString>
+<Make_ComponentOrk.jobString>Изготовление компонента орков.</Make_ComponentOrk.jobString>
                 <!-- make ork bitz -->
-<Make_OGO_Bitz.label>make ork bitz</Make_OGO_Bitz.label>
+<Make_OGO_Bitz.label>создать орочий битз</Make_OGO_Bitz.label>
                       <!-- Make ork bitz. -->
-<Make_OGO_Bitz.description>Make ork bitz.</Make_OGO_Bitz.description>
+<Make_OGO_Bitz.description>Создать орочий битз.</Make_OGO_Bitz.description>
                     <!-- Making ork bitz. -->
-<Make_OGO_Bitz.jobString>Making ork bitz.</Make_OGO_Bitz.jobString>
+<Make_OGO_Bitz.jobString>Изготовление битз орков.</Make_OGO_Bitz.jobString>
 
 </LanguageData>

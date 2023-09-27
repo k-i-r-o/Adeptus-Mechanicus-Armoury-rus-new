@@ -2,7 +2,7 @@
 <LanguageData>
 <!--/Defs/TaleDefs/OG_AMA_Tales_SinglePawn.xml-->
                        <!-- emerged from tunnel -->
-<OG_EmergedFromTunnel.label>emerged from tunnel</OG_EmergedFromTunnel.label>
+<OG_EmergedFromTunnel.label>вышел из туннеля</OG_EmergedFromTunnel.label>
                       <!-- Volatile -->
 <OG_EmergedFromTunnel.type>Volatile</OG_EmergedFromTunnel.type>
                                        <!-- 
@@ -29,27 +29,27 @@
 		<li>desc_sentence-&gt;A [PersonJob] watches silently from afar.</li>
  -->
 <OG_EmergedFromTunnel.rulePack.rulesStrings>
-		<li>tale_noun-&gt;[PAWN_nameDef]'s emerging from a tunnel</li>
-		<li>image-&gt;[PAWN_nameFull] emerging from a tunnel [circumstance_group]</li>
-		<li>image-&gt;[PAWN_nameFull] erupting out of a tunnel [circumstance_group]</li>
-		<li>image-&gt;[PAWN_nameFull] striking out of a tunnel [circumstance_group]</li>
-		<li>image-&gt;[PAWN_nameFull] travelling in a tunnel [circumstance_group]</li>
-		<li>circumstance_phrase-&gt;in front of a [TerrainFeature]</li>
-		<li>circumstance_phrase-&gt;with incredible force</li>
-		<li>circumstance_phrase-&gt;in a plume of dust and rocks</li>
-		<li>circumstance_phrase-&gt;with debries flying dramatically</li>
-		<li>circumstance_phrase-&gt;in a precision strike</li>
-		<li>desc_sentence-&gt;[PAWN_pronoun] is concentrating intently on tunneling.</li>
-		<li>desc_sentence-&gt;[PAWN_pronoun] has [PAWN_possessive] eyes fixed and looks eager.</li>
-		<li>desc_sentence-&gt;[PAWN_pronoun] is enraged, [PAWN_possessive] tongue lolling out, drool dripping.</li>
-		<li>desc_sentence-&gt;[PAWN_pronoun] is smiling with grim joy.</li>
-		<li>desc_sentence-&gt;[PAWN_pronoun] seems to have no idea what [PAWN_pronoun] is doing.</li>
-		<li>desc_sentence-&gt;[PAWN_pronoun] is strapped in with [PAWN_possessive] eyes closed, totally helpless.</li>
-		<li>desc_sentence-&gt;There is a faint sound of fying bacon before the ground gives way.</li>
-		<li>desc_sentence-&gt;A nearby [Animal] is looking up, startled.</li>
-		<li>desc_sentence-&gt;A [Animal] is fleeing the commotion in fear.</li>
-		<li>desc_sentence-&gt;There is a [TerrainFeature] in the background.</li>
-		<li>desc_sentence-&gt;A [PersonJob] watches silently from afar.</li>
+		<li>tale_noun-&gt;[PAWN_nameDef] выходящие из туннеля</li>
+		<li>image-&gt;[PAWN_nameFull] выходящий из туннеля [circumstance_group]</li>
+		<li>image-&gt;[PAWN_nameFull] вырывающийся из туннеля [circumstance_group]</li>
+		<li>image-&gt;[PAWN_nameFull] выбегая из туннеля [circumstance_group]</li>
+		<li>image-&gt;[PAWN_nameFull] путешествие в туннеле [circumstance_group]</li>
+		<li>circumstance_phrase-&gt;перед собой [TerrainFeature]</li>
+		<li>circumstance_phrase-&gt;с невероятной силой</li>
+		<li>circumstance_phrase-&gt;в облаке пыли и камней</li>
+		<li>circumstance_phrase-&gt;с резко разлетающимися обломками</li>
+		<li>circumstance_phrase-&gt;в точном ударе</li>
+		<li>desc_sentence-&gt;[PAWN_pronoun] сосредоточен на прокладке туннелей.</li>
+		<li>desc_sentence-&gt;[PAWN_pronoun] [PAWN_possessive] имеет пристальный взгляд и выглядит нетерпеливым.</li>
+		<li>desc_sentence-&gt;[PAWN_pronoun] разъярен, [PAWN_possessive] язык высунут, слюна капает.</li>
+		<li>desc_sentence-&gt;[PAWN_pronoun] улыбается с мрачной радостью.</li>
+		<li>desc_sentence-&gt;[PAWN_pronoun] кажется, понятия не имеет, что [PAWN_pronoun] делает.</li>
+		<li>desc_sentence-&gt;[PAWN_pronoun] связан с закрытыми глазами [PAWN_possessive] ,совершенно беспомощен.</li>
+		<li>desc_sentence-&gt;Раздается слабый звук поджаривающегося бекона, прежде чем земля уходит из-под ног.</li>
+		<li>desc_sentence-&gt;[Animal] испуганно смотрит вверх.</li>
+		<li>desc_sentence-&gt;[Animal] бежит от суматохи в страхе.</li>
+		<li>desc_sentence-&gt;Есть [TerrainFeature] на заднем плане.</li>
+		<li>desc_sentence-&gt;A [PersonJob] молча наблюдает издалека.</li>
 </OG_EmergedFromTunnel.rulePack.rulesStrings>
 
 </LanguageData>

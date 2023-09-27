@@ -2,7 +2,7 @@
 <LanguageData>
 <!--/Defs/PawnKindDefs_Human/OG_AMA_PawnKinds_Pirate.xml-->
                     <!-- hiver lowlife -->
-<OGI_Hiver_Lowlife.label>hiver lowlife</OGI_Hiver_Lowlife.label>
+<OGI_Hiver_Lowlife.label>подлый житель улья</OGI_Hiver_Lowlife.label>
                           <!-- Plural hiver lowlife -->
 <OGI_Hiver_Lowlife.labelPlural>Plural hiver lowlife</OGI_Hiver_Lowlife.labelPlural>
                         <!-- Male hiver lowlife -->
@@ -14,7 +14,7 @@
                                 <!-- Female Plural hiver lowlife -->
 <OGI_Hiver_Lowlife.labelFemalePlural>Female Plural hiver lowlife</OGI_Hiver_Lowlife.labelFemalePlural>
                    <!-- hiver gunner -->
-<OGI_Hiver_Gunner.label>hiver gunner</OGI_Hiver_Gunner.label>
+<OGI_Hiver_Gunner.label>стрелок из улья</OGI_Hiver_Gunner.label>
                          <!-- Plural hiver gunner -->
 <OGI_Hiver_Gunner.labelPlural>Plural hiver gunner</OGI_Hiver_Gunner.labelPlural>
                        <!-- Male hiver gunner -->
@@ -26,9 +26,9 @@
                                <!-- Female Plural hiver gunner -->
 <OGI_Hiver_Gunner.labelFemalePlural>Female Plural hiver gunner</OGI_Hiver_Gunner.labelFemalePlural>
                      <!-- hiver thrasher -->
-<OGI_Hiver_Thrasher.label>hiver thrasher</OGI_Hiver_Thrasher.label>
+<OGI_Hiver_Thrasher.label>пулеметчик из улья</OGI_Hiver_Thrasher.label>
                            <!-- Plural hiver thrasher -->
-<OGI_Hiver_Thrasher.labelPlural>Plural hiver thrasher</OGI_Hiver_Thrasher.labelPlural>
+<OGI_Hiver_Thrasher.labelPlural>пулеметчики из улья</OGI_Hiver_Thrasher.labelPlural>
                          <!-- Male hiver thrasher -->
 <OGI_Hiver_Thrasher.labelMale>Male hiver thrasher</OGI_Hiver_Thrasher.labelMale>
                                <!-- Male Plural hiver thrasher -->
@@ -38,9 +38,9 @@
                                  <!-- Female Plural hiver thrasher -->
 <OGI_Hiver_Thrasher.labelFemalePlural>Female Plural hiver thrasher</OGI_Hiver_Thrasher.labelFemalePlural>
                <!-- deserter guardsmen -->
-<OGI_Deserter.label>deserter guardsmen</OGI_Deserter.label>
+<OGI_Deserter.label>гвардеец-дезертир</OGI_Deserter.label>
                      <!-- Plural deserter guardsmen -->
-<OGI_Deserter.labelPlural>Plural deserter guardsmen</OGI_Deserter.labelPlural>
+<OGI_Deserter.labelPlural>гвардейцы-дезертиры</OGI_Deserter.labelPlural>
                    <!-- Male deserter guardsmen -->
 <OGI_Deserter.labelMale>Male deserter guardsmen</OGI_Deserter.labelMale>
                          <!-- Male Plural deserter guardsmen -->

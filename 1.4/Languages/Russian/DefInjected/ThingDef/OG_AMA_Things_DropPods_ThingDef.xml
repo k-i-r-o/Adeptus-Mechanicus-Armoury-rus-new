@@ -2,12 +2,12 @@
 <LanguageData>
 <!--/Defs/ThingDefs_Misc/OG_AMA_Things_DropPods.xml-->
                             <!-- mycetic spore (incoming) -->
-<OG_Mycetic_Spore_Incoming.label>mycetic spore (incoming)</OG_Mycetic_Spore_Incoming.label>
+<OG_Mycetic_Spore_Incoming.label>мицелиальная спора (incoming)</OG_Mycetic_Spore_Incoming.label>
                           <!-- mycetic spore -->
-<OG_Active_Mycetic_Spore.label>mycetic spore</OG_Active_Mycetic_Spore.label>
+<OG_Active_Mycetic_Spore.label>мицелиальная спора</OG_Active_Mycetic_Spore.label>
                                <!-- flyer (incoming) -->
-<OG_DeepStrike_Flyer_Incoming.label>flyer (incoming)</OG_DeepStrike_Flyer_Incoming.label>
+<OG_DeepStrike_Flyer_Incoming.label>листовка (incoming)</OG_DeepStrike_Flyer_Incoming.label>
                              <!-- flyer -->
-<OG_Active_DeepStrike_Flyer.label>flyer</OG_Active_DeepStrike_Flyer.label>
+<OG_Active_DeepStrike_Flyer.label>листовка</OG_Active_DeepStrike_Flyer.label>
 
 </LanguageData>

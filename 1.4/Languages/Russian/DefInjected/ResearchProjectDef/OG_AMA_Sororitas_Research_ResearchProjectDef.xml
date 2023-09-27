@@ -2,12 +2,12 @@
 <LanguageData>
 <!--/Defs/ResearchProjectDefs/OG_AMA_Sororitas_Research.xml-->
                             <!-- Adeptus Sororitas -->
-<OG_Sororitas_Tech_Base_T1.label>Adeptus Sororitas</OG_Sororitas_Tech_Base_T1.label>
+<OG_Sororitas_Tech_Base_T1.label>Адепта Сороритас</OG_Sororitas_Tech_Base_T1.label>
                                   <!-- Grants you access to basic STC templates used by the Adeptus Sororitas -->
-<OG_Sororitas_Tech_Base_T1.description>Grants you access to basic STC templates used by the Adeptus Sororitas</OG_Sororitas_Tech_Base_T1.description>
+<OG_Sororitas_Tech_Base_T1.description>Предоставляет вам доступ к базовым шаблонам STC, используемым Адепта Сороритас</OG_Sororitas_Tech_Base_T1.description>
                             <!-- Adeptus Sororitas -->
-<OG_Sororitas_Tech_Base_T2.label>Adeptus Sororitas</OG_Sororitas_Tech_Base_T2.label>
+<OG_Sororitas_Tech_Base_T2.label>Адепта Сороритас 2</OG_Sororitas_Tech_Base_T2.label>
                                   <!-- Grants you access to advanced STC templates used by the Adeptus Sororitas -->
-<OG_Sororitas_Tech_Base_T2.description>Grants you access to advanced STC templates used by the Adeptus Sororitas</OG_Sororitas_Tech_Base_T2.description>
+<OG_Sororitas_Tech_Base_T2.description>Предоставляет вам доступ к расширенным шаблонам STC, используемым Адепта Сороритас</OG_Sororitas_Tech_Base_T2.description>
 
 </LanguageData>

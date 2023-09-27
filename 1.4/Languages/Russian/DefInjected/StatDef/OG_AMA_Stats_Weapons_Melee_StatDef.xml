@@ -2,8 +2,8 @@
 <LanguageData>
 <!--/Defs/Stats/OG_AMA_Stats_Weapons_Melee.xml-->
                                   <!-- Disruption Field -->
-<OG_PowerWeapon_DamageMultiplier.label>Disruption Field</OG_PowerWeapon_DamageMultiplier.label>
+<OG_PowerWeapon_DamageMultiplier.label>Поле разрушения</OG_PowerWeapon_DamageMultiplier.label>
                                         <!-- A multiplier on damage from Power Weapon-type attacks for weapons made of this material. -->
-<OG_PowerWeapon_DamageMultiplier.description>A multiplier on damage from Power Weapon-type attacks for weapons made of this material.</OG_PowerWeapon_DamageMultiplier.description>
+<OG_PowerWeapon_DamageMultiplier.description>Множитель урона от атак типа энергетического оружия для оружия, изготовленного из этого материала.</OG_PowerWeapon_DamageMultiplier.description>
 
 </LanguageData>

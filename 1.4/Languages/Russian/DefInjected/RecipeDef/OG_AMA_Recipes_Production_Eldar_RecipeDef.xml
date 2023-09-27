@@ -2,22 +2,22 @@
 <LanguageData>
 <!--/Defs/RecipeDefs/OG_AMA_Recipes_Production_Eldar.xml-->
                      <!-- make eldar component -->
-<Make_OGE_Component.label>make eldar component</Make_OGE_Component.label>
+<Make_OGE_Component.label>создать элдарские компоненты</Make_OGE_Component.label>
                            <!-- Make an eldar component. -->
-<Make_OGE_Component.description>Make an eldar component.</Make_OGE_Component.description>
+<Make_OGE_Component.description>Создать элдарские компоненты.</Make_OGE_Component.description>
                          <!-- Making eldar component. -->
-<Make_OGE_Component.jobString>Making eldar component.</Make_OGE_Component.jobString>
+<Make_OGE_Component.jobString>Создание элдарских компонентов.</Make_OGE_Component.jobString>
                       <!-- make wraithbone -->
-<Make_OGE_Wraithbone.label>make wraithbone</Make_OGE_Wraithbone.label>
+<Make_OGE_Wraithbone.label>создать призрачную кость</Make_OGE_Wraithbone.label>
                             <!-- Make some wraithbone. -->
-<Make_OGE_Wraithbone.description>Make some wraithbone.</Make_OGE_Wraithbone.description>
+<Make_OGE_Wraithbone.description>Создать призрачную кость.</Make_OGE_Wraithbone.description>
                           <!-- Making wraithbone. -->
-<Make_OGE_Wraithbone.jobString>Making wraithbone.</Make_OGE_Wraithbone.jobString>
+<Make_OGE_Wraithbone.jobString>Изготовление призрачной кости.</Make_OGE_Wraithbone.jobString>
                        <!-- make spirit stones -->
-<Make_OGE_SpiritStone.label>make spirit stones</Make_OGE_SpiritStone.label>
+<Make_OGE_SpiritStone.label>создать камни души</Make_OGE_SpiritStone.label>
                              <!-- Make a spirit stone. -->
-<Make_OGE_SpiritStone.description>Make a spirit stone.</Make_OGE_SpiritStone.description>
+<Make_OGE_SpiritStone.description>Сделать камень души.</Make_OGE_SpiritStone.description>
                            <!-- Making spirit stones. -->
-<Make_OGE_SpiritStone.jobString>Making spirit stones.</Make_OGE_SpiritStone.jobString>
+<Make_OGE_SpiritStone.jobString>Изготовление камней души.</Make_OGE_SpiritStone.jobString>
 
 </LanguageData>

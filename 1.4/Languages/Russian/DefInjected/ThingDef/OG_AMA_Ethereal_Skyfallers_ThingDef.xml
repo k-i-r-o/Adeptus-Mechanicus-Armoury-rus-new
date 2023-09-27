@@ -2,19 +2,19 @@
 <LanguageData>
 <!--/Defs/ThingDefs_Buildings/OG_AMA_Ethereal_Skyfallers.xml-->
                     <!-- drop pod (incoming) -->
-<OGDropPodIncoming.label>drop pod (incoming)</OGDropPodIncoming.label>
+<OGDropPodIncoming.label>десантный модуль (входящий)</OGDropPodIncoming.label>
                       <!-- ship chunk (incoming) -->
-<OGShipChunkIncoming.label>ship chunk (incoming)</OGShipChunkIncoming.label>
+<OGShipChunkIncoming.label>кусок корабля (входящий)</OGShipChunkIncoming.label>
                             <!-- crashed ship part (incoming) -->
-<OGCrashedShipPartIncoming.label>crashed ship part (incoming)</OGCrashedShipPartIncoming.label>
+<OGCrashedShipPartIncoming.label>разбившаяся часть корабля (входящий)</OGCrashedShipPartIncoming.label>
                                  <!-- crashed ship part (incoming) -->
-<UnknownCrashedShipPartIncoming.label>crashed ship part (incoming)</UnknownCrashedShipPartIncoming.label>
+<UnknownCrashedShipPartIncoming.label>разбившаяся часть корабля (входящий)</UnknownCrashedShipPartIncoming.label>
                       <!-- meteorite (incoming) -->
-<OGMeteoriteIncoming.label>meteorite (incoming)</OGMeteoriteIncoming.label>
+<OGMeteoriteIncoming.label>метеорит (входящий)</OGMeteoriteIncoming.label>
 
 
 <!--/Defs/ThingDefs_Misc/OG_AMA_Ethereal_Skyfallers.xml-->
 <!-- drop pod (leaving) -->
-<OGDropPodLeaving.label>drop pod (leaving)</OGDropPodLeaving.label>
+<OGDropPodLeaving.label>десантный модуль (уходящий)</OGDropPodLeaving.label>
 
 </LanguageData>

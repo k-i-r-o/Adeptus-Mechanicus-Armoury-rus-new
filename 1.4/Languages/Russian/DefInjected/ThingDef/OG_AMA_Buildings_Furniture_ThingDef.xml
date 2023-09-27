@@ -2,8 +2,8 @@
 <LanguageData>
 <!--/Defs/ThingDefs_Buildings/OG_AMA_Buildings_Furniture.xml-->
                    <!-- tool cabinet(shelf) -->
-<ToolCabinetShelf.label>tool cabinet(shelf)</ToolCabinetShelf.label>
+<ToolCabinetShelf.label>шкаф для инструментов (полка)</ToolCabinetShelf.label>
                          <!-- Increases work speed when placed near a workbench. One workbench use to up to two tool cabinets. -->
-<ToolCabinetShelf.description>Increases work speed when placed near a workbench. One workbench use to up to two tool cabinets.</ToolCabinetShelf.description>
+<ToolCabinetShelf.description>Увеличивает скорость работы при размещении рядом с верстаком. Один верстак может использоваться до двух шкафов для инструментов.</ToolCabinetShelf.description>
 
 </LanguageData>

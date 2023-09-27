@@ -2,8 +2,8 @@
 <LanguageData>
 <!--/Defs/Stats/OG_AMA_Stats_Apparel.xml-->
                                  <!-- Armor - Invunerable Save -->
-<OG_ArmorRating_InvunerableSave.label>Armor - Invunerable Save</OG_ArmorRating_InvunerableSave.label>
+<OG_ArmorRating_InvunerableSave.label>Броня - "Неуязвимое спасение"</OG_ArmorRating_InvunerableSave.label>
                                        <!-- Invunerable Saves protect against attacks that would normally negate armor -->
-<OG_ArmorRating_InvunerableSave.description>Invunerable Saves protect against attacks that would normally negate armor</OG_ArmorRating_InvunerableSave.description>
+<OG_ArmorRating_InvunerableSave.description>"Неуязвимое спасение" защищает от атак, которые обычно сводят на нет броню</OG_ArmorRating_InvunerableSave.description>
 
 </LanguageData>

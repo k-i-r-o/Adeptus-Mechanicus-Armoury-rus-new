@@ -2,31 +2,31 @@
 <LanguageData>
 <!--/Defs/PawnKindDefs_Human/OG_AMA_PawnKinds_Mercenary.xml-->
                            <!-- grenadier -->
-<OG_Grenadier_Destructive.label>grenadier</OG_Grenadier_Destructive.label>
+<OG_Grenadier_Destructive.label>гренадер</OG_Grenadier_Destructive.label>
                                  <!-- Plural grenadier -->
-<OG_Grenadier_Destructive.labelPlural>Plural grenadier</OG_Grenadier_Destructive.labelPlural>
+<OG_Grenadier_Destructive.labelPlural>Гренадеры</OG_Grenadier_Destructive.labelPlural>
                                <!-- Male grenadier -->
-<OG_Grenadier_Destructive.labelMale>Male grenadier</OG_Grenadier_Destructive.labelMale>
+<OG_Grenadier_Destructive.labelMale>Мужчина гренадер</OG_Grenadier_Destructive.labelMale>
                                      <!-- Male Plural grenadier -->
-<OG_Grenadier_Destructive.labelMalePlural>Male Plural grenadier</OG_Grenadier_Destructive.labelMalePlural>
+<OG_Grenadier_Destructive.labelMalePlural>Мужчины гренадеры</OG_Grenadier_Destructive.labelMalePlural>
                                  <!-- Female grenadier -->
-<OG_Grenadier_Destructive.labelFemale>Female grenadier</OG_Grenadier_Destructive.labelFemale>
+<OG_Grenadier_Destructive.labelFemale>Женщина гренадер</OG_Grenadier_Destructive.labelFemale>
                                        <!-- Female Plural grenadier -->
-<OG_Grenadier_Destructive.labelFemalePlural>Female Plural grenadier</OG_Grenadier_Destructive.labelFemalePlural>
+<OG_Grenadier_Destructive.labelFemalePlural>Женщины гренадеры</OG_Grenadier_Destructive.labelFemalePlural>
                       <!-- mercenary gunner -->
-<OG_Mercenary_Gunner.label>mercenary gunner</OG_Mercenary_Gunner.label>
+<OG_Mercenary_Gunner.label>наемный стрелок</OG_Mercenary_Gunner.label>
                             <!-- Plural mercenary gunner -->
-<OG_Mercenary_Gunner.labelPlural>Plural mercenary gunner</OG_Mercenary_Gunner.labelPlural>
+<OG_Mercenary_Gunner.labelPlural>Наемные стрелки</OG_Mercenary_Gunner.labelPlural>
                           <!-- Male mercenary gunner -->
-<OG_Mercenary_Gunner.labelMale>Male mercenary gunner</OG_Mercenary_Gunner.labelMale>
+<OG_Mercenary_Gunner.labelMale>Мужчина наемный стрелок</OG_Mercenary_Gunner.labelMale>
                                 <!-- Male Plural mercenary gunner -->
-<OG_Mercenary_Gunner.labelMalePlural>Male Plural mercenary gunner</OG_Mercenary_Gunner.labelMalePlural>
+<OG_Mercenary_Gunner.labelMalePlural>Мужчины наемные стрелки</OG_Mercenary_Gunner.labelMalePlural>
                             <!-- Female mercenary gunner -->
 <OG_Mercenary_Gunner.labelFemale>Female mercenary gunner</OG_Mercenary_Gunner.labelFemale>
                                   <!-- Female Plural mercenary gunner -->
 <OG_Mercenary_Gunner.labelFemalePlural>Female Plural mercenary gunner</OG_Mercenary_Gunner.labelFemalePlural>
                       <!-- mercenary sniper -->
-<OG_Mercenary_Sniper.label>mercenary sniper</OG_Mercenary_Sniper.label>
+<OG_Mercenary_Sniper.label>наемный снайпер</OG_Mercenary_Sniper.label>
                             <!-- Plural mercenary sniper -->
 <OG_Mercenary_Sniper.labelPlural>Plural mercenary sniper</OG_Mercenary_Sniper.labelPlural>
                           <!-- Male mercenary sniper -->
@@ -38,7 +38,7 @@
                                   <!-- Female Plural mercenary sniper -->
 <OG_Mercenary_Sniper.labelFemalePlural>Female Plural mercenary sniper</OG_Mercenary_Sniper.labelFemalePlural>
                        <!-- mercenary slasher -->
-<OG_Mercenary_Slasher.label>mercenary slasher</OG_Mercenary_Slasher.label>
+<OG_Mercenary_Slasher.label>наемный убийца</OG_Mercenary_Slasher.label>
                              <!-- Plural mercenary slasher -->
 <OG_Mercenary_Slasher.labelPlural>Plural mercenary slasher</OG_Mercenary_Slasher.labelPlural>
                            <!-- Male mercenary slasher -->
@@ -50,9 +50,9 @@
                                    <!-- Female Plural mercenary slasher -->
 <OG_Mercenary_Slasher.labelFemalePlural>Female Plural mercenary slasher</OG_Mercenary_Slasher.labelFemalePlural>
                      <!-- heavy mercenary -->
-<OG_Mercenary_Heavy.label>heavy mercenary</OG_Mercenary_Heavy.label>
+<OG_Mercenary_Heavy.label>тяжелый наемник</OG_Mercenary_Heavy.label>
                            <!-- heavy mercenaries -->
-<OG_Mercenary_Heavy.labelPlural>heavy mercenaries</OG_Mercenary_Heavy.labelPlural>
+<OG_Mercenary_Heavy.labelPlural>тяжелые наемники</OG_Mercenary_Heavy.labelPlural>
                          <!-- Male heavy mercenary -->
 <OG_Mercenary_Heavy.labelMale>Male heavy mercenary</OG_Mercenary_Heavy.labelMale>
                                <!-- Male Plural heavy mercenary -->
@@ -62,9 +62,9 @@
                                  <!-- Female Plural heavy mercenary -->
 <OG_Mercenary_Heavy.labelFemalePlural>Female Plural heavy mercenary</OG_Mercenary_Heavy.labelFemalePlural>
                 <!-- boss -->
-<OG_PirateBoss.label>boss</OG_PirateBoss.label>
+<OG_PirateBoss.label>босс</OG_PirateBoss.label>
                       <!-- bosses -->
-<OG_PirateBoss.labelPlural>bosses</OG_PirateBoss.labelPlural>
+<OG_PirateBoss.labelPlural>боссы</OG_PirateBoss.labelPlural>
                     <!-- Male boss -->
 <OG_PirateBoss.labelMale>Male boss</OG_PirateBoss.labelMale>
                           <!-- Male Plural boss -->
@@ -74,9 +74,9 @@
                             <!-- Female Plural boss -->
 <OG_PirateBoss.labelFemalePlural>Female Plural boss</OG_PirateBoss.labelFemalePlural>
                      <!-- elite mercenary -->
-<OG_Mercenary_Elite.label>elite mercenary</OG_Mercenary_Elite.label>
+<OG_Mercenary_Elite.label>элитный наемник</OG_Mercenary_Elite.label>
                            <!-- elite mercenaries -->
-<OG_Mercenary_Elite.labelPlural>elite mercenaries</OG_Mercenary_Elite.labelPlural>
+<OG_Mercenary_Elite.labelPlural>элитные наемники</OG_Mercenary_Elite.labelPlural>
                          <!-- Male elite mercenary -->
 <OG_Mercenary_Elite.labelMale>Male elite mercenary</OG_Mercenary_Elite.labelMale>
                                <!-- Male Plural elite mercenary -->

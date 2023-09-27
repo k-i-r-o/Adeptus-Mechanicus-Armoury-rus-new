@@ -2,9 +2,9 @@
 <LanguageData>
 <!--/Defs/ShieldDefs/XenoShield.xml.bak-->
                            <!-- Combat Shield -->
-<OGI_Wargear_CombatShield.label>Combat Shield</OGI_Wargear_CombatShield.label>
+<OGI_Wargear_CombatShield.label>Боевой щит</OGI_Wargear_CombatShield.label>
                                  <!-- Shield made from a Xenomorph head. It protects the wearer from both melee and ranged attacks, and is immune to the acidic effect of the Xenomorph's blood. -->
-<OGI_Wargear_CombatShield.description>Shield made from a Xenomorph head. It protects the wearer from both melee and ranged attacks, and is immune to the acidic effect of the Xenomorph's blood.</OGI_Wargear_CombatShield.description>
+<OGI_Wargear_CombatShield.description>Щит, сделанный из головы ксеноморфа. Он защищает владельца как от атак ближнего, так и дальнего боя и невосприимчив к кислотному воздействию крови ксеноморфа.</OGI_Wargear_CombatShield.description>
                                    <!-- side -->
 <OGI_Wargear_CombatShield.tools.0.label>side</OGI_Wargear_CombatShield.tools.0.label>
                                    <!-- buckle -->

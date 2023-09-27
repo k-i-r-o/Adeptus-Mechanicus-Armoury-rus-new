@@ -2,68 +2,68 @@
 <LanguageData>
 <!--/Defs/ResearchProjectDefs/OG_AMXBT_Tau_Research.xml-->
                         <!-- Kroot Kindred -->
-<OG_Kroot_Tech_Base_T1.label>Kroot Kindred</OG_Kroot_Tech_Base_T1.label>
+<OG_Kroot_Tech_Base_T1.label>Сородич Крута</OG_Kroot_Tech_Base_T1.label>
                               <!-- Basic understanding of Kroot Culture -->
-<OG_Kroot_Tech_Base_T1.description>Basic understanding of Kroot Culture</OG_Kroot_Tech_Base_T1.description>
+<OG_Kroot_Tech_Base_T1.description>Базовое понимание культуры Крутов</OG_Kroot_Tech_Base_T1.description>
                         <!-- Kroot Culture -->
-<OG_Kroot_Tech_Base_T2.label>Kroot Culture</OG_Kroot_Tech_Base_T2.label>
+<OG_Kroot_Tech_Base_T2.label>Культура Крутов</OG_Kroot_Tech_Base_T2.label>
                               <!-- Basic understanding of Kroot Culture and the Greater Good -->
-<OG_Kroot_Tech_Base_T2.description>Basic understanding of Kroot Culture and the Greater Good</OG_Kroot_Tech_Base_T2.description>
+<OG_Kroot_Tech_Base_T2.description>Базовое понимание культуры Крутов и общего блага</OG_Kroot_Tech_Base_T2.description>
                         <!-- Kroot Mercenaries -->
-<OG_Kroot_Tech_Base_T3.label>Kroot Mercenaries</OG_Kroot_Tech_Base_T3.label>
+<OG_Kroot_Tech_Base_T3.label>Наемники Крутов</OG_Kroot_Tech_Base_T3.label>
                               <!-- Basic understanding of Kroot Culture and the Greater Good -->
-<OG_Kroot_Tech_Base_T3.description>Basic understanding of Kroot Culture and the Greater Good</OG_Kroot_Tech_Base_T3.description>
+<OG_Kroot_Tech_Base_T3.description>Базовое понимание культуры Крутов и общего блага</OG_Kroot_Tech_Base_T3.description>
                       <!-- The Greater Good -->
-<OG_Tau_Tech_Base_T1.label>The Greater Good</OG_Tau_Tech_Base_T1.label>
+<OG_Tau_Tech_Base_T1.label>Высшее благо</OG_Tau_Tech_Base_T1.label>
                             <!-- The Greater Good, or Tau'va (literally the "Good Greater" in the T'au Lexicon), is the founding religio-philosophical principle of present T'au society which holds that all sentient beings should strive to ensure the greatest good for the greatest number of beings in the galaxy. -->
-<OG_Tau_Tech_Base_T1.description>The Greater Good, or Tau'va (literally the "Good Greater" in the T'au Lexicon), is the founding religio-philosophical principle of present T'au society which holds that all sentient beings should strive to ensure the greatest good for the greatest number of beings in the galaxy.</OG_Tau_Tech_Base_T1.description>
+<OG_Tau_Tech_Base_T1.description>Высшее благо, или Тау (буквально "Благо большее" в лексиконе Тау), является основополагающим религиозно-философским принципом современного общества Тау, который гласит, что все разумные существа должны стремиться обеспечить наибольшее благо для наибольшего числа существ в галактике.</OG_Tau_Tech_Base_T1.description>
                       <!-- Caste System -->
-<OG_Tau_Tech_Base_T2.label>Caste System</OG_Tau_Tech_Base_T2.label>
+<OG_Tau_Tech_Base_T2.label>Кастовая система</OG_Tau_Tech_Base_T2.label>
                             <!-- T'au society is divided into a number of castes, each responsible for managing a specific aspect of their society.
 The Fire Caste composes the bulk of their military,
 The Earth Caste is composed of laborers, artisans, scientists and engineers.
 The Water Caste is primarily composed of merchants and diplomats
 The Air Caste function not only as messengers, but also as the bulk of their Navy. -->
-<OG_Tau_Tech_Base_T2.description>T'au society is divided into a number of castes, each responsible for managing a specific aspect of their society.\nThe Fire Caste composes the bulk of their military,\nThe Earth Caste is composed of laborers, artisans, scientists and engineers.\nThe Water Caste is primarily composed of merchants and diplomats\nThe Air Caste function not only as messengers, but also as the bulk of their Navy.</OG_Tau_Tech_Base_T2.description>
+<OG_Tau_Tech_Base_T2.description>Общество Тау разделено на ряд каст, каждая из которых отвечает за управление определенным аспектом своего общества.Каста Огня составляет основную часть их вооруженных сил, Каста Земли состоит из рабочих, ремесленников, ученых и инженеров.\Каста воды в основном состоит из торговцев и дипломатов, Каста Воздуха функционирует не только как посланники, но и как основная часть их флота.</OG_Tau_Tech_Base_T2.description>
                       <!-- Etherals -->
-<OG_Tau_Tech_Base_T3.label>Etherals</OG_Tau_Tech_Base_T3.label>
+<OG_Tau_Tech_Base_T3.label>Эфирные вещества</OG_Tau_Tech_Base_T3.label>
                             <!-- Known as the Aun in the T'au Lexicon, their name translates variously as the "Celestial" or "Ethereal Caste." Though their numbers are small compared to the other castes, the Ethereals are the rulers of the T'au Empire, and command near total authority and loyalty from every other T'au. -->
-<OG_Tau_Tech_Base_T3.description>Known as the Aun in the T'au Lexicon, their name translates variously as the "Celestial" or "Ethereal Caste." Though their numbers are small compared to the other castes, the Ethereals are the rulers of the T'au Empire, and command near total authority and loyalty from every other T'au.</OG_Tau_Tech_Base_T3.description>
+<OG_Tau_Tech_Base_T3.description>Известные в лексиконе тау как Аун, их название по-разному переводится как "Небесная" или "Эфирная каста". Хотя их численность невелика по сравнению с другими кастами, эфирные являются правителями империи Тау и пользуются почти полной властью и лояльностью со стороны всех остальных тау.</OG_Tau_Tech_Base_T3.description>
                          <!-- Vespid Strain -->
-<OG_Vespid_Tech_Base_T1.label>Vespid Strain</OG_Vespid_Tech_Base_T1.label>
+<OG_Vespid_Tech_Base_T1.label>Штамм Веспид</OG_Vespid_Tech_Base_T1.label>
                                <!-- Basic understanding of Vespid Culture and the Greater Good -->
-<OG_Vespid_Tech_Base_T1.description>Basic understanding of Vespid Culture and the Greater Good</OG_Vespid_Tech_Base_T1.description>
+<OG_Vespid_Tech_Base_T1.description>Базовое понимание культуры Веспид и общего блага</OG_Vespid_Tech_Base_T1.description>
                                   <!-- Pulse Weapons -->
-<OG_Tau_Tech_Weapons_PlasmaPulse.label>Pulse Weapons</OG_Tau_Tech_Weapons_PlasmaPulse.label>
+<OG_Tau_Tech_Weapons_PlasmaPulse.label>Импульсное оружие</OG_Tau_Tech_Weapons_PlasmaPulse.label>
                                         <!-- The T'au, whilst a relatively young race in the grand scale of time, have advanced extraordinarily rapidly and have already perfected many different forms of Plasma Weapon technology and use it to a great extent on the battlefield. The T'au variant of Plasma Weapon technology, which they refer to as Pulse Weapons, is commonly utilised by the warriors of the T'au Empire's military Fire Caste. Pulse Weapons make use of micro-pulsed induction fields to propel a particle across a distance. -->
-<OG_Tau_Tech_Weapons_PlasmaPulse.description>The T'au, whilst a relatively young race in the grand scale of time, have advanced extraordinarily rapidly and have already perfected many different forms of Plasma Weapon technology and use it to a great extent on the battlefield. The T'au variant of Plasma Weapon technology, which they refer to as Pulse Weapons, is commonly utilised by the warriors of the T'au Empire's military Fire Caste. Pulse Weapons make use of micro-pulsed induction fields to propel a particle across a distance.</OG_Tau_Tech_Weapons_PlasmaPulse.description>
+<OG_Tau_Tech_Weapons_PlasmaPulse.description>Тау, будучи относительно молодой расой в масштабах времени, необычайно быстро продвинулись вперед и уже усовершенствовали множество различных форм технологии плазменного оружия и в значительной степени используют ее на поле боя. Вариант технологии плазменного оружия Тау, который они называют Импульсным оружием, обычно используется воинами военной касты Огня империи Тау. Импульсное оружие использует микроимпульсные индукционные поля для перемещения частицы на расстояние.</OG_Tau_Tech_Weapons_PlasmaPulse.description>
                               <!-- Railgun Weaponry -->
-<OG_Tau_Tech_Weapons_Railgun.label>Railgun Weaponry</OG_Tau_Tech_Weapons_Railgun.label>
+<OG_Tau_Tech_Weapons_Railgun.label>Рельсотронное вооружение</OG_Tau_Tech_Weapons_Railgun.label>
                                     <!-- Rail Weapons use a series of powerful electromagnets and super-conductive electrodes to accelerate small, solid and conductive projectiles to hypersonic speeds. The resulting high levels of kinetic force imparted to the weapon's projectile allows it to devastate and destroy the most heavily armoured vehicles on impact, even at extremely long ranges. Few vehicles are able to withstand a direct hit from a Rail Weapon without suffering critical damage. -->
-<OG_Tau_Tech_Weapons_Railgun.description>Rail Weapons use a series of powerful electromagnets and super-conductive electrodes to accelerate small, solid and conductive projectiles to hypersonic speeds. The resulting high levels of kinetic force imparted to the weapon's projectile allows it to devastate and destroy the most heavily armoured vehicles on impact, even at extremely long ranges. Few vehicles are able to withstand a direct hit from a Rail Weapon without suffering critical damage.</OG_Tau_Tech_Weapons_Railgun.description>
+<OG_Tau_Tech_Weapons_Railgun.description>Рельсовое оружие использует серию мощных электромагнитов и сверхпроводящих электродов для разгона небольших, твердых и проводящих снарядов до гиперзвуковых скоростей. Результирующий высокий уровень кинетической силы, придаваемой снаряду оружия, позволяет ему разрушать самые тяжелобронированные транспортные средства при ударе даже на чрезвычайно больших дистанциях. Немногие транспортные средства способны выдержать прямое попадание из рельсового оружия, не получив критических повреждений.</OG_Tau_Tech_Weapons_Railgun.description>
                           <!-- Ionic Projection -->
-<OG_Tau_Tech_Weapons_Ion.label>Ionic Projection</OG_Tau_Tech_Weapons_Ion.label>
+<OG_Tau_Tech_Weapons_Ion.label>Ионная проекция</OG_Tau_Tech_Weapons_Ion.label>
                                 <!-- Ion Weapons are advanced directed energy weapons utilised by the Fire Caste of the Tau Empire. Ion Weapons typically are capable of engaging enemies at long range with high-energy streams of ionised subatomic particles, vaporising flesh and metal with equal ease. These high-energy ions containing an electric charge are accelerated by an electromagnetic field and react explosively with the target as a result of the direct transfer of energy at an atomic level. -->
-<OG_Tau_Tech_Weapons_Ion.description>Ion Weapons are advanced directed energy weapons utilised by the Fire Caste of the Tau Empire. Ion Weapons typically are capable of engaging enemies at long range with high-energy streams of ionised subatomic particles, vaporising flesh and metal with equal ease. These high-energy ions containing an electric charge are accelerated by an electromagnetic field and react explosively with the target as a result of the direct transfer of energy at an atomic level.</OG_Tau_Tech_Weapons_Ion.description>
+<OG_Tau_Tech_Weapons_Ion.description>Ионное оружие - это усовершенствованное оружие направленной энергии, используемое кастой Огня империи Тау. Ионное оружие, как правило, способно поражать врагов на большом расстоянии высокоэнергетическими потоками ионизированных субатомных частиц, с одинаковой легкостью испаряя плоть и металл. Эти высокоэнергетические ионы, содержащие электрический заряд, ускоряются электромагнитным полем и взрывоопасно реагируют с мишенью в результате прямой передачи энергии на атомном уровне.</OG_Tau_Tech_Weapons_Ion.description>
                       <!-- Tau Apparel -->
-<OG_Tau_Tech_Apparel.label>Tau Apparel</OG_Tau_Tech_Apparel.label>
+<OG_Tau_Tech_Apparel.label>Одежда Тау</OG_Tau_Tech_Apparel.label>
                             <!-- Allows you to create basic Tau apparal -->
-<OG_Tau_Tech_Apparel.description>Allows you to create basic Tau apparal</OG_Tau_Tech_Apparel.description>
+<OG_Tau_Tech_Apparel.description>Позволяет создавать базовые устройства Тау</OG_Tau_Tech_Apparel.description>
                                 <!-- Pathfinder Armour -->
-<OG_Tau_Tech_Apparel_Armour_T1.label>Pathfinder Armour</OG_Tau_Tech_Apparel_Armour_T1.label>
+<OG_Tau_Tech_Apparel_Armour_T1.label>Броня следопыта</OG_Tau_Tech_Apparel_Armour_T1.label>
                                       <!-- Allows you to create Pathfinder armour -->
-<OG_Tau_Tech_Apparel_Armour_T1.description>Allows you to create Pathfinder armour</OG_Tau_Tech_Apparel_Armour_T1.description>
+<OG_Tau_Tech_Apparel_Armour_T1.description>Позволяет вам создавать броню следопыта</OG_Tau_Tech_Apparel_Armour_T1.description>
                                 <!-- Combat Armour -->
-<OG_Tau_Tech_Apparel_Armour_T2.label>Combat Armour</OG_Tau_Tech_Apparel_Armour_T2.label>
+<OG_Tau_Tech_Apparel_Armour_T2.label>Боевая броня</OG_Tau_Tech_Apparel_Armour_T2.label>
                                       <!-- Allows you to create Combat armour -->
-<OG_Tau_Tech_Apparel_Armour_T2.description>Allows you to create Combat armour</OG_Tau_Tech_Apparel_Armour_T2.description>
+<OG_Tau_Tech_Apparel_Armour_T2.description>Позволяет создавать боевую броню</OG_Tau_Tech_Apparel_Armour_T2.description>
                                     <!-- Tau Drone Tech -->
-<OG_Tau_Tech_Apparel_Wargear_Drone.label>Tau Drone Tech</OG_Tau_Tech_Apparel_Wargear_Drone.label>
+<OG_Tau_Tech_Apparel_Wargear_Drone.label>Технология дронов Тау</OG_Tau_Tech_Apparel_Wargear_Drone.label>
                                           <!-- Basic understanding of Tau Drone technology, allows you to build basic drones -->
-<OG_Tau_Tech_Apparel_Wargear_Drone.description>Basic understanding of Tau Drone technology, allows you to build basic drones</OG_Tau_Tech_Apparel_Wargear_Drone.description>
+<OG_Tau_Tech_Apparel_Wargear_Drone.description>Базовое понимание технологии дронов Tau, позволяющее создавать базовые дроны</OG_Tau_Tech_Apparel_Wargear_Drone.description>
                                      <!-- Tau Shield Tech -->
-<OG_Tau_Tech_Apparel_Wargear_Shield.label>Tau Shield Tech</OG_Tau_Tech_Apparel_Wargear_Shield.label>
+<OG_Tau_Tech_Apparel_Wargear_Shield.label>Технология Тау-щита</OG_Tau_Tech_Apparel_Wargear_Shield.label>
                                            <!-- Allows you to Shield drones -->
-<OG_Tau_Tech_Apparel_Wargear_Shield.description>Allows you to Shield drones</OG_Tau_Tech_Apparel_Wargear_Shield.description>
+<OG_Tau_Tech_Apparel_Wargear_Shield.description>Позволяет вам защищать дроны</OG_Tau_Tech_Apparel_Wargear_Shield.description>
 
 </LanguageData>

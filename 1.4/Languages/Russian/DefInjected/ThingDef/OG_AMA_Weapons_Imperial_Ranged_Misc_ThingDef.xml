@@ -2,45 +2,45 @@
 <LanguageData>
 <!--/Defs/ThingDefs_Misc/Weapons/OG_AMA_Weapons_Imperial_Ranged_Misc.xml-->
                     <!-- webber -->
-<OGI_Bullet_Webber.label>webber</OGI_Bullet_Webber.label>
+<OGI_Bullet_Webber.label>веббер</OGI_Bullet_Webber.label>
                  <!-- webber (I) -->
-<OGI_Gun_Webber.label>webber (I)</OGI_Gun_Webber.label>
+<OGI_Gun_Webber.label>веббер (I)</OGI_Gun_Webber.label>
                        <!-- A Webber is an exotic, non-lethal weapon used to immobolise a target. It fires masses of filaments, which expand in the air to form a web of sticky, near-unbreakable material. Targets are quickly entangled in a painful embrace; if they attempt to struggle, the filaments constrict even more, further entrapping them. -->
-<OGI_Gun_Webber.description>A Webber is an exotic, non-lethal weapon used to immobolise a target. It fires masses of filaments, which expand in the air to form a web of sticky, near-unbreakable material. Targets are quickly entangled in a painful embrace; if they attempt to struggle, the filaments constrict even more, further entrapping them.</OGI_Gun_Webber.description>
+<OGI_Gun_Webber.description>Веббер - это экзотическое, несмертельное оружие, используемое для обездвиживания цели. Он запускает массу нитей, которые расширяются в воздухе, образуя паутину из липкого, почти неразрывного материала. Цели быстро запутываются в болезненных объятиях; если они пытаются сопротивляться, нити сжимаются еще больше, еще больше захватывая их.</OGI_Gun_Webber.description>
                          <!-- stock -->
 <OGI_Gun_Webber.tools.0.label>stock</OGI_Gun_Webber.tools.0.label>
                          <!-- barrel -->
 <OGI_Gun_Webber.tools.1.label>barrel</OGI_Gun_Webber.tools.1.label>
                                       <!-- Frag Grenade -->
-<OGI_Bullet_OgrynGauntletGrenadeFrag.label>Frag Grenade</OGI_Bullet_OgrynGauntletGrenadeFrag.label>
+<OGI_Bullet_OgrynGauntletGrenadeFrag.label>Осколочная граната</OGI_Bullet_OgrynGauntletGrenadeFrag.label>
                                             <!-- Fragmention grenades have a large blast radius and excel at dealing with light infantry, however they have little effect against vehicals, fortifications or heavily armoured troops. -->
-<OGI_Bullet_OgrynGauntletGrenadeFrag.description>Fragmention grenades have a large blast radius and excel at dealing with light infantry, however they have little effect against vehicals, fortifications or heavily armoured troops.</OGI_Bullet_OgrynGauntletGrenadeFrag.description>
+<OGI_Bullet_OgrynGauntletGrenadeFrag.description>Осколочные гранаты имеют большой радиус поражения и превосходно справляются с легкой пехотой, однако они малоэффективны против транспортных средств, укреплений или тяжелобронированных войск.</OGI_Bullet_OgrynGauntletGrenadeFrag.description>
                                       <!-- Krak Grenade -->
-<OGI_Bullet_OgrynGauntletGrenadeKrak.label>Krak Grenade</OGI_Bullet_OgrynGauntletGrenadeKrak.label>
+<OGI_Bullet_OgrynGauntletGrenadeKrak.label>Крак-граната</OGI_Bullet_OgrynGauntletGrenadeKrak.label>
                                             <!-- Krak grenades high explovie charge excels at dealing with vehicals, fortifications or heavily armoured troops, however due to their small blast radius they have little effect against large groups of light infantry. -->
-<OGI_Bullet_OgrynGauntletGrenadeKrak.description>Krak grenades high explovie charge excels at dealing with vehicals, fortifications or heavily armoured troops, however due to their small blast radius they have little effect against large groups of light infantry.</OGI_Bullet_OgrynGauntletGrenadeKrak.description>
+<OGI_Bullet_OgrynGauntletGrenadeKrak.description>Крак-гранаты с фугасным зарядом превосходно справляются с транспортными средствами, укреплениями или тяжелобронированными войсками, однако из-за малого радиуса поражения они малоэффективны против больших групп легкой пехоты.</OGI_Bullet_OgrynGauntletGrenadeKrak.description>
                                <!-- grenadier gauntlet (I) -->
-<OGI_Gun_OgrynGrenadeGauntlet.label>grenadier gauntlet (I)</OGI_Gun_OgrynGrenadeGauntlet.label>
+<OGI_Gun_OgrynGrenadeGauntlet.label>гренадерская перчатка (I)</OGI_Gun_OgrynGrenadeGauntlet.label>
                                      <!-- The Imperial Grenade Gauntlet is a type of heavy Grenade Launcher used by Imperial Guard Bullgryn's. The foe are left reeling and shell-shocked even before the maul-wielding Ogryns charge into their midst and bludgeon the survivors to a red paste. -->
-<OGI_Gun_OgrynGrenadeGauntlet.description>The Imperial Grenade Gauntlet is a type of heavy Grenade Launcher used by Imperial Guard Bullgryn's. The foe are left reeling and shell-shocked even before the maul-wielding Ogryns charge into their midst and bludgeon the survivors to a red paste.</OGI_Gun_OgrynGrenadeGauntlet.description>
+<OGI_Gun_OgrynGrenadeGauntlet.description>Имперская гранатометная рукавица - это тип тяжелого гранатомета, используемого Буллгринами Имперской гвардии. Враг остается шатающимся и контуженным еще до того, как огрины с кувалдами врываются в их гущу и превращают выживших в красную пасту.</OGI_Gun_OgrynGrenadeGauntlet.description>
                                        <!-- stock -->
 <OGI_Gun_OgrynGrenadeGauntlet.tools.0.label>stock</OGI_Gun_OgrynGrenadeGauntlet.tools.0.label>
                                        <!-- barrel -->
 <OGI_Gun_OgrynGrenadeGauntlet.tools.1.label>barrel</OGI_Gun_OgrynGrenadeGauntlet.tools.1.label>
                         <!-- krak rocket -->
-<OGI_Bullet_RocketKrak.label>krak rocket</OGI_Bullet_RocketKrak.label>
+<OGI_Bullet_RocketKrak.label>ракета крак</OGI_Bullet_RocketKrak.label>
                               <!-- Krak grenades high explovie charge excels at dealing with vehicals, fortifications or heavily armoured troops, however due to their small blast radius they have little effect against large groups of light infantry. -->
 <OGI_Bullet_RocketKrak.description>Krak grenades high explovie charge excels at dealing with vehicals, fortifications or heavily armoured troops, however due to their small blast radius they have little effect against large groups of light infantry.</OGI_Bullet_RocketKrak.description>
                         <!-- frag rocket -->
-<OGI_Bullet_RocketFrag.label>frag rocket</OGI_Bullet_RocketFrag.label>
+<OGI_Bullet_RocketFrag.label>осколочная ракета</OGI_Bullet_RocketFrag.label>
                               <!-- Fragmention rockets have a large blast radius and excel at dealing with light infantry, however they have little effect against vehicals, fortifications or heavily armoured troops. -->
-<OGI_Bullet_RocketFrag.description>Fragmention rockets have a large blast radius and excel at dealing with light infantry, however they have little effect against vehicals, fortifications or heavily armoured troops.</OGI_Bullet_RocketFrag.description>
+<OGI_Bullet_RocketFrag.description>Осколочные ракеты имеют большой радиус поражения и превосходно справляются с легкой пехотой, однако они малоэффективны против транспортных средств, укреплений или тяжелобронированных войск.</OGI_Bullet_RocketFrag.description>
                         <!-- missile launcher (I) -->
-<OGI_Gun_RocketLaucher.label>missile launcher (I)</OGI_Gun_RocketLaucher.label>
+<OGI_Gun_RocketLaucher.label>ракетная установка (I)</OGI_Gun_RocketLaucher.label>
                               <!-- A Missile Launcher is a weapon that can fire several types of self-propelled, usually guided Missile, including both the common Frag and Krak Missiles. Frag (Fragmentation) projectiles are designed to spray a designated area with shrapnel, making these munitions highly useful against groups of lightly armoured infantry.
 
 A variant of a Missile Launcher is a Rocket Launcher, which fires unguided, self-propelled projectiles. Rockets contain the same types of warheads as a missile. -->
-<OGI_Gun_RocketLaucher.description>A Missile Launcher is a weapon that can fire several types of self-propelled, usually guided Missile, including both the common Frag and Krak Missiles. Frag (Fragmentation) projectiles are designed to spray a designated area with shrapnel, making these munitions highly useful against groups of lightly armoured infantry.\n\nA variant of a Missile Launcher is a Rocket Launcher, which fires unguided, self-propelled projectiles. Rockets contain the same types of warheads as a missile.</OGI_Gun_RocketLaucher.description>
+<OGI_Gun_RocketLaucher.description>Ракетная установка - это оружие, которое может стрелять несколькими типами самоходных, обычно управляемых ракет, включая как обычные ракеты Frag, так и Krak. Осколочные снаряды предназначены для распыления шрапнели в определенной зоне, что делает эти боеприпасы весьма полезными против групп легкобронированной пехоты.\n\nВариантом ракетной установки является ракетная установка, которая стреляет неуправляемыми, самоходными снарядами. Ракеты содержат те же типы боеголовок, что и ракета.</OGI_Gun_RocketLaucher.description>
                                 <!-- barrel -->
 <OGI_Gun_RocketLaucher.tools.0.label>barrel</OGI_Gun_RocketLaucher.tools.0.label>
 

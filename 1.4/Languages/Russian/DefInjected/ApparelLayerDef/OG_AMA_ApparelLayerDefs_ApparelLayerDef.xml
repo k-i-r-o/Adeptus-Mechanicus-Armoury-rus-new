@@ -10,11 +10,11 @@
                      <!-- outer slot -->
 <OG_Shell_Equipment.label>outer slot</OG_Shell_Equipment.label>
                     <!-- Wargear slot 1 -->
-<OG_Belt_Wargear_1.label>Wargear slot 1</OG_Belt_Wargear_1.label>
+<OG_Belt_Wargear_1.label>Слот для боевого снаряжения 1</OG_Belt_Wargear_1.label>
                     <!-- Wargear slot 2 -->
-<OG_Belt_Wargear_2.label>Wargear slot 2</OG_Belt_Wargear_2.label>
+<OG_Belt_Wargear_2.label>Слот для боевого снаряжения 2</OG_Belt_Wargear_2.label>
                     <!-- Wargear slot 3 -->
-<OG_Belt_Wargear_3.label>Wargear slot 3</OG_Belt_Wargear_3.label>
+<OG_Belt_Wargear_3.label>Слот для боевого снаряжения 3</OG_Belt_Wargear_3.label>
                  <!-- Shell extras -->
 <OG_Shell_Extra.label>Shell extras</OG_Shell_Extra.label>
                  <!-- Shell extras -->

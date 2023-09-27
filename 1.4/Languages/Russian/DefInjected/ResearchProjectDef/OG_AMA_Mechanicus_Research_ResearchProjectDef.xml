@@ -2,36 +2,36 @@
 <LanguageData>
 <!--/Defs/ResearchProjectDefs/OG_AMA_Mechanicus_Research.xml-->
                              <!-- Mechanicum Initiation -->
-<OG_Mechanicus_Tech_Base_T1.label>Mechanicum Initiation</OG_Mechanicus_Tech_Base_T1.label>
+<OG_Mechanicus_Tech_Base_T1.label>Посвящение Адептус Механикус</OG_Mechanicus_Tech_Base_T1.label>
                                    <!-- Allows access to basic Mechanicus technology
 
 Requires a member of the Mechanicum if HAR is loaded. -->
-<OG_Mechanicus_Tech_Base_T1.description>Allows access to basic Mechanicus technology\n\nRequires a member of the Mechanicum if HAR is loaded.</OG_Mechanicus_Tech_Base_T1.description>
+<OG_Mechanicus_Tech_Base_T1.description>Позволяет получить доступ к базовой технологии Адептус Механикус\n\nТребуется член Механикуса.</OG_Mechanicus_Tech_Base_T1.description>
                              <!-- Tech Adepts of Mars -->
-<OG_Mechanicus_Tech_Base_T2.label>Tech Adepts of Mars</OG_Mechanicus_Tech_Base_T2.label>
+<OG_Mechanicus_Tech_Base_T2.label>Технические адепты Марса</OG_Mechanicus_Tech_Base_T2.label>
                                    <!-- Allows access to improved Mechanicus technology -->
-<OG_Mechanicus_Tech_Base_T2.description>Allows access to improved Mechanicus technology</OG_Mechanicus_Tech_Base_T2.description>
+<OG_Mechanicus_Tech_Base_T2.description>Обеспечивает доступ к продвинутым технологиям Адептус Механикус</OG_Mechanicus_Tech_Base_T2.description>
                              <!-- Scions of Mars -->
-<OG_Mechanicus_Tech_Base_T3.label>Scions of Mars</OG_Mechanicus_Tech_Base_T3.label>
+<OG_Mechanicus_Tech_Base_T3.label>Отпрыски Марса</OG_Mechanicus_Tech_Base_T3.label>
                                    <!-- Allows access to advanced Mechanicus technology -->
-<OG_Mechanicus_Tech_Base_T3.description>Allows access to advanced Mechanicus technology</OG_Mechanicus_Tech_Base_T3.description>
+<OG_Mechanicus_Tech_Base_T3.description>Обеспечивает доступ к передовым технологиям Адептус Механикус</OG_Mechanicus_Tech_Base_T3.description>
                                     <!-- Radium Weapons -->
-<OG_Mechanicus_Tech_Weapons_Radium.label>Radium Weapons</OG_Mechanicus_Tech_Weapons_Radium.label>
+<OG_Mechanicus_Tech_Weapons_Radium.label>Радиевое оружие</OG_Mechanicus_Tech_Weapons_Radium.label>
                                           <!-- Teaches Imperial subjects how to create Radium weapons -->
-<OG_Mechanicus_Tech_Weapons_Radium.description>Teaches Imperial subjects how to create Radium weapons</OG_Mechanicus_Tech_Weapons_Radium.description>
+<OG_Mechanicus_Tech_Weapons_Radium.description>Обучает имперских подданных созданию радиевого оружия</OG_Mechanicus_Tech_Weapons_Radium.description>
                                       <!-- Phosphor Tech -->
-<OG_Mechanicus_Tech_Weapons_Phosphor.label>Phosphor Tech</OG_Mechanicus_Tech_Weapons_Phosphor.label>
+<OG_Mechanicus_Tech_Weapons_Phosphor.label>Технология люминофора</OG_Mechanicus_Tech_Weapons_Phosphor.label>
                                             <!-- Teaches Imperial subjects how to create Adeptus Mechanicus Plasma weaponry -->
-<OG_Mechanicus_Tech_Weapons_Phosphor.description>Teaches Imperial subjects how to create Adeptus Mechanicus Plasma weaponry</OG_Mechanicus_Tech_Weapons_Phosphor.description>
+<OG_Mechanicus_Tech_Weapons_Phosphor.description>Обучает подданных Империи, как создавать плазменное оружие Адептус Механикус</OG_Mechanicus_Tech_Weapons_Phosphor.description>
                                                 <!-- Advanced Ballistics -->
-<OG_Mechanicus_Tech_Weapons_AdvancedBallistics.label>Advanced Ballistics</OG_Mechanicus_Tech_Weapons_AdvancedBallistics.label>
+<OG_Mechanicus_Tech_Weapons_AdvancedBallistics.label>Усовершенствованная баллистика</OG_Mechanicus_Tech_Weapons_AdvancedBallistics.label>
                                                       <!-- Teaches Imperial subjects how to create a Stub Carbine -->
-<OG_Mechanicus_Tech_Weapons_AdvancedBallistics.description>Teaches Imperial subjects how to create a Stub Carbine</OG_Mechanicus_Tech_Weapons_AdvancedBallistics.description>
+<OG_Mechanicus_Tech_Weapons_AdvancedBallistics.description>Обучает подданных Империи, как создавать Стаб-Карабины</OG_Mechanicus_Tech_Weapons_AdvancedBallistics.description>
                                      <!-- Volkite Tech -->
-<OG_Mechanicus_Tech_Weapons_Volkite.label>Volkite Tech</OG_Mechanicus_Tech_Weapons_Volkite.label>
+<OG_Mechanicus_Tech_Weapons_Volkite.label>Технология Волкита</OG_Mechanicus_Tech_Weapons_Volkite.label>
                                            <!-- Volkite Weapons are an arcane term used by the Adeptus Mechanicus to refer to a class of powerful thermal ray weapons whose technology is pre-Imperial in origin and dates back to the Dark Age of Technology or the Age of Strife. These weapons possessed considerable killing power, surpassing most other armaments of their size.
 
 Requires Royalty -->
-<OG_Mechanicus_Tech_Weapons_Volkite.description>Volkite Weapons are an arcane term used by the Adeptus Mechanicus to refer to a class of powerful thermal ray weapons whose technology is pre-Imperial in origin and dates back to the Dark Age of Technology or the Age of Strife. These weapons possessed considerable killing power, surpassing most other armaments of their size.\n\nRequires Royalty</OG_Mechanicus_Tech_Weapons_Volkite.description>
+<OG_Mechanicus_Tech_Weapons_Volkite.description>Оружие Волкита - это тайный термин, используемый Адептус Механикус для обозначения класса мощного теплового лучевого оружия, технология которого имеет доимперское происхождение и восходит к Темному веку технологий или Эпохе Раздора. Это оружие обладало значительной убойной силой, превосходя большинство других видов вооружения такого размера.\n\nТребуется Королевская власть</OG_Mechanicus_Tech_Weapons_Volkite.description>
 
 </LanguageData>

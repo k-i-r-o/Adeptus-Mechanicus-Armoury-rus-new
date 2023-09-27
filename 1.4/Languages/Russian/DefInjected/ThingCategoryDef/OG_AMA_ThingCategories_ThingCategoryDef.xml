@@ -2,133 +2,133 @@
 <LanguageData>
 <!--/Defs/ThingCategoryDefs/OG_AMA_ThingCategories.xml-->
              <!-- Imperial Weapons -->
-<OGIWeapons.label>Imperial Weapons</OGIWeapons.label>
+<OGIWeapons.label>Имперское оружие</OGIWeapons.label>
             <!-- Imperial Ranged Weapons -->
-<OGIRanged.label>Imperial Ranged Weapons</OGIRanged.label>
+<OGIRanged.label>Имперское оружие дальнего боя</OGIRanged.label>
              <!-- Astra Miliatrum -->
-<OGIGRanged.label>Astra Miliatrum</OGIGRanged.label>
+<OGIGRanged.label>Астра Милитарум</OGIGRanged.label>
            <!-- Imperial Melee Weapons -->
-<OGIMelee.label>Imperial Melee Weapons</OGIMelee.label>
+<OGIMelee.label>Имперское оружие ближнего боя</OGIMelee.label>
             <!-- Astra Miliatrum -->
-<OGIGMelee.label>Astra Miliatrum</OGIGMelee.label>
+<OGIGMelee.label>Астра Милитарум</OGIGMelee.label>
            <!-- Imperial Grenades -->
-<OGIGrens.label>Imperial Grenades</OGIGrens.label>
+<OGIGrens.label>Имперские гранаты</OGIGrens.label>
             <!-- Astra Miliatrum -->
-<OGIGGrens.label>Astra Miliatrum</OGIGGrens.label>
+<OGIGGrens.label>Астра Милитарум</OGIGGrens.label>
           <!-- apparel -->
-<Apparel.label>apparel</Apparel.label>
+<Apparel.label>одежда</Apparel.label>
            <!-- headgear -->
-<Headgear.label>headgear</Headgear.label>
+<Headgear.label>головной убор</Headgear.label>
                <!-- armor -->
-<ApparelArmor.label>armor</ApparelArmor.label>
+<ApparelArmor.label>броня</ApparelArmor.label>
                 <!-- headgear -->
-<ArmorHeadgear.label>headgear</ArmorHeadgear.label>
+<ArmorHeadgear.label>бронированный головной убор</ArmorHeadgear.label>
                  <!-- utility -->
-<ApparelUtility.label>utility</ApparelUtility.label>
+<ApparelUtility.label>утилиты</ApparelUtility.label>
                       <!-- Imperial -->
-<OG_Apparel_Imperial.label>Imperial</OG_Apparel_Imperial.label>
+<OG_Apparel_Imperial.label>Имперский</OG_Apparel_Imperial.label>
             <!-- Imperial Armour -->
-<OGIArmour.label>Imperial Armour</OGIArmour.label>
+<OGIArmour.label>Имперская броня</OGIArmour.label>
              <!-- Astra Miliatrum -->
-<OGIGArmour.label>Astra Miliatrum</OGIGArmour.label>
+<OGIGArmour.label>Астра Милитарум</OGIGArmour.label>
              <!-- Imperial Clothing -->
-<OGIApparel.label>Imperial Clothing</OGIApparel.label>
+<OGIApparel.label>Имперская одежда</OGIApparel.label>
               <!-- Astra Miliatrum -->
-<OGIGApparel.label>Astra Miliatrum</OGIGApparel.label>
+<OGIGApparel.label>Астра Милитарум</OGIGApparel.label>
               <!-- Imperial Headgear -->
-<OGIHeadgear.label>Imperial Headgear</OGIHeadgear.label>
+<OGIHeadgear.label>Имперские головные уборы</OGIHeadgear.label>
                <!-- Astra Miliatrum -->
-<OGIGHeadgear.label>Astra Miliatrum</OGIGHeadgear.label>
+<OGIGHeadgear.label>Астра Милитарум</OGIGHeadgear.label>
             <!-- Imperial Armour Addons -->
-<OGIAddons.label>Imperial Armour Addons</OGIAddons.label>
+<OGIAddons.label>Имперские дополнения для брони</OGIAddons.label>
              <!-- Astra Miliatrum -->
-<OGIGAddons.label>Astra Miliatrum</OGIGAddons.label>
+<OGIGAddons.label>Астра Милитарум</OGIGAddons.label>
              <!-- Imperial Wargear -->
-<OGIWargear.label>Imperial Wargear</OGIWargear.label>
+<OGIWargear.label>Имперское боевое снаряжение</OGIWargear.label>
               <!-- Astra Miliatrum -->
-<OGIGWargear.label>Astra Miliatrum</OGIGWargear.label>
+<OGIGWargear.label>Астра Милитарум</OGIGWargear.label>
              <!-- Munitions -->
-<Ammunition.label>Munitions</Ammunition.label>
+<Ammunition.label>Военное снаряжение</Ammunition.label>
            <!-- Imperial -->
-<OGIItems.label>Imperial</OGIItems.label>
+<OGIItems.label>Военное снаряжение</OGIItems.label>
                 <!-- Imperial Munitions -->
-<OGIAmmunition.label>Imperial Munitions</OGIAmmunition.label>
+<OGIAmmunition.label>Имперское военное снаряжение</OGIAmmunition.label>
               <!-- Imperial Missiles -->
-<OGIMissiles.label>Imperial Missiles</OGIMissiles.label>
+<OGIMissiles.label>Имперские ракеты</OGIMissiles.label>
               <!-- Mechanicus Weapons -->
-<OGAMWeapons.label>Mechanicus Weapons</OGAMWeapons.label>
+<OGAMWeapons.label>Оружие Адептус Механикус</OGAMWeapons.label>
              <!-- Mechanicus Ranged Weapons -->
-<OGAMRanged.label>Mechanicus Ranged Weapons</OGAMRanged.label>
+<OGAMRanged.label>Оружие дальнего боя Адептус Механикус</OGAMRanged.label>
             <!-- Mechanicus Melee Weapons -->
-<OGAMMelee.label>Mechanicus Melee Weapons</OGAMMelee.label>
+<OGAMMelee.label>Оружие ближнего боя Адептус Механикус</OGAMMelee.label>
             <!-- Mechanicus Grenades -->
-<OGAMGrens.label>Mechanicus Grenades</OGAMGrens.label>
+<OGAMGrens.label>Гранаты Адептус Механикус</OGAMGrens.label>
           <!-- Adeptus Mechanicus -->
-<OGAMSub.label>Adeptus Mechanicus</OGAMSub.label>
+<OGAMSub.label>Адептус Механикус</OGAMSub.label>
               <!-- Mechanicus Clothing -->
-<OGAMApparel.label>Mechanicus Clothing</OGAMApparel.label>
+<OGAMApparel.label>Одежда Адептус Механикус</OGAMApparel.label>
              <!-- Mechanicus Armour -->
-<OGAMArmour.label>Mechanicus Armour</OGAMArmour.label>
+<OGAMArmour.label>Броня Адептус Механикус</OGAMArmour.label>
                <!-- Mechanicus Headgear -->
-<OGAMHeadgear.label>Mechanicus Headgear</OGAMHeadgear.label>
+<OGAMHeadgear.label>Головные уборы Адептус Механикус</OGAMHeadgear.label>
              <!-- Mechanicus Armour Addons -->
-<OGAMAddons.label>Mechanicus Armour Addons</OGAMAddons.label>
+<OGAMAddons.label>Дополнения для брони Адептус Механикус</OGAMAddons.label>
               <!-- Mechanicus Wargear -->
-<OGAMWargear.label>Mechanicus Wargear</OGAMWargear.label>
+<OGAMWargear.label>Боевое снаряжение Адептус Механикус</OGAMWargear.label>
               <!-- Sororitas Weapons -->
-<OGASWeapons.label>Sororitas Weapons</OGASWeapons.label>
+<OGASWeapons.label>Оружие Адепта Сороритас</OGASWeapons.label>
              <!-- Sororitas Ranged Weapons -->
-<OGASRanged.label>Sororitas Ranged Weapons</OGASRanged.label>
+<OGASRanged.label>Оружие дальнего боя Адепта Сороритас</OGASRanged.label>
           <!-- Adeptus Sororitas -->
-<OGASSub.label>Adeptus Sororitas</OGASSub.label>
+<OGASSub.label>Адептус Сороритас</OGASSub.label>
               <!-- Clothing -->
-<OGASApparel.label>Clothing</OGASApparel.label>
+<OGASApparel.label>Одежда Адепта Сороритас</OGASApparel.label>
              <!-- Armour -->
-<OGASArmour.label>Armour</OGASArmour.label>
+<OGASArmour.label>Броня Адепта Сороритас</OGASArmour.label>
                <!-- Headgear -->
-<OGASHeadgear.label>Headgear</OGASHeadgear.label>
+<OGASHeadgear.label>Головные уборы Адепта Сороритас</OGASHeadgear.label>
              <!-- Eldar Weapons -->
-<OGEWeapons.label>Eldar Weapons</OGEWeapons.label>
+<OGEWeapons.label>Эльдарское оружие</OGEWeapons.label>
             <!-- Eldar Ranged Weapons -->
-<OGERanged.label>Eldar Ranged Weapons</OGERanged.label>
+<OGERanged.label>Эльдарское оружие дальнего боя</OGERanged.label>
            <!-- Eldar Melee Weapons -->
-<OGEMelee.label>Eldar Melee Weapons</OGEMelee.label>
+<OGEMelee.label>Эльдарского оружие ближнего боя</OGEMelee.label>
                   <!-- mortar shells -->
-<OGEMortarShells.label>mortar shells</OGEMortarShells.label>
+<OGEMortarShells.label>минометные снаряды</OGEMortarShells.label>
               <!-- Dark Eldar Weapons -->
-<OGDEWeapons.label>Dark Eldar Weapons</OGDEWeapons.label>
+<OGDEWeapons.label>Оружие тёмных эльдар</OGDEWeapons.label>
              <!-- Dark Eldar Ranged Weapons -->
-<OGDERanged.label>Dark Eldar Ranged Weapons</OGDERanged.label>
+<OGDERanged.label>Оружие дальнего боя тёмных эльдар</OGDERanged.label>
             <!-- Dark Eldar Melee Weapons -->
-<OGDEMelee.label>Dark Eldar Melee Weapons</OGDEMelee.label>
+<OGDEMelee.label>Оружие ближнего боя тёмных эльдар</OGDEMelee.label>
              <!-- Tau Weapons -->
-<OGTWeapons.label>Tau Weapons</OGTWeapons.label>
+<OGTWeapons.label>Оружие Тау</OGTWeapons.label>
             <!-- Tau Ranged Weapons -->
-<OGTRanged.label>Tau Ranged Weapons</OGTRanged.label>
+<OGTRanged.label>Оружие дальнего боя Тау</OGTRanged.label>
            <!-- Tau Melee Weapons -->
-<OGTMelee.label>Tau Melee Weapons</OGTMelee.label>
+<OGTMelee.label>Оружие ближнего боя Тау</OGTMelee.label>
             <!-- Kroot Ranged Weapons -->
-<OGKRanged.label>Kroot Ranged Weapons</OGKRanged.label>
+<OGKRanged.label>Оружие дальнего боя Крут</OGKRanged.label>
            <!-- Kroot Melee Weapons -->
-<OGKMelee.label>Kroot Melee Weapons</OGKMelee.label>
+<OGKMelee.label>Оружие ближнего боя Крут</OGKMelee.label>
              <!-- Chaos Weapons -->
-<OGCWeapons.label>Chaos Weapons</OGCWeapons.label>
+<OGCWeapons.label>Оружие Хаоса</OGCWeapons.label>
             <!-- Chaos Ranged Weapons -->
-<OGCRanged.label>Chaos Ranged Weapons</OGCRanged.label>
+<OGCRanged.label>Оружие Хаоса дальнего боя</OGCRanged.label>
            <!-- Chaos Melee Weapons -->
-<OGCMelee.label>Chaos Melee Weapons</OGCMelee.label>
+<OGCMelee.label>Оружие Хаоса ближнего боя</OGCMelee.label>
              <!-- Ork Weapons -->
-<OGOWeapons.label>Ork Weapons</OGOWeapons.label>
+<OGOWeapons.label>Оружие Орков</OGOWeapons.label>
             <!-- Ork Ranged Weapons -->
-<OGORanged.label>Ork Ranged Weapons</OGORanged.label>
+<OGORanged.label>Оружие Орков дальнего боя</OGORanged.label>
            <!-- Ork Melee Weapons -->
-<OGOMelee.label>Ork Melee Weapons</OGOMelee.label>
+<OGOMelee.label>Оружие Орков ближнего боя</OGOMelee.label>
              <!-- Necron Weapons -->
-<OGNWeapons.label>Necron Weapons</OGNWeapons.label>
+<OGNWeapons.label>Оружие Некронов</OGNWeapons.label>
             <!-- Necron Ranged Weapons -->
-<OGNRanged.label>Necron Ranged Weapons</OGNRanged.label>
+<OGNRanged.label>Оружие Некронов дальнего боя</OGNRanged.label>
            <!-- Necron Melee Weapons -->
-<OGNMelee.label>Necron Melee Weapons</OGNMelee.label>
+<OGNMelee.label>Оружие Некронов ближнего боя</OGNMelee.label>
 
 
 <!--/Defs/ThingCategoryDefs/OG_AMA_ThingCategories.xml.bak-->

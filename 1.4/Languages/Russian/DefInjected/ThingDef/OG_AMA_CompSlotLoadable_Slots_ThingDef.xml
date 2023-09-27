@@ -2,43 +2,43 @@
 <LanguageData>
 <!--/Defs/ThingDefs_Misc/OG_AMA_CompSlotLoadable_Slots.xml-->
                <!-- Bolts -->
-<OGI_BoltSlot.label>Bolts</OGI_BoltSlot.label>
+<OGI_BoltSlot.label>Болты</OGI_BoltSlot.label>
                      <!-- This ammunition slot determines the bolt type fired by the weapon. -->
-<OGI_BoltSlot.description>This ammunition slot determines the bolt type fired by the weapon.</OGI_BoltSlot.description>
+<OGI_BoltSlot.description>Этот слот определяет тип болта, используемый оружием.</OGI_BoltSlot.description>
                     <!-- Heavy Bolts -->
-<OGI_HeavyBoltSlot.label>Heavy Bolts</OGI_HeavyBoltSlot.label>
+<OGI_HeavyBoltSlot.label>Тяжелые Болты</OGI_HeavyBoltSlot.label>
                           <!-- This ammunition slot determines the bolt type fired by the weapon. -->
-<OGI_HeavyBoltSlot.description>This ammunition slot determines the bolt type fired by the weapon.</OGI_HeavyBoltSlot.description>
+<OGI_HeavyBoltSlot.description>Этот слот определяет тип болта, используемый оружием.</OGI_HeavyBoltSlot.description>
                     <!-- hellfire bolts -->
-<OGI_Bolt_Hellfire.label>hellfire bolts</OGI_Bolt_Hellfire.label>
+<OGI_Bolt_Hellfire.label>Болты "Адское пламя"</OGI_Bolt_Hellfire.label>
                           <!-- Hellfire bolts were created as one of the Imperium's desperate measures to stem the predations of Tyranid assaults within the galaxy. Each bolt is tipped with thousands of needles and a vial of mutagenic acid capable of dissolving its way through citin and carapace with equal ease.
 
 When the round enters the target's body, the vial shatters and the needles pierce the victim's flesh, pumping the acid into the target. Such is the success of the Hellfire bolt that it has found a use against a variety of foes, its acid just as effective at killing other foul xenos. -->
-<OGI_Bolt_Hellfire.description>Hellfire bolts were created as one of the Imperium's desperate measures to stem the predations of Tyranid assaults within the galaxy. Each bolt is tipped with thousands of needles and a vial of mutagenic acid capable of dissolving its way through citin and carapace with equal ease.\n\nWhen the round enters the target's body, the vial shatters and the needles pierce the victim's flesh, pumping the acid into the target. Such is the success of the Hellfire bolt that it has found a use against a variety of foes, its acid just as effective at killing other foul xenos.</OGI_Bolt_Hellfire.description>
+<OGI_Bolt_Hellfire.description>Болты "Адское пламя" были созданы как одна из отчаянных мер Империума, чтобы остановить хищнические нападения тиранидов в пределах галактики. Каждый болт снабжен тысячами игл и флаконом с мутагенной кислотой, способной с одинаковой легкостью проходить сквозь кожу и панцирь.\n\nКогда пуля попадает в тело цели, флакон разбивается вдребезги, и иглы пронзают плоть жертвы, впрыскивая кислоту в цель. Успех "Адского огня" таков, что они нашли применение против множества врагов, а ее кислота столь же эффективна при убийстве других мерзких ксеносов.</OGI_Bolt_Hellfire.description>
                       <!-- fragonfire bolts -->
-<OGI_Bolt_Dragonfire.label>fragonfire bolts</OGI_Bolt_Dragonfire.label>
+<OGI_Bolt_Dragonfire.label>Болты "Драконий огонь"</OGI_Bolt_Dragonfire.label>
                             <!-- Dragonfire Bolts are hollow-shelled bolts that are issued fo use by Sternguard Veterans, and explode with a gout of superheated gas that can eliminate the value of cover for enemy troops. Any targets struck receive full damage even when partially protected by cover. -->
-<OGI_Bolt_Dragonfire.description>Dragonfire Bolts are hollow-shelled bolts that are issued fo use by Sternguard Veterans, and explode with a gout of superheated gas that can eliminate the value of cover for enemy troops. Any targets struck receive full damage even when partially protected by cover.</OGI_Bolt_Dragonfire.description>
+<OGI_Bolt_Dragonfire.description>Болты "Драконий огонь" - это болты с полой оболочкой, которые выпускаются для использования ветеранами Sternguard и взрываются с выделением перегретого газа, который может свести на нет ценность прикрытия для вражеских войск. Любые пораженные цели получают полный урон, даже если они частично защищены укрытием.</OGI_Bolt_Dragonfire.description>
                   <!-- kraken bolts -->
-<OGI_Bolt_Kraken.label>kraken bolts</OGI_Bolt_Kraken.label>
+<OGI_Bolt_Kraken.label>Болты "Кракен"</OGI_Bolt_Kraken.label>
                         <!-- Kraken Bolts are specialised Bolter shells with an enhanced adamantium core and improved propellant, and were utilised by Seeker Squads during the Great Crusade and Horus Heresy eras of the late 30th and early 31st Millennia, as well as Sternguard Veterans in modern times. They possessed superior armour-piercing properties and increased range compared to standard bolts, but the expense and resources required to create them kept them in limited issue. -->
-<OGI_Bolt_Kraken.description>Kraken Bolts are specialised Bolter shells with an enhanced adamantium core and improved propellant, and were utilised by Seeker Squads during the Great Crusade and Horus Heresy eras of the late 30th and early 31st Millennia, as well as Sternguard Veterans in modern times. They possessed superior armour-piercing properties and increased range compared to standard bolts, but the expense and resources required to create them kept them in limited issue.</OGI_Bolt_Kraken.description>
+<OGI_Bolt_Kraken.description>Болты "Кракен" - это специализированные болтерные снаряды с усиленным адамантиевым сердечником и улучшенным метательным зарядом, которые использовались отрядами Искателей во времена Великого крестового похода и Ереси Гора в конце 30-го и начале 31-го тысячелетий, а также ветеранами Стернгардов в наше время. Они обладали превосходными бронебойными свойствами и увеличенной дальностью стрельбы по сравнению со стандартными болтами, но затраты и ресурсы, необходимые для их создания, ограничивали их выпуск.</OGI_Bolt_Kraken.description>
                                                <!-- Kraken Bolts -->
 <OGI_Bolt_Kraken.modExtensions.0.verbReplacer.label>Kraken Bolts</OGI_Bolt_Kraken.modExtensions.0.verbReplacer.label>
                      <!-- Vengeance bolts -->
-<OGI_Bolt_Vengeance.label>Vengeance bolts</OGI_Bolt_Vengeance.label>
+<OGI_Bolt_Vengeance.label>Боты мести</OGI_Bolt_Vengeance.label>
                            <!-- Vengeance Round bolts are designed for use against heavy infantry and armoured targets. Each bolt has a volatile core utilising unstable flux core technology that makes them hazardous to use, but extremely potent at penetrating through heavily armoured targets. They are especially effective at punching clean through even the Ceramite plates of Power Armour. As their name implies, these bolts were developed by the Imperium specifically to target the Chaos Space Marines of the Traitor Legions. -->
-<OGI_Bolt_Vengeance.description>Vengeance Round bolts are designed for use against heavy infantry and armoured targets. Each bolt has a volatile core utilising unstable flux core technology that makes them hazardous to use, but extremely potent at penetrating through heavily armoured targets. They are especially effective at punching clean through even the Ceramite plates of Power Armour. As their name implies, these bolts were developed by the Imperium specifically to target the Chaos Space Marines of the Traitor Legions.</OGI_Bolt_Vengeance.description>
+<OGI_Bolt_Vengeance.description>Стрелы мести предназначены для использования против тяжелой пехоты и бронированных целей. Каждый болт имеет летучий сердечник, использующий технологию нестабильного флюсового сердечника, что делает их опасными в использовании, но чрезвычайно мощными при прохождении через тяжелобронированные цели. Они особенно эффективны при пробивании даже керамитовых пластин силовой брони. Как следует из их названия, эти болты были разработаны Империумом специально для поражения космических десантников Хаоса из Легионов Предателей.</OGI_Bolt_Vengeance.description>
                                                   <!-- Vengeance Bolts -->
-<OGI_Bolt_Vengeance.modExtensions.0.verbReplacer.label>Vengeance Bolts</OGI_Bolt_Vengeance.modExtensions.0.verbReplacer.label>
+<OGI_Bolt_Vengeance.modExtensions.0.verbReplacer.label>Боты мести</OGI_Bolt_Vengeance.modExtensions.0.verbReplacer.label>
                          <!-- heavy hellfire bolts -->
-<OGI_HeavyBolt_Hellfire.label>heavy hellfire bolts</OGI_HeavyBolt_Hellfire.label>
+<OGI_HeavyBolt_Hellfire.label>Тяжелые Болты "Адское пламя"</OGI_HeavyBolt_Hellfire.label>
                                <!-- Hellfire bolts were created as one of the Imperium's desperate measures to stem the predations of Tyranid assaults within the galaxy. Each bolt is tipped with thousands of needles and a vial of mutagenic acid capable of dissolving its way through citin and carapace with equal ease.
 
 When the round enters the target's body, the vial shatters and the needles pierce the victim's flesh, pumping the acid into the target. Such is the success of the Hellfire bolt that it has found a use against a variety of foes, its acid just as effective at killing other foul xenos. -->
-<OGI_HeavyBolt_Hellfire.description>Hellfire bolts were created as one of the Imperium's desperate measures to stem the predations of Tyranid assaults within the galaxy. Each bolt is tipped with thousands of needles and a vial of mutagenic acid capable of dissolving its way through citin and carapace with equal ease.\n\nWhen the round enters the target's body, the vial shatters and the needles pierce the victim's flesh, pumping the acid into the target. Such is the success of the Hellfire bolt that it has found a use against a variety of foes, its acid just as effective at killing other foul xenos.</OGI_HeavyBolt_Hellfire.description>
+<OGI_HeavyBolt_Hellfire.description>Болты Адского огня были созданы как одна из отчаянных мер Империума, чтобы остановить хищнические нападения тиранидов в пределах галактики. Каждый болт снабжен тысячами игл и флаконом с мутагенной кислотой, способной с одинаковой легкостью проходить сквозь кожу и панцирь..\n\nКогда пуля попадает в тело цели, флакон разбивается вдребезги, и иглы пронзают плоть жертвы, впрыскивая кислоту в цель. Успех "молнии адского огня" таков, что она нашла применение против множества врагов, а ее кислота столь же эффективна при убийстве других мерзких ксеносов.</OGI_HeavyBolt_Hellfire.description>
                                                       <!-- Heavy Hellfire Bolts -->
-<OGI_HeavyBolt_Hellfire.modExtensions.0.verbReplacer.label>Heavy Hellfire Bolts</OGI_HeavyBolt_Hellfire.modExtensions.0.verbReplacer.label>
+<OGI_HeavyBolt_Hellfire.modExtensions.0.verbReplacer.label>Тяжелые Болты "Адское пламя"</OGI_HeavyBolt_Hellfire.modExtensions.0.verbReplacer.label>
 
 
 <!--/Defs/ThingDefs_Misc/OG_AMA_CompSlotLoadable_Slots.xml.bak-->

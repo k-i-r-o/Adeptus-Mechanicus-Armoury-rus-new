@@ -2,11 +2,11 @@
 <LanguageData>
 <!--/Defs/DamageDefs/OG_AMA_Damages_GrenadeDamageTypes_Abstracts.xml-->
                      <!-- shredded -->
-<OGGrenadeRadHediff.label>shredded</OGGrenadeRadHediff.label>
+<OGGrenadeRadHediff.label>измельченный</OGGrenadeRadHediff.label>
                          <!-- a shredded wound -->
 <OGGrenadeRadHediff.labelNoun>a shredded wound</OGGrenadeRadHediff.labelNoun>
                            <!-- A part of the body has been shredded and torn. -->
-<OGGrenadeRadHediff.description>A part of the body has been shredded and torn.</OGGrenadeRadHediff.description>
+<OGGrenadeRadHediff.description>Часть тела была разорвана в клочья.</OGGrenadeRadHediff.description>
                                                              <!-- bandaged -->
 <OGGrenadeRadHediff.comps.HediffComp_TendDuration.labelTendedWell>bandaged</OGGrenadeRadHediff.comps.HediffComp_TendDuration.labelTendedWell>
                                                                   <!-- sutured -->

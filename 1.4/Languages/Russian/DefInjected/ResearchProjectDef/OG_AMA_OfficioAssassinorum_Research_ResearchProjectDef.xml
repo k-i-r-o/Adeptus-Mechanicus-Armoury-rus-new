@@ -2,32 +2,32 @@
 <LanguageData>
 <!--/Defs/ResearchProjectDefs/OG_AMA_OfficioAssassinorum_Research.xml-->
                             <!-- Officio Assassinorum -->
-<OG_Assassinorum_Tech_Base.label>Officio Assassinorum</OG_Assassinorum_Tech_Base.label>
+<OG_Assassinorum_Tech_Base.label>Оффисио Ассоссинорум</OG_Assassinorum_Tech_Base.label>
                                   <!-- Grants you access to the Officio Assassinorum -->
-<OG_Assassinorum_Tech_Base.description>Grants you access to the Officio Assassinorum</OG_Assassinorum_Tech_Base.description>
+<OG_Assassinorum_Tech_Base.description>Предоставляет вам доступ к Оффисио Ассоссинорум</OG_Assassinorum_Tech_Base.description>
                                          <!-- Vindicare Temple -->
-<OG_Assassinorum_Tech_Weapons_Vindicare.label>Vindicare Temple</OG_Assassinorum_Tech_Weapons_Vindicare.label>
+<OG_Assassinorum_Tech_Weapons_Vindicare.label>Храм Виндикар</OG_Assassinorum_Tech_Weapons_Vindicare.label>
                                                <!-- Grants you access to STC templates for Weapons used by the Officio Assassinorum's Vindicare Temple.
 
 Requires Royalty -->
-<OG_Assassinorum_Tech_Weapons_Vindicare.description>Grants you access to STC templates for Weapons used by the Officio Assassinorum's Vindicare Temple.\n\nRequires Royalty</OG_Assassinorum_Tech_Weapons_Vindicare.description>
+<OG_Assassinorum_Tech_Weapons_Vindicare.description>Предоставляет вам доступ к шаблонам STC для оружия, используемого храмом Оффисио Ассоссинорум Виндикар.\n\nТребует королевство</OG_Assassinorum_Tech_Weapons_Vindicare.description>
                                         <!-- Callidus Temple -->
-<OG_Assassinorum_Tech_Weapons_Callidus.label>Callidus Temple</OG_Assassinorum_Tech_Weapons_Callidus.label>
+<OG_Assassinorum_Tech_Weapons_Callidus.label>Храм Каллидуса</OG_Assassinorum_Tech_Weapons_Callidus.label>
                                               <!-- Grants you access to STC templates for Weapons used by the Officio Assassinorum's Callidus Temple.
 
 Requires Royalty -->
-<OG_Assassinorum_Tech_Weapons_Callidus.description>Grants you access to STC templates for Weapons used by the Officio Assassinorum's Callidus Temple.\n\nRequires Royalty</OG_Assassinorum_Tech_Weapons_Callidus.description>
+<OG_Assassinorum_Tech_Weapons_Callidus.description>Предоставляет вам доступ к шаблонам STC для оружия, используемого храмом Оффисио Ассоссинорум Каллидуса.\n\nТребует королевство</OG_Assassinorum_Tech_Weapons_Callidus.description>
                                        <!-- Culexus Temple -->
-<OG_Assassinorum_Tech_Weapons_Culexus.label>Culexus Temple</OG_Assassinorum_Tech_Weapons_Culexus.label>
+<OG_Assassinorum_Tech_Weapons_Culexus.label>Храм Кулексуса</OG_Assassinorum_Tech_Weapons_Culexus.label>
                                              <!-- Grants you access to STC templates for Weapons used by the Officio Assassinorum's Culexus Temple.
 
 Requires Royalty -->
-<OG_Assassinorum_Tech_Weapons_Culexus.description>Grants you access to STC templates for Weapons used by the Officio Assassinorum's Culexus Temple.\n\nRequires Royalty</OG_Assassinorum_Tech_Weapons_Culexus.description>
+<OG_Assassinorum_Tech_Weapons_Culexus.description>Предоставляет вам доступ к шаблонам STC для оружия, используемого храмом Оффисио Ассоссинорум Кулексуса.\n\n Требует королевство</OG_Assassinorum_Tech_Weapons_Culexus.description>
                                        <!-- Eversor Temple -->
-<OG_Assassinorum_Tech_Weapons_Eversor.label>Eversor Temple</OG_Assassinorum_Tech_Weapons_Eversor.label>
+<OG_Assassinorum_Tech_Weapons_Eversor.label>Храм Эверсора</OG_Assassinorum_Tech_Weapons_Eversor.label>
                                              <!-- Grants you access to STC templates for Weapons used by the Officio Assassinorum's Eversor Temple.
 
 Requires Royalty -->
-<OG_Assassinorum_Tech_Weapons_Eversor.description>Grants you access to STC templates for Weapons used by the Officio Assassinorum's Eversor Temple.\n\nRequires Royalty</OG_Assassinorum_Tech_Weapons_Eversor.description>
+<OG_Assassinorum_Tech_Weapons_Eversor.description>Предоставляет вам доступ к шаблонам STC для оружия, используемого храмом Оффисио Ассоссинорум Эверсора.\n\nТребует королевство</OG_Assassinorum_Tech_Weapons_Eversor.description>
 
 </LanguageData>

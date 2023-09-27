@@ -2,12 +2,12 @@
 <LanguageData>
 <!--/Defs/ThingDefs_Misc/OG_AMA_Resources_Grower.xml-->
                       <!-- nutrient solution -->
-<OG_NutrientSolution.label>nutrient solution</OG_NutrientSolution.label>
+<OG_NutrientSolution.label>питательный раствор</OG_NutrientSolution.label>
                             <!-- A mixture of water, amino acids, fats &amp; vitamins for growing biological matter. -->
-<OG_NutrientSolution.description>A mixture of water, amino acids, fats &amp; vitamins for growing biological matter.</OG_NutrientSolution.description>
+<OG_NutrientSolution.description>Смесь воды, аминокислот, жиров и витаминов для выращивания биологического вещества.</OG_NutrientSolution.description>
                  <!-- protein mash -->
-<OG_ProteinMash.label>protein mash</OG_ProteinMash.label>
+<OG_ProteinMash.label>белковое пюре</OG_ProteinMash.label>
                        <!-- Protein from different sources mashed together into a disgusting mash. Perfect for growing organs and living beings from. -->
-<OG_ProteinMash.description>Protein from different sources mashed together into a disgusting mash. Perfect for growing organs and living beings from.</OG_ProteinMash.description>
+<OG_ProteinMash.description>Белки из разных источников, растертые вместе в отвратительное пюре. Идеально подходит для выращивания органов и живых существ.</OG_ProteinMash.description>
 
 </LanguageData>

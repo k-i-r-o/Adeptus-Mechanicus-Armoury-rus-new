@@ -2,12 +2,12 @@
 <LanguageData>
 <!--/Defs/ThingDefs_Buildings/OG_AMA_Building_ApparelLight.xml-->
                <!-- mining light -->
-<ApparelLight.label>mining light</ApparelLight.label>
+<ApparelLight.label>шахтерский свет</ApparelLight.label>
                      <!-- Mining light. -->
-<ApparelLight.description>Mining light.</ApparelLight.description>
+<ApparelLight.description>Шахтерский свет.</ApparelLight.description>
                   <!-- mining light -->
-<EquippableLight.label>mining light</EquippableLight.label>
+<EquippableLight.label>шахтерский свет</EquippableLight.label>
                         <!-- Mining light. -->
-<EquippableLight.description>Mining light.</EquippableLight.description>
+<EquippableLight.description>Шахтерский свет.</EquippableLight.description>
 
 </LanguageData>

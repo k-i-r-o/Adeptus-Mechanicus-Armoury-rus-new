@@ -2,9 +2,9 @@
 <LanguageData>
 <!--/Defs/PawnKindDefs_Human/OG_AMA_PawnKinds_Spacer.xml-->
                     <!-- ancient soldier of fortune -->
-<OG_AncientSoldier.label>ancient soldier of fortune</OG_AncientSoldier.label>
+<OG_AncientSoldier.label>древний солдат удачи</OG_AncientSoldier.label>
                           <!-- Plural ancient soldier of fortune -->
-<OG_AncientSoldier.labelPlural>Plural ancient soldier of fortune</OG_AncientSoldier.labelPlural>
+<OG_AncientSoldier.labelPlural>древние солдаты удачи</OG_AncientSoldier.labelPlural>
                         <!-- Male ancient soldier of fortune -->
 <OG_AncientSoldier.labelMale>Male ancient soldier of fortune</OG_AncientSoldier.labelMale>
                               <!-- Male Plural ancient soldier of fortune -->

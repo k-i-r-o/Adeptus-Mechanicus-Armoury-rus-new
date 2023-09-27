@@ -2,8 +2,8 @@
 <LanguageData>
 <!--/Defs/TraderKindDefs/OG_AMA_OrbitalTrader_Recruits.xml-->
                                     <!-- orbital recruiter arrival -->
-<OG_OrbitalTraderArrival_Recruiter.label>orbital recruiter arrival</OG_OrbitalTraderArrival_Recruiter.label>
+<OG_OrbitalTraderArrival_Recruiter.label>прибытие орбитального вербовщика</OG_OrbitalTraderArrival_Recruiter.label>
                                     <!-- orbital mercenary arrival -->
-<OG_OrbitalTraderArrival_Mercenary.label>orbital mercenary arrival</OG_OrbitalTraderArrival_Mercenary.label>
+<OG_OrbitalTraderArrival_Mercenary.label>прибытие орбитальных наемников</OG_OrbitalTraderArrival_Mercenary.label>
 
 </LanguageData>

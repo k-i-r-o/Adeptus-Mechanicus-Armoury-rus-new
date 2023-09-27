@@ -2,20 +2,20 @@
 <LanguageData>
 <!--/Defs/ThingDefs_Items/OG_AMA_Items_Gas.xml-->
                <!-- smoke -->
-<OG_Gas_Smoke.label>smoke</OG_Gas_Smoke.label>
+<OG_Gas_Smoke.label>дым</OG_Gas_Smoke.label>
                <!-- corrosive gas -->
-<OG_AcidicGas.label>corrosive gas</OG_AcidicGas.label>
+<OG_AcidicGas.label>коррозивный газ</OG_AcidicGas.label>
               <!-- toxic gas -->
-<OG_ToxicGas.label>toxic gas</OG_ToxicGas.label>
+<OG_ToxicGas.label>токсичный газ</OG_ToxicGas.label>
              <!-- rage gas -->
-<OG_RageGas.label>rage gas</OG_RageGas.label>
+<OG_RageGas.label>газ, вызывающий ярость</OG_RageGas.label>
              <!-- tear gas -->
-<OG_TearGas.label>tear gas</OG_TearGas.label>
+<OG_TearGas.label>слезоточивый газ</OG_TearGas.label>
               <!-- sleep gas -->
-<OG_SleepGas.label>sleep gas</OG_SleepGas.label>
+<OG_SleepGas.label>усыпляющий газ</OG_SleepGas.label>
              <!-- fear gas -->
-<OG_FearGas.label>fear gas</OG_FearGas.label>
+<OG_FearGas.label>устрашающий газ</OG_FearGas.label>
                      <!-- hallucinogen gas -->
-<OG_HallucinogenGas.label>hallucinogen gas</OG_HallucinogenGas.label>
+<OG_HallucinogenGas.label>галюциногенный газ</OG_HallucinogenGas.label>
 
 </LanguageData>

@@ -2,36 +2,36 @@
 <LanguageData>
 <!--/Defs/ResearchProjectDefs/OG_AMA_Imperium_Research.xml-->
                            <!-- Imperial Subjects -->
-<OG_Imperial_Tech_Base_T0.label>Imperial Subjects</OG_Imperial_Tech_Base_T0.label>
+<OG_Imperial_Tech_Base_T0.label>Имперские технологии</OG_Imperial_Tech_Base_T0.label>
                                  <!-- Grants you access to basic Imperial technology. -->
-<OG_Imperial_Tech_Base_T0.description>Grants you access to basic Imperial technology.</OG_Imperial_Tech_Base_T0.description>
+<OG_Imperial_Tech_Base_T0.description>Предоставляет вам доступ к базовой имперской технологии.</OG_Imperial_Tech_Base_T0.description>
                            <!-- Imperial Clothing -->
-<OG_Imperial_Tech_Apparel.label>Imperial Clothing</OG_Imperial_Tech_Apparel.label>
+<OG_Imperial_Tech_Apparel.label>Императорская одежда</OG_Imperial_Tech_Apparel.label>
                                  <!-- Allows you to create basic Imperial Clothing -->
-<OG_Imperial_Tech_Apparel.description>Allows you to create basic Imperial Clothing</OG_Imperial_Tech_Apparel.description>
+<OG_Imperial_Tech_Apparel.description>Позволяет создавать базовую имперскую одежду</OG_Imperial_Tech_Apparel.description>
                                      <!-- Flakk Armour -->
-<OG_Imperial_Tech_Apparel_Armour_T1.label>Flakk Armour</OG_Imperial_Tech_Apparel_Armour_T1.label>
+<OG_Imperial_Tech_Apparel_Armour_T1.label>Зенитная броня</OG_Imperial_Tech_Apparel_Armour_T1.label>
                                            <!-- Allows you to create Imperial variants of Flak Armour -->
-<OG_Imperial_Tech_Apparel_Armour_T1.description>Allows you to create Imperial variants of Flak Armour</OG_Imperial_Tech_Apparel_Armour_T1.description>
+<OG_Imperial_Tech_Apparel_Armour_T1.description>Позволяет создавать имперские варианты бронежилетов</OG_Imperial_Tech_Apparel_Armour_T1.description>
                                      <!-- Carapace Armour -->
-<OG_Imperial_Tech_Apparel_Armour_T2.label>Carapace Armour</OG_Imperial_Tech_Apparel_Armour_T2.label>
+<OG_Imperial_Tech_Apparel_Armour_T2.label>Панцирная броня</OG_Imperial_Tech_Apparel_Armour_T2.label>
                                            <!-- Allows you to create Imperial variants of Carapace Armour -->
-<OG_Imperial_Tech_Apparel_Armour_T2.description>Allows you to create Imperial variants of Carapace Armour</OG_Imperial_Tech_Apparel_Armour_T2.description>
+<OG_Imperial_Tech_Apparel_Armour_T2.description>Позволяет создавать имперские варианты панцирных доспехов</OG_Imperial_Tech_Apparel_Armour_T2.description>
                                      <!-- Power Armour -->
-<OG_Imperial_Tech_Apparel_Armour_T3.label>Power Armour</OG_Imperial_Tech_Apparel_Armour_T3.label>
+<OG_Imperial_Tech_Apparel_Armour_T3.label>Силовая броня</OG_Imperial_Tech_Apparel_Armour_T3.label>
                                            <!-- Allows you to create Imperial variants of Power Armour -->
-<OG_Imperial_Tech_Apparel_Armour_T3.description>Allows you to create Imperial variants of Power Armour</OG_Imperial_Tech_Apparel_Armour_T3.description>
+<OG_Imperial_Tech_Apparel_Armour_T3.description>Позволяет создавать имперские варианты силовой брони</OG_Imperial_Tech_Apparel_Armour_T3.description>
                                   <!-- Conversion Fields -->
-<OG_Imperial_Tech_Wargear_Shield.label>Conversion Fields</OG_Imperial_Tech_Wargear_Shield.label>
+<OG_Imperial_Tech_Wargear_Shield.label>Поля преобразования</OG_Imperial_Tech_Wargear_Shield.label>
                                         <!-- Allows you to create Conversion Field emitters -->
-<OG_Imperial_Tech_Wargear_Shield.description>Allows you to create Conversion Field emitters</OG_Imperial_Tech_Wargear_Shield.description>
+<OG_Imperial_Tech_Wargear_Shield.description>Позволяет создавать излучатели поля преобразования</OG_Imperial_Tech_Wargear_Shield.description>
                                       <!-- Servo Skulls -->
-<OG_Imperial_Tech_Wargear_ServoSkull.label>Servo Skulls</OG_Imperial_Tech_Wargear_ServoSkull.label>
+<OG_Imperial_Tech_Wargear_ServoSkull.label>Серво Черепа</OG_Imperial_Tech_Wargear_ServoSkull.label>
                                             <!-- Allows you to create basic Servo Skulls -->
-<OG_Imperial_Tech_Wargear_ServoSkull.description>Allows you to create basic Servo Skulls</OG_Imperial_Tech_Wargear_ServoSkull.description>
+<OG_Imperial_Tech_Wargear_ServoSkull.description>Позволяет создавать базовые серво-черепа</OG_Imperial_Tech_Wargear_ServoSkull.description>
                                 <!-- Bolt Weapons -->
-<OG_Imperial_Tech_Weapons_Bolt.label>Bolt Weapons</OG_Imperial_Tech_Weapons_Bolt.label>
+<OG_Imperial_Tech_Weapons_Bolt.label>Болтовое оружие</OG_Imperial_Tech_Weapons_Bolt.label>
                                       <!-- A brutally efficient weapon, the Bolter fires mass-reactive bolts at its targets, each one a self-propelled missile which explodes with devastating effectiveness after penetrating its target. The fear and awe that Bolter fire creates makes it a perfect weapon for shock troops, the hammering thunder of the guns mixing terrifyingly with the dull, wet explosions as flesh is blown apart. -->
-<OG_Imperial_Tech_Weapons_Bolt.description>A brutally efficient weapon, the Bolter fires mass-reactive bolts at its targets, each one a self-propelled missile which explodes with devastating effectiveness after penetrating its target. The fear and awe that Bolter fire creates makes it a perfect weapon for shock troops, the hammering thunder of the guns mixing terrifyingly with the dull, wet explosions as flesh is blown apart.</OG_Imperial_Tech_Weapons_Bolt.description>
+<OG_Imperial_Tech_Weapons_Bolt.description>Жестоко эффективное оружие, болтер стреляет масс-реактивными зарядами по своим целям, каждый из которых представляет собой отдельную ракету, которая взрывается с разрушительной эффективностью после попадания в цель. Страх и благоговейный трепет, которые создает болтерный огонь, делают его идеальным оружием для ударных войск, грохот орудий ужасающе смешивается с глухими взрывами, когда плоть разрывается на части.</OG_Imperial_Tech_Weapons_Bolt.description>
 
 </LanguageData>

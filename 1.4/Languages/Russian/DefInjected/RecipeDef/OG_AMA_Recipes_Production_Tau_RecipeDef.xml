@@ -2,22 +2,22 @@
 <LanguageData>
 <!--/Defs/RecipeDefs/OG_AMA_Recipes_Production_Tau.xml-->
                     <!-- make tau component -->
-<Make_ComponentTau.label>make tau component</Make_ComponentTau.label>
+<Make_ComponentTau.label>создать компонент тау</Make_ComponentTau.label>
                           <!-- Make a tau component. -->
-<Make_ComponentTau.description>Make a tau component.</Make_ComponentTau.description>
+<Make_ComponentTau.description>Создать компонент тау.</Make_ComponentTau.description>
                         <!-- Making tau component. -->
-<Make_ComponentTau.jobString>Making tau component.</Make_ComponentTau.jobString>
+<Make_ComponentTau.jobString>Изготовление компонентов тау.</Make_ComponentTau.jobString>
                   <!-- make fio'tak -->
-<Make_OGT_Fiotak.label>make fio'tak</Make_OGT_Fiotak.label>
+<Make_OGT_Fiotak.label>изготовить фио'так</Make_OGT_Fiotak.label>
                         <!-- Make fio'tak. -->
-<Make_OGT_Fiotak.description>Make fio'tak.</Make_OGT_Fiotak.description>
+<Make_OGT_Fiotak.description>Изготовить фио'так.</Make_OGT_Fiotak.description>
                       <!-- Making fio'tak. -->
-<Make_OGT_Fiotak.jobString>Making fio'tak.</Make_OGT_Fiotak.jobString>
+<Make_OGT_Fiotak.jobString>Изготовление фио'так.</Make_OGT_Fiotak.jobString>
                      <!-- make mor'tonium -->
-<Make_OGT_Mortonium.label>make mor'tonium</Make_OGT_Mortonium.label>
+<Make_OGT_Mortonium.label>изготовить мор'тониум</Make_OGT_Mortonium.label>
                            <!-- Make mor'tonium. -->
-<Make_OGT_Mortonium.description>Make mor'tonium.</Make_OGT_Mortonium.description>
+<Make_OGT_Mortonium.description>Изготовить мор'тониум.</Make_OGT_Mortonium.description>
                          <!-- Making mor'tonium. -->
-<Make_OGT_Mortonium.jobString>Making mor'tonium.</Make_OGT_Mortonium.jobString>
+<Make_OGT_Mortonium.jobString>Изготовление мор'тониум.</Make_OGT_Mortonium.jobString>
 
 </LanguageData>

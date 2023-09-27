@@ -2,10 +2,10 @@
 <LanguageData>
 <!--/Defs/ThingDefs_Misc/OG_AMA_Ethereal_Various.xml-->
                         <!-- jump -->
-<FlyingObject_JumpPack.label>jump</FlyingObject_JumpPack.label>
+<FlyingObject_JumpPack.label>прыжок</FlyingObject_JumpPack.label>
                   <!-- tunnel -->
-<OG_AMA_Tunneler.label>tunnel</OG_AMA_Tunneler.label>
+<OG_AMA_Tunneler.label>тоннель</OG_AMA_Tunneler.label>
                     <!-- tunnel -->
-<OG_AMA_Teleporter.label>tunnel</OG_AMA_Teleporter.label>
+<OG_AMA_Teleporter.label>тоннель</OG_AMA_Teleporter.label>
 
 </LanguageData>

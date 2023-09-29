@@ -2,15 +2,15 @@
 <LanguageData>
 <!--/Defs/CultureDefs/OG_AMXB_Cultures_Kroot.xml-->
                      <!-- mercenary kindred -->
-<OG_Kroot_Mercenary.label>mercenary kindred</OG_Kroot_Mercenary.label>
+<OG_Kroot_Mercenary.label>род наёмников</OG_Kroot_Mercenary.label>
                            <!-- A broad category describing the styles and practices of many kroot mercenary kindred groups. -->
-<OG_Kroot_Mercenary.description>A broad category describing the styles and practices of many kroot mercenary kindred groups.</OG_Kroot_Mercenary.description>
+<OG_Kroot_Mercenary.description>Широкая категория, описывающая стили и практики многих родственных круту групп наемников.</OG_Kroot_Mercenary.description>
                                 <!-- LeaderTitleMaker_Kriminul -->
 <OG_Kroot_Mercenary.leaderTitleMaker>LeaderTitleMaker_Kriminul</OG_Kroot_Mercenary.leaderTitleMaker>
                   <!-- tribal kroot -->
-<OG_Kroot_Tribal.label>tribal kroot</OG_Kroot_Tribal.label>
+<OG_Kroot_Tribal.label>племенной крут</OG_Kroot_Tribal.label>
                         <!-- A broad category describing the styles and practices of those kroot kindred groups, that for one reason or another have regressed technologically. -->
-<OG_Kroot_Tribal.description>A broad category describing the styles and practices of those kroot kindred groups, that for one reason or another have regressed technologically.</OG_Kroot_Tribal.description>
+<OG_Kroot_Tribal.description>Широкая категория, описывающая стили и практики тех родственных круту групп, которые по той или иной причине технологически регрессировали.</OG_Kroot_Tribal.description>
                              <!-- LeaderTitleMaker_Corunan -->
 <OG_Kroot_Tribal.leaderTitleMaker>LeaderTitleMaker_Corunan</OG_Kroot_Tribal.leaderTitleMaker>
 

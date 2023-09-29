@@ -2,60 +2,60 @@
 <LanguageData>
 <!--/Defs/DeityDefs/DeityDefs.xml-->
                   <!-- Emperor of Mankind -->
-<OG_EmperorOfMan.label>Emperor of Mankind</OG_EmperorOfMan.label>
+<OG_EmperorOfMan.label>Император человечества</OG_EmperorOfMan.label>
                         <!-- Master of Mankind -->
-<OG_EmperorOfMan.description>Master of Mankind</OG_EmperorOfMan.description>
+<OG_EmperorOfMan.description>Повелитель человечества</OG_EmperorOfMan.description>
                <!-- Omnissiah -->
-<OG_Omnissiah.label>Omnissiah</OG_Omnissiah.label>
+<OG_Omnissiah.label>Омниссия</OG_Omnissiah.label>
                      <!-- The Machine God -->
-<OG_Omnissiah.description>The Machine God</OG_Omnissiah.description>
+<OG_Omnissiah.description>Бог машин</OG_Omnissiah.description>
             <!-- Khorne -->
-<OG_Khorne.label>Khorne</OG_Khorne.label>
+<OG_Khorne.label>Кхорн</OG_Khorne.label>
                   <!-- Blood God -->
-<OG_Khorne.description>Blood God</OG_Khorne.description>
+<OG_Khorne.description>Кровавый Бог</OG_Khorne.description>
             <!-- Nurgle -->
-<OG_Nurgle.label>Nurgle</OG_Nurgle.label>
+<OG_Nurgle.label>Нургл</OG_Nurgle.label>
                   <!-- Lord of Decay -->
-<OG_Nurgle.description>Lord of Decay</OG_Nurgle.description>
+<OG_Nurgle.description>Повелитель распада</OG_Nurgle.description>
               <!-- Slannesh -->
-<OG_Slannesh.label>Slannesh</OG_Slannesh.label>
+<OG_Slannesh.label>Сланнеш</OG_Slannesh.label>
                     <!-- Prince of Pleasure -->
-<OG_Slannesh.description>Prince of Pleasure</OG_Slannesh.description>
+<OG_Slannesh.description>Принц удовольствий</OG_Slannesh.description>
               <!-- Tzeentch -->
-<OG_Tzeentch.label>Tzeentch</OG_Tzeentch.label>
+<OG_Tzeentch.label>Тзинч</OG_Tzeentch.label>
                     <!-- Lord of Change -->
-<OG_Tzeentch.description>Lord of Change</OG_Tzeentch.description>
+<OG_Tzeentch.description>Повелитель перемен</OG_Tzeentch.description>
           <!-- Great Wyrm -->
-<OG_Wyrm.label>Great Wyrm</OG_Wyrm.label>
+<OG_Wyrm.label>Великий змей</OG_Wyrm.label>
                 <!-- Devouring Wyrm -->
-<OG_Wyrm.description>Devouring Wyrm</OG_Wyrm.description>
+<OG_Wyrm.description>Пожирающий змей</OG_Wyrm.description>
             <!-- Khaine -->
-<OG_Khaine.label>Khaine</OG_Khaine.label>
+<OG_Khaine.label>Кхайн</OG_Khaine.label>
                   <!-- Bloody Handed God -->
-<OG_Khaine.description>Bloody Handed God</OG_Khaine.description>
+<OG_Khaine.description>Бог с окровавленными руками</OG_Khaine.description>
             <!-- Ynnead -->
-<OG_Ynnead.label>Ynnead</OG_Ynnead.label>
+<OG_Ynnead.label>Иннеад</OG_Ynnead.label>
                   <!-- God of The Dead -->
-<OG_Ynnead.description>God of The Dead</OG_Ynnead.description>
+<OG_Ynnead.description>Бог мертвых</OG_Ynnead.description>
               <!-- Cegorach -->
-<OG_Cegorach.label>Cegorach</OG_Cegorach.label>
+<OG_Cegorach.label>Цегорач</OG_Cegorach.label>
                     <!-- Laughing God -->
-<OG_Cegorach.description>Laughing God</OG_Cegorach.description>
+<OG_Cegorach.description>Смеющийся Бог</OG_Cegorach.description>
           <!-- Gork -->
-<OG_Gork.label>Gork</OG_Gork.label>
+<OG_Gork.label>Горк</OG_Gork.label>
                 <!-- Brutally Kunnin -->
-<OG_Gork.description>Brutally Kunnin</OG_Gork.description>
+<OG_Gork.description>Сильный, но хитрый</OG_Gork.description>
           <!-- Mork -->
-<OG_Mork.label>Mork</OG_Mork.label>
+<OG_Mork.label>Морк</OG_Mork.label>
                 <!-- Kunninly Brutal -->
-<OG_Mork.description>Kunninly Brutal</OG_Mork.description>
+<OG_Mork.description>Хитрый, но сильный</OG_Mork.description>
           <!-- Vawk -->
-<OG_Vawk.label>Vawk</OG_Vawk.label>
+<OG_Vawk.label>Вок</OG_Vawk.label>
                 <!-- Goddess of Creation -->
-<OG_Vawk.description>Goddess of Creation</OG_Vawk.description>
+<OG_Vawk.description>Богиня творения</OG_Vawk.description>
            <!-- Gmork -->
-<OG_Gmork.label>Gmork</OG_Gmork.label>
+<OG_Gmork.label>Гморк</OG_Gmork.label>
                  <!-- God of Destruction -->
-<OG_Gmork.description>God of Destruction</OG_Gmork.description>
+<OG_Gmork.description>Бог разрушения</OG_Gmork.description>
 
 </LanguageData>

@@ -2,15 +2,15 @@
 <LanguageData>
 <!--/Defs/CultureDefs/OG_AMXB_Cultures_Ork.xml-->
                      <!-- goffs -->
-<OG_Greenskin_Goffs.label>goffs</OG_Greenskin_Goffs.label>
+<OG_Greenskin_Goffs.label>гоффы</OG_Greenskin_Goffs.label>
                            <!-- A broad category describing the styles and practices of ork 'Kultures' and the worship of their brutish gods. -->
-<OG_Greenskin_Goffs.description>A broad category describing the styles and practices of ork 'Kultures' and the worship of their brutish gods.</OG_Greenskin_Goffs.description>
+<OG_Greenskin_Goffs.description>Широкая категория, описывающая стили и практики рабочих "культур" и поклонение их жестоким богам.</OG_Greenskin_Goffs.description>
                                 <!-- LeaderTitleMaker_Kriminul -->
 <OG_Greenskin_Goffs.leaderTitleMaker>LeaderTitleMaker_Kriminul</OG_Greenskin_Goffs.leaderTitleMaker>
                              <!-- greenskin tribe -->
-<OG_GreenskinTribal_Culture.label>greenskin tribe</OG_GreenskinTribal_Culture.label>
+<OG_GreenskinTribal_Culture.label>клан зеленокожих</OG_GreenskinTribal_Culture.label>
                                    <!-- An ancient culture common among rimworld tribes. -->
-<OG_GreenskinTribal_Culture.description>An ancient culture common among rimworld tribes.</OG_GreenskinTribal_Culture.description>
+<OG_GreenskinTribal_Culture.description>Древняя культура, распространенная среди племен пограничного мира.</OG_GreenskinTribal_Culture.description>
                                         <!-- LeaderTitleMaker_Corunan -->
 <OG_GreenskinTribal_Culture.leaderTitleMaker>LeaderTitleMaker_Corunan</OG_GreenskinTribal_Culture.leaderTitleMaker>
 

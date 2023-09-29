@@ -2,12 +2,12 @@
 <LanguageData>
 <!--/Defs/OrdnanceStrikes/AirStrikeDefs/OGT_AirStrikeDefs.xml-->
                                   <!-- burst cannon -->
-<OGT_AirstrikeWeapon_BurstCannon.label>burst cannon</OGT_AirstrikeWeapon_BurstCannon.label>
+<OGT_AirstrikeWeapon_BurstCannon.label>разрывная пушка</OGT_AirstrikeWeapon_BurstCannon.label>
                                   <!-- plasma rifle -->
-<OGT_AirstrikeWeapon_PlasmaRifle.label>plasma rifle</OGT_AirstrikeWeapon_PlasmaRifle.label>
+<OGT_AirstrikeWeapon_PlasmaRifle.label>плазменная винтовка</OGT_AirstrikeWeapon_PlasmaRifle.label>
                               <!-- railgun -->
-<OGT_AirstrikeWeapon_Railgun.label>railgun</OGT_AirstrikeWeapon_Railgun.label>
+<OGT_AirstrikeWeapon_Railgun.label>рельсотрон</OGT_AirstrikeWeapon_Railgun.label>
                                    <!-- multi missile -->
-<OGT_AirstrikeWeapon_MultiMissile.label>multi missile</OGT_AirstrikeWeapon_MultiMissile.label>
+<OGT_AirstrikeWeapon_MultiMissile.label>мультиракета</OGT_AirstrikeWeapon_MultiMissile.label>
 
 </LanguageData>

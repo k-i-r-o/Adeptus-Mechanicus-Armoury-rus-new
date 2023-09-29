@@ -2,12 +2,12 @@
 <LanguageData>
 <!--/Defs/ResearchProjectDefs/OG_AM_ResearchTabs.xml-->
                          <!-- Imperial Research -->
-<OGAMA_RSubTab_Imperial.label>Imperial Research</OGAMA_RSubTab_Imperial.label>
+<OGAMA_RSubTab_Imperial.label>Имперские исследования</OGAMA_RSubTab_Imperial.label>
                         <!-- Aeldari Research -->
-<OGAMA_RSubTab_Aeldari.label>Aeldari Research</OGAMA_RSubTab_Aeldari.label>
+<OGAMA_RSubTab_Aeldari.label>Исследование Эльдари</OGAMA_RSubTab_Aeldari.label>
                     <!-- Tau Research -->
-<OGAMA_RSubTab_Tau.label>Tau Research</OGAMA_RSubTab_Tau.label>
+<OGAMA_RSubTab_Tau.label>Исследование Тау</OGAMA_RSubTab_Tau.label>
                           <!-- Greenskin Research -->
-<OGAMA_RSubTab_Greenskin.label>Greenskin Research</OGAMA_RSubTab_Greenskin.label>
+<OGAMA_RSubTab_Greenskin.label>Исследование зеленокожих</OGAMA_RSubTab_Greenskin.label>
 
 </LanguageData>

@@ -2,9 +2,9 @@
 <LanguageData>
 <!--/Defs/CultureDefs/OG_AMXB_Cultures_Mechanicus.xml-->
                                 <!-- mechanicus -->
-<OG_Imperial_Mechanicus_Spacer.label>mechanicus</OG_Imperial_Mechanicus_Spacer.label>
+<OG_Imperial_Mechanicus_Spacer.label>механикус</OG_Imperial_Mechanicus_Spacer.label>
                                       <!-- A broad collection of cultures common among members of the Adeptus Mechanicus. -->
-<OG_Imperial_Mechanicus_Spacer.description>A broad collection of cultures common among members of the Adeptus Mechanicus.</OG_Imperial_Mechanicus_Spacer.description>
+<OG_Imperial_Mechanicus_Spacer.description>Обширная коллекция культур, распространенных среди членов Адептус Механикус.</OG_Imperial_Mechanicus_Spacer.description>
                                            <!-- OG_LeaderTitleMaker_Mechanicus -->
 <OG_Imperial_Mechanicus_Spacer.leaderTitleMaker>OG_LeaderTitleMaker_Mechanicus</OG_Imperial_Mechanicus_Spacer.leaderTitleMaker>
                                                     <!-- 
@@ -12,8 +12,8 @@
 		<li>memeGod-&gt;machine god</li>
  -->
 <OG_Imperial_Mechanicus_Spacer.generalRules.rulesStrings>
-		<li>memeGod-&gt;ommnissiah</li>
-		<li>memeGod-&gt;machine god</li>
+		<li>memeGod-&gt;оммниссия</li>
+		<li>memeGod-&gt;машинный бог</li>
 </OG_Imperial_Mechanicus_Spacer.generalRules.rulesStrings>
 
 </LanguageData>

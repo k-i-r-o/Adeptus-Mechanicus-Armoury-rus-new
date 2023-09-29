@@ -2,15 +2,15 @@
 <LanguageData>
 <!--/Defs/PatchDescriptionDefs/PatchDescriptionDefs.xml-->
                                 <!-- Astra Miliatrum Armour Patch -->
-<AstraMiliatrumMod_ArmourPatch.label>Astra Miliatrum Armour Patch</AstraMiliatrumMod_ArmourPatch.label>
+<AstraMiliatrumMod_ArmourPatch.label>Нашивка на броню Астра Милитарум</AstraMiliatrumMod_ArmourPatch.label>
                                   <!-- Removes the Astra Militarum versions of dupped Armour when active -->
 <AstraMiliatrumMod_ArmourPatch.tooltip>Removes the Astra Militarum versions of dupped Armour when active</AstraMiliatrumMod_ArmourPatch.tooltip>
                                  <!-- Astra Miliatrum Weapons Patch -->
-<AstraMiliatrumMod_WeaponsPatch.label>Astra Miliatrum Weapons Patch</AstraMiliatrumMod_WeaponsPatch.label>
+<AstraMiliatrumMod_WeaponsPatch.label>Наклейка на оружие Астра Милитарум</AstraMiliatrumMod_WeaponsPatch.label>
                                    <!-- Removes the Astra Militarum versions of dupped Weapons when active -->
 <AstraMiliatrumMod_WeaponsPatch.tooltip>Removes the Astra Militarum versions of dupped Weapons when active</AstraMiliatrumMod_WeaponsPatch.tooltip>
                                                <!-- Imperial Components Patch -->
-<AstraMiliatrumPrimarchMod_SwapComponentTypes.label>Imperial Components Patch</AstraMiliatrumPrimarchMod_SwapComponentTypes.label>
+<AstraMiliatrumPrimarchMod_SwapComponentTypes.label>Имперская наклейка на компоненты</AstraMiliatrumPrimarchMod_SwapComponentTypes.label>
                                                  <!-- Replace some of the materials required in recipes with those from the Astra Militarum or Legiones Astartes mods if present. -->
 <AstraMiliatrumPrimarchMod_SwapComponentTypes.tooltip>Replace some of the materials required in recipes with those from the Astra Militarum or Legiones Astartes mods if present.</AstraMiliatrumPrimarchMod_SwapComponentTypes.tooltip>
                                    <!-- Vanilia Pirate Expansion -->

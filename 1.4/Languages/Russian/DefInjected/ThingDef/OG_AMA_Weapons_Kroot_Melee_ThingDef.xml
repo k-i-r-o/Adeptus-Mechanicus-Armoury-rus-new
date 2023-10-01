@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-<!--/Defs/ThingDefs_Misc/Weapons/OG_AMA_Weapons_Kroot_Melee.xml-->
                           <!-- fighting staff (K) -->
 <OGK_Melee_FightingStaff.label>боевой посох (K)</OGK_Melee_FightingStaff.label>
-                                <!-- A traditional Kroot melee weapon, used by the ancestors for generations. It still proves to be as effective, albeit primitive melee weapon now as it did then. -->
+
 <OGK_Melee_FightingStaff.description>Традиционное оружие ближнего боя крутов, использовавшееся предками на протяжении многих поколений. Сейчас это все еще оказывается таким же эффективным, хотя и примитивным оружием ближнего боя, как и тогда.</OGK_Melee_FightingStaff.description>
                                   <!-- haft -->
 <OGK_Melee_FightingStaff.tools.0.label>haft</OGK_Melee_FightingStaff.tools.0.label>
@@ -15,7 +14,7 @@
 <OGK_Melee_FightingStaff.tools.3.label>head</OGK_Melee_FightingStaff.tools.3.label>
                        <!-- power sword (K) -->
 <OGK_Melee_PowerSword.label>силовой меч (K)</OGK_Melee_PowerSword.label>
-                             <!-- A Power Sword is a Power Weapon that has been shaped into a sword of varying lengths and designs crafted from one of any number of different materials, though usually Adamantium. When its power cell is activated, often by touching a control located on the hilt, the blade is sheathed in a lethal corona of disruptive energy. This energy field allows the blade to carve through flesh, bone and most forms of armour plate alike, making a Power Sword a highly effective Imperial close combat weapon. Power Swords are used by all members of the Imperial armed forces, including the troops of the Imperial Guard and the Space Marines of the Adeptus Astartes. -->
+
 <OGK_Melee_PowerSword.description>Силовой меч - это Силовое оружие, которому придана форма меча различной длины и дизайна, изготовленного из любого количества различных материалов, хотя обычно это адамантий. Когда его силовой элемент активируется, часто при прикосновении к элементу управления, расположенному на рукояти, клинок окутывается смертоносной короной разрушительной энергии. Это энергетическое поле позволяет клинку одинаково рассекать плоть, кость и большинство форм бронированных пластин, что делает Силовой меч высокоэффективным имперским оружием ближнего боя. Силовые мечи используются всеми военнослужащими имперских вооруженных сил, включая войска Имперской гвардии и космодесантников Адептус Астартес.</OGK_Melee_PowerSword.description>
                                <!-- blade -->
 <OGK_Melee_PowerSword.tools.0.label>blade</OGK_Melee_PowerSword.tools.0.label>
@@ -23,7 +22,7 @@
 <OGK_Melee_PowerSword.tools.1.label>point</OGK_Melee_PowerSword.tools.1.label>
                         <!-- shaman staff (K) -->
 <OGK_Melee_ShamanStaff.label>шаманский посох (K)</OGK_Melee_ShamanStaff.label>
-                              <!-- Kroot Shamans often carry a staff, adored with mystical runes and charms that allow them to focus their powers and deflect enemy Psychic attacks. -->
+
 <OGK_Melee_ShamanStaff.description>Шаманы Крутов часто носят посох, украшенный мистическими рунами и амулетами, которые позволяют им концентрировать свои силы и отражать психические атаки противника.</OGK_Melee_ShamanStaff.description>
                                 <!-- haft -->
 <OGK_Melee_ShamanStaff.tools.0.label>haft</OGK_Melee_ShamanStaff.tools.0.label>

@@ -1,19 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-<!--/Defs/ThingDefs_Misc/Weapons/OG_AMA_Weapons_Imperial_Ranged_Las.xml-->
                           <!-- las blast -->
 <OGI_Bullet_LasPistolStd.label>las blast</OGI_Bullet_LasPistolStd.label>
-                                <!-- A focused pinpoint laser beam which is strong enough to take an ordinary human arm off with one shot but is not as effective against the more durable alien bodies and stronger types of personal armour. -->
+
 <OGI_Bullet_LasPistolStd.description>A focused pinpoint laser beam which is strong enough to take an ordinary human arm off with one shot but is not as effective against the more durable alien bodies and stronger types of personal armour.</OGI_Bullet_LasPistolStd.description>
                           <!-- las blast hotshot -->
 <OGI_Bullet_LasPistolHot.label>las blast hotshot</OGI_Bullet_LasPistolHot.label>
-                                <!-- A higher power laser beam which is effective against the more durable alien bodies and stronger types of personal armour, it does half the weapons effective range. -->
+
 <OGI_Bullet_LasPistolHot.description>A higher power laser beam which is effective against the more durable alien bodies and stronger types of personal armour, it does half the weapons effective range.</OGI_Bullet_LasPistolHot.description>
                     <!-- laspistol (I) -->
 <OGI_Gun_LasPistol.label>лазпистолет (I)</OGI_Gun_LasPistol.label>
-                          <!-- The Laspistol is the pistol version of the Lasgun and like that weapon fires a coherent beam of energetic photons that can burn through most materials. The Laspistol is powered by a miniature power pack that is usually placed within the grip. The Laspistol is used most often by officers or Commissars of the Imperial Guard in conjunction with a close combat weapon, often a Chainsword or Power Sword. The Laspistol was specifically intended to allow the user to fire one-handed and wield a melee weapon in the other hand. The Laspistol is also a favoured weapon of Tech-priest Enginseers and Sanctioned Psykers.
 
-The Laspistol is capable of producing the same amount of damage in a skilled user's hands as the Lasgun, yet it has drastically reduced range as compared to its variant rifle form. The Laspistol lacks the Lasgun's selective fire options, having only the ability to fire single shots. -->
 <OGI_Gun_LasPistol.description>Лазпистолет - это пистолетная версия лазгана, и, подобно этому оружию, он выпускает когерентный пучок энергичных фотонов, который может прожечь большинство материалов. Лазерный пистолет питается от миниатюрного блока питания, который обычно размещается внутри рукоятки. Лазпистолет чаще всего используется офицерами или комиссарами Имперской гвардии в сочетании с оружием ближнего боя, часто цепным мечом или Силовым мечом. Лазерный пистолет был специально разработан для того, чтобы позволить пользователю стрелять одной рукой и владеть оружием ближнего боя в другой руке. Лазпистолет также является излюбленным оружием техножрецов-провидцев и санкционированных псайкеров.\n\n Лазпистолет способен наносить такой же урон в руках опытного пользователя, как и лазган, однако у него резко уменьшена дальность стрельбы по сравнению с его разновидностью винтовки. В лазпистолете отсутствуют возможности выборочного огня лазганов, он способен производить только одиночные выстрелы.</OGI_Gun_LasPistol.description>
                             <!-- barrel -->
 <OGI_Gun_LasPistol.tools.0.label>barrel</OGI_Gun_LasPistol.tools.0.label>
@@ -21,17 +18,15 @@ The Laspistol is capable of producing the same amount of damage in a skilled use
 <OGI_Gun_LasPistol.tools.1.label>grip</OGI_Gun_LasPistol.tools.1.label>
                     <!-- las blast -->
 <OGI_Bullet_LasGun.label>las blast</OGI_Bullet_LasGun.label>
-                          <!-- A focused pinpoint laser beam which is strong enough to take an ordinary human arm off with one shot but is not as effective against the more durable alien bodies and stronger types of personal armour. -->
+
 <OGI_Bullet_LasGun.description>Сфокусированный точечный лазерный луч, который достаточно силен, чтобы одним выстрелом оторвать обычную человеческую руку, но не так эффективен против более прочных тел пришельцев и более прочных типов личной брони.</OGI_Bullet_LasGun.description>
                         <!-- las blast hotshot -->
 <OGI_Bullet_LasGun_Hot.label>las blast hotshot</OGI_Bullet_LasGun_Hot.label>
-                              <!-- A higher power laser beam which is effective against the more durable alien bodies and stronger types of personal armour, it does half the weapons effective range. -->
+
 <OGI_Bullet_LasGun_Hot.description>Лазерный луч большей мощности, который эффективен против более прочных тел пришельцев и более прочных типов личной брони, обеспечивает половину эффективной дальности действия оружия.</OGI_Bullet_LasGun_Hot.description>
                         <!-- m-galaxy pattern lasgun (I) -->
 <OGI_Gun_LasGun_Galaxy.label>лазган с рисунком м-галактики (I)</OGI_Gun_LasGun_Galaxy.label>
-                              <!-- The Lasgun, also sometimes referred to as a Lasrifle, is a directed-energy antipersonnel weapon used by the military forces of the Imperium of Man, and it is the most common and widely-used type of laser weapon in the galaxy. Lasguns are reliable, easy to maintain and to produce, and are readily available on most Imperial worlds. The Lasgun is strong enough to take an ordinary human arm off with one shot but is not as effective against the more durable alien bodies and stronger types of personal armour. A Lasgun's beam also cauterizes the wounds it inflicts due to the immense heat given off by the shot.
-		
-		Although thousands of variant models, marks and patterns exist the standard Lasgun pattern used by the Imperial Guard is the M35 "M-Galaxy" Lasgun, first put into use in 2546.789.M35. -->
+
 <OGI_Gun_LasGun_Galaxy.description>Лазган, также иногда называемый Лазрифлем, представляет собой противопехотное оружие направленной энергии, используемое вооруженными силами Империума Человека, и это наиболее распространенный и широко используемый тип лазерного оружия в галактике. Лазганы надежны, просты в обслуживании и производстве и легко доступны на большинстве имперских миров. Лазган достаточно силен, чтобы одним выстрелом оторвать обычную человеческую руку, но не так эффективен против более прочных тел пришельцев и более прочных типов личной брони. Луч лазгана также прижигает раны, которые он наносит, из-за огромного тепла, выделяемого выстрелом.Хотя существуют тысячи различных моделей, марок и рисунков, стандартным лазганом, используемым имперской гвардией, является лазган M35 "M-Galaxy", впервые введенный в эксплуатацию в 2546.789 году.M35.</OGI_Gun_LasGun_Galaxy.description>
                                                                               <!-- AMA_Hotshot -->
 <OGI_Gun_LasGun_Galaxy.comps.AdeptusMechanicus.Comp_ToggleFireMode.InspectLabelKey>AMA_Hotshot</OGI_Gun_LasGun_Galaxy.comps.AdeptusMechanicus.Comp_ToggleFireMode.InspectLabelKey>
@@ -41,7 +36,7 @@ The Laspistol is capable of producing the same amount of damage in a skilled use
 <OGI_Gun_LasGun_Galaxy.tools.1.label>barrel</OGI_Gun_LasGun_Galaxy.tools.1.label>
                           <!-- kantrael pattern lasgun (I) -->
 <OGI_Gun_LasGun_Kantrael.label>лазган кантраэльского образца (I)</OGI_Gun_LasGun_Kantrael.label>
-                                <!-- The Lasgun, also sometimes referred to as a Lasrifle, is a directed-energy antipersonnel weapon used by the military forces of the Imperium of Man, and it is the most common and widely-used type of laser weapon in the galaxy. Lasguns are reliable, easy to maintain and to produce, and are readily available on most Imperial worlds. The Lasgun is strong enough to take an ordinary human arm off with one shot but is not as effective against the more durable alien bodies and stronger types of personal armour. A Lasgun's beam also cauterizes the wounds it inflicts due to the immense heat given off by the shot. -->
+
 <OGI_Gun_LasGun_Kantrael.description>Лазган, также иногда называемый Лазрифлем, представляет собой противопехотное оружие направленной энергии, используемое вооруженными силами Империума Человека, и это наиболее распространенный и широко используемый тип лазерного оружия в галактике. Лазганы надежны, просты в обслуживании и производстве и легко доступны на большинстве имперских миров. Лазган достаточно силен, чтобы одним выстрелом оторвать обычную человеческую руку, но не так эффективен против более прочных тел пришельцев и более прочных типов личной брони. Луч лазгана также прижигает раны, которые он наносит, из-за огромного тепла, выделяемого выстрелом.</OGI_Gun_LasGun_Kantrael.description>
                                                                                 <!-- AMA_Hotshot -->
 <OGI_Gun_LasGun_Kantrael.comps.AdeptusMechanicus.Comp_ToggleFireMode.InspectLabelKey>AMA_Hotshot</OGI_Gun_LasGun_Kantrael.comps.AdeptusMechanicus.Comp_ToggleFireMode.InspectLabelKey>
@@ -51,7 +46,7 @@ The Laspistol is capable of producing the same amount of damage in a skilled use
 <OGI_Gun_LasGun_Kantrael.tools.1.label>barrel</OGI_Gun_LasGun_Kantrael.tools.1.label>
                          <!-- triplex pattern lasgun (I) -->
 <OGI_Gun_LasGun_Triplex.label>лазган с триплексным рисунком (I)</OGI_Gun_LasGun_Triplex.label>
-                               <!-- The Lasgun, also sometimes referred to as a Lasrifle, is a directed-energy antipersonnel weapon used by the military forces of the Imperium of Man, and it is the most common and widely-used type of laser weapon in the galaxy. Lasguns are reliable, easy to maintain and to produce, and are readily available on most Imperial worlds. The Lasgun is strong enough to take an ordinary human arm off with one shot but is not as effective against the more durable alien bodies and stronger types of personal armour. A Lasgun's beam also cauterizes the wounds it inflicts due to the immense heat given off by the shot. -->
+
 <OGI_Gun_LasGun_Triplex.description>Лазган, также иногда называемый Лазрифлем, представляет собой противопехотное оружие направленной энергии, используемое вооруженными силами Империума Человека, и это наиболее распространенный и широко используемый тип лазерного оружия в галактике. Лазганы надежны, просты в обслуживании и производстве и легко доступны на большинстве имперских миров. Лазган достаточно силен, чтобы одним выстрелом оторвать обычную человеческую руку, но не так эффективен против более прочных тел пришельцев и более прочных типов личной брони. Луч лазгана также прижигает раны, которые он наносит, из-за огромного тепла, выделяемого выстрелом.</OGI_Gun_LasGun_Triplex.description>
                                                                                <!-- AMA_Hotshot -->
 <OGI_Gun_LasGun_Triplex.comps.AdeptusMechanicus.Comp_ToggleFireMode.InspectLabelKey>AMA_Hotshot</OGI_Gun_LasGun_Triplex.comps.AdeptusMechanicus.Comp_ToggleFireMode.InspectLabelKey>
@@ -61,9 +56,7 @@ The Laspistol is capable of producing the same amount of damage in a skilled use
 <OGI_Gun_LasGun_Triplex.tools.1.label>barrel</OGI_Gun_LasGun_Triplex.tools.1.label>
                           <!-- merovech pattern lasgun (I) -->
 <OGI_Gun_LasGun_Merovech.label>лазган образца меровеха (I)</OGI_Gun_LasGun_Merovech.label>
-                                <!-- The Lasgun, also sometimes referred to as a Lasrifle, is a directed-energy antipersonnel weapon used by the military forces of the Imperium of Man, and it is the most common and widely-used type of laser weapon in the galaxy. Lasguns are reliable, easy to maintain and to produce, and are readily available on most Imperial worlds. The Lasgun is strong enough to take an ordinary human arm off with one shot but is not as effective against the more durable alien bodies and stronger types of personal armour. A Lasgun's beam also cauterizes the wounds it inflicts due to the immense heat given off by the shot.
-		
-		Designed purely for close range assaults, the merovech assault lasgun is heavily reinforced and has a bayonet built into its short and heavy frame. Slots for two power packs are included so the gun can switch to a fresh pack with no reloading. Since the firefights it’s designed for are typically over long before two packs are exhausted, it serves its design perfectly. -->
+
 <OGI_Gun_LasGun_Merovech.description>Лазган, также иногда называемый Лазрифлем, представляет собой противопехотное оружие направленной энергии, используемое вооруженными силами Империума Человека, и это наиболее распространенный и широко используемый тип лазерного оружия в галактике. Лазганы надежны, просты в обслуживании и производстве и легко доступны на большинстве имперских миров. Лазган достаточно силен, чтобы одним выстрелом оторвать обычную человеческую руку, но не так эффективен против более прочных тел пришельцев и более прочных типов личной брони. Луч лазгана также прижигает раны, которые он наносит, из-за огромного тепла, выделяемого выстрелом.Разработанный исключительно для атак с близкого расстояния, штурмовой лазган merovech сильно усилен и имеет штык, встроенный в его короткую и тяжелую раму. В комплект входят гнезда для двух блоков питания, так что пистолет может переключаться на новый блок без перезарядки. Поскольку перестрелки, для которых он предназначен, обычно заканчиваются задолго до того, как заканчиваются две пачки, он идеально соответствует своему дизайну.</OGI_Gun_LasGun_Merovech.description>
                                   <!-- stock -->
 <OGI_Gun_LasGun_Merovech.tools.0.label>stock</OGI_Gun_LasGun_Merovech.tools.0.label>
@@ -73,9 +66,7 @@ The Laspistol is capable of producing the same amount of damage in a skilled use
 <OGI_Gun_LasGun_Merovech.tools.2.label>bayonet</OGI_Gun_LasGun_Merovech.tools.2.label>
                        <!-- locke pattern lascarbine (I) -->
 <OGI_Gun_LasGun_Locke.label>лазкарбин с рисунком Локка (I)</OGI_Gun_LasGun_Locke.label>
-                             <!-- The Lascarbine is a carbine form of the standard Imperial Lasgun that is easier to carry and to aim than its larger counterpart. It will often possess a folding stock. However, as a result of these modifications, a Lascarbine has a shorter range and will fire fewer shots before depleting its power pack when compared to a standard Lasgun.
 
-The Locke Pattern is A lighter, cut down variant of the Lascarbine that is commonly deployed amoungst PDF regiments, local milita, which possesses a shorter barrel-length than the standard Lasgun, decreasing its range but making it easier to use in enclosed spaces, to save on manufacturing costs the variable power setting has been removed and it is limited to single shot, this also makes it light enought that it can be fired in one hand. -->
 <OGI_Gun_LasGun_Locke.description>Лазкарбин - это карабинная форма стандартного лазгана Imperial, который легче носить с собой и прицеливаться, чем его более крупный аналог. Он часто будет иметь складной приклад. Однако, в результате этих модификаций, лазербайн имеет меньшую дальность стрельбы и будет производить меньше выстрелов, прежде чем разрядится его блок питания, по сравнению со стандартным лазганом.\n\nМодель Локка - это более легкий, урезанный вариант лазгана, который обычно используется в полках PDF, местной полиции, который обладает меньшей длиной ствола, чем стандартный лазган, что уменьшает его дальность стрельбы, но облегчает его использование в закрытых помещениях, чтобы сэкономить на производственных затратах переменная настройка мощности была удалена, и она ограничена одиночным выстрелом, это также делает его достаточно легким, чтобы из него можно было стрелять одной рукой.</OGI_Gun_LasGun_Locke.description>
                                <!-- stock -->
 <OGI_Gun_LasGun_Locke.tools.0.label>stock</OGI_Gun_LasGun_Locke.tools.0.label>
@@ -83,9 +74,7 @@ The Locke Pattern is A lighter, cut down variant of the Lascarbine that is commo
 <OGI_Gun_LasGun_Locke.tools.1.label>barrel</OGI_Gun_LasGun_Locke.tools.1.label>
                           <!-- MKIV "Catachan" lascarbine (I) -->
 <OGI_Gun_LasGun_Catachan.label>MKIV лазкарбин "Катачан" (I)</OGI_Gun_LasGun_Catachan.label>
-                                <!-- The Lascarbine is a carbine form of the standard Imperial Lasgun that is easier to carry and to aim than its larger counterpart. It will often possess a folding stock. However, as a result of these modifications, a Lascarbine has a shorter range and will fire fewer shots before depleting its power pack when compared to a standard Lasgun.
-		
-		The Mark iV "Catachan" Lascarbine, has less cowling than the M36 and is therefore lighter and easier to carry, it also has a slightly reduced effective range and an increased rate of fire, which in the dense jungle environs frequented by Catachan regiments. -->
+
 <OGI_Gun_LasGun_Catachan.description>Лазкарбин - это карабинная форма стандартного лазгана Imperial, который легче носить с собой и прицеливаться, чем его более крупный аналог. Он часто будет иметь складной приклад. Однако, в результате этих модификаций, лазербайн имеет меньшую дальность стрельбы и будет производить меньше выстрелов, прежде чем разрядится его блок питания, по сравнению со стандартным лазганом.Лазерный карабин Mark IV "Катачан" имеет меньший капот, чем M36, и поэтому легче и удобнее в переноске, он также имеет немного уменьшенную эффективную дальность стрельбы и повышенную скорострельность, что в густых джунглях часто встречается в катачанских полках.</OGI_Gun_LasGun_Catachan.description>
                                                                                 <!-- AMA_Hotshot -->
 <OGI_Gun_LasGun_Catachan.comps.AdeptusMechanicus.Comp_ToggleFireMode.InspectLabelKey>AMA_Hotshot</OGI_Gun_LasGun_Catachan.comps.AdeptusMechanicus.Comp_ToggleFireMode.InspectLabelKey>
@@ -95,9 +84,7 @@ The Locke Pattern is A lighter, cut down variant of the Lascarbine that is commo
 <OGI_Gun_LasGun_Catachan.tools.1.label>barrel</OGI_Gun_LasGun_Catachan.tools.1.label>
                       <!-- voss pattern lascarbine (I) -->
 <OGI_Gun_LasGun_Voss.label>лазкарбин с рисунком восса (I)</OGI_Gun_LasGun_Voss.label>
-                            <!-- The Lascarbine is a carbine form of the standard Imperial Lasgun that is easier to carry and to aim than its larger counterpart. It will often possess a folding stock. However, as a result of these modifications, a Lascarbine has a shorter range and will fire fewer shots before depleting its power pack when compared to a standard Lasgun.
-		
-		The Voss Pattern Lascarbine, has less cowling than the M36 and is therefore lighter and easier to carry, it also has a slightly reduced effective range and an increased rate of fire, which in the dense jungle environs frequented by Catachan regiments. -->
+
 <OGI_Gun_LasGun_Voss.description>Лазкарбин - это карабинная форма стандартного лазгана Imperial, который легче носить с собой и прицеливаться, чем его более крупный аналог. Он часто будет иметь складной приклад. Однако, в результате этих модификаций, лазербайн имеет меньшую дальность стрельбы и будет производить меньше выстрелов, прежде чем разрядится его блок питания, по сравнению со стандартным лазганом. Лазкарбин с рисунком Восса, имеет меньший капот, чем M36, и, следовательно, легче и удобнее в переноске, он также имеет несколько уменьшенную эффективную дальность стрельбы и повышенную скорострельность, что в густых джунглях часто встречается в катачанских полках.</OGI_Gun_LasGun_Voss.description>
                               <!-- grip -->
 <OGI_Gun_LasGun_Voss.tools.0.label>grip</OGI_Gun_LasGun_Voss.tools.0.label>
@@ -105,9 +92,7 @@ The Locke Pattern is A lighter, cut down variant of the Lascarbine that is commo
 <OGI_Gun_LasGun_Voss.tools.1.label>barrel</OGI_Gun_LasGun_Voss.tools.1.label>
                           <!-- accatran pattern lascarbine (I) -->
 <OGI_Gun_LasGun_Accatran.label>лазкарбин с рисунком аккатрана (I)</OGI_Gun_LasGun_Accatran.label>
-                                <!-- The Lascarbine is a carbine form of the standard Imperial Lasgun that is easier to carry and to aim than its larger counterpart. It will often possess a folding stock. However, as a result of these modifications, a Lascarbine has a shorter range and will fire fewer shots before depleting its power pack when compared to a standard Lasgun.
-		
-		The Accatran Mark IV is a bullpup-style Lasgun. The smaller profile is easily manoeuvred at short range or fired from the hip. Often employed by Elysian Drop Troop regiments and Drop Troops regiments drawn from other worlds. -->
+
 <OGI_Gun_LasGun_Accatran.description>Лазкарбин - это карабинная форма стандартного лазгана Империи, который легче носить с собой и прицеливаться, чем его более крупный аналог. Он часто будет иметь складной приклад. Однако, в результате этих модификаций, лазербайн имеет меньшую дальность стрельбы и будет производить меньше выстрелов, прежде чем разрядится его блок питания, по сравнению со стандартным лазганом. Аккатран Mark IV - это лазган в стиле буллпап. С меньшим профилем легко маневрировать на короткой дистанции или стрелять от бедра. Часто используется элизианскими десантными полками и десантными полками, набранными из других миров.</OGI_Gun_LasGun_Accatran.description>
                                   <!-- grip -->
 <OGI_Gun_LasGun_Accatran.tools.0.label>grip</OGI_Gun_LasGun_Accatran.tools.0.label>
@@ -115,17 +100,15 @@ The Locke Pattern is A lighter, cut down variant of the Lascarbine that is commo
 <OGI_Gun_LasGun_Accatran.tools.1.label>barrel</OGI_Gun_LasGun_Accatran.tools.1.label>
                       <!-- las blast -->
 <OGI_Bullet_LasRifle.label>las blast</OGI_Bullet_LasRifle.label>
-                            <!-- A focused pinpoint laser beam which is strong enough to take an ordinary human arm off with one shot but is not as effective against the more durable alien bodies and stronger types of personal armour. -->
+
 <OGI_Bullet_LasRifle.description>Сфокусированный точечный лазерный луч, который достаточно силен, чтобы одним выстрелом оторвать обычную человеческую руку, но не так эффективен против более прочных тел пришельцев и более прочных типов личной брони.</OGI_Bullet_LasRifle.description>
                           <!-- las blast hotshot -->
 <OGI_Bullet_LasRifle_Hot.label>las blast hotshot</OGI_Bullet_LasRifle_Hot.label>
-                                <!-- A higher power laser beam which is effective against the more durable alien bodies and stronger types of personal armour, it does half the weapons effective range. -->
+
 <OGI_Bullet_LasRifle_Hot.description>Лазерный луч большей мощности, который эффективен против более прочных тел пришельцев и более прочных типов личной брони, обеспечивает половину эффективной дальности действия оружия.</OGI_Bullet_LasRifle_Hot.description>
                         <!-- lucius pattern lasgun (I) -->
 <OGI_Gun_LasGun_Lucius.label>лазган образца Люциуса (I)</OGI_Gun_LasGun_Lucius.label>
-                              <!-- The Lasrifle is a rifle form of the standard Imperial Lasgun that is more cumbersome to carry and to aim than its smaller counterpart. It will often possess a folding stock. However, as a result of these modifications, a Lasrifle has a longer range and will fire fewer shots before depleting its power pack when compared to a standard Lasgun.
 
-Lucius Pattern Lasguns operate in the 21 megathoule range, it discharges a more powerful shot, but drains the power pack at an increased rate. This also puts a great strain on the weapon, limiting the rate of fire and requiring such features as additional heat sink rings lining the exterior of the barrel increasing its weight further. -->
 <OGI_Gun_LasGun_Lucius.description>Лазган образца Люциуса - это винтовочная разновидность стандартного лазгана Империи, который более громоздок в переноске и прицеливании, чем его меньший аналог. Он часто будет иметь складной приклад. Однако, в результате этих модификаций, лазерный пистолет имеет большую дальность стрельбы и будет производить меньше выстрелов, прежде чем разрядится его аккумулятор, по сравнению со стандартным лазганом.\n\nЛазганы модели Lucius работают в диапазоне 21 мегатоулей, они производят более мощный выстрел, но расходуют заряд с повышенной скоростью. Это также создает большую нагрузку на оружие, ограничивая скорострельность и требуя таких функций, как дополнительные теплоотводящие кольца, расположенные снаружи ствола, что еще больше увеличивает его вес.</OGI_Gun_LasGun_Lucius.description>
                                 <!-- stock -->
 <OGI_Gun_LasGun_Lucius.tools.0.label>stock</OGI_Gun_LasGun_Lucius.tools.0.label>
@@ -133,11 +116,7 @@ Lucius Pattern Lasguns operate in the 21 megathoule range, it discharges a more 
 <OGI_Gun_LasGun_Lucius.tools.1.label>barrel</OGI_Gun_LasGun_Lucius.tools.1.label>
                       <!-- martian pattern lasrifle (I) -->
 <OGI_Gun_LasGun_Mars.label>лазган с марсианским рисунком (I)</OGI_Gun_LasGun_Mars.label>
-                            <!-- The Lasgun, also sometimes referred to as a Lasrifle, is a directed-energy antipersonnel weapon used by the military forces of the Imperium of Man, and it is the most common and widely-used type of laser weapon in the galaxy. Lasguns are reliable, easy to maintain and to produce, and are readily available on most Imperial worlds. The Lasgun is strong enough to take an ordinary human arm off with one shot but is not as effective against the more durable alien bodies and stronger types of personal armour. A Lasgun's beam also cauterizes the wounds it inflicts due to the immense heat given off by the shot.
 
-Vostroya Pattern Lasguns operate in the 21 megathoule range, it discharges a more powerful shot, but drains the power pack at an increased rate. This also puts a great strain on the weapon, limiting the rate of fire and requiring such features as additional heat sink rings lining the exterior of the barrel.
-		
-		. -->
 <OGI_Gun_LasGun_Mars.description>Лазган, также иногда называемый Лазрифлем, представляет собой противопехотное оружие направленной энергии, используемое вооруженными силами Империума Человека, и это наиболее распространенный и широко используемый тип лазерного оружия в галактике. Лазганы надежны, просты в обслуживании и производстве и легко доступны на большинстве имперских миров. Лазган достаточно силен, чтобы одним выстрелом оторвать обычную человеческую руку, но не так эффективен против более прочных тел пришельцев и более прочных типов личной брони. Луч лазгана также прижигает раны, которые он наносит, из-за огромного тепла, выделяемого выстрелом.\n\nЛазганы модели Востроя работают в диапазоне 21 мегатоулей, они производят более мощный выстрел, но расходуют блок питания с повышенной скоростью. Это также создает большую нагрузку на оружие, ограничивая скорострельность и требуя таких функций, как дополнительные теплоотводящие кольца, расположенные снаружи ствола.</OGI_Gun_LasGun_Mars.description>
                               <!-- stock -->
 <OGI_Gun_LasGun_Mars.tools.0.label>stock</OGI_Gun_LasGun_Mars.tools.0.label>
@@ -145,11 +124,7 @@ Vostroya Pattern Lasguns operate in the 21 megathoule range, it discharges a mor
 <OGI_Gun_LasGun_Mars.tools.1.label>barrel</OGI_Gun_LasGun_Mars.tools.1.label>
                           <!-- vostroya pattern lasgun (I) -->
 <OGI_Gun_LasGun_Vostroya.label>лазган с рисунком востроя (I)</OGI_Gun_LasGun_Vostroya.label>
-                                <!-- The Lasgun, also sometimes referred to as a Lasrifle, is a directed-energy antipersonnel weapon used by the military forces of the Imperium of Man, and it is the most common and widely-used type of laser weapon in the galaxy. Lasguns are reliable, easy to maintain and to produce, and are readily available on most Imperial worlds. The Lasgun is strong enough to take an ordinary human arm off with one shot but is not as effective against the more durable alien bodies and stronger types of personal armour. A Lasgun's beam also cauterizes the wounds it inflicts due to the immense heat given off by the shot.
 
-Vostroya Pattern Lasguns operate in the 21 megathoule range, it discharges a more powerful shot, but drains the power pack at an increased rate. This also puts a great strain on the weapon, limiting the rate of fire and requiring such features as additional heat sink rings lining the exterior of the barrel.
-		
-		. -->
 <OGI_Gun_LasGun_Vostroya.description>Лазган, также иногда называемый Лазрифлем, представляет собой противопехотное оружие направленной энергии, используемое вооруженными силами Империума Человека, и это наиболее распространенный и широко используемый тип лазерного оружия в галактике. Лазганы надежны, просты в обслуживании и производстве и легко доступны на большинстве имперских миров. Лазган достаточно силен, чтобы одним выстрелом оторвать обычную человеческую руку, но не так эффективен против более прочных тел пришельцев и более прочных типов личной брони. Луч лазгана также прижигает раны, которые он наносит, из-за огромного тепла, выделяемого выстрелом.\n\nЛазганы модели Востроя работают в диапазоне 21 мегатоулей, они производят более мощный выстрел, но расходуют блок питания с повышенной скоростью. Это также создает большую нагрузку на оружие, ограничивая скорострельность и требуя таких функций, как дополнительные теплоотводящие кольца, расположенные снаружи ствола.</OGI_Gun_LasGun_Vostroya.description>
                                   <!-- stock -->
 <OGI_Gun_LasGun_Vostroya.tools.0.label>stock</OGI_Gun_LasGun_Vostroya.tools.0.label>
@@ -157,13 +132,11 @@ Vostroya Pattern Lasguns operate in the 21 megathoule range, it discharges a mor
 <OGI_Gun_LasGun_Vostroya.tools.1.label>barrel</OGI_Gun_LasGun_Vostroya.tools.1.label>
                      <!-- las blast -->
 <OGI_Bullet_Hellgun.label>las blast</OGI_Bullet_Hellgun.label>
-                           <!-- A higher power laser beam which is effective against the more durable alien bodies and stronger types of personal armour. -->
+
 <OGI_Bullet_Hellgun.description>A higher power laser beam which is effective against the more durable alien bodies and stronger types of personal armour.</OGI_Bullet_Hellgun.description>
                      <!-- hellpistol (I) -->
 <OGI_Gun_HellPistol.label>адский пистолет (I)</OGI_Gun_HellPistol.label>
-                           <!-- The Hellpistol, also known as a Hot-shot Laspistol, corresponds to the Laspistol the same way the Hellgun corresponds to the Lasgun -- it is a more deadly weapon and only slightly heavier than the Laspistol. However, it is also more expensive in terms of the materials and manpower required to manufacture it. Hellpistols are usually found in the company of elite Imperial Guard Grenadier or Storm Trooper Sergeants, although higher-ranking Imperial Guard officers also have access to this weapon by virtue of their higher grade.
 
-The standard Laspistol can be considered a semi-automatic weapon in which one pull of the trigger produces one shot, whilst the Hellpistol is fully automatic in the sense that it will continuously fire high-powered las beams as long as the trigger is depressed. -->
 <OGI_Gun_HellPistol.description>Адский пистолет, также известный как лазпистолет с горячим выстрелом, соответствует Лазпистолету так же, как Хеллган соответствует лазгану - это более смертоносное оружие и лишь немного тяжелее лазпистолета. Однако это также более затратно с точки зрения материалов и рабочей силы, необходимых для его изготовления. Адские пистолеты обычно находятся в компании элитных сержантов-гренадеров Имперской гвардии или штурмовиков, хотя офицеры Имперской гвардии более высокого ранга также имеют доступ к этому оружию в силу своего более высокого ранга.\n\nСтандартный лазерный пистолет можно считать полуавтоматическим оружием, в котором одно нажатие на спусковой крючок производит один выстрел, в то время как адский пистолет полностью автоматический в том смысле, что он будет непрерывно стрелять мощными лазерными лучами до тех пор, пока нажат спусковой крючок.</OGI_Gun_HellPistol.description>
                              <!-- barrel -->
 <OGI_Gun_HellPistol.tools.0.label>barrel</OGI_Gun_HellPistol.tools.0.label>
@@ -171,7 +144,7 @@ The standard Laspistol can be considered a semi-automatic weapon in which one pu
 <OGI_Gun_HellPistol.tools.1.label>grip</OGI_Gun_HellPistol.tools.1.label>
                   <!-- hellgun (I) -->
 <OGI_Gun_Hellgun.label>хеллган (I)</OGI_Gun_Hellgun.label>
-                        <!-- A Hellgun, also called a Hot-shot Lasgun, is a pattern of Imperial Lasgun that possesses a more advanced and powerful laser generation system intended to provide more potent laser fire on-target. This makes the Hellgun superior in both range and power output compared to the standard-issue Lasgun. However, the higher power output requires superior quality power cells or the use of a separate backpack power supply, and the more complex inner workings of the weapon require more time and resources to manufacture than the standard Lasgun. This makes it more costly to field and so it is not generally issued to the average soldier of most Astra Militarum regiments. -->
+
 <OGI_Gun_Hellgun.description>Хеллган, также называемый лазганом с горячим выстрелом, представляет собой образец имперского лазгана, который обладает более совершенной и мощной системой генерации лазера, предназначенной для обеспечения более мощного лазерного огня по цели. Это делает Хеллган превосходящим как по дальности стрельбы, так и по выходной мощности по сравнению со стандартным лазганом. Однако более высокая выходная мощность требует элементов питания высшего качества или использования отдельного источника питания в рюкзаке, а более сложная внутренняя работа оружия требует больше времени и ресурсов для изготовления, чем у стандартного лазгана. Это делает его более дорогостоящим в полевых условиях, и поэтому он обычно не выдается рядовому солдату большинства полков Астра Милитарум.</OGI_Gun_Hellgun.description>
                           <!-- stock -->
 <OGI_Gun_Hellgun.tools.0.label>stock</OGI_Gun_Hellgun.tools.0.label>
@@ -179,11 +152,11 @@ The standard Laspistol can be considered a semi-automatic weapon in which one pu
 <OGI_Gun_Hellgun.tools.1.label>barrel</OGI_Gun_Hellgun.tools.1.label>
                      <!-- las blast -->
 <OGI_Bullet_LongLas.label>las blast</OGI_Bullet_LongLas.label>
-                           <!-- A higher power laser beam which is effective against the more durable alien bodies and stronger types of personal armour. -->
+
 <OGI_Bullet_LongLas.description>Лазерный луч большей мощности, который эффективен против более прочных тел пришельцев и более прочных типов личной брони.</OGI_Bullet_LongLas.description>
                   <!-- long-las (I) -->
 <OGI_Gun_LongLas.label>long-las (I)</OGI_Gun_LongLas.label>
-                        <!-- Favoured by Imperial Guard Sharpshooters, the Long-Las, originally known as the "Sniper Variant Lasgun," is a specially modified version of the standard Lasgun constructed for increased range and accuracy. In addition to the redoubtable Lasgun's many variants, there are certain types of weapons that exhibit differences enough to be considered seperate weapons. One such weapon is the Sniper Variant Lasgun, better known as the Long-Las. Such weapons are only ever issued to those Guardsmen of the Astra Militarum who have displayed a flair for marksmanship, stealth operations and scout movement, for such weapons are difficult to produce and require more training and intelligence to utilise properly. -->
+
 <OGI_Gun_LongLas.description>Favoured by Imperial Guard Sharpshooters, the Long-Las, originally known as the "Sniper Variant Lasgun," is a specially modified version of the standard Lasgun constructed for increased range and accuracy. In addition to the redoubtable Lasgun's many variants, there are certain types of weapons that exhibit differences enough to be considered seperate weapons. One such weapon is the Sniper Variant Lasgun, better known as the Long-Las. Such weapons are only ever issued to those Guardsmen of the Astra Militarum who have displayed a flair for marksmanship, stealth operations and scout movement, for such weapons are difficult to produce and require more training and intelligence to utilise properly.</OGI_Gun_LongLas.description>
                           <!-- stock -->
 <OGI_Gun_LongLas.tools.0.label>stock</OGI_Gun_LongLas.tools.0.label>
@@ -191,11 +164,11 @@ The standard Laspistol can be considered a semi-automatic weapon in which one pu
 <OGI_Gun_LongLas.tools.1.label>barrel</OGI_Gun_LongLas.tools.1.label>
                        <!-- las blast -->
 <OGI_Bullet_LasCannon.label>las blast</OGI_Bullet_LasCannon.label>
-                             <!-- A higher power laser beam which is effective against the more durable alien bodies and stronger types of personal armour. -->
+
 <OGI_Bullet_LasCannon.description>A higher power laser beam which is effective against the more durable alien bodies and stronger types of personal armour.</OGI_Bullet_LasCannon.description>
                     <!-- lascannon (I) -->
 <OGI_Gun_LasCannon.label>лазканнон (I)</OGI_Gun_LasCannon.label>
-                          <!-- The powerful Lascannon is a formidable Laser Weapon whose energetic shot of coherent light is capable of penetrating most armoured vehicles. It is the favourite anti-tank weapon of the Imperial Guard and is also commonly used by the Space Marines. Its high strength and armour-piercing ability make it a formidable weapon and when it is twin-linked, it becomes even more deadly. However, it is very heavy and power-consuming, and must recharge after every shot, making it a poor anti-personnel weapon. As a result, it is usually installed on tanks or Sentinel platforms, and in the Imperial Guard, two-man teams are required to operate and carry around a single Lascannon. To accommodate the increased power output, the Lascannon has become the largest man-portable form of Las-weaponry, the barrel being several times larger in diameter and length than the standard Lasgun. Space Marines also make extensive use of the Lascannon. -->
+
 <OGI_Gun_LasCannon.description>Мощная лазерная пушка - это грозное лазерное оружие, чей мощный поток когерентного света способен пробить большинство бронированных транспортных средств. Это любимое противотанковое оружие Имперской гвардии, а также широко используется космическими десантниками. Его высокая прочность и бронебойная способность делают его грозным оружием, а когда оно соединено двумя соединениями, оно становится еще более смертоносным. Однако он очень тяжелый и энергоемкий, и его необходимо перезаряжать после каждого выстрела, что делает его плохим противопехотным оружием. В результате его обычно устанавливают на танках или сторожевых платформах, а в Имперской гвардии требуются команды из двух человек, чтобы управлять одной лазпушкой и носить ее с собой. Чтобы приспособиться к возросшей выходной мощности, лазерная пушка стала самой большой переносной формой лазерного оружия, ствол которой в несколько раз больше по диаметру и длине, чем у стандартного лазгана. Космические десантники также широко используют лазпушки.</OGI_Gun_LasCannon.description>
                             <!-- barrel -->
 <OGI_Gun_LasCannon.tools.0.label>barrel</OGI_Gun_LasCannon.tools.0.label>

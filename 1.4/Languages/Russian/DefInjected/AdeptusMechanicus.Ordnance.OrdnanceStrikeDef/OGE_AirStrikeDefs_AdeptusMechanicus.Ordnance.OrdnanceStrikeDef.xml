@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-<!--/Defs/OrdnanceStrikes/AirStrikeDefs/OGE_AirStrikeDefs.xml-->
                                <!-- splinter cannon run -->
 <OGE_AirStrike_ShurikenCannon.label>splinter cannon run</OGE_AirStrike_ShurikenCannon.label>
-                                     <!-- Strike ship fills the air with projectiles from its twin shuriken cannons. Covers a large area. Particularly effective against unarmored units. -->
 <OGE_AirStrike_ShurikenCannon.description>Strike ship fills the air with projectiles from its twin shuriken cannons. Covers a large area. Particularly effective against unarmored units.</OGE_AirStrike_ShurikenCannon.description>
                            <!-- starcannon assault -->
 <OGE_AirStrike_StarCannon.label>starcannon assault</OGE_AirStrike_StarCannon.label>
-                                 <!-- The powerful frontal starcannon can deal high damages to armored units and buildings. It does not cover a wide area though. -->
 <OGE_AirStrike_StarCannon.description>The powerful frontal starcannon can deal high damages to armored units and buildings. It does not cover a wide area though.</OGE_AirStrike_StarCannon.description>
                             <!-- splinter cannon and darklance strafe run -->
 <OGE_AirStrike_Brightlance.label>splinter cannon and darklance strafe run</OGE_AirStrike_Brightlance.label>

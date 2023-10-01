@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-<!--/Defs/ResearchProjectDefs/OG_AMXBE_DarkEldar_Research.xml-->
                             <!-- The Dark Kin -->
 <OG_DarkEldar_Tech_Base_T1.label>Темный род</OG_DarkEldar_Tech_Base_T1.label>
-                                  <!-- The Drukhari, often referred to by outsiders as "Dark Eldar" were the malevolent faction of the ancient Aeldari who had chosen to remain within the Webway after the Fall and continued to pursue the decadent and hedonistic ways that nearly led to their extinction -->
 <OG_DarkEldar_Tech_Base_T1.description>Друкхари, которых посторонние часто называют "Темными эльдарами", были злобной фракцией древних эльдар, которые решили остаться в пределах Паутины после Падения и продолжали следовать декадентским и гедонистическим путям, которые почти привели к их исчезновению</OG_DarkEldar_Tech_Base_T1.description>
                             <!-- The Path of Damnation -->
 <OG_DarkEldar_Tech_Base_T2.label>Путь проклятия</OG_DarkEldar_Tech_Base_T2.label>
@@ -15,7 +13,6 @@
 <OG_DarkEldar_Tech_Base_T3.description>Передовые концепции технологий Темных Эльдар</OG_DarkEldar_Tech_Base_T3.description>
                                      <!-- Splinter Technology -->
 <OG_DarkEldar_Tech_Weapons_Splinter.label>Технология расщепления</OG_DarkEldar_Tech_Weapons_Splinter.label>
-                                           <!-- Splinter Weapons fire shards of splintered crystal using a powerful magno-electric pulse. These shards are covered in incredibly virulent and fast-acting toxins the better to ensure a painful death. -->
 <OG_DarkEldar_Tech_Weapons_Splinter.description>Осколочное оружие стреляет осколками расколотого кристалла, используя мощный магноэлектрический импульс. Эти осколки покрыты невероятно ядовитыми и быстродействующими токсинами, чтобы лучше обеспечить мучительную смерть.</OG_DarkEldar_Tech_Weapons_Splinter.description>
                                       <!-- Dark Armour -->
 <OG_DarkEldar_Tech_Apparel_Armour_T2.label>Темная броня</OG_DarkEldar_Tech_Apparel_Armour_T2.label>

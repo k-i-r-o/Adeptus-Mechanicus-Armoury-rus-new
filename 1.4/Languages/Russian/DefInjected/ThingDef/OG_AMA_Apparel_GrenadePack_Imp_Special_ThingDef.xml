@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-<!--/Defs/ThingDefs_Misc/Apparel/OG_AMA_Apparel_GrenadePack_Imp_Special.xml.bak-->
                        <!-- psyk-out grenade pack (I) -->
 <OGI_GrenadePack_Psyk.label>psyk-out grenade pack (I)</OGI_GrenadePack_Psyk.label>
-                             <!-- A Rad Grenade is a potent and dangerous radioactive anti-personnel weapon used by the military forces of the Imperium of Man.
 
-Rad Grenades detonate in a shower of tiny, radioactively-contaminated fragments. Each fragment's ionising radioactive emissions have only a millisecond half-life, ensuring that the wielder can charge in without exposing themself to radioactive contamination. -->
 <OGI_GrenadePack_Psyk.description>A Rad Grenade is a potent and dangerous radioactive anti-personnel weapon used by the military forces of the Imperium of Man.\n\nRad Grenades detonate in a shower of tiny, radioactively-contaminated fragments. Each fragment's ionising radioactive emissions have only a millisecond half-life, ensuring that the wielder can charge in without exposing themself to radioactive contamination.</OGI_GrenadePack_Psyk.description>
                          <!-- vortex bomb (I) -->
 <OGI_GrenadePack_Vortex.label>vortex bomb (I)</OGI_GrenadePack_Vortex.label>

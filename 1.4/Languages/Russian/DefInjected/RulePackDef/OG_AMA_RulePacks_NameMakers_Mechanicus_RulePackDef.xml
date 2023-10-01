@@ -1,33 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-<!--/Defs/RulePackDefs/OG_AMA_RulePacks_NameMakers_Mechanicus.xml-->
-                                             <!-- 
-		<li>r_name-&gt;[Mechanicus_HomeWorld] [Ordinal] Legio</li>
- -->
+
 <OG_Mechanicus_NamerFaction.rulePack.rulesStrings>
 		<li>r_name-&gt;[Mechanicus_HomeWorld] [Ordinal] Legio</li>
 </OG_Mechanicus_NamerFaction.rulePack.rulesStrings>
-                                           <!-- 
-		<li>name-&gt;[Mechanicus_Outpost]</li>
- -->
+
 <OG_NamerBases_Mechanicus.rulePack.rulesStrings>
 		<li>name-&gt;[Mechanicus_Outpost]</li>
 </OG_NamerBases_Mechanicus.rulePack.rulesStrings>
-                                            <!-- 
-		<li>r_name(p=7)-&gt;[GreekLetter] [SingleDigit]-[Mechanicus_SingleSyllable]</li>
-		<li>r_name(p=7)-&gt;[GreekLetter]-[GreekLetter] [SingleDigit][SingleDigit]</li>
-		<li>r_name(p=7)-&gt;[Mechanicus_SingleSyllable] [Mechanicus_TriSyllable]</li>
-		<li>r_name(p=7)-&gt;[Mechanicus_SingleSyllable] [Mechanicus_QuadSyllable]</li>
-		<li>r_name(p=7)-&gt;[Mechanicus_DualSyllable] [Mechanicus_TriSyllable]</li>
-		<li>r_name(p=7)-&gt;[Mechanicus_DualSyllable] [Mechanicus_QuadSyllable]</li>
-		<li>r_name(p=7)-&gt;[Mechanicus_DualSyllable] [Mechanicus_SingleSyllable]-[Mechanicus_SingleSyllable]</li>
-		<li>r_name(p=7)-&gt;[Mechanicus_TriSyllable] [Mechanicus_SingleSyllable]-[Mechanicus_SingleSyllable]</li>
-		<li>r_name(p=5)-&gt;[Capital]-[Capital] [Capital][SingleDigit][Capital]/[Capital][SingleDigit][Capital]</li>
-		<li>r_name(p=5)-&gt;[Mechanicus_DualSyllable] [SingleDigit][SingleDigit]/[SingleDigit] [Mechanicus_DualSyllable]</li>
-		<li>r_name(p=4)-&gt;[MaleFirst] [MaleSecond]</li>
-		<li>r_name(p=0.2)-&gt;[MaleFirst] `[MaleNick]`</li>
-		<li>r_name(p=0.2)-&gt;[MaleFirst] `[MaleNick]` [MaleSecond]</li>
- -->
+
 <OG_NamerPerson_Mechanicus.rulePack.rulesStrings>
 		<li>r_name(p=7)-&gt;[GreekLetter] [SingleDigit]-[Mechanicus_SingleSyllable]</li>
 		<li>r_name(p=7)-&gt;[GreekLetter]-[GreekLetter] [SingleDigit][SingleDigit]</li>
@@ -43,22 +24,7 @@
 		<li>r_name(p=0.2)-&gt;[MaleFirst] `[MaleNick]`</li>
 		<li>r_name(p=0.2)-&gt;[MaleFirst] `[MaleNick]` [MaleSecond]</li>
 </OG_NamerPerson_Mechanicus.rulePack.rulesStrings>
-                                                  <!-- 
-		<li>r_name(p=10)-&gt;[Mechanicus_Name] `[FemaleNick]`</li>
-		<li>r_name(p=7)-&gt;[GreekLetter] [SingleDigit]-[Mechanicus_SingleSyllable]</li>
-		<li>r_name(p=7)-&gt;[GreekLetter]-[GreekLetter] [SingleDigit][SingleDigit]</li>
-		<li>r_name(p=7)-&gt;[Mechanicus_SingleSyllable] [Mechanicus_TriSyllable]</li>
-		<li>r_name(p=7)-&gt;[Mechanicus_SingleSyllable] [Mechanicus_QuadSyllable]</li>
-		<li>r_name(p=7)-&gt;[Mechanicus_DualSyllable] [Mechanicus_TriSyllable]</li>
-		<li>r_name(p=7)-&gt;[Mechanicus_DualSyllable] [Mechanicus_QuadSyllable]</li>
-		<li>r_name(p=7)-&gt;[Mechanicus_DualSyllable] [Mechanicus_SingleSyllable]-[Mechanicus_SingleSyllable]</li>
-		<li>r_name(p=7)-&gt;[Mechanicus_TriSyllable] [Mechanicus_SingleSyllable]-[Mechanicus_SingleSyllable]</li>
-		<li>r_name(p=5)-&gt;[Capital]-[Capital] [Capital][SingleDigit][Capital]/[Capital][SingleDigit][Capital]</li>
-		<li>r_name(p=5)-&gt;[Mechanicus_DualSyllable] [SingleDigit][SingleDigit]/[SingleDigit] [Mechanicus_DualSyllable]</li>
-		<li>r_name(p=4)-&gt;[FemaleFirst] [FemaleSecond]</li>
-		<li>r_name(p=0.2)-&gt;[FemaleFirst] `[FemaleNick]`</li>
-		<li>r_name(p=0.2)-&gt;[FemaleFirst] `[FemaleNick]` [FemaleSecond]</li>
- -->
+
 <OG_NamerPersonFemale_Mechanicus.rulePack.rulesStrings>
 		<li>r_name(p=10)-&gt;[Mechanicus_Name] `[FemaleNick]`</li>
 		<li>r_name(p=7)-&gt;[GreekLetter] [SingleDigit]-[Mechanicus_SingleSyllable]</li>

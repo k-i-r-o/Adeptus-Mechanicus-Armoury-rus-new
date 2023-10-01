@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-<!--/Defs/AbilityDefs/OG_AMA_Abilities_Grenades.xml-->
                           <!-- Throw Blind Grenade -->
 <OGI_Ability_ThrowPhoton.label>Throw Blind Grenade</OGI_Ability_ThrowPhoton.label>
                                 <!-- Throws a Blind Grenade. -->

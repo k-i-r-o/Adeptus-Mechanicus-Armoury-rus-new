@@ -1,17 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-<!--/Defs/TutorDefs/Concepts_SpecialRules.xml-->
                           <!-- Special: Power Weapons -->
 <OG_Concept_PowerWeapons.label>Специальное: Силовое оружие</OG_Concept_PowerWeapons.label>
                              <!-- Power Weapons give off a blue glow and ingnore all mundane armour while active. -->
 <OG_Concept_PowerWeapons.helpText>Силовое оружие испускает голубое свечение и игнорирует всю обычную броню, пока активно.</OG_Concept_PowerWeapons.helpText>
                           <!-- Special: Force Weapons -->
 <OG_Concept_ForceWeapons.label>Специальное: Силовое оружие</OG_Concept_ForceWeapons.label>
-                             <!-- Force Weapons possess the ability to channel the users psychic talents into a potent melee attack, which is capable of incapacitating or killing the target instantly.(this only functions when weilded by a pawn with either Psychicly sensitivitive or Psychicly hypersensitivitive traits) and give off a purple glow while active. -->
 <OG_Concept_ForceWeapons.helpText>Силовое оружие обладает способностью направлять психические таланты пользователя в мощную атаку ближнего боя, которая способна мгновенно вывести из строя или убить цель.(это работает только тогда, когда в игре участвует пешка с психически чувствительными или психически сверхчувствительными чертами) и испускает фиолетовое свечение во время активности.</OG_Concept_ForceWeapons.helpText>
                               <!-- Special: Pacifiers -->
 <OG_Concept_PacifyingWeapons.label>Специальное: умиротворитель</OG_Concept_PacifyingWeapons.label>
-                                 <!-- Pacifiers possess though various means, excel at subduing their opponents in a (Ususally) Non Lethal manner. Current types are either Psychic or Pain based -->
 <OG_Concept_PacifyingWeapons.helpText>Усмирители обладают различными средствами, преуспевают в подчинении своих противников в (обычно) Несмертельным способом. Текущие типы либо психические, либо основанные на боли</OG_Concept_PacifyingWeapons.helpText>
                                   <!-- Special: Irradiated Munitions -->
 <OG_Concept_IrradiatedAmmunition.label>Специальное: Облученные боеприпасы</OG_Concept_IrradiatedAmmunition.label>
@@ -19,33 +16,24 @@
 <OG_Concept_IrradiatedAmmunition.helpText>Раны, нанесенные облученными боеприпасами, вызывают радиационное отравление, пока за ними не ухаживают.</OG_Concept_IrradiatedAmmunition.helpText>
                        <!-- Special: Weapon Jam -->
 <OG_Concept_WeaponJam.label>Специальное: Заклинивание оружия</OG_Concept_WeaponJam.label>
-                          <!-- Some weapons have a chance to jam while firing, damaging the weapon, the better qaulity and condition, the less likely it is to jam. -->
 <OG_Concept_WeaponJam.helpText>У некоторых видов оружия есть вероятность заклинивания во время стрельбы, что приводит к повреждению оружия, чем лучше качество и состояние, тем меньше вероятность его заклинивания.</OG_Concept_WeaponJam.helpText>
                      <!-- Special: Gets Hot -->
 <OG_Concept_GetsHot.label>Специальное: Становится жарко</OG_Concept_GetsHot.label>
-                        <!-- Some weapons have a chance to overheat while firing, causing injury to the user, damaging the weapon and potentially exploding, the better qaulity and condition, the less likely it is to jam. -->
 <OG_Concept_GetsHot.helpText>У некоторых видов оружия есть шанс перегреться во время стрельбы, что может привести к травмам пользователя, повреждению оружия и потенциальному взрыву. Чем лучше качество и состояние, тем меньше вероятность его заклинивания.</OG_Concept_GetsHot.helpText>
                           <!-- Special: Vortex Weapons -->
 <OG_Concept_VortexWeapon.label>Специальное: Вихревое оружие</OG_Concept_VortexWeapon.label>
-                             <!-- Vortex weapons cause tears in the fabric of reality, to the warp, anything unfortuneate enough to be hit by such a weapon risks being flung into the warp, if not torn to shreds by the forces involved. -->
 <OG_Concept_VortexWeapon.helpText>Вихревое оружие вызывает разрывы в ткани реальности, в варпе, все, что достаточно неудачно поражено таким оружием, рискует быть отброшенным в варп, если не разорвано в клочья задействованными силами.</OG_Concept_VortexWeapon.helpText>
                              <!-- Special: Baleful Energies -->
 <OG_Concept_BalefulEnergies.label>Специальное: Пагубные энергии</OG_Concept_BalefulEnergies.label>
-                                <!-- The baleful energies channeled by utilizing Necron weaponry are hazardous to biological beings, and have been known to eat through armour as if it wasnt there. -->
 <OG_Concept_BalefulEnergies.helpText>Зловещие энергии, направляемые при использовании оружия некронов, опасны для биологических существ и, как известно, разъедают броню, как будто ее там и не было.</OG_Concept_BalefulEnergies.helpText>
                        <!-- Special: Rapid Fire -->
 <OG_Concept_RapidFire.label>Специальное: Быстрый огонь</OG_Concept_RapidFire.label>
-                          <!-- Rapid fire weapons have an increased Rate of fire, their warmup/cooldown cycle is halfed when firing at targets are within half of their max range. -->
 <OG_Concept_RapidFire.helpText>Скорострельное оружие имеет повышенную скорострельность, цикл его разогрева/перезарядки прекращается, когда стрельба по целям находится в пределах половины их максимальной дальности.</OG_Concept_RapidFire.helpText>
                    <!-- Special: Rapid Fire -->
 <OG_Concept_Melta.label>Специальное: Быстрый огонь</OG_Concept_Melta.label>
-                      <!-- Rapid fire weapons have an increased Rate of fire, their warmup/cooldown cycle is halfed when firing at targets are within half of their max range. -->
 <OG_Concept_Melta.helpText>Скорострельное оружие имеет повышенную скорострельность, цикл его разогрева/перезарядки прекращается, когда стрельба по целям находится в пределах половины их максимальной дальности.</OG_Concept_Melta.helpText>
               <!-- Shield belts -->
 <ShieldBelts.label>Защитные пояса</ShieldBelts.label>
-                 <!-- Shield belts stop ranged attacks from coming in or out. They have no effect on melee attacks.
-
-To fight against shield belts, either concentrate a lot of gunfire on the target, or fight hand-to-hand. -->
 <ShieldBelts.helpText>Пояса щитов препятствуют входу или выходу дальних атак. Они не оказывают никакого эффекта на атаки ближнего боя.\n\nЧтобы сражаться с поясами щитов, либо концентрируйте много огня на цели, либо сражайтесь врукопашную.</ShieldBelts.helpText>
 
 </LanguageData>

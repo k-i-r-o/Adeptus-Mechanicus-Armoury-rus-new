@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-<!--/Defs/ThingCategoryDefs/OG_AMA_ThingCategories.xml-->
              <!-- Imperial Weapons -->
 <OGIWeapons.label>Имперское оружие</OGIWeapons.label>
             <!-- Imperial Ranged Weapons -->
@@ -130,9 +129,6 @@
            <!-- Necron Melee Weapons -->
 <OGNMelee.label>Оружие Некронов ближнего боя</OGNMelee.label>
 
-
-<!--/Defs/ThingCategoryDefs/OG_AMA_ThingCategories.xml.bak-->
-<!-- Armour Addons -->
 <OGIAddons.label>Armour Addons</OGIAddons.label>
 <!-- Wargear -->
 <OGIWargear.label>Wargear</OGIWargear.label>

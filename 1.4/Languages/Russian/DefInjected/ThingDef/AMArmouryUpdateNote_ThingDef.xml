@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-<!--/Defs/AMArmouryUpdateNote.xml-->
                     <!-- Multi launcher -->
 <Gun_MultiLauncher.label>Мульти пусковая установка</Gun_MultiLauncher.label>
                           <!-- A wide-barreled bolt launcher. The bolts can be swapped between incendiary, smoke and EMP. -->

@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-<!--/Defs/ThingDefs_Misc/Weapons/OG_AMA_Weapons_Chaos_Melee.xml-->
                        <!-- chainsword (C) -->
 <OGC_Melee_ChainSword.label>цепной меч (C)</OGC_Melee_ChainSword.label>
-                             <!-- The Chainsword is the preferred close combat melee weapon of many of the military forces of the Imperium of Man. The Chainsword is essentially a sword with powered teeth that run along a single-edged blade like that of a chainsaw. Most versions of the weapon make use of monomolecularly-edged or otherwise razor-sharp teeth. Chainswords are not subtle weapons, and wielding one is a statement in its own right: they are horrific tools of war, designed to bite, tear and eviscerate where more primitive blades merely cut and slice. The weapon makes an angry buzzing sound as the teeth spin around, intensifying into a high pitched scream as they grind into armour. It is not unlike a modern chainsaw, but lighter and able to be wielded with one hand. It is often used in conjunction with a Laspistol. -->
+
 <OGC_Melee_ChainSword.description>Цепной меч является предпочтительным оружием ближнего боя многих вооруженных сил Империума Человечества. Цепной меч - это, по сути, меч с приводимыми в действие зубьями, которые проходят вдоль однолезвийного лезвия, как у бензопилы. В большинстве версий оружия используются мономолекулярные или иные острые как бритва зубы. Цепные мечи не являются утонченным оружием, и владение ими само по себе является заявлением: это ужасные орудия войны, предназначенные для того, чтобы кусать, рвать и потрошить там, где более примитивные клинки просто режут и кромсают. Оружие издает сердитый жужжащий звук, когда зубья вращаются, усиливаясь до пронзительного крика, когда они врезаются в броню. Она мало чем отличается от современной бензопилы, но легче и ею можно управлять одной рукой. Он часто используется в сочетании с лазпистолетом.</OGC_Melee_ChainSword.description>
                                <!-- pommel -->
 <OGC_Melee_ChainSword.tools.0.label>pommel</OGC_Melee_ChainSword.tools.0.label>
@@ -13,9 +12,7 @@
 <OGC_Melee_ChainSword.tools.2.label>point</OGC_Melee_ChainSword.tools.2.label>
                      <!-- chainaxe (C) -->
 <OGC_Melee_ChainAxe.label>цепной топор (C)</OGC_Melee_ChainAxe.label>
-                           <!-- A Chainaxe is a brutal hand-to-hand Chain Weapon crafted in the form of a great one or two-handed axe which incorporates a powered chainsaw edge. The biting action of the whirling row of monomolecular teeth means these weapons can hack through both flesh and armour with ease.
 
-The Chainaxe is the favorite weapon of the Khornate Berserkers found in the ranks of the Chaos Space Marines and of worshippers of the Blood God in general. -->
 <OGC_Melee_ChainAxe.description>Цепной топор - это жестокое цепное оружие для рукопашного боя, изготовленное в форме большого одноручного или двуручного топора, который включает в себя лезвие бензопилы с приводом. Режущее действие вращающегося ряда мономолекулярных зубов означает, что это оружие может с легкостью пробивать как плоть, так и броню.\n\nЦепной топор - любимое оружие берсеркеров Кхорната, встречающееся в рядах космических десантников Хаоса и поклоняющихся Богу Крови в целом.</OGC_Melee_ChainAxe.description>
                              <!-- head -->
 <OGC_Melee_ChainAxe.tools.0.label>head</OGC_Melee_ChainAxe.tools.0.label>

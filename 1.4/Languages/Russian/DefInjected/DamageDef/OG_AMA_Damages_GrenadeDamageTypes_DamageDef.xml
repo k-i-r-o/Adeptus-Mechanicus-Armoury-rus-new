@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-<!--/Defs/DamageDefs/OG_AMA_Damages_GrenadeDamageTypes.xml-->
                 <!-- frag grenade -->
 <OGGrenadeFrag.label>frag grenade</OGGrenadeFrag.label>
                        <!-- {0} has been killed by a grenade. -->

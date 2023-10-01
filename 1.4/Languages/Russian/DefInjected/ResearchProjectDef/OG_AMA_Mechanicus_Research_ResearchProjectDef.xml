@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-<!--/Defs/ResearchProjectDefs/OG_AMA_Mechanicus_Research.xml-->
                              <!-- Mechanicum Initiation -->
 <OG_Mechanicus_Tech_Base_T1.label>Посвящение Адептус Механикус</OG_Mechanicus_Tech_Base_T1.label>
-                                   <!-- Allows access to basic Mechanicus technology
-
-Requires a member of the Mechanicum if HAR is loaded. -->
 <OG_Mechanicus_Tech_Base_T1.description>Позволяет получить доступ к базовой технологии Адептус Механикус\n\nТребуется член Механикуса.</OG_Mechanicus_Tech_Base_T1.description>
                              <!-- Tech Adepts of Mars -->
 <OG_Mechanicus_Tech_Base_T2.label>Технические адепты Марса</OG_Mechanicus_Tech_Base_T2.label>
@@ -29,9 +25,7 @@ Requires a member of the Mechanicum if HAR is loaded. -->
 <OG_Mechanicus_Tech_Weapons_AdvancedBallistics.description>Обучает подданных Империи, как создавать Стаб-Карабины</OG_Mechanicus_Tech_Weapons_AdvancedBallistics.description>
                                      <!-- Volkite Tech -->
 <OG_Mechanicus_Tech_Weapons_Volkite.label>Технология Волкита</OG_Mechanicus_Tech_Weapons_Volkite.label>
-                                           <!-- Volkite Weapons are an arcane term used by the Adeptus Mechanicus to refer to a class of powerful thermal ray weapons whose technology is pre-Imperial in origin and dates back to the Dark Age of Technology or the Age of Strife. These weapons possessed considerable killing power, surpassing most other armaments of their size.
 
-Requires Royalty -->
 <OG_Mechanicus_Tech_Weapons_Volkite.description>Оружие Волкита - это тайный термин, используемый Адептус Механикус для обозначения класса мощного теплового лучевого оружия, технология которого имеет доимперское происхождение и восходит к Темному веку технологий или Эпохе Раздора. Это оружие обладало значительной убойной силой, превосходя большинство других видов вооружения такого размера.\n\nТребуется Королевская власть</OG_Mechanicus_Tech_Weapons_Volkite.description>
 
 </LanguageData>

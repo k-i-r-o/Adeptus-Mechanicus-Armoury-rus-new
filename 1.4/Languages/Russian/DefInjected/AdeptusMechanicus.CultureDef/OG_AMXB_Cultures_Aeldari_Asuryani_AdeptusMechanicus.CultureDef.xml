@@ -1,33 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-<!--/Defs/CultureDefs/OG_AMXB_Cultures_Aeldari_Asuryani.xml-->
                       <!-- asuryani -->
 <OG_Aeldari_Asuryani.label>асурьяни</OG_Aeldari_Asuryani.label>
                             <!-- A broad collection of cultures common amongst the Asuryani(Craftworld Eldar). -->
 <OG_Aeldari_Asuryani.description>Обширная коллекция культур, распространенных среди сурьяни (эльдар из Мира ремесел).</OG_Aeldari_Asuryani.description>
                                  <!-- OG_LeaderTitleMaker_Aeldari_Asuryani -->
 <OG_Aeldari_Asuryani.leaderTitleMaker>OG_LeaderTitleMaker_Aeldari_Asuryani</OG_Aeldari_Asuryani.leaderTitleMaker>
-                                          <!-- 
-		<li>memeLeaderNoun-&gt;farseer</li>
-		<li>memeLeaderNoun-&gt;aurtach</li>
-		<li>memeLeaderNoun-&gt;warlock</li>
-		<li>memeLeaderNoun-&gt;exarch</li>
-		<li>memeLeaderAdjective-&gt;big</li>
-		<li>memeLeaderAdjective-&gt;mega</li>
-		<li>memeMoralist-&gt;farseer</li>
-		<li>memeMoralist-&gt;spiritseer</li>
-		<li>memeShootingSpecialist-&gt;pathfinder</li>
-		<li>memeShootingSpecialist-&gt;reaper exarch</li>
-		<li>memeShootingSpecialist-&gt;hawk exarch</li>
-		<li>memeMeleeSpecialist-&gt;banshee exarch</li>
-		<li>memeMeleeSpecialist-&gt;scorpion exarch</li>
-		<li>memeResearchSpecialist-&gt;croneseer</li>
-		<li>memePlantSpecialist-&gt;seedsinger</li>
-		<li>memeAnimalsSpecialist-&gt;beastspeaker</li>
-		<li>memeProductionSpecialist-&gt;bonesinger</li>
-		<li>memeMiningSpecialist-&gt;earthsculpter</li>
-		<li>memeMedicalSpecialist-&gt;chirusinger</li>
- -->
 <OG_Aeldari_Asuryani.generalRules.rulesStrings>
 		<li>memeLeaderNoun-&gt;farseer</li>
 		<li>memeLeaderNoun-&gt;aurtach</li>

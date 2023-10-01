@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-<!--/Defs/JobDefs/OG_AMA_AnimalRangedJob.xml-->
                            <!-- Attacking. -->
 <AnimalRangeAttack.reportString>Атакующий.</AnimalRangeAttack.reportString>
 

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-<!--/Defs/RecipeDefs/OG_AMA_Recipes_Production_Ork.xml-->
                     <!-- make ork component -->
 <Make_ComponentOrk.label>создать компонент орков</Make_ComponentOrk.label>
                           <!-- Make an ork component. -->

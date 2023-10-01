@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-<!--/Defs/PawnShields/Shields.xml.bak-->
                               <!-- melee block chance -->
 <Shield_BaseMeleeBlockChance.label>melee block chance</Shield_BaseMeleeBlockChance.label>
                                     <!-- Shield users melee block chance is multiplied by this. The higher the better. -->

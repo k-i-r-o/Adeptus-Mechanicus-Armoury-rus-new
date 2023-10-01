@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-<!--/Defs/Stats/OG_AMA_Stats_Apparel.xml-->
                                  <!-- Armor - Invunerable Save -->
 <OG_ArmorRating_InvunerableSave.label>Броня - "Неуязвимое спасение"</OG_ArmorRating_InvunerableSave.label>
                                        <!-- Invunerable Saves protect against attacks that would normally negate armor -->

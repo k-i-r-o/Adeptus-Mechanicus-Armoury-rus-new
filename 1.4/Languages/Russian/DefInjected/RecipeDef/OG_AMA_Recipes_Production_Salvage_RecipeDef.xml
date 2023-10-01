@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-<!--/Defs/RecipeDefs/OG_AMA_Recipes_Production_Salvage.xml-->
                                 <!-- extract resources -->
 <OG_ExtractMetalFromComponents.label>извлечь ресурсы</OG_ExtractMetalFromComponents.label>
                                       <!-- Use heat and strong electromagnets to extract resources from Xeno components. -->

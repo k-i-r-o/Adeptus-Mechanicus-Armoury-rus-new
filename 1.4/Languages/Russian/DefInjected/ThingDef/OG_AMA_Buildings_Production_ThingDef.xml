@@ -1,29 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-<!--/Defs/ThingDefs_Buildings/OG_AMA_Buildings_Production.xml-->
                      <!-- Imperial machining table -->
 <OGI_TableMachining.label>Стол изготовления (Империя)</OGI_TableMachining.label>
-                           <!-- An imperial work station for assembling or breaking down machinery like components, armour, guns and ammunition, or dead mechanoids. -->
+
 <OGI_TableMachining.description>Имперская рабочая станция для сборки или разборки механизмов, таких как компоненты, броня, оружие и боеприпасы, или мертвых механоидов.</OGI_TableMachining.description>
                      <!-- warp tainted machining table -->
 <OGC_TableMachining.label>Стол изготовления, испорченный варпом</OGC_TableMachining.label>
-                           <!-- An tainted imperial work station for assembling or breaking down machinery like components, armour, guns and ammunition, or dead mechanoids. -->
+
 <OGC_TableMachining.description>Зараженная имперская рабочая станция для сборки или разрушения механизмов, таких как компоненты, броня, оружие и боеприпасы, или мертвых механоидов.</OGC_TableMachining.description>
                      <!-- Eldar crafting supplies -->
 <OGE_TableMachining.label>Стол изготовления (Эльдары)</OGE_TableMachining.label>
-                           <!-- An eldar work station for assembling or breaking down machinery like components, armour, guns and ammunition, or dead mechanoids. -->
+
 <OGE_TableMachining.description>Рабочая станция эльдар для сборки или разборки механизмов, таких как компоненты, броня, оружие и боеприпасы, или мертвых механоидов.</OGE_TableMachining.description>
                       <!-- Dark Eldar crafting supplies -->
 <OGDE_TableMachining.label>Стол изготовления (Темные Эльдары)</OGDE_TableMachining.label>
-                            <!-- An eldar work station for assembling or breaking down machinery like components, armour, guns and ammunition, or dead mechanoids. -->
+
 <OGDE_TableMachining.description>Рабочая станция темных эльдар для сборки или разборки механизмов, таких как компоненты, броня, оружие и боеприпасы, или мертвых механоидов.</OGDE_TableMachining.description>
                      <!-- Ork crafting supplies -->
 <OGO_TableMachining.label>Стол изготовления (Орки)</OGO_TableMachining.label>
-                           <!-- An orkish work station for assembling or breaking down machinery like components, armour, guns and ammunition, or dead mechanoids. -->
+
 <OGO_TableMachining.description>Рабочее место орков для сборки или разборки механизмов, таких как компоненты, броня, оружие и боеприпасы, или мертвых механоидов.</OGO_TableMachining.description>
                      <!-- Tau crafting supplies -->
 <OGT_TableMachining.label>Стол изготовления (Тау)</OGT_TableMachining.label>
-                           <!-- A tau work station for assembling or breaking down machinery like components, armour, guns and ammunition, or dead mechanoids. -->
+
 <OGT_TableMachining.description>На рабочей станции для сборки или разборки механизмов, таких как компоненты, броня, оружие и боеприпасы, или мертвых механоидов.</OGT_TableMachining.description>
 
 </LanguageData>

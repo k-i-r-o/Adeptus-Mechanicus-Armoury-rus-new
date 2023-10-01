@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-<!--/Defs/ThingDefs_Misc/Apparel/OG_AMA_Apparel_Armour_Militarum.xml-->
                                <!-- light flak armour -->
 <OGIG_Apparel_FlakArmourLight.label>легкая зенитная броня</OGIG_Apparel_FlakArmourLight.label>
                                      <!-- A tough fabric jacket with armor plates sewn in. While it's not as good as solid armor, it offers effective protection against all manner of attacks while remaining quite comfortable. -->
@@ -19,7 +18,7 @@
 <OGIG_Apparel_FlakArmour.comps.AdeptusMechanicus.Comp_PauldronDrawer.PauldronEntries.0.options.0.label>Корпус смерти</OGIG_Apparel_FlakArmour.comps.AdeptusMechanicus.Comp_PauldronDrawer.PauldronEntries.0.options.0.label>
                                              <!-- Tempestus Scion Carapace Armor -->
 <OGIG_Apparel_TempestusScion_CarapaceArmour.label>Панцирь Темпестуса</OGIG_Apparel_TempestusScion_CarapaceArmour.label>
-                                                   <!-- Carapace Armour is generally a sign of status and is mostly worn by Imperial officers and agents. Made from moulded plates of armaplas, ceramite, or other strong, light but highly resistant materials, it can cover the entire body or just selected regions of the body depending on the desired level of protection. Tempestus Scions, for example, wear full-body suits of Carapace Armour, including an Omnishield Helm with a built-in targeting and imaging array, while most rank-and-file Astra Militarum soldiers are lucky to gain access to just a simple chestplate of Flak Armour to wear over more comfortable mesh or flakweave suits. Some bodysuits have slots designed for simple carapace plates to be inserted in, so that the overall suits can be rapidly configured for as much or as little protection as desired. Damaged plates can in this way be more easily replaced without requiring the purchase of an entire new suit. -->
+
 <OGIG_Apparel_TempestusScion_CarapaceArmour.description>Панцирные доспехи, как правило, являются признаком статуса и в основном носят имперские офицеры и агенты. Изготовленная из формованных пластин армапласа, керамита или других прочных, легких, но очень стойких материалов, она может покрывать все тело или только отдельные участки тела в зависимости от желаемого уровня защиты. Отпрыски Темпестус, например, носят панцирные доспехи на все тело, включая Шлем всезащиты со встроенной системой наведения и визуализации, в то время как большинству рядовых солдат Астра Милитарум повезло получить доступ к простому нагруднику из бронежилета, который можно носить поверх более удобной сетки или бронеплети. костюмы. В некоторых боди есть прорези, предназначенные для установки простых пластин панциря, так что общие костюмы можно быстро настроить для обеспечения максимальной или минимальной защиты по желанию. Таким образом, поврежденные пластины можно легче заменить, не требуя покупки всего нового костюма.</OGIG_Apparel_TempestusScion_CarapaceArmour.description>
 
 </LanguageData>

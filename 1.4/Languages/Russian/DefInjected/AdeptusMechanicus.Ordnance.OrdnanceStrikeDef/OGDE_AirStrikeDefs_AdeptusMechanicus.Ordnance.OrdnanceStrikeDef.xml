@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-<!--/Defs/OrdnanceStrikes/AirStrikeDefs/OGDE_AirStrikeDefs.xml-->
                                 <!-- splinter cannon run -->
 <OGDE_AirStrike_SplinterCannon.label>залп осколочной пушки</OGDE_AirStrike_SplinterCannon.label>
-                                      <!-- Strike ship fills the air with shards from its twin splinter cannons. Covers a large area. Particularly effective against unarmored units. -->
 <OGDE_AirStrike_SplinterCannon.description>Ударный корабль наполняет воздух осколками из своих спаренных осколочных пушек. Занимает большую площадь. Особенно эффективен против небронированных подразделений.</OGDE_AirStrike_SplinterCannon.description>
                                      <!-- disintegrator cannon assault -->
 <OGDE_AirStrike_DisintegratorCannon.label>штурмовая пушка-дезинтегратор</OGDE_AirStrike_DisintegratorCannon.label>
-                                           <!-- The powerful frontal autocannon can deal high damages to armored units and buildings. It does not cover a wide area though. -->
 <OGDE_AirStrike_DisintegratorCannon.description>Мощная фронтальная автопушка может наносить большой урон бронированным подразделениям и зданиям. Однако он не охватывает обширную область.</OGDE_AirStrike_DisintegratorCannon.description>
                            <!-- splinter cannon and darklance strafe run -->
 <OGDE_AirStrike_Darklance.label>осколочная пушка и darklance strafe run</OGDE_AirStrike_Darklance.label>

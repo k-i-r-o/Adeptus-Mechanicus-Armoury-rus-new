@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-<!--/Defs/ThingDefs_Misc/OG_AMA_CompSlotLoadable_ThingDefExample-->
                         <!-- slotted knife -->
 <MeleeWeapon_TestKnife.label>slotted knife</MeleeWeapon_TestKnife.label>
                               <!-- One of humankind's oldest tools, the knife is both an everyday tool and a deadly weapon. -->

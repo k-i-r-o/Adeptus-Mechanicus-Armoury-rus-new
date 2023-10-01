@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-<!--/Defs/ThingDefs_Misc/Weapons/OG_AMA_Weapons_Imperial_Melee.xml-->
                          <!-- catachan fang (I) -->
 <OGI_Melee_CatachanFang.label>катачанский клык (I)</OGI_Melee_CatachanFang.label>
-                               <!-- Measuring up to 20 inches of gleaming steel, the Catachan Fang is the most common type of Catachan Knife used by the Catachan regiments. Equally useful for cutting your way through jungle or a deviant Aeldari, the Catachan Fang is renowned throughout thousands of star systems. This knife is also used for settling disputes between Catachans. Usually, one knife is placed in the centre of a fighting pit and the combatants must each strive to get hold of the knife. The duel ends when one fighter draws blood, though this can often mean death as well. -->
+
 <OGI_Melee_CatachanFang.description>Катачанский клык длиной до 20 дюймов из блестящей стали является наиболее распространенным типом катачанского ножа, используемого катачанскими полками. Катачанский клык, одинаково полезный как для того, чтобы прокладывать себе путь через джунгли, так и для того, чтобы сразиться с эльдари-извращенцем, известен в тысячах звездных систем. Этот нож также используется для разрешения споров между катачанами. Обычно один нож кладется в центр боевой ямы, и каждый из бойцов должен стремиться завладеть ножом. Поединок заканчивается, когда один из бойцов проливает кровь, хотя часто это также может означать смерть.</OGI_Melee_CatachanFang.description>
                                  <!-- handle -->
 <OGI_Melee_CatachanFang.tools.0.label>handle</OGI_Melee_CatachanFang.tools.0.label>
@@ -13,7 +12,7 @@
 <OGI_Melee_CatachanFang.tools.2.label>point</OGI_Melee_CatachanFang.tools.2.label>
                         <!-- night reaper (I) -->
 <OGI_Melee_NightReaper.label>ночной жнец (I)</OGI_Melee_NightReaper.label>
-                              <!-- Smaller than other typical designs, the blackened blade of the Night Reaper is especially suitable for infiltration and night missions when light reflecting from a blade can mean the difference between life and death. The blade itself is triangular, so any wound caused by the Night Reaper is unlikely to clot or heal. Catachans are also known to poison these knives using one of the many animal and plant venoms or toxins native to their inhospitable planet. -->
+
 <OGI_Melee_NightReaper.description>Меньший по размеру, чем другие типичные конструкции, почерневший клинок Ночного жнеца особенно подходит для проникновения и ночных миссий, когда свет, отражающийся от лезвия, может означать разницу между жизнью и смертью. Само лезвие треугольное, поэтому любая рана, нанесенная Ночным жнецом, вряд ли загноится или заживет. Известно также, что катачанцы отравляют эти ножи одним из многих животных и растительных ядов или токсинов, произрастающих на их негостеприимной планете.</OGI_Melee_NightReaper.description>
                                 <!-- handle -->
 <OGI_Melee_NightReaper.tools.0.label>handle</OGI_Melee_NightReaper.tools.0.label>
@@ -23,7 +22,7 @@
 <OGI_Melee_NightReaper.tools.2.label>point</OGI_Melee_NightReaper.tools.2.label>
                        <!-- devil's claw (I) -->
 <OGI_Melee_DevilsClaw.label>коготь дьявола (I)</OGI_Melee_DevilsClaw.label>
-                             <!-- Named after the fearsome predator known as the Catachan Devil of the fearsome Catachan jungles, this is the largest type of the traditional knives of Catachan. Anywhere between three and four feet long, the Devil's Claw is closer to a short sword than a knife. It is used mainly on the battlefield in close quarters and it has even achieved a fearsome reputation amongst the Orks, who call it "Da Cutta." The blade itself is hollow and half-filled with mercury to give it greater swinging power. Power Swords wielded by senior members of the Catachan regiments are often identical in design to the Devil's Claw. -->
+
 <OGI_Melee_DevilsClaw.description>Названный в честь грозного хищника, известного как катачанский дьявол из грозных катачанских джунглей, это самый крупный тип традиционных ножей Катачана. Где-то между тремя и четырьмя футами в длину "Коготь дьявола" ближе к короткому мечу, чем к ножу. Он используется в основном на поле боя в ближнем бою, и он даже приобрел устрашающую репутацию среди орков, которые называют его "Да Катта". Само лезвие полое и наполовину заполнено ртутью, чтобы придать ему большую силу качания. Силовые мечи, которыми владеют старшие члены катачанских полков, часто идентичны по дизайну Когтю Дьявола.</OGI_Melee_DevilsClaw.description>
                                <!-- handle -->
 <OGI_Melee_DevilsClaw.tools.0.label>handle</OGI_Melee_DevilsClaw.tools.0.label>
@@ -33,7 +32,7 @@
 <OGI_Melee_DevilsClaw.tools.2.label>edge</OGI_Melee_DevilsClaw.tools.2.label>
                        <!-- chainsword (I) -->
 <OGI_Melee_ChainSword.label>цепной меч (I)</OGI_Melee_ChainSword.label>
-                             <!-- The Chainsword is the preferred close combat melee weapon of many of the military forces of the Imperium of Man. The Chainsword is essentially a sword with powered teeth that run along a single-edged blade like that of a chainsaw. Most versions of the weapon make use of monomolecularly-edged or otherwise razor-sharp teeth. Chainswords are not subtle weapons, and wielding one is a statement in its own right: they are horrific tools of war, designed to bite, tear and eviscerate where more primitive blades merely cut and slice. The weapon makes an angry buzzing sound as the teeth spin around, intensifying into a high pitched scream as they grind into armour. It is not unlike a modern chainsaw, but lighter and able to be wielded with one hand. It is often used in conjunction with a Laspistol. -->
+
 <OGI_Melee_ChainSword.description>Цепной меч является предпочтительным оружием ближнего боя многих вооруженных сил Империума Человека. Цепной меч - это, по сути, меч с приводимыми в действие зубьями, которые проходят вдоль однолезвийного лезвия, как у бензопилы. В большинстве версий оружия используются мономолекулярные или иные острые как бритва зубы. Цепные мечи не являются утонченным оружием, и владение ими само по себе является заявлением: это ужасные орудия войны, предназначенные для того, чтобы кусать, рвать и потрошить там, где более примитивные клинки просто режут и кромсают. Оружие издает сердитый жужжащий звук, когда зубья вращаются, усиливаясь до пронзительного крика, когда они врезаются в броню. Она мало чем отличается от современной бензопилы, но легче и ею можно управлять одной рукой. Он часто используется в сочетании с лазпистолетом.</OGI_Melee_ChainSword.description>
                                <!-- pommel -->
 <OGI_Melee_ChainSword.tools.0.label>pommel</OGI_Melee_ChainSword.tools.0.label>
@@ -43,7 +42,7 @@
 <OGI_Melee_ChainSword.tools.2.label>blade</OGI_Melee_ChainSword.tools.2.label>
                         <!-- eviscerator (I) -->
 <OGI_Melee_Eviscerator.label>потрошитель (I)</OGI_Melee_Eviscerator.label>
-                              <!-- An Eviscerator is an obscenely large double-handed Chain Weapon that is favoured by Ecclesiarchy zealots, Witch-Hunters, the Sister Repentia of the Adepta Sororitas and certain Assault Marines of the Adeptus Astartes. This Chain Weapon is fitted with a crude version of the disruption field generator more commonly found on Power Weapons. Although very unwieldy and tiring to use, the Eviscerator is fully capable of bisecting an armoured man or tearing open the most blasphemously corrupted mutant in a single stroke of its gargantuan blade. It can slice through walls and even damage vehicles. Since it must be wielded with both hands it cannot be used in combination with another close combat weapon. -->
+
 <OGI_Melee_Eviscerator.description>Потрошитель - это неприлично большое двуручное цепное оружие, которое предпочитают фанатики Экклезиархии, Охотники на ведьм, Сестра Репентия Адепта Сороритас и некоторые штурмовые десантники Адептус Астартес. Это цепное оружие оснащено грубой версией генератора разрушающего поля, чаще встречающегося на силовом оружии. Несмотря на то, что потрошитель очень громоздок и утомителен в использовании, он вполне способен разрезать пополам человека в доспехах или разорвать самого кощунственно испорченного мутанта одним ударом своего гигантского лезвия. Он может прорезать стены и даже повредить транспортные средства. Поскольку им нужно владеть обеими руками, его нельзя использовать в сочетании с другим оружием ближнего боя.</OGI_Melee_Eviscerator.description>
                                 <!-- pommel -->
 <OGI_Melee_Eviscerator.tools.0.label>pommel</OGI_Melee_Eviscerator.tools.0.label>

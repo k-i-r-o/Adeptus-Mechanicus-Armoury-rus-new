@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-<!--/Defs/ThingDefs_Misc/Weapons/OG_AMA_Weapons_Mechanicus_Melee.xml-->
                             <!-- transonic razor (AM) -->
 <OGAM_Melee_TransonicRazor.label>трансзвуковая бритва (AM)</OGAM_Melee_TransonicRazor.label>
-                                  <!-- Transonic Weapons are a type of weapon used by Adeptus Mechanicus Skitarii, most infamously Sicarian Ruststalkers. These weapons emit a low insistent buzz that makes stomachs turn. When they strike armour, these weapons will adjust their hostile sonic field to match its own resonant frequency, quickly slicing through it.
 
- For all intents and purposes the OG_PowerWeapon_ Blade functions like a Power Weapon. -->
 <OGAM_Melee_TransonicRazor.description>Трансзвуковое оружие - это тип оружия, используемого Адептус Механикус Скитарии, наиболее печально известными сикарианскими охотниками за ржавчиной. Это оружие издает низкое настойчивое жужжание, от которого сводит животы. Когда они ударяют по броне, это оружие настраивает свое враждебное звуковое поле в соответствии со своей собственной резонансной частотой, быстро прорезая его.</OGAM_Melee_TransonicRazor.description>
                                     <!-- handle -->
 <OGAM_Melee_TransonicRazor.tools.0.label>handle</OGAM_Melee_TransonicRazor.tools.0.label>
@@ -13,9 +10,7 @@
 <OGAM_Melee_TransonicRazor.tools.1.label>blade</OGAM_Melee_TransonicRazor.tools.1.label>
                             <!-- transonic blade (AM) -->
 <OGAM_Melee_TransonicBlade.label>трансзвуковой клинок (AM)</OGAM_Melee_TransonicBlade.label>
-                                  <!-- Transonic Weapons are a type of weapon used by Adeptus Mechanicus Skitarii, most infamously Sicarian Ruststalkers. These weapons emit a low insistent buzz that makes stomachs turn. When they strike armour, these weapons will adjust their hostile sonic field to match its own resonant frequency, quickly slicing through it.
 
- For all intents and purposes the OG_PowerWeapon_ Blade functions like a Power Weapon. -->
 <OGAM_Melee_TransonicBlade.description>Трансзвуковое оружие - это тип оружия, используемого Адептус Механикус Скитарии, наиболее печально известными сикарианскими охотниками за ржавчиной. Это оружие издает низкое настойчивое жужжание, от которого сводит животы. Когда они ударяют по броне, это оружие настраивает свое враждебное звуковое поле в соответствии со своей собственной резонансной частотой, быстро прорезая его.</OGAM_Melee_TransonicBlade.description>
                                     <!-- handle -->
 <OGAM_Melee_TransonicBlade.tools.0.label>handle</OGAM_Melee_TransonicBlade.tools.0.label>
@@ -25,7 +20,7 @@
 <OGAM_Melee_TransonicBlade.tools.2.label>edge</OGAM_Melee_TransonicBlade.tools.2.label>
                      <!-- arc maul (AM) -->
 <OGAM_Melee_ArcMaul.label>дуговая кувалда (AM)</OGAM_Melee_ArcMaul.label>
-                           <!-- Arc Mauls are a type of melee weapon used by Adeptus Mechanicus Skitarii. When activated, it becomes a rod of lightning that causes enemies struck by it to convulse to death. -->
+
 <OGAM_Melee_ArcMaul.description>Дуговые кувалды - это тип оружия ближнего боя, используемое Адептус Механикус Скитарии. При активации он превращается в жезл молнии, который заставляет пораженных им врагов биться в конвульсиях до смерти.</OGAM_Melee_ArcMaul.description>
                              <!-- handle -->
 <OGAM_Melee_ArcMaul.tools.0.label>handle</OGAM_Melee_ArcMaul.tools.0.label>
@@ -33,13 +28,13 @@
 <OGAM_Melee_ArcMaul.tools.1.label>head</OGAM_Melee_ArcMaul.tools.1.label>
                        <!-- taser goad (AM) -->
 <OGAM_Melee_TaserGoad.label>Электрошокер (AM)</OGAM_Melee_TaserGoad.label>
-                             <!-- Taser Goads are a type of weapon used by Adeptus Mechanicus Skitarii. Powered by a hyperdynamo capacitor, taser weapons store an incredible amount of energy. A solid impact will cause this energy to discharge in a scorching blast. After unleashing the electrical discharge is stored by the electrothief prongs at goad's tip. -->
+
 <OGAM_Melee_TaserGoad.description>Электрошокеры - это тип оружия, используемого Адептус Механикус Скитарии. Питаемое от гипердинамического конденсатора, электрошоковое оружие накапливает невероятное количество энергии. Сильный удар вызовет выброс этой энергии в виде обжигающего взрыва. После высвобождения электрический разряд накапливается зубцами электрошлема на кончике насадки.</OGAM_Melee_TaserGoad.description>
                                <!-- prongs -->
 <OGAM_Melee_TaserGoad.tools.0.label>prongs</OGAM_Melee_TaserGoad.tools.0.label>
                              <!-- chordclaw (AM) -->
 <OGAM_Melee_SingleChordClaw.label>Когтистые лапы (AM)</OGAM_Melee_SingleChordClaw.label>
-                                   <!-- Chordclaws are a type of weapon used by Adeptus Mechanicus Skitarii, most infamously Sicarian Ruststalkers. These weapons emit a low insistent buzz that makes stomachs turn. When they strike armour, these weapons will adjust their hostile sonic field to match its own resonant frequency, quickly slicing through it. -->
+
 <OGAM_Melee_SingleChordClaw.description>Когтистые лапы - тип оружия, используемого Адептус Механикус Скитарии, наиболее печально известными сикарианскими охотниками за ржавчиной. Это оружие издает низкое настойчивое жужжание, от которого сводит животы. Когда они ударяют по броне, это оружие настраивает свое враждебное звуковое поле в соответствии со своей собственной резонансной частотой, быстро прорезая его.</OGAM_Melee_SingleChordClaw.description>
                                      <!-- blades -->
 <OGAM_Melee_SingleChordClaw.tools.0.label>blades</OGAM_Melee_SingleChordClaw.tools.0.label>
@@ -47,7 +42,7 @@
 <OGAM_Melee_SingleChordClaw.tools.1.label>point</OGAM_Melee_SingleChordClaw.tools.1.label>
                          <!-- omnisian axe (AM) -->
 <OGAM_Melee_OmnisianAxe.label>омниссианский топор (AM)</OGAM_Melee_OmnisianAxe.label>
-                               <!-- Granted to suitably devoted followers of the Omnissiah, this weapon has a long staff-like body tipped with half of the circular Adeptus Mechanicus skull and cog icon. The symbol forms a blade and is sheathed in a powerfield. Covered with inscribed circuitry designs indicating the sacred nature of the weapon, many a foe has realised far too late that what appeared to be a religious walking staff was really a deadly weapon. The Omnissian axe also functions as a combi-tool. -->
+
 <OGAM_Melee_OmnisianAxe.description>Предоставленное соответствующим образом преданным последователям Омниссии, это оружие имеет длинный, похожий на посох корпус, на конце которого изображена половина круглого черепа Адептус Механикус и значок шестеренки. Символ образует клинок и заключен в силовое поле. Покрытые начертанными схемами, указывающими на священную природу оружия, многие враги слишком поздно осознали, что то, что казалось религиозным посохом, на самом деле было смертоносным оружием. Омниссианский топор также функционирует как комбинированный инструмент.</OGAM_Melee_OmnisianAxe.description>
                                  <!-- handle -->
 <OGAM_Melee_OmnisianAxe.tools.0.label>handle</OGAM_Melee_OmnisianAxe.tools.0.label>

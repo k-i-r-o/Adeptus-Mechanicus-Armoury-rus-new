@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-<!--/Defs/ThingDefs_Misc/Weapons/OG_AMA_Weapons_Necron_Melee.xml-->
                             <!-- hyperphase sword (N) -->
 <OGN_Melee_HyperphaseSword.label>гиперфазный меч (N)</OGN_Melee_HyperphaseSword.label>
-                                  <!-- A Hyperphase Sword is a Necron melee weapon whose energy blade vibrates across dimensional states and can easily slice through armour and flesh to sever the vital organs within. A Hyperphase Sword can be considered an advanced type of Power Weapon.
 
-Hyperphase Swords are found exclusively as part of the armouries of Necron royals, such as Necron Overlords, Necron Lords, Necron Destroyer Lords, and their favoured Lychguards. -->
 <OGN_Melee_HyperphaseSword.description>Гиперфазный меч - это оружие ближнего боя некронов, чье энергетическое лезвие вибрирует в разных пространственных состояниях и может легко разрезать броню и плоть, чтобы разорвать жизненно важные органы внутри. Гиперфазный меч можно считать продвинутым типом Силового оружия.\n\n Гиперфазные мечи встречаются исключительно в арсеналах членов королевской семьи Некронов, таких как Повелители Некронов, Лорды Некронов, Лорды-разрушители Некронов и их любимые Личгарды.</OGN_Melee_HyperphaseSword.description>
                                     <!-- pommel -->
 <OGN_Melee_HyperphaseSword.tools.0.label>pommel</OGN_Melee_HyperphaseSword.tools.0.label>
@@ -17,7 +14,7 @@ Hyperphase Swords are found exclusively as part of the armouries of Necron royal
 <OGN_Melee_HyperphaseSword.tools.3.label>point</OGN_Melee_HyperphaseSword.tools.3.label>
                       <!-- warscythe (N) -->
 <OGN_Melee_WarScythe.label>боевая коса (N)</OGN_Melee_WarScythe.label>
-                            <!-- A Warscythe is an energy-bladed battle stave commonly found in the armouries of Necron royals. The Warscythe has served as a traditional weapon of the Necron nobility and their elite bodyguards for many thousands of Terran years. A Warscythe is made from the same living metal as that which makes up all Necron bodies and vehicles, Necrodermis, and is fitted with a Phase Blade, whose edge is out of phase with the normal space-time continuum and thus can slip effortlessly through even the heaviest forms of armour. Because of the partially incorporeal nature of these blades, a Warscythe is capable of passing through defensive energy shields, such as those emitted by an Iron Halo, that would normally deflect almost any other form of attack. The entropic power field that also flickers about a Warscythe blade can disrupt almost any material known to man, leaving the victim’s underlying structure -- be it organic or inorganic -- vulnerable to the weapon’s cleaving impact. -->
+
 <OGN_Melee_WarScythe.description>Боевая коса - это боевой посох с энергетическим лезвием, который обычно можно найти в арсеналах членов королевской семьи некронов. Боевая коса служила традиционным оружием знати некронов и их элитных телохранителей на протяжении многих тысяч земных лет. Боевая коса сделана из того же живого металла, что и тот, из которого состоят все тела и транспортные средства некронов, Некродермис, и оснащена Фазовым лезвием, острие которого находится вне фазы с нормальным пространственно-временным континуумом и, таким образом, может легко проходить даже через самые тяжелые формы брони. Из-за частично бестелесной природы этих клинков Боевая коса способна проходить сквозь защитные энергетические щиты, такие как те, которые излучает Железный ореол, который обычно отражает практически любую другую форму атаки. Энтропийное энергетическое поле, которое также мерцает вокруг лезвия боевой косы, может разрушить практически любой материал, известный человеку, оставляя основную структуру жертвы - будь то органическая или неорганическая - уязвимой для расщепляющего воздействия оружия.</OGN_Melee_WarScythe.description>
                               <!-- shaft -->
 <OGN_Melee_WarScythe.tools.0.label>shaft</OGN_Melee_WarScythe.tools.0.label>
@@ -27,9 +24,7 @@ Hyperphase Swords are found exclusively as part of the armouries of Necron royal
 <OGN_Melee_WarScythe.tools.2.label>blade</OGN_Melee_WarScythe.tools.2.label>
                          <!-- flaying talons (N) -->
 <OGN_Melee_FlayingTalon.label>flaying talons (N)</OGN_Melee_FlayingTalon.label>
-                               <!-- A Hyperphase Sword is a Necron melee weapon whose energy blade vibrates across dimensional states and can easily slice through armour and flesh to sever the vital organs within. A Hyperphase Sword can be considered an advanced type of Power Weapon.
 
-Hyperphase Swords are found exclusively as part of the armouries of Necron royals, such as Necron Overlords, Necron Lords, Necron Destroyer Lords, and their favoured Lychguards. -->
 <OGN_Melee_FlayingTalon.description>A Hyperphase Sword is a Necron melee weapon whose energy blade vibrates across dimensional states and can easily slice through armour and flesh to sever the vital organs within. A Hyperphase Sword can be considered an advanced type of Power Weapon.\n\nHyperphase Swords are found exclusively as part of the armouries of Necron royals, such as Necron Overlords, Necron Lords, Necron Destroyer Lords, and their favoured Lychguards.</OGN_Melee_FlayingTalon.description>
                                  <!-- blade -->
 <OGN_Melee_FlayingTalon.tools.0.label>blade</OGN_Melee_FlayingTalon.tools.0.label>
@@ -37,9 +32,7 @@ Hyperphase Swords are found exclusively as part of the armouries of Necron royal
 <OGN_Melee_FlayingTalon.tools.1.label>points</OGN_Melee_FlayingTalon.tools.1.label>
                            <!-- fabricator claw (N) -->
 <OGN_Melee_FabricatorClaw.label>когти фабрикатора (N)</OGN_Melee_FabricatorClaw.label>
-                                 <!-- The fabricator claw array is a Necron close combat weapon whose energy blades vibrates across dimensional states and can easily slice through armour and flesh to sever the vital organs within. A fabricator claw can be considered an advanced type of Power Weapon.
 
-only utilized by Tomb Spyders. -->
 <OGN_Melee_FabricatorClaw.description>Когти фабрикатора - это оружие ближнего боя некронов, энергетические лезвия которого вибрируют в разных пространственных состояниях и могут легко прорезать броню и плоть, чтобы разорвать жизненно важные органы внутри. Коготь фабрикатора можно считать продвинутым типом силового оружия.\n\Не используется охотниками за гробницами.</OGN_Melee_FabricatorClaw.description>
                                    <!-- blade -->
 <OGN_Melee_FabricatorClaw.tools.0.label>blade</OGN_Melee_FabricatorClaw.tools.0.label>

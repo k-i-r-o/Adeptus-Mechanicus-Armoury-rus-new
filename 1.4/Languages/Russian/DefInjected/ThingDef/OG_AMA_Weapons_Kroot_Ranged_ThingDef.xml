@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+<!--/Defs/ThingDefs_Misc/Weapons/OG_AMA_Weapons_Kroot_Ranged.xml-->
                   <!-- recurve bow (K) -->
 <OGK_Bow_Recurve.label>изогнутый лук (K)</OGK_Bow_Recurve.label>
                         <!-- A recurve bow. Its construction behaves like a tuned spring, storing energy more efficiently and delivering a faster shot. -->
@@ -14,7 +15,7 @@
 <OGK_Bullet_Pulse.label>Kroot Round</OGK_Bullet_Pulse.label>
                       <!-- Kroot Pistol -->
 <OGK_Gun_KrootPistol.label>Пистолет Крутов</OGK_Gun_KrootPistol.label>
-
+                            <!-- The Kroot Rifle is the basic weapon used by the Kroot. It works by firing a solid slug propelled by a chemical reaction, although it was adapted by the Tau to fire Pulse rounds to make it the equivalent to the Boltgun. It is armed with blades near the muzzle and stock and are a throwback to earlier Kroot Fighting Staves, allowing them to use their incredible speed to tear their opponents to pieces in close combat. It is still quite bulky however, and so is not ever combined with another weapon, although it doesn't often need to be. -->
 <OGK_Gun_KrootPistol.description>Пистолет Крутов - это основное оружие, используемое Крутом. Он работает, стреляя твердой пулей, приводимой в движение химической реакцией, хотя Тау приспособили его для стрельбы импульсными снарядами, чтобы сделать его эквивалентом болтгана. Он вооружен лезвиями у дула и приклада и является возвратом к более ранним боевым посохам Крутов, позволяя им использовать свою невероятную скорость, чтобы разорвать своих противников на куски в ближнем бою. Однако он все еще довольно громоздкий, и поэтому его никогда не комбинируют с другим оружием, хотя в этом не часто возникает необходимость.</OGK_Gun_KrootPistol.description>
                               <!-- stock blade -->
 <OGK_Gun_KrootPistol.tools.0.label>stock blade</OGK_Gun_KrootPistol.tools.0.label>
@@ -22,7 +23,7 @@
 <OGK_Gun_KrootPistol.tools.1.label>barrel blade</OGK_Gun_KrootPistol.tools.1.label>
                      <!-- Kroot Rifle -->
 <OGK_Gun_KrootRifle.label>Винтовка Крутов</OGK_Gun_KrootRifle.label>
-
+                           <!-- The Kroot Rifle is the basic weapon used by the Kroot. It works by firing a solid slug propelled by a chemical reaction, although it was adapted by the Tau to fire Pulse rounds to make it the equivalent to the Boltgun. It is armed with blades near the muzzle and stock and are a throwback to earlier Kroot Fighting Staves, allowing them to use their incredible speed to tear their opponents to pieces in close combat. It is still quite bulky however, and so is not ever combined with another weapon, although it doesn't often need to be. -->
 <OGK_Gun_KrootRifle.description>Винтовка Крутов - это основное оружие, используемое Крутом. Он работает, стреляя твердой пулей, приводимой в движение химической реакцией, хотя Тау приспособили его для стрельбы импульсными снарядами, чтобы сделать его эквивалентом болтгана. Он вооружен лезвиями у дула и приклада и является возвратом к более ранним боевым посохам Крутов, позволяя им использовать свою невероятную скорость, чтобы разорвать своих противников на куски в ближнем бою. Однако он все еще довольно громоздкий, и поэтому его никогда не комбинируют с другим оружием, хотя в этом не часто возникает необходимость.</OGK_Gun_KrootRifle.description>
                              <!-- stock blade -->
 <OGK_Gun_KrootRifle.tools.0.label>stock blade</OGK_Gun_KrootRifle.tools.0.label>
@@ -34,7 +35,7 @@
 <OGK_Bullet_HunterPulse.label>Kroot Round</OGK_Bullet_HunterPulse.label>
                            <!-- Kroot Hunter Rifle -->
 <OGK_Gun_KrootHunterRifle.label>Охотничье ружье Крутов</OGK_Gun_KrootHunterRifle.label>
-
+                                 <!-- This is a variant on the standard Kroot Rifle, adapted to fire longer range and more precise ammunition.However the additional spiked attachments are lost. -->
 <OGK_Gun_KrootHunterRifle.description>Это вариант стандартной винтовки Крутов, адаптированный для стрельбы на большую дальность и более точными боеприпасами.Однако дополнительные насадки с шипами теряются.</OGK_Gun_KrootHunterRifle.description>
                                    <!-- stock -->
 <OGK_Gun_KrootHunterRifle.tools.0.label>stock</OGK_Gun_KrootHunterRifle.tools.0.label>

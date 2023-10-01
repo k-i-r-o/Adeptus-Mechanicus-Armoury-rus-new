@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+<!--/Defs/ThingDefs_Misc/Weapons/OG_AMA_Weapons_Imperial_Melee_Force.xml-->
                        <!-- force staff (I) -->
 <OGI_Melee_ForceStaff.label>cиловой посох (I)</OGI_Melee_ForceStaff.label>
-
+                             <!-- A Force Staff is a Force Weapon that has been shaped into a staff of varying lengths and designs crafted from one of any number of different materials.Force Weapons are advanced, psychically-attuned close combat weapons that are only effective in the hands of a psyker. Force Weapons effectively act as deadly, psychic extensions or amplifiers of the wielder's own Empyrean-spawned powers. They are designed to allow a psyker to channel deadly Warp energies into their victim, acting as a conduit between the wielder's mind and the flesh of his target. Large alien monstrosities and daemons that are resilient to conventional weapons can be slain outright by a single wound from a Force Weapon, as their bodies and minds are destroyed by the unearthly powers of the Immaterium. -->
 <OGI_Melee_ForceStaff.description>Силовой посох - это Силовое оружие, которое имеет форму посоха различной длины и конструкции, изготовленного из любого количества различных материалов.Силовое оружие - это усовершенствованное, психически настроенное оружие ближнего боя, которое эффективно только в руках псайкера. Силовое оружие эффективно действует как смертоносное психическое расширение или усилитель собственных способностей владельца, порожденных Эмпиреями. Они предназначены для того, чтобы позволить псайкеру направлять смертоносную энергию Варпа в свою жертву, действуя как канал между разумом владельца и плотью его цели. Крупные инопланетные чудовища и демоны, устойчивые к обычному оружию, могут быть убиты одним ранением из Силового оружия, поскольку их тела и разумы разрушаются неземными силами Имматериума.</OGI_Melee_ForceStaff.description>
                                <!-- haft -->
 <OGI_Melee_ForceStaff.tools.0.label>haft</OGI_Melee_ForceStaff.tools.0.label>

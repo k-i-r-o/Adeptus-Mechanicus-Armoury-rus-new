@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+<!--/Defs/ThingDefs_Misc/Weapons/OG_AMA_Weapons_Imperial_Ranged_Heat.xml-->
                         <!-- flames -->
 <OGI_Bullet_FlamerHand.label>flames</OGI_Bullet_FlamerHand.label>
                      <!-- hand flamer (I) -->
 <OGI_Gun_FlamerHand.label>ручной огнемет (I)</OGI_Gun_FlamerHand.label>
+                           <!-- Hand Flamers are a smaller and more compact version of the standard pattern Flamer that is still capable of unleashing large blasts of flame, but is good for only a few shots before the fuel canister must be swapped out..
 
+Adepta Sororitas Seraphim units are notable users of Hand Flamers, and commonly employ them in pairs. -->
 <OGI_Gun_FlamerHand.description>Ручные огнеметы - это меньшая и более компактная версия огнемета стандартного образца, которая по-прежнему способна выпускать большие струи пламени, но годится всего для нескольких выстрелов, прежде чем потребуется заменить канистру с топливом. \n\nПодразделения Адепта Сороритас Серафим являются известными пользователями ручных огнеметов и обычно используют их парами.</OGI_Gun_FlamerHand.description>
                              <!-- stock -->
 <OGI_Gun_FlamerHand.tools.0.label>stock</OGI_Gun_FlamerHand.tools.0.label>
@@ -12,7 +15,7 @@
 <OGI_Bullet_Flamer.label>flames</OGI_Bullet_Flamer.label>
                  <!-- flamer (I) -->
 <OGI_Gun_Flamer.label>огнемет (I)</OGI_Gun_Flamer.label>
-
+                       <!-- Flamers, also known as "Flame Guns", are Flamer Weapons that come in a wide variety of designs and patterns, but all are ideal for flushing out enemies in cover and putting groups of foes to the torch with projected flame. The two most common variants of Flamers either have a detachable fuel canister under the barrel, or a hose connecting to a backpack canister. Flamers are most commonly used by Imperial assault forces such as Space Marine Assault Squads, though xenos races such as the Eldar, Orks and the Tau are also known to make use of similar weapons. -->
 <OGI_Gun_Flamer.description>Огнеметы - это огнеметное оружие, которое бывает самых разнообразных конструкций и рисунков, но все они идеально подходят для уничтожения врагов в укрытиях и поджигания групп врагов с помощью проецируемого пламени. Два наиболее распространенных варианта огнеметов либо имеют съемную канистру с топливом под стволом, либо шланг, соединяющийся с канистрой в рюкзаке. Огнеметы чаще всего используются имперскими штурмовыми силами, такими как штурмовые отряды космического десанта, хотя известно, что расы ксеносов, такие как эльдары, орки и тау, также используют подобное оружие.</OGI_Gun_Flamer.description>
                          <!-- stock -->
 <OGI_Gun_Flamer.tools.0.label>stock</OGI_Gun_Flamer.tools.0.label>
@@ -22,7 +25,7 @@
 <OGI_Bullet_FlamerHeavy.label>flames</OGI_Bullet_FlamerHeavy.label>
                       <!-- heavy flamer (I) -->
 <OGI_Gun_FlamerHeavy.label>тяжелый огнемет (I)</OGI_Gun_FlamerHeavy.label>
-
+                            <!-- A Heavy Flamer is a larger, more powerful version of the standard Flamer, capable of projecting hotter and denser flames. This means that Heavy Flamers possess better armour-piercing capabilities than standard Flamers. -->
 <OGI_Gun_FlamerHeavy.description>Тяжелый огнемет - это более крупная и мощная версия стандартного огнемета, способная выбрасывать более горячее и плотное пламя. Это означает, что тяжелые огнеметы обладают лучшими бронебойными свойствами, чем стандартные огнеметы.</OGI_Gun_FlamerHeavy.description>
                               <!-- stock -->
 <OGI_Gun_FlamerHeavy.tools.0.label>stock</OGI_Gun_FlamerHeavy.tools.0.label>
@@ -34,7 +37,7 @@
 <OGI_Bullet_Melta.description>A higher power laser beam which is effective against the more durable alien bodies and stronger types of personal armour.</OGI_Bullet_Melta.description>
                       <!-- melta pistol (I) -->
 <OGI_Gun_MeltaPistol.label>melta pistol (I)</OGI_Gun_MeltaPistol.label>
-
+                            <!-- The Melta Pistol, also called an Infernus or Inferno Pistol amongst the Space Marines of the Blood Angels Chapter, is a small hand-held Melta Weapon that has an overall effective range that is only about 50% that of its counterparts, the Meltagun and the Multi-Melta. These rare and often exquisitely-crafted pistols. Arcane processes compact standard fusion-based Melta technology down to the size of a pistol, a single shot at close range can stop a Space Marine in Terminator Armour in his tracks or burn through the hull armour of a Land Raider tank. -->
 <OGI_Gun_MeltaPistol.description>The Melta Pistol, also called an Infernus or Inferno Pistol amongst the Space Marines of the Blood Angels Chapter, is a small hand-held Melta Weapon that has an overall effective range that is only about 50% that of its counterparts, the Meltagun and the Multi-Melta. These rare and often exquisitely-crafted pistols. Arcane processes compact standard fusion-based Melta technology down to the size of a pistol, a single shot at close range can stop a Space Marine in Terminator Armour in his tracks or burn through the hull armour of a Land Raider tank.</OGI_Gun_MeltaPistol.description>
                               <!-- barrel -->
 <OGI_Gun_MeltaPistol.tools.0.label>barrel</OGI_Gun_MeltaPistol.tools.0.label>
@@ -42,7 +45,7 @@
 <OGI_Gun_MeltaPistol.tools.1.label>grip</OGI_Gun_MeltaPistol.tools.1.label>
                    <!-- meltagun (I) -->
 <OGI_Gun_MeltaGun.label>мелтаган (I)</OGI_Gun_MeltaGun.label>
-
+                         <!-- The Meltagun, also called a "Fusion Gun," "Melter," or "Cooker," is a powerful, short-ranged anti-armour weapon that produces an intense, energetic beam of heat in the tens of thousands of degrees Centigrade. The Melta Gun is used by the Space Marines, the troops of the Imperial Guard and other military forces of the Imperium of Man such as the Orders Militant of the Adepta Sororitas. Melta Weapons emit devastatingly intense but short-ranged blasts of heat which can melt through almost any material. Most types of Melta Weapon like the Meltagun function by inducing highly pressurised gases from an ammunition canister into an unstable sub-molecular state which produces nuclear fusion and directing the resulting energies down the barrel. Melta Weapon usage is always accompanied by a distinctive hissing sound as the Melta beam boils away the water in the air, then a roaring blast as the beam reduces the target to charred scraps or molten slag. Meltaguns are the premier Imperial anti-armour weapons, and few if any vehicles can withstand their power. -->
 <OGI_Gun_MeltaGun.description>Мелтаган, также называемый "Термоядерной пушкой", "Плавильщиком" или "Плитой", представляет собой мощное противотанковое оружие малой дальности действия, которое производит интенсивный, энергичный тепловой луч в десятки тысяч градусов по Цельсию. Мелта-пистолет используется космическими десантниками, войсками Имперской гвардии и другими вооруженными силами Империума Человека, такими как воин Ордена Адепта Сороритас. Мелта-оружие испускает разрушительно интенсивные, но кратковременные разряды тепла, которые могут расплавить практически любой материал. Большинство типов мелта-оружия, таких как Мелтаган, функционируют путем перевода газов под высоким давлением из канистры с боеприпасами в нестабильное субмолекулярное состояние, которое производит ядерный синтез, и направления полученной энергии вниз по стволу. Использование мелта-оружия всегда сопровождается характерным шипящим звуком, когда мелта-луч выкипает воду в воздухе, а затем ревущим взрывом, когда луч превращает цель в обугленные ошметки или расплавленный шлак. Мельтаганы - главное имперское противотанковое оружие, и немногие транспортные средства, если таковые вообще имеются, могут противостоять их мощи.</OGI_Gun_MeltaGun.description>
                            <!-- stock -->
 <OGI_Gun_MeltaGun.tools.0.label>stock</OGI_Gun_MeltaGun.tools.0.label>
@@ -50,11 +53,11 @@
 <OGI_Gun_MeltaGun.tools.1.label>barrel</OGI_Gun_MeltaGun.tools.1.label>
                         <!-- melta blast -->
 <OGI_Bullet_MeltaMulti.label>melta blast</OGI_Bullet_MeltaMulti.label>
-
+                              <!-- A higher power laser beam which is effective against the more durable alien bodies and stronger types of personal armour. -->
 <OGI_Bullet_MeltaMulti.description>A higher power laser beam which is effective against the more durable alien bodies and stronger types of personal armour.</OGI_Bullet_MeltaMulti.description>
                      <!-- multimelta (I) -->
 <OGI_Gun_MeltaMulti.label>multimelta (I)</OGI_Gun_MeltaMulti.label>
-
+                           <!-- The Meltagun, also called a "Fusion Gun," "Melter," or "Cooker," is a powerful, short-ranged anti-armour weapon that produces an intense, energetic beam of heat in the tens of thousands of degrees Centigrade. The Melta Gun is used by the Space Marines, the troops of the Imperial Guard and other military forces of the Imperium of Man such as the Orders Militant of the Adepta Sororitas. Melta Weapons emit devastatingly intense but short-ranged blasts of heat which can melt through almost any material. Most types of Melta Weapon like the Meltagun function by inducing highly pressurised gases from an ammunition canister into an unstable sub-molecular state which produces nuclear fusion and directing the resulting energies down the barrel. Melta Weapon usage is always accompanied by a distinctive hissing sound as the Melta beam boils away the water in the air, then a roaring blast as the beam reduces the target to charred scraps or molten slag. Meltaguns are the premier Imperial anti-armour weapons, and few if any vehicles can withstand their power. -->
 <OGI_Gun_MeltaMulti.description>The Meltagun, also called a "Fusion Gun," "Melter," or "Cooker," is a powerful, short-ranged anti-armour weapon that produces an intense, energetic beam of heat in the tens of thousands of degrees Centigrade. The Melta Gun is used by the Space Marines, the troops of the Imperial Guard and other military forces of the Imperium of Man such as the Orders Militant of the Adepta Sororitas. Melta Weapons emit devastatingly intense but short-ranged blasts of heat which can melt through almost any material. Most types of Melta Weapon like the Meltagun function by inducing highly pressurised gases from an ammunition canister into an unstable sub-molecular state which produces nuclear fusion and directing the resulting energies down the barrel. Melta Weapon usage is always accompanied by a distinctive hissing sound as the Melta beam boils away the water in the air, then a roaring blast as the beam reduces the target to charred scraps or molten slag. Meltaguns are the premier Imperial anti-armour weapons, and few if any vehicles can withstand their power.</OGI_Gun_MeltaMulti.description>
                              <!-- stock -->
 <OGI_Gun_MeltaMulti.tools.0.label>stock</OGI_Gun_MeltaMulti.tools.0.label>

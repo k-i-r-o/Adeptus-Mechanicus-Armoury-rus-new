@@ -3,7 +3,7 @@
 <!--/Defs/ResearchProjectDefs/OG_AMXBO_Ork_Research.xml-->
                       <!-- Orkish Kulture -->
 <OG_Ork_Tech_Base_T1.label>Оркская культура</OG_Ork_Tech_Base_T1.label>
-                            <!-- The Ork way of life is as straightforward and brutal as the Orks themselves. Much like their approach to everything else, Orks do not waste time pondering why they do things, or how they might do them better. Instead they simply act, the fundamental tenet of their society is a simple one that even the most pea-brained Snotling can understand -- might makes right. -->
+                            <!-- The Ork way of life is as straightforward and brutal as the Orks themselves. Much like their approach to everything else, Orks do not waste time pondering why they do things, or how they might do them better. Instead they simply act, the fundamental tenet of their society is a simple one that even the most pea-brained Snotling can understand - might makes right. -->
 <OG_Ork_Tech_Base_T1.description>Образ жизни орков так же прямолинеен и жесток, как и сами орки. Как и их подход ко всему остальному, орки не тратят время на размышления о том, почему они что-то делают или как они могли бы сделать это лучше. Вместо этого они просто действуют, фундаментальный принцип их общества прост, который может понять даже самый тупоголовый сопляк - сила делает правильно.</OG_Ork_Tech_Base_T1.description>
                       <!-- Mek Tek -->
 <OG_Ork_Tech_Base_T2.label>Технологии Мека</OG_Ork_Tech_Base_T2.label>

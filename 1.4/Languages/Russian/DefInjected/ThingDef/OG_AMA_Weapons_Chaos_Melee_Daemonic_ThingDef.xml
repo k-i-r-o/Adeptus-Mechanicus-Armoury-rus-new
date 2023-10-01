@@ -21,7 +21,7 @@
 <OGC_Melee_PlagueKnife.tools.2.label>point</OGC_Melee_PlagueKnife.tools.2.label>
                         <!-- plaguesword -->
 <OGC_Melee_Plaguesword.label>чумной меч</OGC_Melee_Plaguesword.label>
-                              <!-- A Plaguesword is a Daemon Weapon of Nurgle. Each Plaguebearer, the Lesser Daemons of the Plague God, carries a gnarled and spike-ridden blade -- an infamous Plaguesword. Although corroded and battered, these blades drip with a coating of loathsome slime whose touch brings disease and death./n/nVictims not slain outright have been known to come down with all manner of gruesome and deadly maladies. -->
+                              <!-- A Plaguesword is a Daemon Weapon of Nurgle. Each Plaguebearer, the Lesser Daemons of the Plague God, carries a gnarled and spike-ridden blade - an infamous Plaguesword. Although corroded and battered, these blades drip with a coating of loathsome slime whose touch brings disease and death./n/nVictims not slain outright have been known to come down with all manner of gruesome and deadly maladies. -->
 <OGC_Melee_Plaguesword.description>Чумной меч - это демоническое оружие Нургла. Каждый Носитель Чумы, Младший демон Бога Чумы, носит зазубренный клинок с шипами - печально известный Меч Чумы. Хотя эти лезвия проржавели и потрепаны, с них капает отвратительная слизь, прикосновение к которой приносит болезни и смерть. Известно, что жертвы, не убитые сразу, заболевают всевозможными ужасными и смертельными болезнями.</OGC_Melee_Plaguesword.description>
                                 <!-- blade -->
 <OGC_Melee_Plaguesword.tools.0.label>blade</OGC_Melee_Plaguesword.tools.0.label>

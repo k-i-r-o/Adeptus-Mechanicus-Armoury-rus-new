@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+<!--/Defs/AbilityDefs/OG_AMA_Abilities_CombiWeapons.xml-->
                          <!-- Fire Flamer -->
 <OGI_Ability_FireFlamer.label>Огнемет</OGI_Ability_FireFlamer.label>
                                <!-- Fire built in Flamer. -->

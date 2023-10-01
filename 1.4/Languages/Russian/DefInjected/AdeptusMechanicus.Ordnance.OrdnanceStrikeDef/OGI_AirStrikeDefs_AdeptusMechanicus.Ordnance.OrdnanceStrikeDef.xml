@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+<!--/Defs/OrdnanceStrikes/AirStrikeDefs/OGI_AirStrikeDefs.xml-->
                               <!-- gatling strafe run -->
 <OGI_Airstrike_AssaultCannon.label>gatling strafe run</OGI_Airstrike_AssaultCannon.label>
+                                    <!-- Strike ship fills the air with bullets with its twin gatling guns. Covers a large area. Particularly effective against unarmored units. -->
 <OGI_Airstrike_AssaultCannon.description>Strike ship fills the air with bullets with its twin gatling guns. Covers a large area. Particularly effective against unarmored units.</OGI_Airstrike_AssaultCannon.description>
                            <!-- autocannon assault -->
 <OGI_Airstrike_Autocannon.label>autocannon assault</OGI_Airstrike_Autocannon.label>
+                                 <!-- The powerful frontal autocannon can deal high damages to armored units and buildings. It does not cover a wide area though. -->
 <OGI_Airstrike_Autocannon.description>The powerful frontal autocannon can deal high damages to armored units and buildings. It does not cover a wide area though.</OGI_Airstrike_Autocannon.description>
                            <!-- assaultcannon and rockets strafe run -->
 <OGI_Airstrike_RocketFrag.label>assaultcannon and rockets strafe run</OGI_Airstrike_RocketFrag.label>
@@ -16,6 +19,7 @@
 <OGI_Airstrike_RocketKrak.description>Strike ship attacks with both assaultcannons and rockets. A truly devastative assault.</OGI_Airstrike_RocketKrak.description>
                             <!-- incendiary bombing run -->
 <OGI_BombingRun_Incendiary.label>incendiary bombing run</OGI_BombingRun_Incendiary.label>
+                                  <!-- Strike ship perform a carpet bombing on the targeted area with massive incendiary bombs. Particularly effective against stationnary installations. -->
 <OGI_BombingRun_Incendiary.description>Strike ship perform a carpet bombing on the targeted area with massive incendiary bombs. Particularly effective against stationnary installations.</OGI_BombingRun_Incendiary.description>
 
 </LanguageData>

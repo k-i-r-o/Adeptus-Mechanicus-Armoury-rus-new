@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+<!--/Defs/PatchDescriptionDefs/PatchDescriptionDefs.xml-->
                                 <!-- Astra Miliatrum Armour Patch -->
 <AstraMiliatrumMod_ArmourPatch.label>Нашивка на броню Астра Милитарум</AstraMiliatrumMod_ArmourPatch.label>
                                   <!-- Removes the Astra Militarum versions of dupped Armour when active -->
@@ -10,6 +11,7 @@
 <AstraMiliatrumMod_WeaponsPatch.tooltip>Removes the Astra Militarum versions of dupped Weapons when active</AstraMiliatrumMod_WeaponsPatch.tooltip>
                                                <!-- Imperial Components Patch -->
 <AstraMiliatrumPrimarchMod_SwapComponentTypes.label>Имперская наклейка на компоненты</AstraMiliatrumPrimarchMod_SwapComponentTypes.label>
+                                                 <!-- Replace some of the materials required in recipes with those from the Astra Militarum or Legiones Astartes mods if present. -->
 <AstraMiliatrumPrimarchMod_SwapComponentTypes.tooltip>Replace some of the materials required in recipes with those from the Astra Militarum or Legiones Astartes mods if present.</AstraMiliatrumPrimarchMod_SwapComponentTypes.tooltip>
                                    <!-- Vanilia Pirate Expansion -->
 <Vanillia_ExpandFaction_PawnKinds.label>Vanilia Pirate Expansion</Vanillia_ExpandFaction_PawnKinds.label>

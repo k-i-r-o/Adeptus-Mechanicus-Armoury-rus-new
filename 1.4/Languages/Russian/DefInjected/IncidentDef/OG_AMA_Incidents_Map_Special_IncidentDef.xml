@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+<!--/Defs/Storyteller/OG_AMA_Incidents_Map_Special.xml-->
                       <!-- man in black -->
 <StrangerInBlackJoin.label>человек в черном</StrangerInBlackJoin.label>
                             <!-- Man in black -->
 <StrangerInBlackJoin.letterLabel>Человек в черном</StrangerInBlackJoin.letterLabel>
+                           <!-- Sensing trouble, a mysterious [PAWN_kind] has arrived.
+
+Will [PAWN_pronoun] be able to set things right in these parts? -->
 <StrangerInBlackJoin.letterText>Предчувствуя беду, таинственный [PAWN_kind] прибыл.\n\n Сможет ли [PAWN_pronoun] навести порядок?</StrangerInBlackJoin.letterText>
 
 </LanguageData>

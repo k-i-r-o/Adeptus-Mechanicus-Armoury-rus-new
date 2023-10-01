@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+<!--/Defs/GameConditionDefs/OG_AMAXB_GameConditions_Misc.xml-->
                          <!-- warpstorm -->
 <OG_Condition_Warpstorm.label>варп-шторм</OG_Condition_Warpstorm.label>
                                <!-- A freak localized warpstorm is raging over a small area with repeated lightning strikes. -->

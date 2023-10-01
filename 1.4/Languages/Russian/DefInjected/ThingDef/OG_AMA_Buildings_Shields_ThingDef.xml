@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+<!--/Defs/ThingDefs_Buildings/OG_AMA_Buildings_Shields.xml.bak-->
                           <!-- Standard Shield -->
 <Building_ShieldStandard.label>Standard Shield</Building_ShieldStandard.label>
                                 <!-- Creates shield field to protect important infrastructure. -->
@@ -10,11 +11,11 @@
 <Building_ShieldSmall.description>Creates a smaller shield that allows people to stand on it.</Building_ShieldSmall.description>
                            <!-- Fortress shield -->
 <Building_Shield_Fortress.label>Fortress shield</Building_Shield_Fortress.label>
-
+                                 <!-- By refocusing the primary coil system into a vertical configuration the shields range can be extended, while lacking the flexability of the Fire Supression mode it does cover a large area and gain the ability to disrupt the avionic systems of DropPods, caulsing failure of their decent rockets and therefore a terminal velocity impact. -->
 <Building_Shield_Fortress.description>By refocusing the primary coil system into a vertical configuration the shields range can be extended, while lacking the flexability of the Fire Supression mode it does cover a large area and gain the ability to disrupt the avionic systems of DropPods, caulsing failure of their decent rockets and therefore a terminal velocity impact.</Building_Shield_Fortress.description>
                      <!-- SIF shield -->
 <Building_ShieldSIF.label>SIF shield</Building_ShieldSIF.label>
-
+                           <!-- Rather than creating a large circular shield this generator will create an small individual shield over each wall/door object. -->
 <Building_ShieldSIF.description>Rather than creating a large circular shield this generator will create an small individual shield over each wall/door object.</Building_ShieldSIF.description>
 
 </LanguageData>

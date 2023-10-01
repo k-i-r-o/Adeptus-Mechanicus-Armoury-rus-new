@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+<!--/Defs/ThingDefs_Buildings/OG_AMA_Ethereal_Skyfallers.xml-->
                     <!-- drop pod (incoming) -->
 <OGDropPodIncoming.label>десантный модуль (входящий)</OGDropPodIncoming.label>
                       <!-- ship chunk (incoming) -->
@@ -11,6 +12,9 @@
                       <!-- meteorite (incoming) -->
 <OGMeteoriteIncoming.label>метеорит (входящий)</OGMeteoriteIncoming.label>
 
+
+<!--/Defs/ThingDefs_Misc/OG_AMA_Ethereal_Skyfallers.xml-->
+<!-- drop pod (leaving) -->
 <OGDropPodLeaving.label>десантный модуль (уходящий)</OGDropPodLeaving.label>
 
 </LanguageData>

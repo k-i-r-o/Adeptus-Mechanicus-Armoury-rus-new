@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+<!--/Defs/JobDefs/OG_AMA_Jobs_Laser.xml-->
                                  <!-- changing laser color. -->
 <OG_Job_ChangeLaserColor.reportString>изменение цвета лазера.</OG_Job_ChangeLaserColor.reportString>
 

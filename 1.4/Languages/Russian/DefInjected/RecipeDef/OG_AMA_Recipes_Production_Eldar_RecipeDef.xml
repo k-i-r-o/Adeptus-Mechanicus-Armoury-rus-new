@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+<!--/Defs/RecipeDefs/OG_AMA_Recipes_Production_Eldar.xml-->
                      <!-- make eldar component -->
 <Make_OGE_Component.label>создать элдарские компоненты</Make_OGE_Component.label>
                            <!-- Make an eldar component. -->

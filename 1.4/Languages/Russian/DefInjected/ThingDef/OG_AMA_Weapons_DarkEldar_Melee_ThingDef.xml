@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+<!--/Defs/ThingDefs_Misc/Weapons/OG_AMA_Weapons_DarkEldar_Melee.xml-->
                            <!-- vambrace blade (DE) -->
 <OGDE_Melee_VambraceBlade.label>наручи с лезвиями (DE)</OGDE_Melee_VambraceBlade.label>
-
+                                 <!-- One of mankind's oldest manufactured objects. The knife has taken many forms, but the concept has always remained the same: A handle for holding and a sharp edge for cutting. -->
 <OGDE_Melee_VambraceBlade.description>Один из старейших промышленных объектов человечества. Нож принимал множество форм, но концепция всегда оставалась неизменной: ручка для удержания и острый край для резки.</OGDE_Melee_VambraceBlade.description>
                                    <!-- handle -->
 <OGDE_Melee_VambraceBlade.tools.0.label>handle</OGDE_Melee_VambraceBlade.tools.0.label>
@@ -12,7 +13,7 @@
 <OGDE_Melee_VambraceBlade.tools.2.label>point</OGDE_Melee_VambraceBlade.tools.2.label>
                        <!-- wych knife (DE) -->
 <OGDE_Melee_WychKnife.label>ведьмин нож (DE)</OGDE_Melee_WychKnife.label>
-
+                             <!-- At first glance, there is little to distinguish these blades from a commoner’s knife or a Kabalite Warrior's flaying blade. However, subtle details of their construction, such as the pattern of serrations, the precise curvature of the blade, or the placement of perforations, influence the balance and the cuts Wych Knives inflict so that in the hands of an expert they can inflict grievous wounds and find the weaknesses in all but the toughest armour. -->
 <OGDE_Melee_WychKnife.description>На первый взгляд, эти клинки мало чем отличаются от ножа простолюдина или клинка для снятия шкуры кабалитского воина. Однако тонкие детали их конструкции, такие как рисунок зазубрин, точная кривизна лезвия или расположение отверстий, влияют на баланс и порезы, наносимые ножами, так что в руках эксперта они могут наносить тяжелые раны и находить слабые места во всех, кроме самых прочных доспехов.</OGDE_Melee_WychKnife.description>
                                <!-- handle -->
 <OGDE_Melee_WychKnife.tools.0.label>handle</OGDE_Melee_WychKnife.tools.0.label>
@@ -22,7 +23,7 @@
 <OGDE_Melee_WychKnife.tools.2.label>point</OGDE_Melee_WychKnife.tools.2.label>
                            <!-- mandrake blade (DE) -->
 <OGDE_Melee_MandrakeBlade.label>лезвие мандрагоры (DE)</OGDE_Melee_MandrakeBlade.label>
-
+                                 <!-- Mandrake Blades are the primary weapon of Dark Eldar Mandrakes. These blood-encrusted weapons are reminisicent of the surgical tools of the Haemonculi. -->
 <OGDE_Melee_MandrakeBlade.description>Лезвия мандрагоры - основное оружие Мандрагор Темных Эльдар. Это покрытое коркой крови оружие напоминает хирургические инструменты гемункулов.</OGDE_Melee_MandrakeBlade.description>
                                    <!-- handle -->
 <OGDE_Melee_MandrakeBlade.tools.0.label>handle</OGDE_Melee_MandrakeBlade.tools.0.label>
@@ -32,7 +33,7 @@
 <OGDE_Melee_MandrakeBlade.tools.2.label>edge</OGDE_Melee_MandrakeBlade.tools.2.label>
                         <!-- razorflail (DE) -->
 <OGDE_Melee_Razorflail.label>бритвенные лезвия (DE)</OGDE_Melee_Razorflail.label>
-
+                              <!-- Razorflails are lightweight, often twinned pair of blades composed of a number of interlocking blades joined by a cable. At a moment's notice, these blades can be separated, turning a sword into a many-bladed lash. In the hands of a skilled wielder, these are almost impossible to parry and can be woven past almost any defence. Razorflails are commonly wielded in pairs, the Wych wielding them surrounding herself with a swirling wall of deadly blades as she dances across the battlefield. -->
 <OGDE_Melee_Razorflail.description>Бритвенные лезвия - это легкие, часто сдвоенные лезвия, состоящие из нескольких взаимосвязанных лезвий, соединенных тросом. В любой момент эти лезвия могут быть разделены, превращая меч в многолопастную плеть. В руках опытного владельца их практически невозможно парировать, и они могут пройти практически через любую защиту. Цепами-бритвами обычно владеют парами, ведьма, владеющая ими, окружает себя вращающейся стеной смертоносных лезвий, танцуя по полю боя.</OGDE_Melee_Razorflail.description>
                                 <!-- handle -->
 <OGDE_Melee_Razorflail.tools.0.label>handle</OGDE_Melee_Razorflail.tools.0.label>
@@ -42,7 +43,7 @@
 <OGDE_Melee_Razorflail.tools.2.label>edge</OGDE_Melee_Razorflail.tools.2.label>
                      <!-- impaler (DE) -->
 <OGDE_Melee_Impaler.label>Цепеш (DE)</OGDE_Melee_Impaler.label>
-
+                           <!-- The Impaler is a Dark Eldar weapon used by both Kabals and Wych Cults. It is a large monomolecular melee weapon resembling a Punisher. They are frequently used by Wyches in combination with a shardnet. -->
 <OGDE_Melee_Impaler.description>Цепеш - это оружие Темных эльдар, используемое как кабалами, так и культами ведьм. Это большое мономолекулярное оружие ближнего боя, напоминающее Карателя. Они часто используются ведьмами в сочетании с сетью осколков.</OGDE_Melee_Impaler.description>
                              <!-- pommel -->
 <OGDE_Melee_Impaler.tools.0.label>pommel</OGDE_Melee_Impaler.tools.0.label>
@@ -54,7 +55,7 @@
 <OGDE_Melee_Impaler.tools.3.label>point</OGDE_Melee_Impaler.tools.3.label>
                         <!-- power sword (DE) -->
 <OGDE_Melee_PowerSword.label>силовой меч (DE)</OGDE_Melee_PowerSword.label>
-
+                              <!-- Power Weapons generally exude a hazy, blue-coloured field of energy that wraps around the primary impact region of a melee weapon, be it a sword's blade or warhammer's head and is capable of disrupting the molecular bonds of matter when it strikes. These weapons may be constructed to appear as a primitive, simple melee weapon, with the power field generator concealed within the hilt or haft of the weapon. Once the power field is switched on, however, the obvious humming sound given off and the blue light gives the secret of the weapon's true nature away. -->
 <OGDE_Melee_PowerSword.description>Энергетическое оружие обычно излучает туманное энергетическое поле синего цвета, которое обволакивает область основного удара оружия ближнего боя, будь то лезвие меча или головка боевого молота, и способно разрушать молекулярные связи материи при ударе. Это оружие может быть сконструировано так, чтобы выглядеть как примитивное, простое оружие ближнего боя, с генератором силового поля, скрытым в рукояти оружия. Однако, как только силовое поле включено, раздается очевидный жужжащий звук и синий свет выдает секрет истинной природы оружия.</OGDE_Melee_PowerSword.description>
                                 <!-- pommel -->
 <OGDE_Melee_PowerSword.tools.0.label>pommel</OGDE_Melee_PowerSword.tools.0.label>
@@ -66,7 +67,7 @@
 <OGDE_Melee_PowerSword.tools.3.label>point</OGDE_Melee_PowerSword.tools.3.label>
                         <!-- venom blade (DE) -->
 <OGDE_Melee_VenomBlade.label>ядовитый клинок (DE)</OGDE_Melee_VenomBlade.label>
-
+                              <!-- he Venom Blade is a hallmark of the Dark Eldar aristocracy. There are vast numbers of all kind of poisoned weapons like vambrace blades, knives, daggers, swords, scimitars, whips and more, even beyond human imagination. These venom weapons host thousands of micropores that constantly exude a distilled elixir of hypertoxins keeping the blade always as deadly. -->
 <OGDE_Melee_VenomBlade.description>Ядовитый клинок - отличительная черта аристократии Темных эльдар. Существует огромное количество всевозможного отравленного оружия, такого как клинки-наручи, ножи, кинжалы, мечи, ятаганы, хлысты и многое другое, даже за пределами человеческого воображения. Это ядовитое оружие содержит тысячи микропор, которые постоянно выделяют дистиллированный эликсир гипертоксина, сохраняя лезвие всегда таким же смертоносным.</OGDE_Melee_VenomBlade.description>
                                 <!-- pommel -->
 <OGDE_Melee_VenomBlade.tools.0.label>pommel</OGDE_Melee_VenomBlade.tools.0.label>
@@ -78,7 +79,7 @@
 <OGDE_Melee_VenomBlade.tools.3.label>point</OGDE_Melee_VenomBlade.tools.3.label>
                        <!-- djin blade (DE) -->
 <OGDE_Melee_DjinBlade.label>клинок джинна (DE)</OGDE_Melee_DjinBlade.label>
-
+                             <!-- Djin Blades are Dark Eldar weapons usually taking the form of polished crystal with a scowling bestial face upon its hilt. Each djin blade has a bloodthirsty sentience of its own and sometimes may even harm the wielder of the blade. Only archons are known to possess these strange, evil blades. -->
 <OGDE_Melee_DjinBlade.description>Клинки джиннов - это оружие темных эльдар, обычно имеющее форму полированного кристалла с хмурой звериной мордой на рукояти. Каждый клинок джинна обладает собственным кровожадным чувством и иногда может даже причинить вред владельцу клинка. Известно, что только архонты обладают этими странными, злыми клинками.</OGDE_Melee_DjinBlade.description>
                                <!-- pommel -->
 <OGDE_Melee_DjinBlade.tools.0.label>pommel</OGDE_Melee_DjinBlade.tools.0.label>
@@ -90,7 +91,7 @@
 <OGDE_Melee_DjinBlade.tools.3.label>point</OGDE_Melee_DjinBlade.tools.3.label>
                         <!-- demiklaive (DE) -->
 <OGDE_Melee_Demiklaive.label>демиклайв (DE)</OGDE_Melee_Demiklaive.label>
-
+                              <!-- A Demiklaive is a variant of the deadly Klaive. These vicious Power Weapons are finely honed to a mono-molecular edge and can either be wielded separately or clasped together to form a much larger blade that confers an even deadlier strike against an unfortunate victim. These weapons are commonly employed by Drukhari Incubi and can either be wielded separately for speed, or clasped together to form a more powerful blade. -->
 <OGDE_Melee_Demiklaive.description>Демиклайв - это разновидность смертельного клайва. Это порочное силовое оружие отточено до мономолекулярного острия и может использоваться как по отдельности, так и вместе, образуя гораздо больший клинок, который наносит еще более смертоносный удар по несчастной жертве. Это оружие обычно используется инкубами Бухари и может использоваться либо отдельно для скорости, либо вместе, чтобы сформировать более мощный клинок.</OGDE_Melee_Demiklaive.description>
                                 <!-- pommel -->
 <OGDE_Melee_Demiklaive.tools.0.label>pommel</OGDE_Melee_Demiklaive.tools.0.label>
@@ -102,7 +103,7 @@
 <OGDE_Melee_Demiklaive.tools.3.label>point</OGDE_Melee_Demiklaive.tools.3.label>
                     <!-- klaive (DE) -->
 <OGDE_Melee_Klaive.label>клайв (DE)</OGDE_Melee_Klaive.label>
-
+                          <!-- The Klaive is a Dark Eldar weapon favored by elite Incubi over any other. Every Klaive is a masterpiece of a weapon. They are perfectly balanced and in the right hands they are also extreme instruments of death. Klaives are also power weapons on their own and because of that can even cleave through Space Marine power armour. -->
 <OGDE_Melee_Klaive.description>Клайв - это оружие Темных эльдар, которое элитные инкубы предпочитают любому другому. Каждый клайв - это шедевр оружия. Они идеально сбалансированы, и в умелых руках они также являются экстремальными орудиями смерти. Клайвы сами по себе также являются силовым оружием и из-за этого могут даже пробивать силовую броню космодесантника.</OGDE_Melee_Klaive.description>
                             <!-- handle -->
 <OGDE_Melee_Klaive.tools.0.label>handle</OGDE_Melee_Klaive.tools.0.label>
@@ -110,7 +111,7 @@
 <OGDE_Melee_Klaive.tools.1.label>blade</OGDE_Melee_Klaive.tools.1.label>
                       <!-- agoniser (DE) -->
 <OGDE_Melee_Agoniser.label>мучитель (DE)</OGDE_Melee_Agoniser.label>
-
+                            <!-- Agonisers are Dark Eldar weapons which come in many forms, such as whips or gauntlets, but they are designed to attach themselves to the victim's nervous system, take control of it and inflict immense pain which can disable or kill the victim. The size of the creature doesn't matter and often the larger the creature, the greater the potential for pain-infliction. Agonisers have the ability to harm vehicles as well, potentially disabling the crew or disrupting the vehicle's systems. -->
 <OGDE_Melee_Agoniser.description>Мучитель - это оружие Темных эльдар, которое бывает во многих формах, таких как кнуты или перчатки, но они предназначены для того, чтобы прикрепляться к нервной системе жертвы, брать ее под контроль и причинять сильную боль, которая может вывести жертву из строя или убить. Размер существа не имеет значения, и часто, чем больше существо, тем больше потенциал для причинения боли. Агонисты также способны наносить вред транспортным средствам, потенциально выводя из строя экипаж или нарушая работу систем транспортного средства.</OGDE_Melee_Agoniser.description>
                               <!-- pommel -->
 <OGDE_Melee_Agoniser.tools.0.label>pommel</OGDE_Melee_Agoniser.tools.0.label>
@@ -122,7 +123,7 @@
 <OGDE_Melee_Agoniser.tools.3.label>whip blades</OGDE_Melee_Agoniser.tools.3.label>
                        <!-- husk blade (DE) -->
 <OGDE_Melee_HuskBlade.label>husk blade (DE)</OGDE_Melee_HuskBlade.label>
-
+                             <!-- Perhaps the most lethal weapon used by Dark Eldar archons, Husk Blades evaporate the moisture from everything they touch leaving only dust-like figures if used against living beings. Even the toughest foes have been struck down by these blades. -->
 <OGDE_Melee_HuskBlade.description>Perhaps the most lethal weapon used by Dark Eldar archons, Husk Blades evaporate the moisture from everything they touch leaving only dust-like figures if used against living beings. Even the toughest foes have been struck down by these blades.</OGDE_Melee_HuskBlade.description>
                                <!-- handle -->
 <OGDE_Melee_HuskBlade.tools.0.label>handle</OGDE_Melee_HuskBlade.tools.0.label>
@@ -130,7 +131,7 @@
 <OGDE_Melee_HuskBlade.tools.1.label>head</OGDE_Melee_HuskBlade.tools.1.label>
                         <!-- hellglaive (DE) -->
 <OGDE_Melee_Hellglaive.label>адский блеск (DE)</OGDE_Melee_Hellglaive.label>
-
+                              <!-- A Hellglaive is a weapon used by Dark Eldar Hellions. It is essentially a double-bladed close-combat weapon, with a built-in Splinter Rifle. -->
 <OGDE_Melee_Hellglaive.description>Адский блеск - это оружие, используемое адскими существами Темных Эльдар. По сути, это двуствольное оружие ближнего боя со встроенной осколочной винтовкой.</OGDE_Melee_Hellglaive.description>
                                 <!-- shaft -->
 <OGDE_Melee_Hellglaive.tools.0.label>shaft</OGDE_Melee_Hellglaive.tools.0.label>

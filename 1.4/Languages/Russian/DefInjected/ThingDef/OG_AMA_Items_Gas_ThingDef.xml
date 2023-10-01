@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+<!--/Defs/ThingDefs_Items/OG_AMA_Items_Gas.xml-->
                <!-- smoke -->
 <OG_Gas_Smoke.label>дым</OG_Gas_Smoke.label>
                <!-- corrosive gas -->

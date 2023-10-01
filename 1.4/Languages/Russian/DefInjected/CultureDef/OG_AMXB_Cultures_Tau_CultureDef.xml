@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+<!--/Defs/CultureDefs/OG_AMXB_Cultures_Tau.xml-->
                      <!-- greater good -->
 <OG_Tau_GreaterGood.label>большее благо</OG_Tau_GreaterGood.label>
+                           <!-- We are five castes, one people. We stand united, dedicated wholly to the Greater Good. As we progress, we will encounter further barriers. We will overcome them. Our future is now, believe in our destiny. -->
 <OG_Tau_GreaterGood.description>Мы - пять каст, один народ. Мы едины, всецело посвятив себя Высшему благу. По мере нашего продвижения мы будем сталкиваться с новыми препятствиями. Мы преодолеем их. Наше будущее сейчас, верьте в нашу судьбу.</OG_Tau_GreaterGood.description>
                                 <!-- LeaderTitleMaker_Astropolitan -->
 <OG_Tau_GreaterGood.leaderTitleMaker>LeaderTitleMaker_Astropolitan</OG_Tau_GreaterGood.leaderTitleMaker>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+<!--/Defs/AbilityDefs/OG_AMA_Abilities_MeleeWeaponRanged.xml-->
                          <!-- Fire Bolter -->
 <OGI_Ability_FireBolter.label>Fire Bolter</OGI_Ability_FireBolter.label>
                                <!-- Fire built in Bolter. -->

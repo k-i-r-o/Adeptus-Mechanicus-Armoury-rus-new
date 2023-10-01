@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+<!--/Defs/ThingDefs_Items/OG_AMA_Items_Resource_Manufactured_DarkEldar.xml-->
                  <!-- psychic circuitry -->
 <OGDE_Component.label>психическая схема</OGDE_Component.label>
-
+                       <!-- Advanced computing and energy-directing machinery, miniaturized and hardened for the most demanding applications. It incorporates intricate crystalline psychic circuitry, which allows control via the innate psychic abilities that all eldar posses -->
 <OGDE_Component.description>Усовершенствованное вычислительное и энергопотребляющее оборудование, уменьшенное в размерах и закаленное для самых требовательных применений. Он включает в себя сложную кристаллическую психическую схему, которая позволяет управлять с помощью врожденных экстрасенсорных способностей, которыми обладают все эльдары.</OGDE_Component.description>
                   <!-- wraithbone -->
 <OGDE_Wraithbone.label>призрачная кость</OGDE_Wraithbone.label>
-
+                        <!-- Wraithbone is a psycho-plastic material that is highly resilient to damage, and capable of limited self-repair. It, and the other building materials of the Eldar, will grow and react more like living tissue than the building materials of other races. -->
 <OGDE_Wraithbone.description>Призрачная кость - это психопластичный материал, который обладает высокой устойчивостью к повреждениям и способен к ограниченному самовосстановлению. Он и другие строительные материалы эльдар будут расти и реагировать больше как живая ткань, чем строительные материалы других рас.</OGDE_Wraithbone.description>
                    <!-- spirit stones -->
 <OGDE_SpiritStone.label>камни души</OGDE_SpiritStone.label>
-
+                         <!-- An Eldar Spirit Stone, also known as Waystones, Dreamstones or Tears of Isha are a small, seemingly precious gem carried in a variety of different aesthetically-pleasing settings on an Eldar's chest, used to save their souls from destruction by Slaanesh. -->
 <OGDE_SpiritStone.description>Камни Души Эльдар, также известные как Путевые камни, Камни снов или Слезы Иши, - это маленький, кажущийся драгоценным камень, который носят в различных эстетически приятных оправах на груди Эльдар, используемый для спасения их душ от уничтожения Слаанешем.</OGDE_SpiritStone.description>
 
 </LanguageData>

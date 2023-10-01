@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+<!--/Defs/ThingDefs_Items/OG_AMA_Items_Resource_Manufactured_Tau.xml-->
                 <!-- fio components -->
 <OGT_Component.label>компоненты фио</OGT_Component.label>
-
+                      <!-- Advanced computing and energy-directing machinery, miniaturized and hardened for the most demanding applications. It incorporates the finest technology that the tau empire can produce and is essential to the functions of their weaponry. -->
 <OGT_Component.description>Усовершенствованное вычислительное и энергопотребляющее оборудование, уменьшенное в размерах и закаленное для самых требовательных применений. Он включает в себя лучшие технологии, которые может производить империя тау, и необходим для функционирования их оружия.</OGT_Component.description>
              <!-- fio'tak -->
 <OGT_Fiotak.label>фио'так</OGT_Fiotak.label>
-
+                   <!-- Fio'tak is a hard, ultra-dense, nano-crystalline metal alloy developed by the Earth Caste of the Tau Empire for a variety of applications. This material is highly resistant to corrosion by various toxins and other environmental influences and is more lightweight than conventional Imperial materials which serve a similar structural function such as plasteel. When it comes to damage deflection and mitigation, Fio'tak is comparable to the ceramite used in Space Marine Power Armour, but weighs substantially less on a per unit basis. -->
 <OGT_Fiotak.description>Фио'так - это твердый, сверхплотный, нанокристаллический металлический сплав, разработанный Земной кастой империи Тау для различных применений. Этот материал обладает высокой устойчивостью к коррозии под воздействием различных токсинов и других воздействий окружающей среды и более легкий, чем обычные строительные материалы, которые выполняют аналогичную конструктивную функцию, такие как пласталь. Когда дело доходит до отражения и смягчения повреждений, Фио'так сравним с керамитом, используемым в силовой броне космического десанта, но весит значительно меньше в расчете на единицу.</OGT_Fiotak.description>
                 <!-- mor'tonium -->
 <OGT_Mortonium.label>мор'тониум</OGT_Mortonium.label>
-
+                      <!-- Mor'tonium is a highly-radioactive alloy discovered and manufactured by the T'au primarily to power their Weapons. A fairly recent discovery, Mor'tonium rapidly decays upon exposure to air and releases extremely large numbers of ion particles in the process. T'au Weapons can use this property to overcharge their shots which makes them far more powerful, simply by exposing their power source to the atmosphere. -->
 <OGT_Mortonium.description>Мор'тониум - это высокорадиоактивный сплав, обнаруженный и изготовленный Тау в первую очередь для питания своего оружия. Довольно недавнее открытие заключается в том, что мортоний быстро разлагается под воздействием воздуха и при этом выделяет чрезвычайно большое количество ионных частиц. Оружие Тау может использовать это свойство для перезарядки своих выстрелов, что делает их намного более мощными, просто подвергая свой источник энергии воздействию атмосферы.</OGT_Mortonium.description>
 
 </LanguageData>

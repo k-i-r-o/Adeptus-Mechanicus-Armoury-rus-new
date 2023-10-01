@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+<!--/Defs/ThingDefs_Misc/Apparel/OG_AMA_Apparel_Militarum_Headgear.xml-->
                         <!-- field cap -->
 <OGIG_Apparel_FieldCap.label>полевая фуражка</OGIG_Apparel_FieldCap.label>
                               <!-- A hat worn by lower ranking Imperial officers. -->
@@ -14,13 +15,19 @@
 <OGIG_Apparel_CommissarCap.description>Официальная фуражка имперского комиссара. Чем больше, тем лучше.</OGIG_Apparel_CommissarCap.description>
                                   <!-- armageddon pattern rebreather -->
 <OGIG_Apparel_Armageddon_Gasmask.label>ребризер с рисунком армагеддона</OGIG_Apparel_Armageddon_Gasmask.label>
+                                        <!-- Designed to keep the wearer alive in even the most noxious atmosphere, this rebreather consists of a mask (often shaped like a skull for senior officers) connected by hose to a small air supply. A character wearing an Armageddon Pattern Rebreather is immune to the effects of gases and issues of air quality, and can even survive underwater at limited depths. The air canister lasts for two full hours before requiring replacement.
 
+Protective Gear: Gas -->
 <OGIG_Apparel_Armageddon_Gasmask.description>Разработанный для поддержания жизни владельца даже в самой ядовитой атмосфере, этот ребризер состоит из маски (часто в форме черепа для старших офицеров), соединенной шлангом с небольшим источником воздуха. Персонаж, носящий ребризер с рисунком Армагеддона, невосприимчив к воздействию газов и проблемам с качеством воздуха и может даже выжить под водой на ограниченной глубине. Баллона с воздухом хватает на целых два часа, прежде чем потребуется замена.\n\n Защитное снаряжение: Газовое Gear: Gas</OGIG_Apparel_Armageddon_Gasmask.description>
                                                              <!-- Child, Adult -->
 <OGIG_Apparel_Armageddon_Gasmask.apparel.developmentalStageFilter>Child, Adult</OGIG_Apparel_Armageddon_Gasmask.apparel.developmentalStageFilter>
                              <!-- krieg pattern rebreather -->
 <OGIG_Apparel_Krieg_Gasmask.label>ребризер по схеме Крига</OGIG_Apparel_Krieg_Gasmask.label>
+                                   <!-- A simple breathing mask that covers the nose and mouth or entire face, these offer much better protection than filtration plugs and are used by the troops of the Death Korps in toxic environments or during attacks by chemical or even biological weapons.
 
+Protective Gear: Gas.
+
+Placeholder Texture. -->
 <OGIG_Apparel_Krieg_Gasmask.description>ростая дыхательная маска, закрывающая нос и рот или все лицо, обеспечивает гораздо лучшую защиту, чем фильтрующие пробки, и используется войсками Корпуса Смерти в токсичных средах или во время атак с применением химического или даже биологического оружия.\n\N Защитное снаряжение: Газовое..</OGIG_Apparel_Krieg_Gasmask.description>
                                                         <!-- Child, Adult -->
 <OGIG_Apparel_Krieg_Gasmask.apparel.developmentalStageFilter>Child, Adult</OGIG_Apparel_Krieg_Gasmask.apparel.developmentalStageFilter>
